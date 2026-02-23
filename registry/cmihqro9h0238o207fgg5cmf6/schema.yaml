@@ -1,0 +1,30 @@
+dataset_id: "ehugbo-tts"
+task: "TTS"
+format: "csv"
+encoding: "utf-8-sig"
+
+index_file: "metadata.csv"
+base_audio_path: "audios/"
+
+columns:
+  audio_path:
+    source_column: "Audio File Name (.wav)"
+    dtype: "string"
+  transcription:
+    source_column: "Transcript"
+    dtype: "string"
+  book:
+    source_column: "Book (audio folder)"
+    dtype: "category"
+  speaker_id:
+    source_column: "Pseudo ID"
+    dtype: "category"
+  gender:
+    source_column: "Gender"
+    dtype: "category"
+    optional: true
+  duration:
+    source_column: "Duration"
+    dtype: "float"
+    optional: true
+
