@@ -1,0 +1,19 @@
+dataset_id: "cmj77njd701ljmb07m97pw1p3"
+task: "TTS"
+format: "pipe"
+separator: "|"
+has_header: false
+checksum: "cff0cc13b448c8bc50c89b175709593bb6031434f4c6498f179ea76ddafbd261"
+
+index_file: "metadata.csv"
+base_audio_path: "wavs/"
+
+columns:
+  audio_path:
+    source_column: 0
+    dtype: "file_path"
+  transcription:
+    source_column: 1
+    dtype: "string"
+
+
