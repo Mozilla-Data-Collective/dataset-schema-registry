@@ -3,7 +3,7 @@ repo_url: github.com/Mozilla-Data-Collective/dataset-schema-registry
 repo_name: dataset-schema-registry
 
 nav:
-  - Home: index.md
+  - Home: README.md
 
 theme:
   icon:
