@@ -5,9 +5,13 @@ on:
     branches: [main]
     paths:
       - mkdocs.yml
+      - registry/**
   pull_request:
     paths:
       - mkdocs.yml
+      - registry/**
+  schedule:
+    - cron: '0 6 * * *'   # every day at 06:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -26,18 +30,29 @@ jobs:
         with:
           python-version: '3.11'
           cache: "pip"
+
       - name: Configure git
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Install requirements
-        run: pip install -e '.[docs]'
+        run: pip install -e '.[docs,scripts]'
+
+      - name: Generate dataset coverage page
+        run: python generate_coverage.py
+
+      - name: Commit updated coverage page (push / schedule / dispatch only)
+        if: ${{ github.event_name != 'pull_request' }}
+        run: |
+          git add docs/dataset-coverage.md
+          git diff --cached --quiet || git commit -m "chore: update dataset coverage [skip ci]"
+          git push
 
       - name: Build docs
         if: github.event_name == 'pull_request'
         run: mkdocs build -s
 
       - name: Publish docs
-        if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch' }}
+        if: ${{ github.event_name != 'pull_request' }}
         run: mkdocs gh-deploy
