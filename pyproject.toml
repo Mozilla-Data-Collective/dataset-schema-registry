@@ -27,6 +27,7 @@ docs = [
 ]
 scripts = [
   "requests>=2.28",
+  "datacollective",
 ]
 
 [project.urls]

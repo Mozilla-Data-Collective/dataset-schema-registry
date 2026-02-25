@@ -1,0 +1,3541 @@
+{
+  "updated_at": "2026-02-25T17:57:02.814956+00:00",
+  "total": 505,
+  "datasets": [
+    {
+      "id": "cmfzu8u8wa555eq8onrk334h4",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmfzu8u8wa555eq8onrk334h4",
+      "lastmod": "2026-01-08T18:54:46.535Z",
+      "name": "Mozilla Common Voice Spontaneous Speech ASR Shared Task Train/Dev Data",
+      "slug": "mcv-sps-st-09-2025"
+    },
+    {
+      "id": "cmhkl8z2a007rnr07p9bm5kmz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhkl8z2a007rnr07p9bm5kmz",
+      "lastmod": "2026-01-08T18:54:46.535Z",
+      "name": "Tetelancingo Nahuatl",
+      "slug": "tetelancingo-nahuatl-4dd81077"
+    },
+    {
+      "id": "cmhlvswz200fio007c7szypw8",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhlvswz200fio007c7szypw8",
+      "lastmod": "2026-01-08T18:54:46.535Z",
+      "name": "Podcast Hari Minggoean (Indonesia)",
+      "slug": "podcast-hari-minggoean-indonesia-3b077582"
+    },
+    {
+      "id": "cmhnlbtx401ihmr07co7x8ptw",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhnlbtx401ihmr07co7x8ptw",
+      "lastmod": "2026-01-08T18:54:46.535Z",
+      "name": "Saraiki Literature Corpus",
+      "slug": "saraiki-literature-corpus-bca56858"
+    },
+    {
+      "id": "cmhp3jurx00afmk07z5z4fktu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhp3jurx00afmk07z5z4fktu",
+      "lastmod": "2026-01-08T18:54:46.535Z",
+      "name": "Urdu Literature Corpus",
+      "slug": "urdu-literature-corpus-2a2877f9"
+    },
+    {
+      "id": "cmhp3uclf00ammk07nnd1m0bj",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhp3uclf00ammk07nnd1m0bj",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "Saraiki Quarterly Magazine Wasson Wehray Corpus",
+      "slug": "saraiki-quarterly-magazine-wasson-wehray-cf997cbd"
+    },
+    {
+      "id": "cmhp42gmu00aumk07w7k22tbp",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhp42gmu00aumk07w7k22tbp",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "Punjabi Literature Corpus",
+      "slug": "punjabi-literature-corpus-57dd3461"
+    },
+    {
+      "id": "cmhpahaib00d8mk07ely2m8wh",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhpahaib00d8mk07ely2m8wh",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "Dimitar 1.0",
+      "slug": "dimitar-1-0-7e962aa3"
+    },
+    {
+      "id": "cmhqebl6h001pmn071yvbkbyv",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhqebl6h001pmn071yvbkbyv",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "Ewondo-French Parallel Corpus",
+      "slug": "ewondo-french-parallel-corpus-3b21bcca"
+    },
+    {
+      "id": "cmhqr666h009gmn07fpp0egby",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhqr666h009gmn07fpp0egby",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "Speech Corpus of Armenian Question-Answer Dialogues",
+      "slug": "speech-corpus-of-armenian-question-answe-8f1f9bf8"
+    },
+    {
+      "id": "cmhrlxa1100h3mn07l6tpvqwz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhrlxa1100h3mn07l6tpvqwz",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "Mediamen Punjabi Literature Corpus",
+      "slug": "mediamen-punjabi-literature-corpus-376bd5bd"
+    },
+    {
+      "id": "cmhruaw9j00llkx07uxgm81a7",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhruaw9j00llkx07uxgm81a7",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "Tamir Sindhi News Corpus",
+      "slug": "tamir-sindhi-news-corpus-131764b5"
+    },
+    {
+      "id": "cmhrus0ty00lpkx07slh9mqez",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhrus0ty00lpkx07slh9mqez",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "Jazab Sindhi Newspaper Corpus",
+      "slug": "jazab-sindhi-newspaper-corpus-0963d9c2"
+    },
+    {
+      "id": "cmhvzlidq0326mn07hk4do3pj",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmhvzlidq0326mn07hk4do3pj",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "FUB-Narratives",
+      "slug": "fub-narratives-27250718"
+    },
+    {
+      "id": "cmi39dqwq08jnmn0739vleijb",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmi39dqwq08jnmn0739vleijb",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "Chishti Sons Punjabi Literature Corpus",
+      "slug": "chishti-sons-punjabi-literature-corpus-d29dffc4"
+    },
+    {
+      "id": "cmi39h0xr08jzmn07hij4fz40",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmi39h0xr08jzmn07hij4fz40",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "Baloch Publishers Saraiki Literature Corpus",
+      "slug": "baloch-publishers-saraiki-literature-cor-aada1f27"
+    },
+    {
+      "id": "cmi39jopd08k5mn0745umscb3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmi39jopd08k5mn0745umscb3",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "Kaleem Magazine Urdu Corpus",
+      "slug": "kaleem-magazine-urdu-corpus-b4723c2d"
+    },
+    {
+      "id": "cmi4ma15g09wykx07xbolzpoz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmi4ma15g09wykx07xbolzpoz",
+      "lastmod": "2026-01-08T19:09:29.704Z",
+      "name": "ReRooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants",
+      "slug": "rerooted-speech-corpus-of-testimonials-f-dbc0bed1"
+    },
+    {
+      "id": "cmi7mgbam000bnx074097g2yg",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmi7mgbam000bnx074097g2yg",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Kerstin 1.0",
+      "slug": "kerstin-1-0-7fecd621"
+    },
+    {
+      "id": "cmid3cyuy00gnnv07mo54373n",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmid3cyuy00gnnv07mo54373n",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Joe 1.0",
+      "slug": "joe-1-0-9fd746cc"
+    },
+    {
+      "id": "cmid4ekjn00b8nu07xonhj0x8",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmid4ekjn00b8nu07xonhj0x8",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Kathleen 1.0",
+      "slug": "kathleen-1-0-64d57c1a"
+    },
+    {
+      "id": "cmid4ir9100bgnu07du03svuc",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmid4ir9100bgnu07du03svuc",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Dave 1.0",
+      "slug": "dave-1-0-4af39244"
+    },
+    {
+      "id": "cmid4jner00hnnv072tkwlbps",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmid4jner00hnnv072tkwlbps",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Anna 1.0",
+      "slug": "anna-1-0-93530100"
+    },
+    {
+      "id": "cmid4vszk00hrnv07ljzu2xsa",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmid4vszk00hrnv07ljzu2xsa",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Berta 1.0",
+      "slug": "berta-1-0-3fdd40dc"
+    },
+    {
+      "id": "cmid4wbrc00hvnv07e448rwv3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmid4wbrc00hvnv07e448rwv3",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Imre 1.0",
+      "slug": "imre-1-0-1886265d"
+    },
+    {
+      "id": "cmiepnyu1001jo207hzslvb5m",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiepnyu1001jo207hzslvb5m",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Podcast Homostoria (Indonesia)",
+      "slug": "podcast-homostoria-indonesia-6dff568f"
+    },
+    {
+      "id": "cmifzczuo00w6o207wgmqb97m",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmifzczuo00w6o207wgmqb97m",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Rumantsch Grischun Newspaper Corpus",
+      "slug": "rumantsch-grischun-newspaper-corpus-ac210cc7"
+    },
+    {
+      "id": "cmig0eqj700x6o207tp8pb5za",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmig0eqj700x6o207tp8pb5za",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Sursilvan Newspaper Corpus",
+      "slug": "sursilvan-newspaper-corpus-0443b4e6"
+    },
+    {
+      "id": "cmig0f00m00ynmd07kqzscviy",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmig0f00m00ynmd07kqzscviy",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Sutsilvan Newspaper Corpus",
+      "slug": "sutsilvan-newspaper-corpus-d0c78c1b"
+    },
+    {
+      "id": "cmig0fljr00yrmd075gqlj2qo",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmig0fljr00yrmd075gqlj2qo",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Putèr Newspaper Corpus",
+      "slug": "put-r-newspaper-corpus-1814f0ef"
+    },
+    {
+      "id": "cmihefmde01vxmd07djfchz51",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmihefmde01vxmd07djfchz51",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "KyrgyzNER: Human-Annotated NER Dataset for Kyrgyz",
+      "slug": "kyrgyzner-human-annotated-ner-dataset-fo-20b82547"
+    },
+    {
+      "id": "cmihkoth10246md07dtojxehg",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmihkoth10246md07dtojxehg",
+      "lastmod": "2026-01-08T19:15:46.503Z",
+      "name": "Speech Data Collection for The Nupe Language",
+      "slug": "speech-data-collection-for-the-nupe-lang-9e09e0f9"
+    },
+    {
+      "id": "cmihqro9h0238o207fgg5cmf6",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmihqro9h0238o207fgg5cmf6",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Ehugbo TTS: biblical text to speech dataset in Ehugbo Language",
+      "slug": "ehugbo-tts-biblical-text-to-speech-datas-054eaa87"
+    },
+    {
+      "id": "cmihqzerk023co20749miafhq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmihqzerk023co20749miafhq",
+      "lastmod": "2026-02-24T17:25:43.269Z",
+      "name": "Common Voice Spontaneous Speech 1.0 - English",
+      "slug": "common-voice-spontaneous-speech-1-0-engl-db791383"
+    },
+    {
+      "id": "cmihtsewu023so207xot1iqqw",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmihtsewu023so207xot1iqqw",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "TidyVoiceX_ASV",
+      "slug": "tidyvoicex-asv-459e6087"
+    },
+    {
+      "id": "cmin6i6da001so707uwggcn7a",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmin6i6da001so707uwggcn7a",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Everyday Interactions in Ibọnọ and Obolo Languages",
+      "slug": "everyday-interactions-in-ib-n-and-obolo-3df6264d"
+    },
+    {
+      "id": "cminc35no007no707hql26lzk",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cminc35no007no707hql26lzk",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Mozilla Common Voice Spontaneous Speech ASR Shared Task Test Data",
+      "slug": "mozilla-common-voice-spontaneous-speech-361720da"
+    },
+    {
+      "id": "cmind910n0096nx07gme9v3wj",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmind910n0096nx07gme9v3wj",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Basaa-ALCAM-MultimodalDataset",
+      "slug": "basaa-alcam-multimodaldataset-ff5dfa3e"
+    },
+    {
+      "id": "cmiodqzui00wwnx07j549ek4c",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiodqzui00wwnx07j549ek4c",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Atyap Afwan_: Preserving Tyap Through Community-Driven Speech Data",
+      "slug": "atyap-afwan-preserving-tyap-through-comm-9aacf7e5"
+    },
+    {
+      "id": "cmiohwz2t011hnx07urwsx55i",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiohwz2t011hnx07urwsx55i",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Documenting Ekpeye Folktales and Preserving Cultural Heritage",
+      "slug": "documenting-ekpeye-folktales-and-preserv-7c19f90c"
+    },
+    {
+      "id": "cmiq9mdsg004sns07lrp0rypp",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiq9mdsg004sns07lrp0rypp",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Keblagh-e-Azergi Hazargi literature corpus",
+      "slug": "keblagh-e-azergi-hazargi-literature-corp-4f645969"
+    },
+    {
+      "id": "cmiq9nlul0042o207d0gnxv5p",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiq9nlul0042o207d0gnxv5p",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Kaleem Art Press Saraiki Literature Corpus",
+      "slug": "kaleem-art-press-saraiki-literature-corp-4ca33f8a"
+    },
+    {
+      "id": "cmiq9o5rn004wns07zry0skak",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiq9o5rn004wns07zry0skak",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Kaleem Art Press Urdu Literature Corpus",
+      "slug": "kaleem-art-press-urdu-literature-corpus-a9947dd3"
+    },
+    {
+      "id": "cmiq9p8e70046o2073yogyn73",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiq9p8e70046o2073yogyn73",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Anjuman-e-Katib Farsi/Persian Literature Corpus",
+      "slug": "anjuman-e-katib-farsi-persian-literature-642b4aa1"
+    },
+    {
+      "id": "cmiq9pmmx0050ns07s0vgvobm",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiq9pmmx0050ns07s0vgvobm",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Rana Printers Urdu Literature Corpus",
+      "slug": "rana-printers-urdu-literature-corpus-56a654bd"
+    },
+    {
+      "id": "cmiq9ulwl004ao207pglxpszv",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiq9ulwl004ao207pglxpszv",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Aim Foundation Dari Literature Corpus",
+      "slug": "aim-foundation-dari-literature-corpus-c8258ba6"
+    },
+    {
+      "id": "cmiqbnn0x005uns07c3evoh0k",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiqbnn0x005uns07c3evoh0k",
+      "lastmod": "2026-01-08T20:54:20.101Z",
+      "name": "Sindh Sujag Newspaper Corpus",
+      "slug": "sindh-sujag-newspaper-corpus-4eee28ba"
+    },
+    {
+      "id": "cmit3jhj000nlnv073a6zduck",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmit3jhj000nlnv073a6zduck",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Future-proofing Gbagyi: A community centered approach",
+      "slug": "future-proofing-gbagyi-a-community-cente-6114733d"
+    },
+    {
+      "id": "cmiugmupp01etmf07h89hfpir",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiugmupp01etmf07h89hfpir",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Chitwan 1.0",
+      "slug": "chitwan-1-0-7e535f23"
+    },
+    {
+      "id": "cmiugnlxi01c5nv07yt3kxwhx",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiugnlxi01c5nv07yt3kxwhx",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Nathalie 1.0",
+      "slug": "nathalie-1-0-0d3b07fc"
+    },
+    {
+      "id": "cmiugo0h501exmf073drr56rr",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiugo0h501exmf073drr56rr",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Pim 1.0",
+      "slug": "pim-1-0-6fc94d3e"
+    },
+    {
+      "id": "cmiugoh1u01c9nv07x7i2t25c",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiugoh1u01c9nv07x7i2t25c",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Gosia 1.0",
+      "slug": "gosia-1-0-6cb80e22"
+    },
+    {
+      "id": "cmiui8v3101cpnv074qwggdsj",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiui8v3101cpnv074qwggdsj",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Tugão 1.0",
+      "slug": "tug-o-1-0-6c33f9aa"
+    },
+    {
+      "id": "cmiuimd7e01fimf072njn3mbb",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiuimd7e01fimf072njn3mbb",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Cadu 1.0",
+      "slug": "cadu-1-0-f78a6642"
+    },
+    {
+      "id": "cmiujt8r401d2nv07avt6446s",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiujt8r401d2nv07avt6446s",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Ronnie 1.0",
+      "slug": "ronnie-1-0-f42a46b9"
+    },
+    {
+      "id": "cmiup5wqw01hlmf074qy07b80",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiup5wqw01hlmf074qy07b80",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Lili 1.0",
+      "slug": "lili-1-0-875bb67e"
+    },
+    {
+      "id": "cmiup9hrx01hsmf074vi5iqgz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiup9hrx01hsmf074vi5iqgz",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Dmitri 1.0",
+      "slug": "dmitri-1-0-fd227527"
+    },
+    {
+      "id": "cmiup9seu01flnv076fexaqp9",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiup9seu01flnv076fexaqp9",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Denis 1.0",
+      "slug": "denis-1-0-3f60c388"
+    },
+    {
+      "id": "cmiupa1t801hwmf07xcawi3ve",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiupa1t801hwmf07xcawi3ve",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Mihai 1.0",
+      "slug": "mihai-1-0-28978680"
+    },
+    {
+      "id": "cmiupaf3e01i0mf07qkqxbzzx",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiupaf3e01i0mf07qkqxbzzx",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Jeff 1.0",
+      "slug": "jeff-1-0-1819f9f5"
+    },
+    {
+      "id": "cmiuparkl01fpnv077wvg3hhm",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiuparkl01fpnv077wvg3hhm",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Darkman 1.0",
+      "slug": "darkman-1-0-6aa34c0a"
+    },
+    {
+      "id": "cmiupazq801ftnv079bo1zu4h",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiupazq801ftnv079bo1zu4h",
+      "lastmod": "2026-01-08T21:47:23.550Z",
+      "name": "Faber 1.0",
+      "slug": "faber-1-0-674f3f44"
+    },
+    {
+      "id": "cmiupbboq01i4mf071clmd43n",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiupbboq01i4mf071clmd43n",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "Flemishguy 1.0",
+      "slug": "flemishguy-1-0-81584e83"
+    },
+    {
+      "id": "cmiv2rbv901mwmf07iyhv4pva",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmiv2rbv901mwmf07iyhv4pva",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "Ewondo-Yanda-ALCAM-MultimodalDataset",
+      "slug": "ewondo-yanda-alcam-multimodaldataset-63e52dd2"
+    },
+    {
+      "id": "cmixehxof005dnr07yp80kluh",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmixehxof005dnr07yp80kluh",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "Hussain Faizy Indus Kohistani Corpus ",
+      "slug": "hussain-faizy-indus-kohistani-corpus-d828656f"
+    },
+    {
+      "id": "cmixmkzhk003vnw07a7d2pgns",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmixmkzhk003vnw07a7d2pgns",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "Multilingual Humanitarian Response Eval (MHRE)",
+      "slug": "multilingual-humanitarian-response-eval-af95c65f"
+    },
+    {
+      "id": "cmj0az3yz002enw07okqee8jr",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj0az3yz002enw07okqee8jr",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "Kituba-TTS-Dataset",
+      "slug": "kituba-tts-dataset-a199ea23"
+    },
+    {
+      "id": "cmj0b1ymo002pnu076g7oseat",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj0b1ymo002pnu076g7oseat",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "Akoose-ALCAM-MultimodalDataset",
+      "slug": "akoose-alcam-multimodaldataset-d068765f"
+    },
+    {
+      "id": "cmj0c3cpe003enw07zxujgdt1",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj0c3cpe003enw07zxujgdt1",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "Yaka-TTS-Dataset",
+      "slug": "yaka-tts-dataset-255887a5"
+    },
+    {
+      "id": "cmj0e4p03003mnu077qbbn17z",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj0e4p03003mnu077qbbn17z",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "KyrgyzLLM-Bench: Kyrgyz LLM Evaluation Dataset",
+      "slug": "kyrgyzllm-bench-kyrgyz-llm-evaluation-da-da590a9e"
+    },
+    {
+      "id": "cmj1gd6j400uvnw07ylungxjz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj1gd6j400uvnw07ylungxjz",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "Beembe-TTS-Dataset",
+      "slug": "beembe-tts-dataset-9f6a5d06"
+    },
+    {
+      "id": "cmj1gdg1s00vrnu07nmlrax7g",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj1gdg1s00vrnu07nmlrax7g",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "Mbosi-TTS-Dataset",
+      "slug": "mbosi-tts-dataset-2996fa93"
+    },
+    {
+      "id": "cmj1qhr5n001wnv07hqcatq25",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj1qhr5n001wnv07hqcatq25",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "Suundi-TTS-Dataset",
+      "slug": "suundi-tts-dataset-2e258f40"
+    },
+    {
+      "id": "cmj2rze7r00j5ny07uhs85go2",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj2rze7r00j5ny07uhs85go2",
+      "lastmod": "2025-12-12T11:20:07.863Z",
+      "name": "Bomitaba-TTS-Dataset",
+      "slug": "bomitaba-tts-dataset-28b2e589"
+    },
+    {
+      "id": "cmj324gbx00p4ny078pi26kfz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj324gbx00p4ny078pi26kfz",
+      "lastmod": "2025-12-12T16:04:00.045Z",
+      "name": "Laari-TTS-Dataset",
+      "slug": "laari-tts-dataset-68805386"
+    },
+    {
+      "id": "cmj77njd701ljmb07m97pw1p3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj77njd701ljmb07m97pw1p3",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "Central Kurdish TTS dataset 1.0",
+      "slug": "central-kurdish-tts-dataset-1-0-6b2a7b8e"
+    },
+    {
+      "id": "cmj8ddapc02c8mb07l6wyr882",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8ddapc02c8mb07l6wyr882",
+      "lastmod": "2025-12-16T09:17:39.313Z",
+      "name": "Mozilla Common Voice Text Language Identification dataset",
+      "slug": "mozilla-common-voice-text-language-ident-b1b3aae0"
+    },
+    {
+      "id": "cmj8fdiyv02egmb07m2wfdltm",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8fdiyv02egmb07m2wfdltm",
+      "lastmod": "2025-12-16T10:13:49.255Z",
+      "name": "Bati-MultiDialectalASR-Dataset",
+      "slug": "bati-multidialectalasr-dataset-2ae1f868"
+    },
+    {
+      "id": "cmj8g2kw902fwmb07hub8puq8",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8g2kw902fwmb07hub8puq8",
+      "lastmod": "2025-12-16T10:33:18.153Z",
+      "name": "Teke-Laali-TTS-Dataset",
+      "slug": "teke-laali-tts-dataset-f69af854"
+    },
+    {
+      "id": "cmj8mjbas02lmmk07glipgg79",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8mjbas02lmmk07glipgg79",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "AI on the Frontline: Evaluating Large Language Models in Real-World Conflict Resolution",
+      "slug": "ai-on-the-frontline-evaluating-large-lan-a2f0d099"
+    },
+    {
+      "id": "cmj8mkwot02ltmb07a8pyg3ne",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8mkwot02ltmb07a8pyg3ne",
+      "lastmod": "2026-01-08T21:56:44.824Z",
+      "name": "Improving AI Conflict Resolution Capacities: A Prompts-Based Evaluation",
+      "slug": "improving-ai-conflict-resolution-capacit-3564750a"
+    },
+    {
+      "id": "cmj8u3okr0001nxxbeshupy5k",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3okr0001nxxbeshupy5k",
+      "lastmod": "2026-02-12T13:32:49.463Z",
+      "name": "Common Voice Scripted Speech 24.0 - Abkhaz",
+      "slug": "mcv-scripted-ab-v24.0"
+    },
+    {
+      "id": "cmj8u3oqd0005nxxbbaga9c9v",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oqd0005nxxbbaga9c9v",
+      "lastmod": "2026-02-12T13:32:49.580Z",
+      "name": "Common Voice Scripted Speech 24.0 - Bankon",
+      "slug": "mcv-scripted-abb-v24.0"
+    },
+    {
+      "id": "cmj8u3or40009nxxbfcsb4j36",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3or40009nxxbfcsb4j36",
+      "lastmod": "2026-02-12T13:32:49.677Z",
+      "name": "Common Voice Scripted Speech 24.0 - Adyghe",
+      "slug": "mcv-scripted-ady-v24.0"
+    },
+    {
+      "id": "cmj8u3orf000dnxxbmmmakfex",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3orf000dnxxbmmmakfex",
+      "lastmod": "2026-02-12T13:32:49.683Z",
+      "name": "Common Voice Scripted Speech 24.0 - Afrikaans",
+      "slug": "mcv-scripted-af-v24.0"
+    },
+    {
+      "id": "cmj8u3orn000hnxxbz6440x52",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3orn000hnxxbz6440x52",
+      "lastmod": "2026-02-12T13:32:49.689Z",
+      "name": "Common Voice Scripted Speech 24.0 - Adja",
+      "slug": "mcv-scripted-ajg-v24.0"
+    },
+    {
+      "id": "cmj8u3ort000lnxxbp7q3icgp",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ort000lnxxbp7q3icgp",
+      "lastmod": "2026-02-12T13:32:49.695Z",
+      "name": "Common Voice Scripted Speech 24.0 - Amharic",
+      "slug": "mcv-scripted-am-v24.0"
+    },
+    {
+      "id": "cmj8u3os0000pnxxbni2eb8q8",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3os0000pnxxbni2eb8q8",
+      "lastmod": "2026-02-12T13:32:49.701Z",
+      "name": "Common Voice Scripted Speech 24.0 - Aragonese",
+      "slug": "mcv-scripted-an-v24.0"
+    },
+    {
+      "id": "cmj8u3os6000tnxxb169x1zdc",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3os6000tnxxb169x1zdc",
+      "lastmod": "2026-02-12T13:32:49.306Z",
+      "name": "Common Voice Scripted Speech 24.0 - Arabic",
+      "slug": "mcv-scripted-ar-v24.0"
+    },
+    {
+      "id": "cmj8u3osd000xnxxbnyv8ony5",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3osd000xnxxbnyv8ony5",
+      "lastmod": "2026-02-12T13:32:49.318Z",
+      "name": "Common Voice Scripted Speech 24.0 - Assamese",
+      "slug": "mcv-scripted-as-v24.0"
+    },
+    {
+      "id": "cmj8u3osk0011nxxbloxc6xxy",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3osk0011nxxbloxc6xxy",
+      "lastmod": "2026-02-12T13:32:49.325Z",
+      "name": "Common Voice Scripted Speech 24.0 - Asturian",
+      "slug": "mcv-scripted-ast-v24.0"
+    },
+    {
+      "id": "cmj8u3oss0015nxxbfev4xm1y",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oss0015nxxbfev4xm1y",
+      "lastmod": "2026-02-12T13:32:49.312Z",
+      "name": "Common Voice Scripted Speech 24.0 - Azerbaijani",
+      "slug": "mcv-scripted-az-v24.0"
+    },
+    {
+      "id": "cmj8u3osx0019nxxb58mxhvf7",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3osx0019nxxb58mxhvf7",
+      "lastmod": "2026-02-12T13:32:49.707Z",
+      "name": "Common Voice Scripted Speech 24.0 - Bashkir",
+      "slug": "mcv-scripted-ba-v24.0"
+    },
+    {
+      "id": "cmj8u3ot3001dnxxbddpklan9",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ot3001dnxxbddpklan9",
+      "lastmod": "2026-02-12T13:32:49.335Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tuki",
+      "slug": "mcv-scripted-bag-v24.0"
+    },
+    {
+      "id": "cmj8u3ot8001hnxxbujrbkvrr",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ot8001hnxxbujrbkvrr",
+      "lastmod": "2026-02-12T13:32:49.351Z",
+      "name": "Common Voice Scripted Speech 24.0 - Basaa",
+      "slug": "mcv-scripted-bas-v24.0"
+    },
+    {
+      "id": "cmj8u3otg001lnxxb2bui6u0i",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3otg001lnxxb2bui6u0i",
+      "lastmod": "2026-02-12T13:32:49.713Z",
+      "name": "Common Voice Scripted Speech 24.0 - Bamun",
+      "slug": "mcv-scripted-bax-v24.0"
+    },
+    {
+      "id": "cmj8u3otm001pnxxb4t5zoogg",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3otm001pnxxb4t5zoogg",
+      "lastmod": "2026-02-12T13:32:49.719Z",
+      "name": "Common Voice Scripted Speech 24.0 - Baatonum",
+      "slug": "mcv-scripted-bba-v24.0"
+    },
+    {
+      "id": "cmj8u3ots001tnxxb8i5bqegu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ots001tnxxb8i5bqegu",
+      "lastmod": "2026-02-12T13:32:49.357Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ghomala",
+      "slug": "mcv-scripted-bbj-v24.0"
+    },
+    {
+      "id": "cmj8u3oty001xnxxb4zvkrpqi",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oty001xnxxb4zvkrpqi",
+      "lastmod": "2026-02-12T13:32:49.731Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tush",
+      "slug": "mcv-scripted-bbl-v24.0"
+    },
+    {
+      "id": "cmj8u3ou50021nxxb6ns6ya7a",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ou50021nxxb6ns6ya7a",
+      "lastmod": "2026-02-12T13:32:49.726Z",
+      "name": "Common Voice Scripted Speech 24.0 - Mengambo",
+      "slug": "mcv-scripted-bce-v24.0"
+    },
+    {
+      "id": "cmj8u3oua0025nxxb8se6lzie",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oua0025nxxb8se6lzie",
+      "lastmod": "2026-02-12T13:32:49.748Z",
+      "name": "Common Voice Scripted Speech 24.0 - Baoule",
+      "slug": "mcv-scripted-bci-v24.0"
+    },
+    {
+      "id": "cmj8u3oug0029nxxboll1mh9e",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oug0029nxxboll1mh9e",
+      "lastmod": "2026-02-12T13:32:49.363Z",
+      "name": "Common Voice Scripted Speech 24.0 - Belarusian",
+      "slug": "mcv-scripted-be-v24.0"
+    },
+    {
+      "id": "cmj8u3oul002dnxxbku8zh6k0",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oul002dnxxbku8zh6k0",
+      "lastmod": "2026-02-12T13:32:49.370Z",
+      "name": "Common Voice Scripted Speech 24.0 - Bamvele",
+      "slug": "mcv-scripted-beb-v24.0"
+    },
+    {
+      "id": "cmj8u3our002hnxxbgqieq0o3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3our002hnxxbgqieq0o3",
+      "lastmod": "2026-02-12T13:32:49.756Z",
+      "name": "Common Voice Scripted Speech 24.0 - Bafut",
+      "slug": "mcv-scripted-bfd-v24.0"
+    },
+    {
+      "id": "cmj8u3ouz002lnxxbhx0gimgx",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ouz002lnxxbhx0gimgx",
+      "lastmod": "2026-02-12T13:32:49.385Z",
+      "name": "Common Voice Scripted Speech 24.0 - Balti",
+      "slug": "mcv-scripted-bft-v24.0"
+    },
+    {
+      "id": "cmj8u3ov5002pnxxbn93qhttp",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ov5002pnxxbn93qhttp",
+      "lastmod": "2026-02-12T13:32:49.378Z",
+      "name": "Common Voice Scripted Speech 24.0 - Bulgarian",
+      "slug": "mcv-scripted-bg-v24.0"
+    },
+    {
+      "id": "cmj8u3ova002tnxxby72f39sd",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ova002tnxxby72f39sd",
+      "lastmod": "2026-02-12T13:32:49.741Z",
+      "name": "Common Voice Scripted Speech 24.0 - Eastern Balochi",
+      "slug": "mcv-scripted-bgp-v24.0"
+    },
+    {
+      "id": "cmj8u3ovf002xnxxbjsygx05b",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ovf002xnxxbjsygx05b",
+      "lastmod": "2026-02-12T13:32:49.391Z",
+      "name": "Common Voice Scripted Speech 24.0 - Bakoko",
+      "slug": "mcv-scripted-bkh-v24.0"
+    },
+    {
+      "id": "cmj8u3ovk0031nxxbw2b4ckox",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ovk0031nxxbw2b4ckox",
+      "lastmod": "2026-02-12T13:32:49.762Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kom",
+      "slug": "mcv-scripted-bkm-v24.0"
+    },
+    {
+      "id": "cmj8u3ovr0035nxxbtjhe4whm",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ovr0035nxxbtjhe4whm",
+      "lastmod": "2026-02-12T13:32:49.409Z",
+      "name": "Common Voice Scripted Speech 24.0 - Bengali",
+      "slug": "mcv-scripted-bn-v24.0"
+    },
+    {
+      "id": "cmj8u3ovy0039nxxb3856l8na",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ovy0039nxxb3856l8na",
+      "lastmod": "2026-02-12T13:32:49.415Z",
+      "name": "Common Voice Scripted Speech 24.0 - Batanga",
+      "slug": "mcv-scripted-bnm-v24.0"
+    },
+    {
+      "id": "cmj8u3ow4003dnxxbbat1rbff",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ow4003dnxxbbat1rbff",
+      "lastmod": "2026-02-12T13:32:49.768Z",
+      "name": "Common Voice Scripted Speech 24.0 - Bunun",
+      "slug": "mcv-scripted-bnn-v24.0"
+    },
+    {
+      "id": "cmj8u3owa003hnxxb0egmtaah",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3owa003hnxxb0egmtaah",
+      "lastmod": "2026-02-12T13:32:49.775Z",
+      "name": "Common Voice Scripted Speech 24.0 - Breton",
+      "slug": "mcv-scripted-br-v24.0"
+    },
+    {
+      "id": "cmj8u3owg003lnxxbnzdlmo8u",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3owg003lnxxbnzdlmo8u",
+      "lastmod": "2026-02-12T13:32:49.436Z",
+      "name": "Common Voice Scripted Speech 24.0 - Brahui",
+      "slug": "mcv-scripted-brh-v24.0"
+    },
+    {
+      "id": "cmj8u3owm003pnxxbxo8662cv",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3owm003pnxxbxo8662cv",
+      "lastmod": "2026-02-12T13:32:49.787Z",
+      "name": "Common Voice Scripted Speech 24.0 - Mokpwe",
+      "slug": "mcv-scripted-bri-v24.0"
+    },
+    {
+      "id": "cmj8u3ows003tnxxbnmqiluwa",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ows003tnxxbnmqiluwa",
+      "lastmod": "2026-02-12T13:32:49.781Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kateviri",
+      "slug": "mcv-scripted-bsh-v24.0"
+    },
+    {
+      "id": "cmj8u3owx003xnxxb3f7n3m1l",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3owx003xnxxb3f7n3m1l",
+      "lastmod": "2026-02-12T13:32:49.427Z",
+      "name": "Common Voice Scripted Speech 24.0 - Brushaski",
+      "slug": "mcv-scripted-bsk-v24.0"
+    },
+    {
+      "id": "cmj8u3ox30041nxxbgxa7nlm2",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ox30041nxxbgxa7nlm2",
+      "lastmod": "2026-02-12T13:32:49.442Z",
+      "name": "Common Voice Scripted Speech 24.0 - Bateri",
+      "slug": "mcv-scripted-btv-v24.0"
+    },
+    {
+      "id": "cmj8u3ox80045nxxb7jx2je47",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ox80045nxxb7jx2je47",
+      "lastmod": "2026-02-12T13:32:49.448Z",
+      "name": "Common Voice Scripted Speech 24.0 - Bulu",
+      "slug": "mcv-scripted-bum-v24.0"
+    },
+    {
+      "id": "cmj8u3oxf0049nxxbu0f0barp",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oxf0049nxxbu0f0barp",
+      "lastmod": "2026-02-12T13:32:49.493Z",
+      "name": "Common Voice Scripted Speech 24.0 - Medumba",
+      "slug": "mcv-scripted-byv-v24.0"
+    },
+    {
+      "id": "cmj8u3oxm004dnxxb1ye0bcy9",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oxm004dnxxb1ye0bcy9",
+      "lastmod": "2026-02-12T13:32:49.500Z",
+      "name": "Common Voice Scripted Speech 24.0 - Catalan",
+      "slug": "mcv-scripted-ca-v24.0"
+    },
+    {
+      "id": "cmj8u3oxs004hnxxbumzrnyjn",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oxs004hnxxbumzrnyjn",
+      "lastmod": "2026-02-12T13:32:49.454Z",
+      "name": "Common Voice Scripted Speech 24.0 - Chokwe",
+      "slug": "mcv-scripted-cjk-v24.0"
+    },
+    {
+      "id": "cmj8u3oxx004lnxxbfr04zvrt",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oxx004lnxxbfr04zvrt",
+      "lastmod": "2026-02-12T13:32:49.470Z",
+      "name": "Common Voice Scripted Speech 24.0 - Central Kurdish",
+      "slug": "mcv-scripted-ckb-v24.0"
+    },
+    {
+      "id": "cmj8u3oy6004pnxxbx7ctqabo",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oy6004pnxxbx7ctqabo",
+      "lastmod": "2026-02-12T13:32:49.505Z",
+      "name": "Common Voice Scripted Speech 24.0 - Hakha Chin",
+      "slug": "mcv-scripted-cnh-v24.0"
+    },
+    {
+      "id": "cmj8u3oyc004tnxxbh58u3qho",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oyc004tnxxbh58u3qho",
+      "lastmod": "2026-02-12T13:32:49.513Z",
+      "name": "Common Voice Scripted Speech 24.0 - Asheninka South Ucayali",
+      "slug": "mcv-scripted-cpy-v24.0"
+    },
+    {
+      "id": "cmj8u3oyh004xnxxbd9uih97g",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oyh004xnxxbd9uih97g",
+      "lastmod": "2026-02-12T13:32:49.476Z",
+      "name": "Common Voice Scripted Speech 24.0 - Czech",
+      "slug": "mcv-scripted-cs-v24.0"
+    },
+    {
+      "id": "cmj8u3oyo0051nxxbwwdtf0wg",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oyo0051nxxbwwdtf0wg",
+      "lastmod": "2026-02-12T13:32:49.481Z",
+      "name": "Common Voice Scripted Speech 24.0 - Teutila Cuicatec",
+      "slug": "mcv-scripted-cut-v24.0"
+    },
+    {
+      "id": "cmj8u3oyv0055nxxbxt7k2wns",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oyv0055nxxbxt7k2wns",
+      "lastmod": "2026-02-12T13:32:49.518Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tepeuxila Cuicatec",
+      "slug": "mcv-scripted-cux-v24.0"
+    },
+    {
+      "id": "cmj8u3oz40059nxxbu0wyqk1t",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oz40059nxxbu0wyqk1t",
+      "lastmod": "2026-02-12T13:32:49.525Z",
+      "name": "Common Voice Scripted Speech 24.0 - Chuvash",
+      "slug": "mcv-scripted-cv-v24.0"
+    },
+    {
+      "id": "cmj8u3oz9005dnxxbiuyru29h",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3oz9005dnxxbiuyru29h",
+      "lastmod": "2026-02-12T13:32:49.487Z",
+      "name": "Common Voice Scripted Speech 24.0 - Welsh",
+      "slug": "mcv-scripted-cy-v24.0"
+    },
+    {
+      "id": "cmj8u3ozj005hnxxbpiiwy7ph",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ozj005hnxxbpiiwy7ph",
+      "lastmod": "2026-02-12T13:32:49.546Z",
+      "name": "Common Voice Scripted Speech 24.0 - Danish",
+      "slug": "mcv-scripted-da-v24.0"
+    },
+    {
+      "id": "cmj8u3ozp005lnxxbblujd9li",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ozp005lnxxbblujd9li",
+      "lastmod": "2026-02-12T13:32:49.531Z",
+      "name": "Common Voice Scripted Speech 24.0 - Dagbani",
+      "slug": "mcv-scripted-dag-v24.0"
+    },
+    {
+      "id": "cmj8u3ozu005pnxxbsylkvce2",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ozu005pnxxbsylkvce2",
+      "lastmod": "2026-02-12T13:32:49.539Z",
+      "name": "Common Voice Scripted Speech 24.0 - Dargwa",
+      "slug": "mcv-scripted-dar-v24.0"
+    },
+    {
+      "id": "cmj8u3ozz005tnxxbg3i7t4ue",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ozz005tnxxbg3i7t4ue",
+      "lastmod": "2026-02-12T13:32:49.552Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kidaw'ida",
+      "slug": "mcv-scripted-dav-v24.0"
+    },
+    {
+      "id": "cmj8u3p05005xnxxbqah56m27",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p05005xnxxbqah56m27",
+      "lastmod": "2026-02-12T13:32:49.562Z",
+      "name": "Common Voice Scripted Speech 24.0 - German",
+      "slug": "mcv-scripted-de-v24.0"
+    },
+    {
+      "id": "cmj8u3p0b0061nxxbyy0so5l6",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p0b0061nxxbyy0so5l6",
+      "lastmod": "2026-02-12T13:32:49.608Z",
+      "name": "Common Voice Scripted Speech 24.0 - Dawoodi",
+      "slug": "mcv-scripted-dmk-v24.0"
+    },
+    {
+      "id": "cmj8u3p0h0065nxxby8493kiy",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p0h0065nxxby8493kiy",
+      "lastmod": "2026-02-12T13:32:49.616Z",
+      "name": "Common Voice Scripted Speech 24.0 - Dameli",
+      "slug": "mcv-scripted-dml-v24.0"
+    },
+    {
+      "id": "cmj8u3p0m0069nxxbgs4nw78q",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p0m0069nxxbgs4nw78q",
+      "lastmod": "2026-02-12T13:32:49.569Z",
+      "name": "Common Voice Scripted Speech 24.0 - Rukai",
+      "slug": "mcv-scripted-dru-v24.0"
+    },
+    {
+      "id": "cmj8u3p0r006dnxxbi7fg8tdh",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p0r006dnxxbi7fg8tdh",
+      "lastmod": "2026-02-12T13:32:49.574Z",
+      "name": "Common Voice Scripted Speech 24.0 - Sorbian, Lower",
+      "slug": "mcv-scripted-dsb-v24.0"
+    },
+    {
+      "id": "cmj8u3p0x006hnxxbxgfjlh7v",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p0x006hnxxbxgfjlh7v",
+      "lastmod": "2026-02-12T13:32:49.622Z",
+      "name": "Common Voice Scripted Speech 24.0 - Duala",
+      "slug": "mcv-scripted-dua-v24.0"
+    },
+    {
+      "id": "cmj8u3p12006lnxxb7cgbdkd3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p12006lnxxb7cgbdkd3",
+      "lastmod": "2026-02-12T13:32:49.628Z",
+      "name": "Common Voice Scripted Speech 24.0 - Dhivehi",
+      "slug": "mcv-scripted-dv-v24.0"
+    },
+    {
+      "id": "cmj8u3p1a006pnxxb0pdd8mls",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p1a006pnxxb0pdd8mls",
+      "lastmod": "2026-02-12T13:32:49.587Z",
+      "name": "Common Voice Scripted Speech 24.0 - Dioula",
+      "slug": "mcv-scripted-dyu-v24.0"
+    },
+    {
+      "id": "cmj8u3p1f006tnxxbixmq8nq2",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p1f006tnxxbixmq8nq2",
+      "lastmod": "2026-02-12T13:32:49.596Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ebrie",
+      "slug": "mcv-scripted-ebr-v24.0"
+    },
+    {
+      "id": "cmj8u3p1l006xnxxb7yp3v6i0",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p1l006xnxxb7yp3v6i0",
+      "lastmod": "2026-02-12T13:32:49.636Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ekoti",
+      "slug": "mcv-scripted-eko-v24.0"
+    },
+    {
+      "id": "cmj8u3p1q0071nxxbjywkh3f5",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p1q0071nxxbjywkh3f5",
+      "lastmod": "2026-02-12T13:32:49.641Z",
+      "name": "Common Voice Scripted Speech 24.0 - Greek",
+      "slug": "mcv-scripted-el-v24.0"
+    },
+    {
+      "id": "cmj8u3p1w0075nxxbe8bedl00",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p1w0075nxxbe8bedl00",
+      "lastmod": "2026-02-12T13:32:49.603Z",
+      "name": "Common Voice Scripted Speech 24.0 - English",
+      "slug": "mcv-scripted-en-v24.0"
+    },
+    {
+      "id": "cmj8u3p210079nxxble126pq1",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p210079nxxble126pq1",
+      "lastmod": "2026-02-12T13:32:49.658Z",
+      "name": "Common Voice Scripted Speech 24.0 - Esperanto",
+      "slug": "mcv-scripted-eo-v24.0"
+    },
+    {
+      "id": "cmj8u3p26007dnxxbwyo07lb8",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p26007dnxxbwyo07lb8",
+      "lastmod": "2026-02-12T13:32:49.647Z",
+      "name": "Common Voice Scripted Speech 24.0 - Spanish",
+      "slug": "mcv-scripted-es-v24.0"
+    },
+    {
+      "id": "cmj8u3p2d007hnxxbw6vud4lb",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p2d007hnxxbw6vud4lb",
+      "lastmod": "2026-02-12T13:32:49.652Z",
+      "name": "Common Voice Scripted Speech 24.0 - esu",
+      "slug": "mcv-scripted-esu-v24.0"
+    },
+    {
+      "id": "cmj8u3p2i007lnxxbhnvfmx0m",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p2i007lnxxbhnvfmx0m",
+      "lastmod": "2026-02-12T13:32:49.664Z",
+      "name": "Common Voice Scripted Speech 24.0 - Estonian",
+      "slug": "mcv-scripted-et-v24.0"
+    },
+    {
+      "id": "cmj8u3p2o007pnxxbh3cjpb4t",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p2o007pnxxbh3cjpb4t",
+      "lastmod": "2026-02-12T13:32:49.671Z",
+      "name": "Common Voice Scripted Speech 24.0 - Eton",
+      "slug": "mcv-scripted-eto-v24.0"
+    },
+    {
+      "id": "cmj8u3p2v007tnxxbk5ng5qvh",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p2v007tnxxbk5ng5qvh",
+      "lastmod": "2026-02-12T13:32:49.800Z",
+      "name": "Common Voice Scripted Speech 24.0 - Basque",
+      "slug": "mcv-scripted-eu-v24.0"
+    },
+    {
+      "id": "cmj8u3p32007xnxxbq29cb3t9",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p32007xnxxbq29cb3t9",
+      "lastmod": "2026-02-12T13:32:49.807Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ewondo",
+      "slug": "mcv-scripted-ewo-v24.0"
+    },
+    {
+      "id": "cmj8u3p390081nxxb0qo37avq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p390081nxxb0qo37avq",
+      "lastmod": "2026-02-12T13:32:50.440Z",
+      "name": "Common Voice Scripted Speech 24.0 - Persian",
+      "slug": "mcv-scripted-fa-v24.0"
+    },
+    {
+      "id": "cmj8u3p3f0085nxxbxp2xslsm",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p3f0085nxxbxp2xslsm",
+      "lastmod": "2026-02-12T13:32:50.762Z",
+      "name": "Common Voice Scripted Speech 24.0 - Fang",
+      "slug": "mcv-scripted-fan-v24.0"
+    },
+    {
+      "id": "cmj8u3p3k0089nxxb4u6hcqd5",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p3k0089nxxb4u6hcqd5",
+      "lastmod": "2026-02-12T13:32:49.813Z",
+      "name": "Common Voice Scripted Speech 24.0 - Finnish",
+      "slug": "mcv-scripted-fi-v24.0"
+    },
+    {
+      "id": "cmj8u3p3q008dnxxb2vrtkonk",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p3q008dnxxb2vrtkonk",
+      "lastmod": "2026-02-12T13:32:49.819Z",
+      "name": "Common Voice Scripted Speech 24.0 - fmp",
+      "slug": "mcv-scripted-fmp-v24.0"
+    },
+    {
+      "id": "cmj8u3p3x008hnxxb07gm9ke3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p3x008hnxxb07gm9ke3",
+      "lastmod": "2026-02-12T13:32:50.768Z",
+      "name": "Common Voice Scripted Speech 24.0 - French",
+      "slug": "mcv-scripted-fr-v24.0"
+    },
+    {
+      "id": "cmj8u3p42008lnxxbhzxew2bv",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p42008lnxxbhzxew2bv",
+      "lastmod": "2026-02-12T13:32:50.774Z",
+      "name": "Common Voice Scripted Speech 24.0 - Adamawa Fulfulde",
+      "slug": "mcv-scripted-fub-v24.0"
+    },
+    {
+      "id": "cmj8u3p48008pnxxb2s3lha03",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p48008pnxxb2s3lha03",
+      "lastmod": "2026-02-12T13:32:50.781Z",
+      "name": "Common Voice Scripted Speech 24.0 - Borgu Fulfulde",
+      "slug": "mcv-scripted-fue-v24.0"
+    },
+    {
+      "id": "cmj8u3p4d008tnxxbxw3bkw70",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p4d008tnxxbxw3bkw70",
+      "lastmod": "2026-02-12T13:32:50.788Z",
+      "name": "Common Voice Scripted Speech 24.0 - Frisian",
+      "slug": "mcv-scripted-fy-NL-v24.0"
+    },
+    {
+      "id": "cmj8u3p4j008xnxxbub9hvwrd",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p4j008xnxxbub9hvwrd",
+      "lastmod": "2026-02-12T13:32:49.793Z",
+      "name": "Common Voice Scripted Speech 24.0 - Irish",
+      "slug": "mcv-scripted-ga-IE-v24.0"
+    },
+    {
+      "id": "cmj8u3p4p0091nxxb1nbd3uzd",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p4p0091nxxb1nbd3uzd",
+      "lastmod": "2026-02-12T13:32:50.859Z",
+      "name": "Common Voice Scripted Speech 24.0 - Mina",
+      "slug": "mcv-scripted-gej-v24.0"
+    },
+    {
+      "id": "cmj8u3p4u0095nxxbdwy2juks",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p4u0095nxxbdwy2juks",
+      "lastmod": "2026-02-12T13:32:50.795Z",
+      "name": "Common Voice Scripted Speech 24.0 - Gurgula",
+      "slug": "mcv-scripted-ggg-v24.0"
+    },
+    {
+      "id": "cmj8u3p500099nxxbokvzisgx",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p500099nxxbokvzisgx",
+      "lastmod": "2026-02-12T13:32:50.802Z",
+      "name": "Common Voice Scripted Speech 24.0 - Guidar",
+      "slug": "mcv-scripted-gid-v24.0"
+    },
+    {
+      "id": "cmj8u3p55009dnxxbg3ujkld1",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p55009dnxxbg3ujkld1",
+      "lastmod": "2026-02-12T13:32:50.865Z",
+      "name": "Common Voice Scripted Speech 24.0 - Goaria",
+      "slug": "mcv-scripted-gig-v24.0"
+    },
+    {
+      "id": "cmj8u3p5a009hnxxb270bl803",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p5a009hnxxb270bl803",
+      "lastmod": "2026-02-12T13:32:50.873Z",
+      "name": "Common Voice Scripted Speech 24.0 - Guiziga",
+      "slug": "mcv-scripted-giz-v24.0"
+    },
+    {
+      "id": "cmj8u3p5g009lnxxbodh3vegn",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p5g009lnxxbodh3vegn",
+      "lastmod": "2026-02-12T13:32:50.910Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kachhi",
+      "slug": "mcv-scripted-gjk-v24.0"
+    },
+    {
+      "id": "cmj8u3p5m009pnxxbmrz4hqru",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p5m009pnxxbmrz4hqru",
+      "lastmod": "2026-02-12T13:32:50.917Z",
+      "name": "Common Voice Scripted Speech 24.0 - Gujari",
+      "slug": "mcv-scripted-gju-v24.0"
+    },
+    {
+      "id": "cmj8u3p5r009tnxxb88cqm12d",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p5r009tnxxb88cqm12d",
+      "lastmod": "2026-02-12T13:32:50.880Z",
+      "name": "Common Voice Scripted Speech 24.0 - Galician",
+      "slug": "mcv-scripted-gl-v24.0"
+    },
+    {
+      "id": "cmj8u3p5x009xnxxbnc3km55v",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p5x009xnxxbnc3km55v",
+      "lastmod": "2026-02-12T13:32:50.885Z",
+      "name": "Common Voice Scripted Speech 24.0 - Guarani",
+      "slug": "mcv-scripted-gn-v24.0"
+    },
+    {
+      "id": "cmj8u3p6200a1nxxbf9nbqu7s",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p6200a1nxxbf9nbqu7s",
+      "lastmod": "2026-02-12T13:32:50.924Z",
+      "name": "Common Voice Scripted Speech 24.0 - Alsatian",
+      "slug": "mcv-scripted-gsw-v24.0"
+    },
+    {
+      "id": "cmj8u3p6800a5nxxbittm2ayd",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p6800a5nxxbittm2ayd",
+      "lastmod": "2026-02-12T13:32:50.929Z",
+      "name": "Common Voice Scripted Speech 24.0 - Manx",
+      "slug": "mcv-scripted-gv-v24.0"
+    },
+    {
+      "id": "cmj8u3p6e00a9nxxbuly2kfrw",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p6e00a9nxxbuly2kfrw",
+      "lastmod": "2026-02-12T13:32:50.891Z",
+      "name": "Common Voice Scripted Speech 24.0 - Gawri",
+      "slug": "mcv-scripted-gwc-v24.0"
+    },
+    {
+      "id": "cmj8u3p6k00adnxxb49vcwalz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p6k00adnxxb49vcwalz",
+      "lastmod": "2026-02-12T13:32:50.897Z",
+      "name": "Common Voice Scripted Speech 24.0 - Gawarbaiti",
+      "slug": "mcv-scripted-gwt-v24.0"
+    },
+    {
+      "id": "cmj8u3p6r00ahnxxbxdbmmuav",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p6r00ahnxxbxdbmmuav",
+      "lastmod": "2026-02-12T13:32:50.935Z",
+      "name": "Common Voice Scripted Speech 24.0 - Northwest Gbaya",
+      "slug": "mcv-scripted-gya-v24.0"
+    },
+    {
+      "id": "cmj8u3p6w00alnxxbby9yqbms",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p6w00alnxxbby9yqbms",
+      "lastmod": "2026-02-12T13:32:50.941Z",
+      "name": "Common Voice Scripted Speech 24.0 - Hausa",
+      "slug": "mcv-scripted-ha-v24.0"
+    },
+    {
+      "id": "cmj8u3p7200apnxxbhdo2afg0",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p7200apnxxbhdo2afg0",
+      "lastmod": "2026-02-12T13:32:50.904Z",
+      "name": "Common Voice Scripted Speech 24.0 - Hazargi",
+      "slug": "mcv-scripted-haz-v24.0"
+    },
+    {
+      "id": "cmj8u3p7800atnxxbzrtfidju",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p7800atnxxbzrtfidju",
+      "lastmod": "2026-02-12T13:32:50.963Z",
+      "name": "Common Voice Scripted Speech 24.0 - Hebrew",
+      "slug": "mcv-scripted-he-v24.0"
+    },
+    {
+      "id": "cmj8u3p7f00axnxxbce6rp6kv",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p7f00axnxxbce6rp6kv",
+      "lastmod": "2026-02-12T13:32:50.947Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kihemba",
+      "slug": "mcv-scripted-hem-v24.0"
+    },
+    {
+      "id": "cmj8u3p7m00b1nxxbm34a993r",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p7m00b1nxxbm34a993r",
+      "lastmod": "2026-02-12T13:32:50.956Z",
+      "name": "Common Voice Scripted Speech 24.0 - Hindi",
+      "slug": "mcv-scripted-hi-v24.0"
+    },
+    {
+      "id": "cmj8u3p7s00b5nxxbrhlxhkik",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p7s00b5nxxbrhlxhkik",
+      "lastmod": "2026-02-12T13:32:50.969Z",
+      "name": "Common Voice Scripted Speech 24.0 - Northern Hindko",
+      "slug": "mcv-scripted-hno-v24.0"
+    },
+    {
+      "id": "cmj8u3p7y00b9nxxb2cbs37x7",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p7y00b9nxxb2cbs37x7",
+      "lastmod": "2026-02-12T13:32:50.976Z",
+      "name": "Common Voice Scripted Speech 24.0 - Sorbian, Upper",
+      "slug": "mcv-scripted-hsb-v24.0"
+    },
+    {
+      "id": "cmj8u3p8300bdnxxb7hiwqc6n",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p8300bdnxxb7hiwqc6n",
+      "lastmod": "2026-02-12T13:32:50.982Z",
+      "name": "Common Voice Scripted Speech 24.0 - Haitian",
+      "slug": "mcv-scripted-ht-v24.0"
+    },
+    {
+      "id": "cmj8u3p8900bhnxxb50f37mkm",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p8900bhnxxb50f37mkm",
+      "lastmod": "2026-02-12T13:32:51.040Z",
+      "name": "Common Voice Scripted Speech 24.0 - Hungarian",
+      "slug": "mcv-scripted-hu-v24.0"
+    },
+    {
+      "id": "cmj8u3p8g00blnxxbm46b0ihq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p8g00blnxxbm46b0ihq",
+      "lastmod": "2026-02-12T13:32:51.049Z",
+      "name": "Common Voice Scripted Speech 24.0 - Nüpode Huitoto",
+      "slug": "mcv-scripted-hux-v24.0"
+    },
+    {
+      "id": "cmj8u3p8l00bpnxxbsku96l4i",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p8l00bpnxxbsku96l4i",
+      "lastmod": "2026-02-12T13:32:50.988Z",
+      "name": "Common Voice Scripted Speech 24.0 - Armenian",
+      "slug": "mcv-scripted-hy-AM-v24.0"
+    },
+    {
+      "id": "cmj8u3p8r00btnxxbiew0kmb4",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p8r00btnxxbiew0kmb4",
+      "lastmod": "2026-02-12T13:32:50.994Z",
+      "name": "Common Voice Scripted Speech 24.0 - Interlingua",
+      "slug": "mcv-scripted-ia-v24.0"
+    },
+    {
+      "id": "cmj8u3p8y00bxnxxb7nt5dqnk",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p8y00bxnxxb7nt5dqnk",
+      "lastmod": "2026-02-12T13:32:51.056Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ibibio",
+      "slug": "mcv-scripted-ibb-v24.0"
+    },
+    {
+      "id": "cmj8u3p9500c1nxxbpsdts8eq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p9500c1nxxbpsdts8eq",
+      "lastmod": "2026-02-12T13:32:51.063Z",
+      "name": "Common Voice Scripted Speech 24.0 - Indonesian",
+      "slug": "mcv-scripted-id-v24.0"
+    },
+    {
+      "id": "cmj8u3p9a00c5nxxb7jwi217j",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p9a00c5nxxb7jwi217j",
+      "lastmod": "2026-02-12T13:32:51.001Z",
+      "name": "Common Voice Scripted Speech 24.0 - Igbo",
+      "slug": "mcv-scripted-ig-v24.0"
+    },
+    {
+      "id": "cmj8u3p9f00c9nxxbxx374u6r",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p9f00c9nxxbxx374u6r",
+      "lastmod": "2026-02-12T13:32:51.012Z",
+      "name": "Common Voice Scripted Speech 24.0 - Iñupiaq",
+      "slug": "mcv-scripted-ipk-v24.0"
+    },
+    {
+      "id": "cmj8u3p9l00cdnxxbuuascykx",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p9l00cdnxxbuuascykx",
+      "lastmod": "2026-02-12T13:32:51.072Z",
+      "name": "Common Voice Scripted Speech 24.0 - Icelandic",
+      "slug": "mcv-scripted-is-v24.0"
+    },
+    {
+      "id": "cmj8u3p9q00chnxxb5fj12aw8",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p9q00chnxxb5fj12aw8",
+      "lastmod": "2026-02-12T13:32:51.079Z",
+      "name": "Common Voice Scripted Speech 24.0 - Italian",
+      "slug": "mcv-scripted-it-v24.0"
+    },
+    {
+      "id": "cmj8u3p9x00clnxxbsv97o45e",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3p9x00clnxxbsv97o45e",
+      "lastmod": "2026-02-12T13:32:51.102Z",
+      "name": "Common Voice Scripted Speech 24.0 - Japanese",
+      "slug": "mcv-scripted-ja-v24.0"
+    },
+    {
+      "id": "cmj8u3pa300cpnxxbl7p8nj9o",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pa300cpnxxbl7p8nj9o",
+      "lastmod": "2026-02-12T13:32:51.112Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ngomba",
+      "slug": "mcv-scripted-jgo-v24.0"
+    },
+    {
+      "id": "cmj8u3paa00ctnxxbl5cfm360",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3paa00ctnxxbl5cfm360",
+      "lastmod": "2026-02-12T13:32:51.086Z",
+      "name": "Common Voice Scripted Speech 24.0 - Jaqaru",
+      "slug": "mcv-scripted-jqr-v24.0"
+    },
+    {
+      "id": "cmj8u3paf00cxnxxbkieg36mi",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3paf00cxnxxbkieg36mi",
+      "lastmod": "2026-02-12T13:32:51.094Z",
+      "name": "Common Voice Scripted Speech 24.0 - Georgian",
+      "slug": "mcv-scripted-ka-v24.0"
+    },
+    {
+      "id": "cmj8u3pak00d1nxxbtm3dbh3j",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pak00d1nxxbtm3dbh3j",
+      "lastmod": "2026-02-12T13:32:51.120Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kabyle",
+      "slug": "mcv-scripted-kab-v24.0"
+    },
+    {
+      "id": "cmj8u3pas00d5nxxbpn8y6tqq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pas00d5nxxbpn8y6tqq",
+      "lastmod": "2026-02-12T13:32:51.127Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kabardian",
+      "slug": "mcv-scripted-kbd-v24.0"
+    },
+    {
+      "id": "cmj8u3paz00d9nxxb5gc0lfgm",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3paz00d9nxxb5gc0lfgm",
+      "lastmod": "2026-02-12T13:32:51.169Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kotokoli",
+      "slug": "mcv-scripted-kdh-v24.0"
+    },
+    {
+      "id": "cmj8u3pb500ddnxxbzmukxtu3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pb500ddnxxbzmukxtu3",
+      "lastmod": "2026-02-12T13:32:51.176Z",
+      "name": "Common Voice Scripted Speech 24.0 - Khowar",
+      "slug": "mcv-scripted-khw-v24.0"
+    },
+    {
+      "id": "cmj8u3pbb00dhnxxbsqe4vbpc",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pbb00dhnxxbsqe4vbpc",
+      "lastmod": "2026-02-12T13:32:51.135Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kazakh",
+      "slug": "mcv-scripted-kk-v24.0"
+    },
+    {
+      "id": "cmj8u3pbg00dlnxxbrtgsa4gs",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pbg00dlnxxbrtgsa4gs",
+      "lastmod": "2026-02-12T13:32:51.144Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kalenjin",
+      "slug": "mcv-scripted-kln-v24.0"
+    },
+    {
+      "id": "cmj8u3pbl00dpnxxbnwle8mlz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pbl00dpnxxbnwle8mlz",
+      "lastmod": "2026-02-12T13:32:51.182Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kalasha",
+      "slug": "mcv-scripted-kls-v24.0"
+    },
+    {
+      "id": "cmj8u3pbq00dtnxxbz4yoxc4i",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pbq00dtnxxbz4yoxc4i",
+      "lastmod": "2026-02-12T13:32:51.190Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kurmanji Kurdish",
+      "slug": "mcv-scripted-kmr-v24.0"
+    },
+    {
+      "id": "cmj8u3pbv00dxnxxbbsd2udth",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pbv00dxnxxbbsd2udth",
+      "lastmod": "2026-02-12T13:32:51.151Z",
+      "name": "Common Voice Scripted Speech 24.0 - Korean",
+      "slug": "mcv-scripted-ko-v24.0"
+    },
+    {
+      "id": "cmj8u3pc100e1nxxbmqux4dtk",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pc100e1nxxbmqux4dtk",
+      "lastmod": "2026-02-12T13:32:51.161Z",
+      "name": "Common Voice Scripted Speech 24.0 - Bafia",
+      "slug": "mcv-scripted-ksf-v24.0"
+    },
+    {
+      "id": "cmj8u3pc600e5nxxbsq6e2bt5",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pc600e5nxxbsq6e2bt5",
+      "lastmod": "2026-02-12T13:32:51.205Z",
+      "name": "Common Voice Scripted Speech 24.0 - Parkari Koli",
+      "slug": "mcv-scripted-kvx-v24.0"
+    },
+    {
+      "id": "cmj8u3pcc00e9nxxb5dv889iz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pcc00e9nxxb5dv889iz",
+      "lastmod": "2026-02-12T13:32:51.212Z",
+      "name": "Common Voice Scripted Speech 24.0 - Cornish",
+      "slug": "mcv-scripted-kw-v24.0"
+    },
+    {
+      "id": "cmj8u3pci00ednxxbetki7yjs",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pci00ednxxbetki7yjs",
+      "lastmod": "2026-02-12T13:32:51.231Z",
+      "name": "Common Voice Scripted Speech 24.0 - Wadiyara Koli",
+      "slug": "mcv-scripted-kxp-v24.0"
+    },
+    {
+      "id": "cmj8u3pco00ehnxxbvofn7lrk",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pco00ehnxxbvofn7lrk",
+      "lastmod": "2026-02-12T13:32:51.237Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kyrgyz",
+      "slug": "mcv-scripted-ky-v24.0"
+    },
+    {
+      "id": "cmj8u3pcu00elnxxby6wyhysl",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pcu00elnxxby6wyhysl",
+      "lastmod": "2026-02-12T13:32:51.218Z",
+      "name": "Common Voice Scripted Speech 24.0 - Luganda",
+      "slug": "mcv-scripted-lg-v24.0"
+    },
+    {
+      "id": "cmj8u3pcz00epnxxboc0h57ve",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pcz00epnxxboc0h57ve",
+      "lastmod": "2026-02-12T13:32:51.225Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ligurian",
+      "slug": "mcv-scripted-lij-v24.0"
+    },
+    {
+      "id": "cmj8u3pd500etnxxbzqdatlbn",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pd500etnxxbzqdatlbn",
+      "lastmod": "2026-02-12T13:32:51.243Z",
+      "name": "Common Voice Scripted Speech 24.0 - Lao",
+      "slug": "mcv-scripted-lo-v24.0"
+    },
+    {
+      "id": "cmj8u3pdc00exnxxbmwocgkwz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pdc00exnxxbmwocgkwz",
+      "lastmod": "2026-02-12T13:32:51.248Z",
+      "name": "Common Voice Scripted Speech 24.0 - Loarki",
+      "slug": "mcv-scripted-lrk-v24.0"
+    },
+    {
+      "id": "cmj8u3pdi00f1nxxbgv8edeyz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pdi00f1nxxbgv8edeyz",
+      "lastmod": "2026-02-12T13:32:51.281Z",
+      "name": "Common Voice Scripted Speech 24.0 - Lassi",
+      "slug": "mcv-scripted-lss-v24.0"
+    },
+    {
+      "id": "cmj8u3pdo00f5nxxb9uuewruj",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pdo00f5nxxb9uuewruj",
+      "lastmod": "2026-02-12T13:32:51.289Z",
+      "name": "Common Voice Scripted Speech 24.0 - Lithuanian",
+      "slug": "mcv-scripted-lt-v24.0"
+    },
+    {
+      "id": "cmj8u3pdv00f9nxxb5hc3quc2",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pdv00f9nxxb5hc3quc2",
+      "lastmod": "2026-02-12T13:32:51.255Z",
+      "name": "Common Voice Scripted Speech 24.0 - Latgalian",
+      "slug": "mcv-scripted-ltg-v24.0"
+    },
+    {
+      "id": "cmj8u3pe000fdnxxbi6kypxyi",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pe000fdnxxbi6kypxyi",
+      "lastmod": "2026-02-12T13:32:51.261Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tshiluba",
+      "slug": "mcv-scripted-lua-v24.0"
+    },
+    {
+      "id": "cmj8u3pe600fhnxxbqol7x8bg",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pe600fhnxxbqol7x8bg",
+      "lastmod": "2026-02-12T13:32:51.299Z",
+      "name": "Common Voice Scripted Speech 24.0 - Dholuo",
+      "slug": "mcv-scripted-luo-v24.0"
+    },
+    {
+      "id": "cmj8u3pec00flnxxbntvfb4as",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pec00flnxxbntvfb4as",
+      "lastmod": "2026-02-12T13:32:49.021Z",
+      "name": "Common Voice Scripted Speech 24.0 - Latvian",
+      "slug": "mcv-scripted-lv-v24.0"
+    },
+    {
+      "id": "cmj8u3pei00fpnxxb2zv0zgwh",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pei00fpnxxb2zv0zgwh",
+      "lastmod": "2026-02-12T13:32:51.267Z",
+      "name": "Common Voice Scripted Speech 24.0 - Laz",
+      "slug": "mcv-scripted-lzz-v24.0"
+    },
+    {
+      "id": "cmj8u3peo00ftnxxbczmi4hy4",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3peo00ftnxxbczmi4hy4",
+      "lastmod": "2026-02-12T13:32:51.276Z",
+      "name": "Common Voice Scripted Speech 24.0 - Huautla Mazatec",
+      "slug": "mcv-scripted-mau-v24.0"
+    },
+    {
+      "id": "cmj8u3peu00fxnxxbzzc2tzss",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3peu00fxnxxbzzc2tzss",
+      "lastmod": "2026-02-12T13:32:49.055Z",
+      "name": "Common Voice Scripted Speech 24.0 - Mbo",
+      "slug": "mcv-scripted-mbo-v24.0"
+    },
+    {
+      "id": "cmj8u3pez00g1nxxb35j0vk99",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pez00g1nxxb35j0vk99",
+      "lastmod": "2026-02-12T13:32:49.183Z",
+      "name": "Common Voice Scripted Speech 24.0 - Matses",
+      "slug": "mcv-scripted-mcf-v24.0"
+    },
+    {
+      "id": "cmj8u3pf400g5nxxb3fviiwjy",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pf400g5nxxb3fviiwjy",
+      "lastmod": "2026-02-12T13:32:49.834Z",
+      "name": "Common Voice Scripted Speech 24.0 - Massa",
+      "slug": "mcv-scripted-mcn-v24.0"
+    },
+    {
+      "id": "cmj8u3pf900g9nxxb54ci8eby",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pf900g9nxxb54ci8eby",
+      "lastmod": "2026-02-12T13:32:49.841Z",
+      "name": "Common Voice Scripted Speech 24.0 - Mpiemo",
+      "slug": "mcv-scripted-mcx-v24.0"
+    },
+    {
+      "id": "cmj8u3pfe00gdnxxb0mgdg9jb",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pfe00gdnxxb0mgdg9jb",
+      "lastmod": "2026-02-12T13:32:49.192Z",
+      "name": "Common Voice Scripted Speech 24.0 - Mbum",
+      "slug": "mcv-scripted-mdd-v24.0"
+    },
+    {
+      "id": "cmj8u3pfk00ghnxxbt1ksfw6h",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pfk00ghnxxbt1ksfw6h",
+      "lastmod": "2026-02-12T13:32:49.198Z",
+      "name": "Common Voice Scripted Speech 24.0 - Moksha",
+      "slug": "mcv-scripted-mdf-v24.0"
+    },
+    {
+      "id": "cmj8u3pfq00glnxxb6b6jtoda",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pfq00glnxxb6b6jtoda",
+      "lastmod": "2026-02-12T13:32:49.848Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kunabembe",
+      "slug": "mcv-scripted-mgg-v24.0"
+    },
+    {
+      "id": "cmj8u3pfu00gpnxxb3b0xvlx1",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pfu00gpnxxb3b0xvlx1",
+      "lastmod": "2026-02-12T13:32:49.854Z",
+      "name": "Common Voice Scripted Speech 24.0 - Mungaka",
+      "slug": "mcv-scripted-mhk-v24.0"
+    },
+    {
+      "id": "cmj8u3pg200gtnxxbojmd9bcu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pg200gtnxxbojmd9bcu",
+      "lastmod": "2026-02-12T13:32:49.884Z",
+      "name": "Common Voice Scripted Speech 24.0 - Meadow Mari",
+      "slug": "mcv-scripted-mhr-v24.0"
+    },
+    {
+      "id": "cmj8u3pg800gxnxxb36xwpf1l",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pg800gxnxxb36xwpf1l",
+      "lastmod": "2026-02-12T13:32:49.890Z",
+      "name": "Common Voice Scripted Speech 24.0 - Macedonian",
+      "slug": "mcv-scripted-mk-v24.0"
+    },
+    {
+      "id": "cmj8u3pgf00h1nxxbtbqu77t7",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pgf00h1nxxbtbqu77t7",
+      "lastmod": "2026-02-12T13:32:49.861Z",
+      "name": "Common Voice Scripted Speech 24.0 - Dhatki",
+      "slug": "mcv-scripted-mki-v24.0"
+    },
+    {
+      "id": "cmj8u3pgl00h5nxxbbq28mrv5",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pgl00h5nxxbbq28mrv5",
+      "lastmod": "2026-02-12T13:32:49.866Z",
+      "name": "Common Voice Scripted Speech 24.0 - Malayalam",
+      "slug": "mcv-scripted-ml-v24.0"
+    },
+    {
+      "id": "cmj8u3pgs00h9nxxbs87zok3h",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pgs00h9nxxbs87zok3h",
+      "lastmod": "2026-02-12T13:32:49.896Z",
+      "name": "Common Voice Scripted Speech 24.0 - Mongolian",
+      "slug": "mcv-scripted-mn-v24.0"
+    },
+    {
+      "id": "cmj8u3pgx00hdnxxb0z23cg42",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pgx00hdnxxb0z23cg42",
+      "lastmod": "2026-02-12T13:32:49.902Z",
+      "name": "Common Voice Scripted Speech 24.0 - Marathi",
+      "slug": "mcv-scripted-mr-v24.0"
+    },
+    {
+      "id": "cmj8u3ph200hhnxxbhlv7engo",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ph200hhnxxbhlv7engo",
+      "lastmod": "2026-02-12T13:32:49.872Z",
+      "name": "Common Voice Scripted Speech 24.0 - Hill Mari",
+      "slug": "mcv-scripted-mrj-v24.0"
+    },
+    {
+      "id": "cmj8u3ph800hlnxxb39oq1a2o",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ph800hlnxxb39oq1a2o",
+      "lastmod": "2026-02-12T13:32:49.878Z",
+      "name": "Common Voice Scripted Speech 24.0 - Malay",
+      "slug": "mcv-scripted-ms-v24.0"
+    },
+    {
+      "id": "cmj8u3phe00hpnxxb2zxq1ej7",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3phe00hpnxxb2zxq1ej7",
+      "lastmod": "2026-02-12T13:32:49.911Z",
+      "name": "Common Voice Scripted Speech 24.0 - Moussey",
+      "slug": "mcv-scripted-mse-v24.0"
+    },
+    {
+      "id": "cmj8u3phj00htnxxb83nuaddd",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3phj00htnxxb83nuaddd",
+      "lastmod": "2026-02-12T13:32:49.917Z",
+      "name": "Common Voice Scripted Speech 24.0 - Maltese",
+      "slug": "mcv-scripted-mt-v24.0"
+    },
+    {
+      "id": "cmj8u3pho00hxnxxb7yit7dxk",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pho00hxnxxb7yit7dxk",
+      "lastmod": "2026-02-12T13:32:49.937Z",
+      "name": "Common Voice Scripted Speech 24.0 - Mundang",
+      "slug": "mcv-scripted-mua-v24.0"
+    },
+    {
+      "id": "cmj8u3phw00i1nxxbobq9c583",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3phw00i1nxxbobq9c583",
+      "lastmod": "2026-02-12T13:32:49.942Z",
+      "name": "Common Voice Scripted Speech 24.0 - Musgum",
+      "slug": "mcv-scripted-mug-v24.0"
+    },
+    {
+      "id": "cmj8u3pi100i5nxxbbax2ehwd",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pi100i5nxxbbax2ehwd",
+      "lastmod": "2026-02-12T13:32:49.924Z",
+      "name": "Common Voice Scripted Speech 24.0 - Marwari",
+      "slug": "mcv-scripted-mve-v24.0"
+    },
+    {
+      "id": "cmj8u3pi700i9nxxb0hstil5q",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pi700i9nxxb0hstil5q",
+      "lastmod": "2026-02-12T13:32:49.930Z",
+      "name": "Common Voice Scripted Speech 24.0 - Indus Kohistani",
+      "slug": "mcv-scripted-mvy-v24.0"
+    },
+    {
+      "id": "cmj8u3pid00idnxxbs23lxb26",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pid00idnxxbs23lxb26",
+      "lastmod": "2026-02-12T13:32:49.949Z",
+      "name": "Common Voice Scripted Speech 24.0 - Mada",
+      "slug": "mcv-scripted-mxu-v24.0"
+    },
+    {
+      "id": "cmj8u3pij00ihnxxbxyo8tzxj",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pij00ihnxxbxyo8tzxj",
+      "lastmod": "2026-02-12T13:32:49.958Z",
+      "name": "Common Voice Scripted Speech 24.0 - Erzya",
+      "slug": "mcv-scripted-myv-v24.0"
+    },
+    {
+      "id": "cmj8u3pir00ilnxxbgcfemllh",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pir00ilnxxbgcfemllh",
+      "lastmod": "2026-02-12T13:32:49.992Z",
+      "name": "Common Voice Scripted Speech 24.0 - Taiwanese (Minnan)",
+      "slug": "mcv-scripted-nan-tw-v24.0"
+    },
+    {
+      "id": "cmj8u3piw00ipnxxbo85o6mkz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3piw00ipnxxbo85o6mkz",
+      "lastmod": "2026-02-12T13:32:49.998Z",
+      "name": "Common Voice Scripted Speech 24.0 - Norwegian Bokmål",
+      "slug": "mcv-scripted-nb-NO-v24.0"
+    },
+    {
+      "id": "cmj8u3pj300itnxxbmjkg4day",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pj300itnxxbmjkg4day",
+      "lastmod": "2026-02-12T13:32:49.964Z",
+      "name": "Common Voice Scripted Speech 24.0 - Central Puebla Nahuatl",
+      "slug": "mcv-scripted-ncx-v24.0"
+    },
+    {
+      "id": "cmj8u3pj800ixnxxb2ikpn2cy",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pj800ixnxxb2ikpn2cy",
+      "lastmod": "2026-02-12T13:32:49.971Z",
+      "name": "Common Voice Scripted Speech 24.0 - Nepali",
+      "slug": "mcv-scripted-ne-NP-v24.0"
+    },
+    {
+      "id": "cmj8u3pjd00j1nxxb46t36v1n",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pjd00j1nxxb46t36v1n",
+      "lastmod": "2026-02-12T13:32:50.004Z",
+      "name": "Common Voice Scripted Speech 24.0 - Western Sierra Puebla Nahuatl",
+      "slug": "mcv-scripted-nhi-v24.0"
+    },
+    {
+      "id": "cmj8u3pjj00j5nxxbnk8ajqgc",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pjj00j5nxxbnk8ajqgc",
+      "lastmod": "2026-02-12T13:32:51.304Z",
+      "name": "Common Voice Scripted Speech 24.0 - Dutch",
+      "slug": "mcv-scripted-nl-v24.0"
+    },
+    {
+      "id": "cmj8u3pjo00j9nxxb3yj6r6f5",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pjo00j9nxxb3yj6r6f5",
+      "lastmod": "2026-02-12T13:32:49.977Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ngombale",
+      "slug": "mcv-scripted-nla-v24.0"
+    },
+    {
+      "id": "cmj8u3pjw00jdnxxb0v9mo9r5",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pjw00jdnxxb0v9mo9r5",
+      "lastmod": "2026-02-12T13:32:49.982Z",
+      "name": "Common Voice Scripted Speech 24.0 - Orizaba Nahuatl",
+      "slug": "mcv-scripted-nlv-v24.0"
+    },
+    {
+      "id": "cmj8u3pk300jhnxxbnf4uaubp",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pk300jhnxxbnf4uaubp",
+      "lastmod": "2026-02-12T13:32:50.012Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kwasio",
+      "slug": "mcv-scripted-nmg-v24.0"
+    },
+    {
+      "id": "cmj8u3pk800jlnxxbz1hvhe7u",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pk800jlnxxbz1hvhe7u",
+      "lastmod": "2026-02-12T13:32:50.017Z",
+      "name": "Common Voice Scripted Speech 24.0 - Losso",
+      "slug": "mcv-scripted-nmz-v24.0"
+    },
+    {
+      "id": "cmj8u3pkd00jpnxxbsgaqp9gi",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pkd00jpnxxbsgaqp9gi",
+      "lastmod": "2026-02-12T13:32:50.036Z",
+      "name": "Common Voice Scripted Speech 24.0 - Norwegian Nynorsk",
+      "slug": "mcv-scripted-nn-NO-v24.0"
+    },
+    {
+      "id": "cmj8u3pkj00jtnxxbjtcknf31",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pkj00jtnxxbjtcknf31",
+      "lastmod": "2026-02-12T13:32:50.043Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ngiembon",
+      "slug": "mcv-scripted-nnh-v24.0"
+    },
+    {
+      "id": "cmj8u3pkq00jxnxxbz4hfwbq3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pkq00jxnxxbz4hfwbq3",
+      "lastmod": "2026-02-12T13:32:50.023Z",
+      "name": "Common Voice Scripted Speech 24.0 - IsiNdebele (South)",
+      "slug": "mcv-scripted-nr-v24.0"
+    },
+    {
+      "id": "cmj8u3pkv00k1nxxbpjd6g1y0",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pkv00k1nxxbpjd6g1y0",
+      "lastmod": "2026-02-12T13:32:50.030Z",
+      "name": "Common Voice Scripted Speech 24.0 - Northern Sotho",
+      "slug": "mcv-scripted-nso-v24.0"
+    },
+    {
+      "id": "cmj8u3pl100k5nxxb2d47d3wj",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pl100k5nxxb2d47d3wj",
+      "lastmod": "2026-02-12T13:32:50.049Z",
+      "name": "Common Voice Scripted Speech 24.0 - Nyungwe",
+      "slug": "mcv-scripted-nyu-v24.0"
+    },
+    {
+      "id": "cmj8u3pl700k9nxxb2rp2erco",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pl700k9nxxb2rp2erco",
+      "lastmod": "2026-02-12T13:32:50.055Z",
+      "name": "Common Voice Scripted Speech 24.0 - Occitan",
+      "slug": "mcv-scripted-oc-v24.0"
+    },
+    {
+      "id": "cmj8u3pld00kdnxxbk8bjc13v",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pld00kdnxxbk8bjc13v",
+      "lastmod": "2026-02-12T13:32:50.090Z",
+      "name": "Common Voice Scripted Speech 24.0 - Oadki",
+      "slug": "mcv-scripted-odk-v24.0"
+    },
+    {
+      "id": "cmj8u3pli00khnxxbe2nj23jf",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pli00khnxxbe2nj23jf",
+      "lastmod": "2026-02-12T13:32:50.096Z",
+      "name": "Common Voice Scripted Speech 24.0 - Odia",
+      "slug": "mcv-scripted-or-v24.0"
+    },
+    {
+      "id": "cmj8u3pln00klnxxb2vd445ca",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pln00klnxxb2vd445ca",
+      "lastmod": "2026-02-12T13:32:50.063Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ormuri",
+      "slug": "mcv-scripted-oru-v24.0"
+    },
+    {
+      "id": "cmj8u3plv00kpnxxb7zzy34eb",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3plv00kpnxxb7zzy34eb",
+      "lastmod": "2026-02-12T13:32:50.072Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ossetian",
+      "slug": "mcv-scripted-os-v24.0"
+    },
+    {
+      "id": "cmj8u3pm100ktnxxb7yoj6rzu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pm100ktnxxb7yoj6rzu",
+      "lastmod": "2026-02-12T13:32:50.101Z",
+      "name": "Common Voice Scripted Speech 24.0 - Punjabi",
+      "slug": "mcv-scripted-pa-IN-v24.0"
+    },
+    {
+      "id": "cmj8u3pm600kxnxxbtabr0v18",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pm600kxnxxbtabr0v18",
+      "lastmod": "2026-02-12T13:32:50.106Z",
+      "name": "Common Voice Scripted Speech 24.0 - Nigerian Pidgin English",
+      "slug": "mcv-scripted-pcm-v24.0"
+    },
+    {
+      "id": "cmj8u3pmf00l1nxxbctybw221",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pmf00l1nxxbctybw221",
+      "lastmod": "2026-02-12T13:32:50.078Z",
+      "name": "Common Voice Scripted Speech 24.0 - Palula",
+      "slug": "mcv-scripted-phl-v24.0"
+    },
+    {
+      "id": "cmj8u3pmm00l5nxxbcnnigee7",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pmm00l5nxxbcnnigee7",
+      "lastmod": "2026-02-12T13:32:50.084Z",
+      "name": "Common Voice Scripted Speech 24.0 - Pahari-Pothwari",
+      "slug": "mcv-scripted-phr-v24.0"
+    },
+    {
+      "id": "cmj8u3pmr00l9nxxb5spuq4bc",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pmr00l9nxxb5spuq4bc",
+      "lastmod": "2026-02-12T13:32:50.112Z",
+      "name": "Common Voice Scripted Speech 24.0 - Polish",
+      "slug": "mcv-scripted-pl-v24.0"
+    },
+    {
+      "id": "cmj8u3pmx00ldnxxbfpz3jqlp",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pmx00ldnxxbfpz3jqlp",
+      "lastmod": "2026-02-12T13:32:50.118Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kohistani Shina",
+      "slug": "mcv-scripted-plk-v24.0"
+    },
+    {
+      "id": "cmj8u3pn400lhnxxbue1nbnc6",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pn400lhnxxbue1nbnc6",
+      "lastmod": "2026-02-12T13:32:50.130Z",
+      "name": "Common Voice Scripted Speech 24.0 - Asheninka Perene",
+      "slug": "mcv-scripted-prq-v24.0"
+    },
+    {
+      "id": "cmj8u3pnb00llnxxbfvxo3b14",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pnb00llnxxbfvxo3b14",
+      "lastmod": "2026-02-12T13:32:51.310Z",
+      "name": "Common Voice Scripted Speech 24.0 - Pashto",
+      "slug": "mcv-scripted-ps-v24.0"
+    },
+    {
+      "id": "cmj8u3pnh00lpnxxb4djcexb1",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pnh00lpnxxb4djcexb1",
+      "lastmod": "2026-02-12T13:32:50.124Z",
+      "name": "Common Voice Scripted Speech 24.0 - Portuguese",
+      "slug": "mcv-scripted-pt-v24.0"
+    },
+    {
+      "id": "cmj8u3pnn00ltnxxb6ds6sdpg",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pnn00ltnxxb6ds6sdpg",
+      "lastmod": "2026-02-12T13:32:50.173Z",
+      "name": "Common Voice Scripted Speech 24.0 - Western Highland Purepecha",
+      "slug": "mcv-scripted-pua-v24.0"
+    },
+    {
+      "id": "cmj8u3pnt00lxnxxbgbmim9kq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pnt00lxnxxbgbmim9kq",
+      "lastmod": "2026-02-12T13:32:50.135Z",
+      "name": "Common Voice Scripted Speech 24.0 - Paiwan",
+      "slug": "mcv-scripted-pwn-v24.0"
+    },
+    {
+      "id": "cmj8u3pnz00m1nxxb1bic6ova",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pnz00m1nxxb1bic6ova",
+      "lastmod": "2026-02-12T13:32:50.141Z",
+      "name": "Common Voice Scripted Speech 24.0 - Southern Pastaza Quechua",
+      "slug": "mcv-scripted-qup-v24.0"
+    },
+    {
+      "id": "cmj8u3po500m5nxxbkdrk8i1p",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3po500m5nxxbkdrk8i1p",
+      "lastmod": "2026-02-12T13:32:50.180Z",
+      "name": "Common Voice Scripted Speech 24.0 - Quechua Yanahuanca",
+      "slug": "mcv-scripted-qur-v24.0"
+    },
+    {
+      "id": "cmj8u3pok00m9nxxbhtlu1m2n",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pok00m9nxxbhtlu1m2n",
+      "lastmod": "2026-02-12T13:32:50.185Z",
+      "name": "Common Voice Scripted Speech 24.0 - Quechua Santiago del Estero",
+      "slug": "mcv-scripted-qus-v24.0"
+    },
+    {
+      "id": "cmj8u3por00mdnxxbrz6j4iu8",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3por00mdnxxbrz6j4iu8",
+      "lastmod": "2026-02-12T13:32:50.147Z",
+      "name": "Common Voice Scripted Speech 24.0 - Quechua Yauyos",
+      "slug": "mcv-scripted-qux-v24.0"
+    },
+    {
+      "id": "cmj8u3pox00mhnxxbvijzdsb6",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pox00mhnxxbvijzdsb6",
+      "lastmod": "2026-02-12T13:32:50.154Z",
+      "name": "Common Voice Scripted Speech 24.0 - Quechua Chanka",
+      "slug": "mcv-scripted-quy-v24.0"
+    },
+    {
+      "id": "cmj8u3pp300mlnxxb6z39m3zd",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pp300mlnxxb6z39m3zd",
+      "lastmod": "2026-02-12T13:32:50.191Z",
+      "name": "Common Voice Scripted Speech 24.0 - Quechua Ambo-Pasco",
+      "slug": "mcv-scripted-qva-v24.0"
+    },
+    {
+      "id": "cmj8u3pp900mpnxxb6k835kxl",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pp900mpnxxb6k835kxl",
+      "lastmod": "2026-02-12T13:32:50.197Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kichwa",
+      "slug": "mcv-scripted-qvi-v24.0"
+    },
+    {
+      "id": "cmj8u3ppg00mtnxxbga38ewmc",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ppg00mtnxxbga38ewmc",
+      "lastmod": "2026-02-12T13:32:50.160Z",
+      "name": "Common Voice Scripted Speech 24.0 - Loja Highland Kichwa",
+      "slug": "mcv-scripted-qvj-v24.0"
+    },
+    {
+      "id": "cmj8u3ppl00mxnxxb63szwdnz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ppl00mxnxxb63szwdnz",
+      "lastmod": "2026-02-12T13:32:50.168Z",
+      "name": "Common Voice Scripted Speech 24.0 - Quechua Cajatambo",
+      "slug": "mcv-scripted-qvl-v24.0"
+    },
+    {
+      "id": "cmj8u3ppr00n1nxxbtndjz7se",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ppr00n1nxxbtndjz7se",
+      "lastmod": "2026-02-12T13:32:50.203Z",
+      "name": "Common Voice Scripted Speech 24.0 - Quechua Corongo Ancash",
+      "slug": "mcv-scripted-qwa-v24.0"
+    },
+    {
+      "id": "cmj8u3ppw00n5nxxbh5alvwsh",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ppw00n5nxxbh5alvwsh",
+      "lastmod": "2026-02-12T13:32:50.209Z",
+      "name": "Common Voice Scripted Speech 24.0 - Quechua Sihuas Ancash",
+      "slug": "mcv-scripted-qws-v24.0"
+    },
+    {
+      "id": "cmj8u3pq200n9nxxbxkzpzmvj",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pq200n9nxxbxkzpzmvj",
+      "lastmod": "2026-02-12T13:32:50.225Z",
+      "name": "Common Voice Scripted Speech 24.0 - Quechua Chiquián",
+      "slug": "mcv-scripted-qxa-v24.0"
+    },
+    {
+      "id": "cmj8u3pq700ndnxxb737sq5re",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pq700ndnxxb737sq5re",
+      "lastmod": "2026-02-12T13:32:50.232Z",
+      "name": "Common Voice Scripted Speech 24.0 - Puno Quechua",
+      "slug": "mcv-scripted-qxp-v24.0"
+    },
+    {
+      "id": "cmj8u3pqe00nhnxxb75l78gse",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pqe00nhnxxb75l78gse",
+      "lastmod": "2026-02-12T13:32:50.218Z",
+      "name": "Common Voice Scripted Speech 24.0 - Quechua Pasco Santa Ana de Tusi",
+      "slug": "mcv-scripted-qxt-v24.0"
+    },
+    {
+      "id": "cmj8u3pql00nlnxxb2fy5gaot",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pql00nlnxxb2fy5gaot",
+      "lastmod": "2026-02-12T13:32:50.269Z",
+      "name": "Common Voice Scripted Speech 24.0 - Quechua Arequipa-La Unión",
+      "slug": "mcv-scripted-qxu-v24.0"
+    },
+    {
+      "id": "cmj8u3pqr00npnxxb39vkxidq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pqr00npnxxb39vkxidq",
+      "lastmod": "2026-02-12T13:32:50.238Z",
+      "name": "Common Voice Scripted Speech 24.0 - Quechua Jauja Wanka",
+      "slug": "mcv-scripted-qxw-v24.0"
+    },
+    {
+      "id": "cmj8u3pqw00ntnxxbe7mpj5ud",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pqw00ntnxxbe7mpj5ud",
+      "lastmod": "2026-02-12T13:32:50.244Z",
+      "name": "Common Voice Scripted Speech 24.0 - Romansh Sursilvan",
+      "slug": "mcv-scripted-rm-sursilv-v24.0"
+    },
+    {
+      "id": "cmj8u3pr100nxnxxb3mg1uuu5",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pr100nxnxxb3mg1uuu5",
+      "lastmod": "2026-02-12T13:32:50.276Z",
+      "name": "Common Voice Scripted Speech 24.0 - Romansh Vallader",
+      "slug": "mcv-scripted-rm-vallader-v24.0"
+    },
+    {
+      "id": "cmj8u3pr700o1nxxbx35tiwrn",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pr700o1nxxbx35tiwrn",
+      "lastmod": "2026-02-12T13:32:50.282Z",
+      "name": "Common Voice Scripted Speech 24.0 - Romanian",
+      "slug": "mcv-scripted-ro-v24.0"
+    },
+    {
+      "id": "cmj8u3prd00o5nxxb6fdnaaav",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3prd00o5nxxb6fdnaaav",
+      "lastmod": "2026-02-12T13:32:50.249Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kirombo",
+      "slug": "mcv-scripted-rof-v24.0"
+    },
+    {
+      "id": "cmj8u3prj00o9nxxbg5pbn88l",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3prj00o9nxxbg5pbn88l",
+      "lastmod": "2026-02-12T13:32:51.315Z",
+      "name": "Common Voice Scripted Speech 24.0 - Russian",
+      "slug": "mcv-scripted-ru-v24.0"
+    },
+    {
+      "id": "cmj8u3pro00odnxxbnld5z5wa",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pro00odnxxbnld5z5wa",
+      "lastmod": "2026-02-12T13:32:50.288Z",
+      "name": "Common Voice Scripted Speech 24.0 - Aromanian",
+      "slug": "mcv-scripted-rup-v24.0"
+    },
+    {
+      "id": "cmj8u3pru00ohnxxbr1cnr2tg",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pru00ohnxxbr1cnr2tg",
+      "lastmod": "2026-02-12T13:32:50.293Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kinyarwanda",
+      "slug": "mcv-scripted-rw-v24.0"
+    },
+    {
+      "id": "cmj8u3prz00olnxxbcohzm8qk",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3prz00olnxxbcohzm8qk",
+      "lastmod": "2026-02-12T13:32:50.255Z",
+      "name": "Common Voice Scripted Speech 24.0 - Sakha",
+      "slug": "mcv-scripted-sah-v24.0"
+    },
+    {
+      "id": "cmj8u3ps600opnxxbk847a3ny",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ps600opnxxbk847a3ny",
+      "lastmod": "2026-02-12T13:32:50.262Z",
+      "name": "Common Voice Scripted Speech 24.0 - Santali (Ol Chiki)",
+      "slug": "mcv-scripted-sat-v24.0"
+    },
+    {
+      "id": "cmj8u3psc00otnxxb97diar22",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3psc00otnxxb97diar22",
+      "lastmod": "2026-02-12T13:32:50.299Z",
+      "name": "Common Voice Scripted Speech 24.0 - Sindhi Bhil",
+      "slug": "mcv-scripted-sbn-v24.0"
+    },
+    {
+      "id": "cmj8u3psh00oxnxxbwbr3vn0h",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3psh00oxnxxbwbr3vn0h",
+      "lastmod": "2026-02-12T13:32:50.305Z",
+      "name": "Common Voice Scripted Speech 24.0 - Sardinian",
+      "slug": "mcv-scripted-sc-v24.0"
+    },
+    {
+      "id": "cmj8u3psm00p1nxxbaywm55xa",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3psm00p1nxxbaywm55xa",
+      "lastmod": "2026-02-12T13:32:50.318Z",
+      "name": "Common Voice Scripted Speech 24.0 - Shina",
+      "slug": "mcv-scripted-scl-v24.0"
+    },
+    {
+      "id": "cmj8u3pss00p5nxxbtnh5960z",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pss00p5nxxbtnh5960z",
+      "lastmod": "2026-02-12T13:32:50.324Z",
+      "name": "Common Voice Scripted Speech 24.0 - Sindhi",
+      "slug": "mcv-scripted-sd-v24.0"
+    },
+    {
+      "id": "cmj8u3psy00p9nxxbteuimqbt",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3psy00p9nxxbteuimqbt",
+      "lastmod": "2026-02-12T13:32:50.312Z",
+      "name": "Common Voice Scripted Speech 24.0 - Seri",
+      "slug": "mcv-scripted-sei-v24.0"
+    },
+    {
+      "id": "cmj8u3pt400pdnxxb7y6dtbza",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pt400pdnxxb7y6dtbza",
+      "lastmod": "2026-02-12T13:32:50.366Z",
+      "name": "Common Voice Scripted Speech 24.0 - Slovak",
+      "slug": "mcv-scripted-sk-v24.0"
+    },
+    {
+      "id": "cmj8u3pta00phnxxbsw61jb2r",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pta00phnxxbsw61jb2r",
+      "lastmod": "2026-02-12T13:32:50.330Z",
+      "name": "Common Voice Scripted Speech 24.0 - Saraiki",
+      "slug": "mcv-scripted-skr-v24.0"
+    },
+    {
+      "id": "cmj8u3pti00plnxxbhsgn2nek",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pti00plnxxbhsgn2nek",
+      "lastmod": "2026-02-12T13:32:50.336Z",
+      "name": "Common Voice Scripted Speech 24.0 - Slovenian",
+      "slug": "mcv-scripted-sl-v24.0"
+    },
+    {
+      "id": "cmj8u3ptn00ppnxxbr4rq2gpq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3ptn00ppnxxbr4rq2gpq",
+      "lastmod": "2026-02-12T13:32:50.373Z",
+      "name": "Common Voice Scripted Speech 24.0 - Albanian",
+      "slug": "mcv-scripted-sq-v24.0"
+    },
+    {
+      "id": "cmj8u3pts00ptnxxbjh4x5z2f",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pts00ptnxxbjh4x5z2f",
+      "lastmod": "2026-02-12T13:32:50.380Z",
+      "name": "Common Voice Scripted Speech 24.0 - Serbian",
+      "slug": "mcv-scripted-sr-v24.0"
+    },
+    {
+      "id": "cmj8u3pty00pxnxxbqlp2b3lq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pty00pxnxxbqlp2b3lq",
+      "lastmod": "2026-02-12T13:32:50.342Z",
+      "name": "Common Voice Scripted Speech 24.0 - Siswati",
+      "slug": "mcv-scripted-ss-v24.0"
+    },
+    {
+      "id": "cmj8u3pu300q1nxxbcvbxrzvz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pu300q1nxxbcvbxrzvz",
+      "lastmod": "2026-02-12T13:32:50.348Z",
+      "name": "Common Voice Scripted Speech 24.0 - Sansi",
+      "slug": "mcv-scripted-ssi-v24.0"
+    },
+    {
+      "id": "cmj8u3pu900q5nxxbgowmv5mg",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pu900q5nxxbgowmv5mg",
+      "lastmod": "2026-02-12T13:32:50.386Z",
+      "name": "Common Voice Scripted Speech 24.0 - Southern Sotho",
+      "slug": "mcv-scripted-st-v24.0"
+    },
+    {
+      "id": "cmj8u3pud00q9nxxbcmq6uz24",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pud00q9nxxbcmq6uz24",
+      "lastmod": "2026-02-12T13:32:50.393Z",
+      "name": "Common Voice Scripted Speech 24.0 - Swedish",
+      "slug": "mcv-scripted-sv-SE-v24.0"
+    },
+    {
+      "id": "cmj8u3puk00qdnxxb7ng2huuw",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3puk00qdnxxb7ng2huuw",
+      "lastmod": "2026-02-12T13:32:50.355Z",
+      "name": "Common Voice Scripted Speech 24.0 - Svan",
+      "slug": "mcv-scripted-sva-v24.0"
+    },
+    {
+      "id": "cmj8u3puq00qhnxxbg26y0owu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3puq00qhnxxbg26y0owu",
+      "lastmod": "2026-02-12T13:32:50.361Z",
+      "name": "Common Voice Scripted Speech 24.0 - Swahili",
+      "slug": "mcv-scripted-sw-v24.0"
+    },
+    {
+      "id": "cmj8u3puw00qlnxxb8rponho5",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3puw00qlnxxb8rponho5",
+      "lastmod": "2026-02-12T13:32:50.398Z",
+      "name": "Common Voice Scripted Speech 24.0 - Sakizaya",
+      "slug": "mcv-scripted-szy-v24.0"
+    },
+    {
+      "id": "cmj8u3pv200qpnxxbgpfrn7la",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pv200qpnxxbgpfrn7la",
+      "lastmod": "2026-02-12T13:32:50.404Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tamil",
+      "slug": "mcv-scripted-ta-v24.0"
+    },
+    {
+      "id": "cmj8u3pv900qtnxxbgu7dsznz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pv900qtnxxbgu7dsznz",
+      "lastmod": "2026-02-12T13:32:50.415Z",
+      "name": "Common Voice Scripted Speech 24.0 - Central Tarahumara",
+      "slug": "mcv-scripted-tar-v24.0"
+    },
+    {
+      "id": "cmj8u3pve00qxnxxb7ze58go5",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pve00qxnxxb7ze58go5",
+      "lastmod": "2026-02-12T13:32:50.421Z",
+      "name": "Common Voice Scripted Speech 24.0 - Atayal",
+      "slug": "mcv-scripted-tay-v24.0"
+    },
+    {
+      "id": "cmj8u3pvk00r1nxxb4253hvun",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pvk00r1nxxb4253hvun",
+      "lastmod": "2026-02-12T13:32:50.410Z",
+      "name": "Common Voice Scripted Speech 24.0 - Telugu",
+      "slug": "mcv-scripted-te-v24.0"
+    },
+    {
+      "id": "cmj8u3pvq00r5nxxbr5apj6gl",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pvq00r5nxxbr5apj6gl",
+      "lastmod": "2026-02-12T13:32:50.470Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tajik",
+      "slug": "mcv-scripted-tg-v24.0"
+    },
+    {
+      "id": "cmj8u3pvx00r9nxxb1yo5z53z",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pvx00r9nxxb1yo5z53z",
+      "lastmod": "2026-02-12T13:32:50.427Z",
+      "name": "Common Voice Scripted Speech 24.0 - Thai",
+      "slug": "mcv-scripted-th-v24.0"
+    },
+    {
+      "id": "cmj8u3pw300rdnxxb0kmsu74e",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pw300rdnxxb0kmsu74e",
+      "lastmod": "2026-02-12T13:32:50.434Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tigrinya",
+      "slug": "mcv-scripted-ti-v24.0"
+    },
+    {
+      "id": "cmj8u3pw900rhnxxbcytlu2a3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pw900rhnxxbcytlu2a3",
+      "lastmod": "2026-02-12T13:32:50.478Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tigre",
+      "slug": "mcv-scripted-tig-v24.0"
+    },
+    {
+      "id": "cmj8u3pwf00rlnxxbehqf9bfv",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pwf00rlnxxbehqf9bfv",
+      "lastmod": "2026-02-12T13:32:50.484Z",
+      "name": "Common Voice Scripted Speech 24.0 - Turkmen",
+      "slug": "mcv-scripted-tk-v24.0"
+    },
+    {
+      "id": "cmj8u3pwm00rpnxxba8o4324z",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pwm00rpnxxba8o4324z",
+      "lastmod": "2026-02-12T13:32:50.447Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tlingit",
+      "slug": "mcv-scripted-tli-v24.0"
+    },
+    {
+      "id": "cmj8u3pwt00rtnxxbb6esq4kr",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pwt00rtnxxbb6esq4kr",
+      "lastmod": "2026-02-12T13:32:50.452Z",
+      "name": "Common Voice Scripted Speech 24.0 - Setswana",
+      "slug": "mcv-scripted-tn-v24.0"
+    },
+    {
+      "id": "cmj8u3pwz00rxnxxbto7g35nq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pwz00rxnxxbto7g35nq",
+      "lastmod": "2026-02-12T13:32:50.491Z",
+      "name": "Common Voice Scripted Speech 24.0 - Toki Pona",
+      "slug": "mcv-scripted-tok-v24.0"
+    },
+    {
+      "id": "cmj8u3px500s1nxxb4qh79iqr",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3px500s1nxxb4qh79iqr",
+      "lastmod": "2026-02-12T13:32:50.497Z",
+      "name": "Common Voice Scripted Speech 24.0 - Turkish",
+      "slug": "mcv-scripted-tr-v24.0"
+    },
+    {
+      "id": "cmj8u3pxa00s5nxxb10aqivi7",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pxa00s5nxxb10aqivi7",
+      "lastmod": "2026-02-12T13:32:50.457Z",
+      "name": "Common Voice Scripted Speech 24.0 - Seediq",
+      "slug": "mcv-scripted-trv-v24.0"
+    },
+    {
+      "id": "cmj8u3pxi00s9nxxb5z24s8ns",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pxi00s9nxxb5z24s8ns",
+      "lastmod": "2026-02-12T13:32:50.463Z",
+      "name": "Common Voice Scripted Speech 24.0 - Torwali",
+      "slug": "mcv-scripted-trw-v24.0"
+    },
+    {
+      "id": "cmj8u3pxn00sdnxxbqrhr4i71",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pxn00sdnxxbqrhr4i71",
+      "lastmod": "2026-02-12T13:32:50.503Z",
+      "name": "Common Voice Scripted Speech 24.0 - Xitsonga",
+      "slug": "mcv-scripted-ts-v24.0"
+    },
+    {
+      "id": "cmj8u3pxt00shnxxbtpac4n4m",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pxt00shnxxbtpac4n4m",
+      "lastmod": "2026-02-12T13:32:50.509Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tatar",
+      "slug": "mcv-scripted-tt-v24.0"
+    },
+    {
+      "id": "cmj8u3pxy00slnxxbp9y58rwl",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pxy00slnxxbp9y58rwl",
+      "lastmod": "2026-02-12T13:32:50.521Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tupuri",
+      "slug": "mcv-scripted-tui-v24.0"
+    },
+    {
+      "id": "cmj8u3py300spnxxbetaoimji",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3py300spnxxbetaoimji",
+      "lastmod": "2026-02-12T13:32:50.527Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tunen",
+      "slug": "mcv-scripted-tvu-v24.0"
+    },
+    {
+      "id": "cmj8u3py800stnxxbljgesvle",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3py800stnxxbljgesvle",
+      "lastmod": "2026-02-12T13:32:50.515Z",
+      "name": "Common Voice Scripted Speech 24.0 - Twi",
+      "slug": "mcv-scripted-tw-v24.0"
+    },
+    {
+      "id": "cmj8u3pye00sxnxxbt218ft3r",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pye00sxnxxbt218ft3r",
+      "lastmod": "2026-02-12T13:32:50.571Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ouldémé",
+      "slug": "mcv-scripted-udl-v24.0"
+    },
+    {
+      "id": "cmj8u3pyk00t1nxxb9b2c8xc4",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pyk00t1nxxb9b2c8xc4",
+      "lastmod": "2026-02-12T13:32:50.533Z",
+      "name": "Common Voice Scripted Speech 24.0 - Uyghur",
+      "slug": "mcv-scripted-ug-v24.0"
+    },
+    {
+      "id": "cmj8u3pys00t5nxxb56wugqgq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pys00t5nxxb56wugqgq",
+      "lastmod": "2026-02-12T13:32:50.538Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ukrainian",
+      "slug": "mcv-scripted-uk-v24.0"
+    },
+    {
+      "id": "cmj8u3pz600t9nxxbz9l2ck2n",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pz600t9nxxbz9l2ck2n",
+      "lastmod": "2026-02-12T13:32:50.577Z",
+      "name": "Common Voice Scripted Speech 24.0 - Urdu",
+      "slug": "mcv-scripted-ur-v24.0"
+    },
+    {
+      "id": "cmj8u3pzd00tdnxxbnkiflxa8",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pzd00tdnxxbnkiflxa8",
+      "lastmod": "2026-02-12T13:32:50.585Z",
+      "name": "Common Voice Scripted Speech 24.0 - Ushojo",
+      "slug": "mcv-scripted-ush-v24.0"
+    },
+    {
+      "id": "cmj8u3pzl00thnxxbty4ixxxu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pzl00thnxxbty4ixxxu",
+      "lastmod": "2026-02-12T13:32:50.545Z",
+      "name": "Common Voice Scripted Speech 24.0 - Uzbek",
+      "slug": "mcv-scripted-uz-v24.0"
+    },
+    {
+      "id": "cmj8u3pzq00tlnxxbzyutb3db",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pzq00tlnxxbzyutb3db",
+      "lastmod": "2026-02-12T13:32:50.552Z",
+      "name": "Common Voice Scripted Speech 24.0 - Huarijio",
+      "slug": "mcv-scripted-var-v24.0"
+    },
+    {
+      "id": "cmj8u3pzw00tpnxxb0qgx6dpb",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3pzw00tpnxxb0qgx6dpb",
+      "lastmod": "2026-02-12T13:32:50.591Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tshivenda",
+      "slug": "mcv-scripted-ve-v24.0"
+    },
+    {
+      "id": "cmj8u3q0300ttnxxbzedg83wq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q0300ttnxxbzedg83wq",
+      "lastmod": "2026-02-12T13:32:50.597Z",
+      "name": "Common Voice Scripted Speech 24.0 - Vietnamese",
+      "slug": "mcv-scripted-vi-v24.0"
+    },
+    {
+      "id": "cmj8u3q0900txnxxb5604b08a",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q0900txnxxb5604b08a",
+      "lastmod": "2026-02-12T13:32:50.558Z",
+      "name": "Common Voice Scripted Speech 24.0 - Votic",
+      "slug": "mcv-scripted-vot-v24.0"
+    },
+    {
+      "id": "cmj8u3q0g00u1nxxbrhbd36re",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q0g00u1nxxbrhbd36re",
+      "lastmod": "2026-02-12T13:32:50.564Z",
+      "name": "Common Voice Scripted Speech 24.0 - Wakhi",
+      "slug": "mcv-scripted-wbl-v24.0"
+    },
+    {
+      "id": "cmj8u3q0l00u5nxxbwzzsmmbd",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q0l00u5nxxbwzzsmmbd",
+      "lastmod": "2026-02-12T13:32:50.603Z",
+      "name": "Common Voice Scripted Speech 24.0 - Cameroon Pidgin",
+      "slug": "mcv-scripted-wes-v24.0"
+    },
+    {
+      "id": "cmj8u3q0q00u9nxxbbp0wapwn",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q0q00u9nxxbbp0wapwn",
+      "lastmod": "2026-02-12T13:32:50.611Z",
+      "name": "Common Voice Scripted Speech 24.0 - Xhosa",
+      "slug": "mcv-scripted-xh-v24.0"
+    },
+    {
+      "id": "cmj8u3q0x00udnxxbttqxkjn3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q0x00udnxxbttqxkjn3",
+      "lastmod": "2026-02-12T13:32:50.624Z",
+      "name": "Common Voice Scripted Speech 24.0 - Khetrani",
+      "slug": "mcv-scripted-xhe-v24.0"
+    },
+    {
+      "id": "cmj8u3q1400uhnxxb231idapl",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q1400uhnxxb231idapl",
+      "lastmod": "2026-02-12T13:32:50.632Z",
+      "name": "Common Voice Scripted Speech 24.0 - Kalkoti",
+      "slug": "mcv-scripted-xka-v24.0"
+    },
+    {
+      "id": "cmj8u3q1a00ulnxxb2oov7xi6",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q1a00ulnxxb2oov7xi6",
+      "lastmod": "2026-02-12T13:32:50.617Z",
+      "name": "Common Voice Scripted Speech 24.0 - Mingrelian",
+      "slug": "mcv-scripted-xmf-v24.0"
+    },
+    {
+      "id": "cmj8u3q1f00upnxxbby2gjww0",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q1f00upnxxbby2gjww0",
+      "lastmod": "2026-02-12T13:32:50.676Z",
+      "name": "Common Voice Scripted Speech 24.0 - Yaqui",
+      "slug": "mcv-scripted-yaq-v24.0"
+    },
+    {
+      "id": "cmj8u3q1m00utnxxbf44xoq8o",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q1m00utnxxbf44xoq8o",
+      "lastmod": "2026-02-12T13:32:50.638Z",
+      "name": "Common Voice Scripted Speech 24.0 - Nuasue",
+      "slug": "mcv-scripted-yav-v24.0"
+    },
+    {
+      "id": "cmj8u3q1s00uxnxxbtcrlchs3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q1s00uxnxxbtcrlchs3",
+      "lastmod": "2026-02-12T13:32:50.645Z",
+      "name": "Common Voice Scripted Speech 24.0 - Yadgha",
+      "slug": "mcv-scripted-ydg-v24.0"
+    },
+    {
+      "id": "cmj8u3q1z00v1nxxb683zu2gw",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q1z00v1nxxb683zu2gw",
+      "lastmod": "2026-02-12T13:32:50.682Z",
+      "name": "Common Voice Scripted Speech 24.0 - Yiddish",
+      "slug": "mcv-scripted-yi-v24.0"
+    },
+    {
+      "id": "cmj8u3q2500v5nxxb6xfa6jn5",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q2500v5nxxb6xfa6jn5",
+      "lastmod": "2026-02-12T13:32:50.690Z",
+      "name": "Common Voice Scripted Speech 24.0 - Yoruba",
+      "slug": "mcv-scripted-yo-v24.0"
+    },
+    {
+      "id": "cmj8u3q2b00v9nxxborfkm824",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q2b00v9nxxborfkm824",
+      "lastmod": "2026-02-12T13:32:50.651Z",
+      "name": "Common Voice Scripted Speech 24.0 - Cantonese",
+      "slug": "mcv-scripted-yue-v24.0"
+    },
+    {
+      "id": "cmj8u3q2h00vdnxxbxwu0swv4",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q2h00vdnxxbxwu0swv4",
+      "lastmod": "2026-02-12T13:32:50.657Z",
+      "name": "Common Voice Scripted Speech 24.0 - Tamazight",
+      "slug": "mcv-scripted-zgh-v24.0"
+    },
+    {
+      "id": "cmj8u3q2n00vhnxxbzrjcugwc",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q2n00vhnxxbzrjcugwc",
+      "lastmod": "2026-02-12T13:32:50.698Z",
+      "name": "Common Voice Scripted Speech 24.0 - Chinese (China)",
+      "slug": "mcv-scripted-zh-CN-v24.0"
+    },
+    {
+      "id": "cmj8u3q2s00vlnxxb1jrujrxf",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q2s00vlnxxb1jrujrxf",
+      "lastmod": "2026-02-12T13:32:50.704Z",
+      "name": "Common Voice Scripted Speech 24.0 - Chinese (Hong Kong)",
+      "slug": "mcv-scripted-zh-HK-v24.0"
+    },
+    {
+      "id": "cmj8u3q2y00vpnxxbv6pv55hn",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q2y00vpnxxbv6pv55hn",
+      "lastmod": "2026-02-12T13:32:50.663Z",
+      "name": "Common Voice Scripted Speech 24.0 - Chinese (Taiwan)",
+      "slug": "mcv-scripted-zh-TW-v24.0"
+    },
+    {
+      "id": "cmj8u3q3400vtnxxbk12lq8ht",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q3400vtnxxbk12lq8ht",
+      "lastmod": "2026-02-12T13:32:50.669Z",
+      "name": "Common Voice Scripted Speech 24.0 - Copainalá Zoque",
+      "slug": "mcv-scripted-zoc-v24.0"
+    },
+    {
+      "id": "cmj8u3q3b00vxnxxbilr9nfyu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q3b00vxnxxbilr9nfyu",
+      "lastmod": "2026-02-12T13:32:50.711Z",
+      "name": "Common Voice Scripted Speech 24.0 - Zulu",
+      "slug": "mcv-scripted-zu-v24.0"
+    },
+    {
+      "id": "cmj8u3q3h00w1nxxbmbawji1c",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u3q3h00w1nxxbmbawji1c",
+      "lastmod": "2026-02-12T13:32:50.717Z",
+      "name": "Common Voice Scripted Speech 24.0 - Zaza",
+      "slug": "mcv-scripted-zza-v24.0"
+    },
+    {
+      "id": "cmj8u48640001nxzp9br9v3d8",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48640001nxzp9br9v3d8",
+      "lastmod": "2026-02-12T13:32:49.205Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Arvanitika",
+      "slug": "mcv-spontaneous-aat-v2.0"
+    },
+    {
+      "id": "cmj8u486h0005nxzpobsdpnp0",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u486h0005nxzpobsdpnp0",
+      "lastmod": "2026-02-12T13:32:49.213Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Adyghe",
+      "slug": "mcv-spontaneous-ady-v2.0"
+    },
+    {
+      "id": "cmj8u48770009nxzp6rcar8fs",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48770009nxzp6rcar8fs",
+      "lastmod": "2026-02-12T13:32:49.219Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Gheg Albanian",
+      "slug": "mcv-spontaneous-aln-v2.0"
+    },
+    {
+      "id": "cmj8u487i000dnxzpw4j8lt6y",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u487i000dnxzpw4j8lt6y",
+      "lastmod": "2026-02-12T13:32:49.226Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Aragonese",
+      "slug": "mcv-spontaneous-an-v2.0"
+    },
+    {
+      "id": "cmj8u487p000hnxzpeat2kk6y",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u487p000hnxzpeat2kk6y",
+      "lastmod": "2026-02-12T13:32:49.232Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Bashkir",
+      "slug": "mcv-spontaneous-ba-v2.0"
+    },
+    {
+      "id": "cmj8u487v000lnxzpw6odo2dt",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u487v000lnxzpw6odo2dt",
+      "lastmod": "2026-02-12T13:32:49.238Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Basaa",
+      "slug": "mcv-spontaneous-bas-v2.0"
+    },
+    {
+      "id": "cmj8u4882000pnxzpw273de31",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u4882000pnxzpw273de31",
+      "lastmod": "2026-02-12T13:32:49.244Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Betawi",
+      "slug": "mcv-spontaneous-bew-v2.0"
+    },
+    {
+      "id": "cmj8u4888000tnxzpeks1725l",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u4888000tnxzpeks1725l",
+      "lastmod": "2026-02-12T13:32:49.250Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Breton",
+      "slug": "mcv-spontaneous-br-v2.0"
+    },
+    {
+      "id": "cmj8u488e000xnxzpxnazyy5b",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u488e000xnxzpxnazyy5b",
+      "lastmod": "2026-02-12T13:32:49.255Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Bodo",
+      "slug": "mcv-spontaneous-brx-v2.0"
+    },
+    {
+      "id": "cmj8u488l0011nxzp7m34uy8y",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u488l0011nxzp7m34uy8y",
+      "lastmod": "2026-02-12T13:32:49.262Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Sabah Bisaya",
+      "slug": "mcv-spontaneous-bsy-v2.0"
+    },
+    {
+      "id": "cmj8u488r0015nxzp12weltxj",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u488r0015nxzp12weltxj",
+      "lastmod": "2026-02-12T13:32:49.271Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Bukusu",
+      "slug": "mcv-spontaneous-bxk-v2.0"
+    },
+    {
+      "id": "cmj8u488y0019nxzp3bcvjo3c",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u488y0019nxzp3bcvjo3c",
+      "lastmod": "2026-02-12T13:32:49.281Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Catalan",
+      "slug": "mcv-spontaneous-ca-v2.0"
+    },
+    {
+      "id": "cmj8u4895001dnxzptp6jzf4m",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u4895001dnxzptp6jzf4m",
+      "lastmod": "2026-02-12T13:32:49.287Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Eastern Min",
+      "slug": "mcv-spontaneous-cdo-v2.0"
+    },
+    {
+      "id": "cmj8u489d001hnxzpha62b6z4",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u489d001hnxzpha62b6z4",
+      "lastmod": "2026-02-12T13:32:49.293Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Chiga",
+      "slug": "mcv-spontaneous-cgg-v2.0"
+    },
+    {
+      "id": "cmj8u489i001lnxzpmk7txdi4",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u489i001lnxzpmk7txdi4",
+      "lastmod": "2026-02-12T13:32:49.300Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Heng Hua",
+      "slug": "mcv-spontaneous-cpx-v2.0"
+    },
+    {
+      "id": "cmj8u489p001pnxzpsct7boob",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u489p001pnxzpsct7boob",
+      "lastmod": "2026-02-12T13:32:49.826Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Welsh",
+      "slug": "mcv-spontaneous-cy-v2.0"
+    },
+    {
+      "id": "cmj8u489v001tnxzp7x8ayacr",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u489v001tnxzp7x8ayacr",
+      "lastmod": "2026-02-12T13:32:50.723Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - German",
+      "slug": "mcv-spontaneous-de-v2.0"
+    },
+    {
+      "id": "cmj8u48a1001xnxzp0kw1gj7b",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48a1001xnxzp0kw1gj7b",
+      "lastmod": "2026-02-12T13:32:50.730Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Cypriot Greek",
+      "slug": "mcv-spontaneous-el-CY-v2.0"
+    },
+    {
+      "id": "cmj8u48a70021nxzpqvs3sisu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48a70021nxzpqvs3sisu",
+      "lastmod": "2026-02-12T13:32:50.736Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Spanish",
+      "slug": "mcv-spontaneous-es-v2.0"
+    },
+    {
+      "id": "cmj8u48ad0025nxzp2lfaluce",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48ad0025nxzp2lfaluce",
+      "lastmod": "2026-02-12T13:32:50.743Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - French",
+      "slug": "mcv-spontaneous-fr-v2.0"
+    },
+    {
+      "id": "cmj8u48ai0029nxzp3figruz1",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48ai0029nxzp3figruz1",
+      "lastmod": "2026-02-12T13:32:49.421Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Frisian",
+      "slug": "mcv-spontaneous-fy-NL-v2.0"
+    },
+    {
+      "id": "cmj8u48ao002dnxzpa5fthrmp",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48ao002dnxzpa5fthrmp",
+      "lastmod": "2026-02-12T13:32:49.079Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Irish",
+      "slug": "mcv-spontaneous-ga-IE-v2.0"
+    },
+    {
+      "id": "cmj8u48au002hnxzpjsw02mwu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48au002hnxzpjsw02mwu",
+      "lastmod": "2026-02-12T13:32:48.971Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Galician",
+      "slug": "mcv-spontaneous-gl-v2.0"
+    },
+    {
+      "id": "cmj8u48az002lnxzp4b47bq1i",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48az002lnxzp4b47bq1i",
+      "lastmod": "2026-02-12T13:32:49.097Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Alsatian",
+      "slug": "mcv-spontaneous-gsw-v2.0"
+    },
+    {
+      "id": "cmj8u48b4002pnxzp5z4brldq",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48b4002pnxzp5z4brldq",
+      "lastmod": "2026-02-12T13:32:49.104Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Manx",
+      "slug": "mcv-spontaneous-gv-v2.0"
+    },
+    {
+      "id": "cmj8u48ba002tnxzpj0b2t3t0",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48ba002tnxzpj0b2t3t0",
+      "lastmod": "2026-02-12T13:32:48.981Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Gorani",
+      "slug": "mcv-spontaneous-hac-v2.0"
+    },
+    {
+      "id": "cmj8u48bg002xnxzpa14uifq7",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48bg002xnxzpa14uifq7",
+      "lastmod": "2026-02-12T13:32:48.988Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Wixárika",
+      "slug": "mcv-spontaneous-hch-v2.0"
+    },
+    {
+      "id": "cmj8u48bo0031nxzpypyrqd0i",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48bo0031nxzpypyrqd0i",
+      "lastmod": "2026-02-12T13:32:48.994Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Georgian",
+      "slug": "mcv-spontaneous-ka-v2.0"
+    },
+    {
+      "id": "cmj8u48bv0035nxzp5p53g4je",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48bv0035nxzp5p53g4je",
+      "lastmod": "2026-02-12T13:32:49.001Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Kabardian",
+      "slug": "mcv-spontaneous-kbd-v2.0"
+    },
+    {
+      "id": "cmj8u48c10039nxzp0yjb2hef",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48c10039nxzp0yjb2hef",
+      "lastmod": "2026-02-12T13:32:49.008Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Nubi",
+      "slug": "mcv-spontaneous-kcn-v2.0"
+    },
+    {
+      "id": "cmj8u48c6003dnxzpy72jxr8g",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48c6003dnxzpy72jxr8g",
+      "lastmod": "2026-02-12T13:32:50.822Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Konzo",
+      "slug": "mcv-spontaneous-koo-v2.0"
+    },
+    {
+      "id": "cmj8u48cc003hnxzpsh51mz9i",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48cc003hnxzpsh51mz9i",
+      "lastmod": "2026-02-12T13:32:50.809Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Kelabit",
+      "slug": "mcv-spontaneous-kzi-v2.0"
+    },
+    {
+      "id": "cmj8u48ch003lnxzp86j12afi",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48ch003lnxzp86j12afi",
+      "lastmod": "2026-02-12T13:32:50.815Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Lendu",
+      "slug": "mcv-spontaneous-led-v2.0"
+    },
+    {
+      "id": "cmj8u48d0003pnxzpmm01l7os",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48d0003pnxzpmm01l7os",
+      "lastmod": "2026-02-12T13:32:49.014Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Ligurian",
+      "slug": "mcv-spontaneous-lij-v2.0"
+    },
+    {
+      "id": "cmj8u48d9003tnxzp9m69p2ca",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48d9003tnxzp9m69p2ca",
+      "lastmod": "2026-02-12T13:32:49.028Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Kenyi",
+      "slug": "mcv-spontaneous-lke-v2.0"
+    },
+    {
+      "id": "cmj8u48dg003xnxzp4al7n65z",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48dg003xnxzp4al7n65z",
+      "lastmod": "2026-02-12T13:32:49.036Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Thur",
+      "slug": "mcv-spontaneous-lth-v2.0"
+    },
+    {
+      "id": "cmj8u48dm0041nxzp1ps97mh4",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48dm0041nxzp1ps97mh4",
+      "lastmod": "2026-02-12T13:32:49.042Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Latvian",
+      "slug": "mcv-spontaneous-lv-v2.0"
+    },
+    {
+      "id": "cmj8u48dt0045nxzp9i0ze2qt",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48dt0045nxzp9i0ze2qt",
+      "lastmod": "2026-02-12T13:32:49.049Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Mixteco Yucuhiti",
+      "slug": "mcv-spontaneous-meh-v2.0"
+    },
+    {
+      "id": "cmj8u48dz0049nxzp5dgbpy9b",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48dz0049nxzp5dgbpy9b",
+      "lastmod": "2026-02-12T13:32:49.061Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Melanau",
+      "slug": "mcv-spontaneous-mel-v2.0"
+    },
+    {
+      "id": "cmj8u48e6004dnxzpjb1rmo7e",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48e6004dnxzpjb1rmo7e",
+      "lastmod": "2026-02-12T13:32:49.066Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Michoacán Mazahua",
+      "slug": "mcv-spontaneous-mmc-v2.0"
+    },
+    {
+      "id": "cmj8u48ec004hnxzp5npch3xa",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48ec004hnxzp5npch3xa",
+      "lastmod": "2026-02-12T13:32:49.073Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Bahasa Malay",
+      "slug": "mcv-spontaneous-ms-MY-v2.0"
+    },
+    {
+      "id": "cmj8u48ej004lnxzp8sdt5z8c",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48ej004lnxzp8sdt5z8c",
+      "lastmod": "2026-02-12T13:32:49.086Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Sabah Malay",
+      "slug": "mcv-spontaneous-msi-v2.0"
+    },
+    {
+      "id": "cmj8u48eo004pnxzp991piql1",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48eo004pnxzp991piql1",
+      "lastmod": "2026-02-12T13:32:49.092Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Western Penan",
+      "slug": "mcv-spontaneous-pne-v2.0"
+    },
+    {
+      "id": "cmj8u48et004tnxzps28psruc",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48et004tnxzps28psruc",
+      "lastmod": "2026-02-12T13:32:49.113Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Puno Quechua",
+      "slug": "mcv-spontaneous-qxp-v2.0"
+    },
+    {
+      "id": "cmj8u48ey004xnxzpphv4udzz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48ey004xnxzpphv4udzz",
+      "lastmod": "2026-02-12T13:32:49.118Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Russian",
+      "slug": "mcv-spontaneous-ru-v2.0"
+    },
+    {
+      "id": "cmj8u48f60051nxzplpe1elj4",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48f60051nxzplpe1elj4",
+      "lastmod": "2026-02-12T13:32:50.828Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Ruuli",
+      "slug": "mcv-spontaneous-ruc-v2.0"
+    },
+    {
+      "id": "cmj8u48fb0055nxzpqba4if8t",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48fb0055nxzpqba4if8t",
+      "lastmod": "2026-02-12T13:32:50.834Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Amba",
+      "slug": "mcv-spontaneous-rwm-v2.0"
+    },
+    {
+      "id": "cmj8u48fg0059nxzp1nhmykyr",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48fg0059nxzp1nhmykyr",
+      "lastmod": "2026-02-12T13:32:50.853Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Scots",
+      "slug": "mcv-spontaneous-sco-v2.0"
+    },
+    {
+      "id": "cmj8u48fp005dnxzpmf26m8xo",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48fp005dnxzpmf26m8xo",
+      "lastmod": "2026-02-12T13:32:49.124Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Serian Bidayuh",
+      "slug": "mcv-spontaneous-sdo-v2.0"
+    },
+    {
+      "id": "cmj8u48fu005hnxzp78hiv9ll",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48fu005hnxzp78hiv9ll",
+      "lastmod": "2026-02-12T13:32:50.841Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Sena",
+      "slug": "mcv-spontaneous-seh-v2.0"
+    },
+    {
+      "id": "cmj8u48g4005lnxzp98cpr7b2",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48g4005lnxzp98cpr7b2",
+      "lastmod": "2026-02-12T13:32:50.847Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Tashlhiyt",
+      "slug": "mcv-spontaneous-shi-v2.0"
+    },
+    {
+      "id": "cmj8u48ga005pnxzpmsz76k9o",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48ga005pnxzpmsz76k9o",
+      "lastmod": "2026-02-12T13:32:49.130Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Shona",
+      "slug": "mcv-spontaneous-sn-v2.0"
+    },
+    {
+      "id": "cmj8u48gg005tnxzp9wqdltrl",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48gg005tnxzp9wqdltrl",
+      "lastmod": "2026-02-12T13:32:49.137Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - snv",
+      "slug": "mcv-spontaneous-snv-v2.0"
+    },
+    {
+      "id": "cmj8u48gl005xnxzpqzvf4ovg",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48gl005xnxzpqzvf4ovg",
+      "lastmod": "2026-02-12T13:32:49.142Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Thai",
+      "slug": "mcv-spontaneous-th-v2.0"
+    },
+    {
+      "id": "cmj8u48gq0061nxzpvl67iu91",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48gq0061nxzpvl67iu91",
+      "lastmod": "2026-02-12T13:32:49.151Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Toba Qom",
+      "slug": "mcv-spontaneous-tob-v2.0"
+    },
+    {
+      "id": "cmj8u48gv0065nxzpb3y7vi7v",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48gv0065nxzpb3y7vi7v",
+      "lastmod": "2026-02-12T13:32:49.157Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Papantla Totonac",
+      "slug": "mcv-spontaneous-top-v2.0"
+    },
+    {
+      "id": "cmj8u48h10069nxzpo6tghopr",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48h10069nxzpo6tghopr",
+      "lastmod": "2026-02-12T13:32:50.749Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Turkish",
+      "slug": "mcv-spontaneous-tr-v2.0"
+    },
+    {
+      "id": "cmj8u48h7006dnxzp3y4uqb69",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48h7006dnxzp3y4uqb69",
+      "lastmod": "2026-02-12T13:32:49.163Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Rutoro",
+      "slug": "mcv-spontaneous-ttj-v2.0"
+    },
+    {
+      "id": "cmj8u48hc006hnxzprn4k1cxx",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48hc006hnxzprn4k1cxx",
+      "lastmod": "2026-02-12T13:32:49.170Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Kuku",
+      "slug": "mcv-spontaneous-ukv-v2.0"
+    },
+    {
+      "id": "cmj8u48hj006lnxzpnj14uhpz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48hj006lnxzpnj14uhpz",
+      "lastmod": "2026-02-12T13:32:49.177Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Ushojo",
+      "slug": "mcv-spontaneous-ush-v2.0"
+    },
+    {
+      "id": "cmj8u48hr006pnxzp3s43beqr",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmj8u48hr006pnxzp3s43beqr",
+      "lastmod": "2026-02-12T13:32:50.756Z",
+      "name": "Common Voice Spontaneous Speech 2.0 - Kenyah",
+      "slug": "mcv-spontaneous-xkl-v2.0"
+    },
+    {
+      "id": "cmjcc6g9z06c7mk07yolcdyjr",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmjcc6g9z06c7mk07yolcdyjr",
+      "lastmod": "2025-12-19T03:55:25.032Z",
+      "name": "Archivo de la Comisionada María de los Ángeles Guzmán García (COTAI Nuevo León / InfoNL)",
+      "slug": "archivo-de-la-comisionada-mar-a-de-los-n-86187fb6"
+    },
+    {
+      "id": "cmjepxo6t08nmmk07iauvua6v",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmjepxo6t08nmmk07iauvua6v",
+      "lastmod": "2026-01-18T18:10:35.013Z",
+      "name": "DhoNam: Dholuo Speech dataset",
+      "slug": "dhonam-dholuo-speech-dataset-b06e2acf"
+    },
+    {
+      "id": "cmjhe0xap09gamb078g9loi3q",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmjhe0xap09gamb078g9loi3q",
+      "lastmod": "2025-12-22T16:45:57.265Z",
+      "name": "Surmiran Newspaper Corpus",
+      "slug": "surmiran-newspaper-corpus-83df8952"
+    },
+    {
+      "id": "cmk19uruw39urmb07alqf493e",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmk19uruw39urmb07alqf493e",
+      "lastmod": "2026-01-05T14:44:35.336Z",
+      "name": "Mada Narratives",
+      "slug": "mada-narratives-26e080a9"
+    },
+    {
+      "id": "cmk1bb49f3htomk0760xg4cb6",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmk1bb49f3htomk0760xg4cb6",
+      "lastmod": "2026-01-05T15:25:17.523Z",
+      "name": "Balochi Academy Text Corpus",
+      "slug": "balochi-academy-text-corpus-548677b7"
+    },
+    {
+      "id": "cmk1bbz7o39v2mb07jjupvzud",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmk1bbz7o39v2mb07jjupvzud",
+      "lastmod": "2026-01-05T15:25:57.636Z",
+      "name": "Ewondo_Mbida-Mbani_ALCAM-MultimodalDataset",
+      "slug": "ewondo-mbida-mbani-alcam-multimodaldatas-d8d24c2f"
+    },
+    {
+      "id": "cmk1bdl0q39v6mb07gee6udp2",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmk1bdl0q39v6mb07gee6udp2",
+      "lastmod": "2026-01-05T15:27:12.554Z",
+      "name": "Spoken-Congolese-French-Dataset",
+      "slug": "spoken-congolese-french-dataset-a7614e44"
+    },
+    {
+      "id": "cmk1bfsez3htsmk07xfzaf9oe",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmk1bfsez3htsmk07xfzaf9oe",
+      "lastmod": "2026-01-08T22:16:59.388Z",
+      "name": "Sindh Line Publishers",
+      "slug": "sindh-line-publishers-ddac6f22"
+    },
+    {
+      "id": "cmk1bhogs3htwmk07wo7o9p6y",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmk1bhogs3htwmk07wo7o9p6y",
+      "lastmod": "2026-01-05T15:30:23.644Z",
+      "name": "Multilingual Religious Parallel Corpus (Kaleem Art Press)",
+      "slug": "multilingual-religious-parallel-corpus-k-1995af6e"
+    },
+    {
+      "id": "cmk40plhc001lmd07kwixjls0",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmk40plhc001lmd07kwixjls0",
+      "lastmod": "2026-01-08T22:16:59.388Z",
+      "name": "Vallader Newspaper Corpus",
+      "slug": "vallader-newspaper-corpus-ac66c889"
+    },
+    {
+      "id": "cmk70opha02yxnt072patcjnd",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmk70opha02yxnt072patcjnd",
+      "lastmod": "2026-01-09T15:14:32.831Z",
+      "name": "SI-NLI",
+      "slug": "si-nli-5c926f32"
+    },
+    {
+      "id": "cmk719jvs02z1nt07tjswt52s",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmk719jvs02z1nt07tjswt52s",
+      "lastmod": "2026-01-09T15:30:45.352Z",
+      "name": "Corpus of Panjebar Semangat Javanese-Language Magazine",
+      "slug": "corpus-of-panjebar-semangat-javanese-lan-1fe6d08a"
+    },
+    {
+      "id": "cmkcy8in2004umo0775mye43g",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkcy8in2004umo0775mye43g",
+      "lastmod": "2026-01-22T11:33:50.636Z",
+      "name": "Khmer ASR Cultural Dataset",
+      "slug": "khmer-asr-cultural-dataset-4e33cd05"
+    },
+    {
+      "id": "cmkfm6xtw00k2nv07oakesnix",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkfm6xtw00k2nv07oakesnix",
+      "lastmod": "2026-01-15T15:38:44.804Z",
+      "name": "DataTrust Africa: Speech Corpus of Public Radio Recordings from Northern Uganda",
+      "slug": "datatrust-africa-speech-corpus-of-public-84630945"
+    },
+    {
+      "id": "cmkfm9fbl00nto0070sdcrak2",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkfm9fbl00nto0070sdcrak2",
+      "lastmod": "2026-01-15T15:40:40.785Z",
+      "name": "Effect AI Scripted Speech 1.0 - English",
+      "slug": "effect-ai-scripted-speech-1-0-english-6feecf00"
+    },
+    {
+      "id": "cmkh2stj6004mmj0751rn8vq6",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkh2stj6004mmj0751rn8vq6",
+      "lastmod": "2026-01-28T15:16:46.439Z",
+      "name": "Luhya ASR data subset 70 hours",
+      "slug": "luhya-asr-data-subset-70-hours-dab9aa35"
+    },
+    {
+      "id": "cmkh3nwms0052nv07997y38zx",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkh3nwms0052nv07997y38zx",
+      "lastmod": "2026-01-19T07:42:27.128Z",
+      "name": "RFE/RL Tatar-Bashkir News Text Corpus",
+      "slug": "rfe-rl-tatar-bashkir-news-text-corpus-81671cd4"
+    },
+    {
+      "id": "cmkh3vrob005pmj07vgm55iha",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkh3vrob005pmj07vgm55iha",
+      "lastmod": "2026-01-16T16:41:42.876Z",
+      "name": "HESEIA Sentence Bias Dataset",
+      "slug": "heseia-sentence-bias-dataset-9caa8462"
+    },
+    {
+      "id": "cmkh9rso90076nv076jwxgjv3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkh9rso90076nv076jwxgjv3",
+      "lastmod": "2026-01-16T19:26:35.241Z",
+      "name": "English–Punjabi (Shahmukhi) Parallel Sentences Corpus (Mediamen Archives)",
+      "slug": "english-punjabi-shahmukhi-parallel-sente-b370d74f"
+    },
+    {
+      "id": "cmklbq9qt006mnw077t9lqh89",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmklbq9qt006mnw077t9lqh89",
+      "lastmod": "2026-01-19T15:32:27.989Z",
+      "name": "Compar:IA conversations",
+      "slug": "compar-ia-conversations-739ba6d7"
+    },
+    {
+      "id": "cmkmn6o6e0165mg07s9h542vt",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkmn6o6e0165mg07s9h542vt",
+      "lastmod": "2026-01-20T13:40:55.143Z",
+      "name": "Ficha de Documentación de Datos: Resoluciones InfoNL (Ponencia F. Guajardo)",
+      "slug": "ficha-de-documentaci-n-de-datos-resoluci-ff4a3e4c"
+    },
+    {
+      "id": "cmkmnb80w0177nw07iswxo3re",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkmnb80w0177nw07iswxo3re",
+      "lastmod": "2026-01-20T13:44:27.489Z",
+      "name": "Informes de Actividades InfoCDMX (Ponencia Laura Enríquez)",
+      "slug": "informes-de-actividades-infocdmx-ponenci-75e4bb75"
+    },
+    {
+      "id": "cmkmoepzx018wnw07cnkupls3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkmoepzx018wnw07cnkupls3",
+      "lastmod": "2026-01-20T14:15:10.366Z",
+      "name": "Ewondo_Fong_ALCAM-MultimodalDataset",
+      "slug": "ewondo-fong-alcam-multimodaldataset-c2ed5423"
+    },
+    {
+      "id": "cmko7havo02f5nw07rbwwhowe",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmko7havo02f5nw07rbwwhowe",
+      "lastmod": "2026-01-21T19:10:36.212Z",
+      "name": "Common Voice v24 English - en-AU subset for Everything Open 2026",
+      "slug": "common-voice-v24-english-en-au-subset-fo-0447e8a6"
+    },
+    {
+      "id": "cmkplyrln03jknw07u3iy35rm",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkplyrln03jknw07u3iy35rm",
+      "lastmod": "2026-01-22T15:30:05.243Z",
+      "name": "smoltalk-chinese",
+      "slug": "smoltalk-chinese-f9578b95"
+    },
+    {
+      "id": "cmkpon5es03j2mg07j2kppzn7",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkpon5es03j2mg07j2kppzn7",
+      "lastmod": "2026-01-22T16:45:02.116Z",
+      "name": " chinese-cosmopedia ",
+      "slug": "chinese-cosmopedia-ebb10d9d"
+    },
+    {
+      "id": "cmkpzexin005gnq07f2ujqtar",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkpzexin005gnq07f2ujqtar",
+      "lastmod": "2026-01-22T21:46:34.416Z",
+      "name": "Reading Recommendations List",
+      "slug": "reading-recommendations-list-698c2396"
+    },
+    {
+      "id": "cmkq08sqg005gmg07hshr5o5n",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkq08sqg005gmg07hshr5o5n",
+      "lastmod": "2026-01-22T22:09:47.896Z",
+      "name": "Sermon-Malaysian-English",
+      "slug": "sermon-malaysian-english-3be7a923"
+    },
+    {
+      "id": "cmkv32i5e02tumg07j79d3c35",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkv32i5e02tumg07j79d3c35",
+      "lastmod": "2026-01-26T11:27:43.970Z",
+      "name": "TidyVoiceX2_ASV",
+      "slug": "tidyvoicex2-asv-afb270fb"
+    },
+    {
+      "id": "cmkwuye570028mo074bppsmiw",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkwuye570028mo074bppsmiw",
+      "lastmod": "2026-02-06T13:52:56.659Z",
+      "name": "openbook.gr v1.0",
+      "slug": "openbook-gr-v1-0-9a38edb2"
+    },
+    {
+      "id": "cmkwvpu7s0032mo07jpk20pj1",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkwvpu7s0032mo07jpk20pj1",
+      "lastmod": "2026-02-06T13:52:50.817Z",
+      "name": "Greek PhD Theses Corpus v1.0",
+      "slug": "greek-phd-theses-corpus-v1-0-4bc0fc26"
+    },
+    {
+      "id": "cmkzhp64p00wlno07elrmt20y",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmkzhp64p00wlno07elrmt20y",
+      "lastmod": "2026-01-29T13:28:20.809Z",
+      "name": "Common Voice 7.0 - Single Word Target Segment",
+      "slug": "common-voice-7-0-single-word-target-segm-2ba5e0aa"
+    },
+    {
+      "id": "cml0wtouz026wno075aq7v201",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml0wtouz026wno075aq7v201",
+      "lastmod": "2026-01-30T13:19:32.123Z",
+      "name": "Hawrami Kurdish TTS dataset 1.0",
+      "slug": "hawrami-kurdish-tts-dataset-1-0-e054d33b"
+    },
+    {
+      "id": "cml161p08007ynt07iilell66",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml161p08007ynt07iilell66",
+      "lastmod": "2026-01-30T17:37:42.104Z",
+      "name": "TTS Muna Dataset",
+      "slug": "tts-muna-dataset-bc489540"
+    },
+    {
+      "id": "cml16bz8v008pnt07scfh66p5",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml16bz8v008pnt07scfh66p5",
+      "lastmod": "2026-01-30T17:45:41.935Z",
+      "name": "Bamun-French Parallel Corpus 1.1",
+      "slug": "bamun-french-parallel-corpus-1-1-64fe9ff1"
+    },
+    {
+      "id": "cml16fpkn009lnt07ht6k406o",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml16fpkn009lnt07ht6k406o",
+      "lastmod": "2026-01-30T17:48:36.024Z",
+      "name": "Ewondo-TTS-Dataset",
+      "slug": "ewondo-tts-dataset-62fe7b57"
+    },
+    {
+      "id": "cml5asbhf009sme079y6sa9hm",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml5asbhf009sme079y6sa9hm",
+      "lastmod": "2026-02-02T15:01:27.459Z",
+      "name": "Adamawa Fulfulde-French Parallel Corpus of Narratives 1.2",
+      "slug": "adamawa-fulfulde-french-parallel-corpus-083739f0"
+    },
+    {
+      "id": "cml5bgysg00bhkr07g23kewke",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml5bgysg00bhkr07g23kewke",
+      "lastmod": "2026-02-02T15:20:37.408Z",
+      "name": "TTS Javanese-Lumajang Dialect",
+      "slug": "tts-javanese-lumajang-dialect-e4bf8a25"
+    },
+    {
+      "id": "cml5bn4k900aame07u0rwidcg",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml5bn4k900aame07u0rwidcg",
+      "lastmod": "2026-02-02T15:25:24.825Z",
+      "name": "TTS Central Javanese ",
+      "slug": "tts-central-javanese-18f65d12"
+    },
+    {
+      "id": "cml5e30pd00eskr072e6a4rrh",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml5e30pd00eskr072e6a4rrh",
+      "lastmod": "2026-02-02T16:33:45.553Z",
+      "name": "Mandar Spontaneous Speech",
+      "slug": "mandar-spontaneous-speech-05a6e755"
+    },
+    {
+      "id": "cml6ywgg0007xmn07ppq469gt",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml6ywgg0007xmn07ppq469gt",
+      "lastmod": "2026-02-03T19:04:17.473Z",
+      "name": "TTS-Tolaki",
+      "slug": "tts-tolaki-d48cdaf8"
+    },
+    {
+      "id": "cml8gixh60087o407lfgoumgu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml8gixh60087o407lfgoumgu",
+      "lastmod": "2026-02-20T12:27:14.304Z",
+      "name": "Tatar Folklore Text Corpus",
+      "slug": "tatar-folklore-text-corpus-48dc1a6a"
+    },
+    {
+      "id": "cml9h5vgc01bxmn075sjeftek",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml9h5vgc01bxmn075sjeftek",
+      "lastmod": "2026-02-05T13:11:02.268Z",
+      "name": "Khmer ASR Cultural Dataset (V2)",
+      "slug": "khmer-asr-cultural-dataset-v2-60d7b361"
+    },
+    {
+      "id": "cml9hmuis017yo407k0p4i0t4",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml9hmuis017yo407k0p4i0t4",
+      "lastmod": "2026-02-05T13:24:14.212Z",
+      "name": "Betawi TTS of Cultural Language (BEKAL)",
+      "slug": "betawi-tts-of-cultural-language-bekal-1e3ae3f6"
+    },
+    {
+      "id": "cml9i39tx018so40750re64v6",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml9i39tx018so40750re64v6",
+      "lastmod": "2026-02-05T13:37:00.550Z",
+      "name": "TTS Sasak Language",
+      "slug": "tts-sasak-language-cee7a620"
+    },
+    {
+      "id": "cml9iik7d01efmn07miuf8yof",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cml9iik7d01efmn07miuf8yof",
+      "lastmod": "2026-02-05T13:48:53.833Z",
+      "name": "Bulu-TTS-Dataset 1.0",
+      "slug": "bulu-tts-dataset-1-0-3823b1e4"
+    },
+    {
+      "id": "cmlcqxjwl01t8mm07wz7c08bz",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlcqxjwl01t8mm07wz7c08bz",
+      "lastmod": "2026-02-08T00:46:36.277Z",
+      "name": "Zacatlán Tepetzintla Nahuatl Audio",
+      "slug": "zacatl-n-tepetzintla-nahuatl-audio-f7c7ae62"
+    },
+    {
+      "id": "cmlct0jzu01s4nv07023lv3m3",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlct0jzu01s4nv07023lv3m3",
+      "lastmod": "2026-02-10T19:04:37.803Z",
+      "name": "Zacatlán Tepetzintla Nahuatl Transcriptions",
+      "slug": "zacatl-n-tepetzintla-nahuatl-transcripti-6fdb6e0a"
+    },
+    {
+      "id": "cmlgm5a94008kny07nz2intus",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlgm5a94008kny07nz2intus",
+      "lastmod": "2026-02-10T13:04:56.104Z",
+      "name": "Jember Javanese Spontaneous Speech Corpus",
+      "slug": "jember-javanese-spontaneous-speech-corpu-d43a201a"
+    },
+    {
+      "id": "cmlgmf58l0096nx07tahttd6y",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlgmf58l0096nx07tahttd6y",
+      "lastmod": "2026-02-10T13:12:36.165Z",
+      "name": "TTS Javanese - Ngapak Dialect ",
+      "slug": "tts-javanese-ngapak-dialect-f82e30d0"
+    },
+    {
+      "id": "cmlgmqqul009lny07rhsa7aey",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlgmqqul009lny07rhsa7aey",
+      "lastmod": "2026-02-10T13:21:37.390Z",
+      "name": "Gawri (گاؤری) Magazine Corpus",
+      "slug": "gawri-magazine-corpus-df4c7a92"
+    },
+    {
+      "id": "cmlgrqom000jrnx07zywfpblb",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlgrqom000jrnx07zywfpblb",
+      "lastmod": "2026-02-10T15:41:32.569Z",
+      "name": "NAWA-E-WATAN Balochi Newspaper Corpus",
+      "slug": "nawa-e-watan-balochi-newspaper-corpus-31187552"
+    },
+    {
+      "id": "cmlgv2ucp0005nx07wwocbpux",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlgv2ucp0005nx07wwocbpux",
+      "lastmod": "2026-02-10T17:14:58.730Z",
+      "name": "Western Balochi Literature Cropus",
+      "slug": "western-balochi-literature-cropus-1d5c4ede"
+    },
+    {
+      "id": "cmlgx0s7j000jmg07pr4o635t",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlgx0s7j000jmg07pr4o635t",
+      "lastmod": "2026-02-10T18:09:21.871Z",
+      "name": "Talar (تلار) Barahui Magazine Corpus",
+      "slug": "talar-barahui-magazine-corpus-14d3c8b4"
+    },
+    {
+      "id": "cmlgx1kdz000nmg0744z7bbxl",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlgx1kdz000nmg0744z7bbxl",
+      "lastmod": "2026-02-10T18:09:58.392Z",
+      "name": "Brahui Research Work Corpus",
+      "slug": "brahui-research-work-corpus-9c358b47"
+    },
+    {
+      "id": "cmlgxhwha0015mg07ufma156h",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlgxhwha0015mg07ufma156h",
+      "lastmod": "2026-02-10T18:22:40.558Z",
+      "name": "Kohistani Shina Word List",
+      "slug": "kohistani-shina-word-list-a5d5915e"
+    },
+    {
+      "id": "cmlgxqdl80019mg07p0197u76",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlgxqdl80019mg07p0197u76",
+      "lastmod": "2026-02-10T18:29:15.980Z",
+      "name": "Khowar Word List",
+      "slug": "khowar-word-list-3067143b"
+    },
+    {
+      "id": "cmlgys7fj001knx077yktc0pd",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlgys7fj001knx077yktc0pd",
+      "lastmod": "2026-02-10T18:58:40.927Z",
+      "name": "Khowar Literature Corpus by FLI",
+      "slug": "khowar-literature-corpus-by-fli-c2da8984"
+    },
+    {
+      "id": "cmlgz1vdt001omg07rv25gwnu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlgz1vdt001omg07rv25gwnu",
+      "lastmod": "2026-02-10T19:06:11.873Z",
+      "name": "Gojri Literature Corpus",
+      "slug": "gojri-literature-corpus-4d4abecf"
+    },
+    {
+      "id": "cmll3ucql00mfmn07x1oeiygu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmll3ucql00mfmn07x1oeiygu",
+      "lastmod": "2026-02-17T16:11:46.519Z",
+      "name": "Trabajo de Campo - Huave",
+      "slug": "trabajo-de-campo-huave-6b3677c0"
+    },
+    {
+      "id": "cmll4i2n400l2l607uze0glc2",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmll4i2n400l2l607uze0glc2",
+      "lastmod": "2026-02-13T16:49:50.560Z",
+      "name": "ABC-Draco",
+      "slug": "abc-draco-392e0feb"
+    },
+    {
+      "id": "cmll4tg5200lcl6070hpil2b9",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmll4tg5200lcl6070hpil2b9",
+      "lastmod": "2026-02-13T16:58:41.271Z",
+      "name": "Eastern Balochi Literature Corpus",
+      "slug": "eastern-balochi-literature-corpus-54340617"
+    },
+    {
+      "id": "cmll4w0ln00nemn07axe7mj09",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmll4w0ln00nemn07axe7mj09",
+      "lastmod": "2026-02-16T04:36:44.182Z",
+      "name": "World Factbook (JSON)",
+      "slug": "world-factbook-json-8d154c08"
+    },
+    {
+      "id": "cmll54ryz00ljl60764ivc60m",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmll54ryz00ljl60764ivc60m",
+      "lastmod": "2026-02-13T17:07:29.819Z",
+      "name": "Manggarai Language for NLP",
+      "slug": "manggarai-language-for-nlp-b1afdc85"
+    },
+    {
+      "id": "cmlqmsm0d00pinx072m0mm3aw",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlqmsm0d00pinx072m0mm3aw",
+      "lastmod": "2026-02-17T13:20:46.189Z",
+      "name": "Finweb-Edu-Chinese-v2.2",
+      "slug": "finweb-edu-chinese-v2-2-17f2368a"
+    },
+    {
+      "id": "cmlqoukmi000hnr07cprdmxsc",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlqoukmi000hnr07cprdmxsc",
+      "lastmod": "2026-02-17T14:18:16.938Z",
+      "name": "Kyrgyz Folklore Text Corpus",
+      "slug": "kyrgyz-folklore-text-corpus-de2f27ff"
+    },
+    {
+      "id": "cmls27zfd0043ma07mxvsz8zg",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmls27zfd0043ma07mxvsz8zg",
+      "lastmod": "2026-02-18T13:20:23.833Z",
+      "name": "Zacatlán Tepetzintla Nahuatl ASR Dataset",
+      "slug": "zacatl-n-tepetzintla-nahuatl-asr-dataset-44ff2769"
+    },
+    {
+      "id": "cmlth9lrp000ams07yjdscjgu",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmlth9lrp000ams07yjdscjgu",
+      "lastmod": "2026-02-19T13:09:19.861Z",
+      "name": "ATLAS Cross-Lingual Transfer Matrix",
+      "slug": "atlas-cross-lingual-transfer-matrix-b3661347"
+    },
+    {
+      "id": "cmltnzkug0012mh07k1obic7v",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmltnzkug0012mh07k1obic7v",
+      "lastmod": "2026-02-19T16:17:29.416Z",
+      "name": "Bojonegoro Javanese TTS ",
+      "slug": "bojonegoro-javanese-tts-c4d23090"
+    },
+    {
+      "id": "cmm0n37lm000dnq07vpctdtc9",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmm0n37lm000dnq07vpctdtc9",
+      "lastmod": "2026-02-24T13:26:42.491Z",
+      "name": "GeoLogicQA: An LLM Benchmark for Logical Reasoning in Georgian",
+      "slug": "geologicqa-an-llm-benchmark-for-logical-612b08b2"
+    },
+    {
+      "id": "cmm0n4ro2000hnq079tknw6gv",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmm0n4ro2000hnq079tknw6gv",
+      "lastmod": "2026-02-24T13:27:55.154Z",
+      "name": "Dolgan Folklore Text Corpus",
+      "slug": "dolgan-folklore-text-corpus-60e226e0"
+    },
+    {
+      "id": "cmm0nm2ua000eo007qs4r3m8q",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmm0nm2ua000eo007qs4r3m8q",
+      "lastmod": "2026-02-24T13:41:22.786Z",
+      "name": "Polish Public Domain 20th Century Literature Text Corpus",
+      "slug": "polish-public-domain-20th-century-litera-6cb59f65"
+    },
+    {
+      "id": "cmm23jslb003znq07vdska54l",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmm23jslb003znq07vdska54l",
+      "lastmod": "2026-02-25T13:55:16.224Z",
+      "name": "Lingala-TTS-Dataset",
+      "slug": "lingala-tts-dataset-eef0dd61"
+    },
+    {
+      "id": "cmm27p8oy00auo3073kg3f1gj",
+      "url": "https://datacollective.mozillafoundation.org/datasets/cmm27p8oy00auo3073kg3f1gj",
+      "lastmod": "2026-02-25T15:51:28.834Z",
+      "name": "Persian VOA Corpus 2003-2008",
+      "slug": "persian-voa-corpus-2003-2008-70989868"
+    }
+  ]
+}

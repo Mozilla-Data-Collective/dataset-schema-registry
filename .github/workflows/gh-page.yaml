@@ -11,14 +11,60 @@ on:
       - mkdocs.yml
       - registry/**
   schedule:
-    - cron: '0 6 * * *'   # every day at 06:00 UTC
+    - cron: '0 5 * * *'   # sync registry every day at 05:00 UTC
+    - cron: '0 6 * * *'   # build docs every day at 06:00 UTC
   workflow_dispatch:
 
 jobs:
+  sync-registry:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    # Run on schedule (both crons trigger this, guard with time check is not
+    # needed — GitHub deduplicates; simpler to just always run it on schedule
+    # and dispatch).  Skip on plain push/PR to avoid unnecessary network calls.
+    if: >-
+      github.event_name == 'schedule' ||
+      github.event_name == 'workflow_dispatch'
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: "pip"
+
+      - name: Configure git
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Install requirements
+        run: pip install -e '.[scripts]'
+
+      - name: Sync dataset registry JSON
+        run: python src/dataset_schema_registry/sync_dataset_registry.py
+
+      - name: Commit updated registry JSON
+        run: |
+          git add docs/dataset_registry.json
+          git diff --cached --quiet || git commit -m "chore: update dataset registry [skip ci]"
+          git push
+
   docs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    needs: [sync-registry]
+    if: >-
+      always() && (
+        needs.sync-registry.result == 'success' ||
+        needs.sync-registry.result == 'skipped'
+      )
     steps:
       - name: Check out the repository
         uses: actions/checkout@v5
@@ -38,6 +84,9 @@ jobs:
 
       - name: Install requirements
         run: pip install -e '.[docs,scripts]'
+
+      - name: Pull latest commits (registry JSON may have just been pushed)
+        run: git pull --rebase origin main
 
       - name: Generate dataset coverage page
         run: python src/dataset_schema_registry/generate_coverage.py
