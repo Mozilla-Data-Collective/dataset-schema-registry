@@ -1,5 +1,5 @@
 site_name: MDC Dataset Schema Registry
-repo_url: github.com/Mozilla-Data-Collective/dataset-schema-registry
+repo_url: https://github.com/Mozilla-Data-Collective/dataset-schema-registry
 repo_name: dataset-schema-registry
 
 nav:
