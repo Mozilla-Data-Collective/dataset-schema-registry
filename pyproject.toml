@@ -4,6 +4,7 @@ build-backend = "uv_build"
 
 [project]
 name = "dataset-schema-registry"
+version = "0.1.0"
 dependencies = []
 authors = [
     { name="Mozilla Data Collective", email="mozilladatacollective@mozillafoundation.org"},
