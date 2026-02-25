@@ -40,7 +40,7 @@ jobs:
         run: pip install -e '.[docs,scripts]'
 
       - name: Generate dataset coverage page
-        run: python generate_coverage.py
+        run: python src/dataset_schema_registry/generate_coverage.py
 
       - name: Commit updated coverage page (push / schedule / dispatch only)
         if: ${{ github.event_name != 'pull_request' }}

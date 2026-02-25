@@ -38,10 +38,10 @@ https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registr
 
 ### Python example with basic error handling:
 
-Copy-paste the [fetch_schema.py](fetch_schema.py) file into your project and import it:
+Copy-paste the [fetch_schema.py](src/dataset_schema_registry/fetch_schema.py) file into your project and import it:
 
 ```python
-from fetch_schema import fetch_schema
+from src.dataset_schema_registry.fetch_schema import fetch_schema
 
 content = fetch_schema("cmihqro9h0238o207fgg5cmf6")
 ```

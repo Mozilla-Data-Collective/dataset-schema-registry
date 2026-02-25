@@ -67,11 +67,11 @@ https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registr
 ### Python — with error handling
 
 Copy the
-[`fetch_schema.py`](https://github.com/Mozilla-Data-Collective/dataset-schema-registry/blob/main/fetch_schema.py)
+[`fetch_schema.py`](https://github.com/Mozilla-Data-Collective/dataset-schema-registry/blob/main/src/dataset_schema_registry/fetch_schema.py)
 helper into your project:
 
 ```python
-from fetch_schema import fetch_schema
+from src.dataset_schema_registry.fetch_schema import fetch_schema
 
 content = fetch_schema("cmihqro9h0238o207fgg5cmf6")
 ```
