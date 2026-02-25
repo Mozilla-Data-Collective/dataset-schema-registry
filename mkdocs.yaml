@@ -4,7 +4,7 @@ repo_name: dataset-schema-registry
 
 nav:
   - Home: README.md
-  - Dataset Coverage: dataset-coverage.md
+  - Dataset Coverage: docs/dataset-coverage.md
 
 theme:
   icon:

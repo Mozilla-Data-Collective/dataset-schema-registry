@@ -9,6 +9,7 @@ dependencies = []
 authors = [
     { name="Mozilla Data Collective", email="mozilladatacollective@mozillafoundation.org"},
 ]
+description = "The registry for dataset schemas used by the Mozilla Data Collective."
 readme = "README.md"
 requires-python = ">=3.11"
 classifiers = [
