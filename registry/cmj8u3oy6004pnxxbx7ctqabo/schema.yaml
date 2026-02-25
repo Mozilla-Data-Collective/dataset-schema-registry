@@ -1,0 +1,63 @@
+dataset_id: "cmj8u3oy6004pnxxbx7ctqabo"
+task: "ASR"
+root_strategy: "multi_split"
+
+splits:
+  - dev
+  - invalidated
+  - other
+  - reported
+  - test
+  - train
+  - validated
+
+splits_file_pattern: "**/*.tsv"
+base_audio_path: "clips/"
+
+columns:
+  audio_path:
+    source_column: "path"
+    dtype: "file_path"
+  transcription:
+    source_column: "sentence"
+    dtype: "string"
+  speaker_id:
+    source_column: "client_id"
+    dtype: "category"
+    optional: true
+  sentence_id:
+    source_column: "sentence_id"
+    dtype: "string"
+    optional: true
+  sentence_domain:
+    source_column: "sentence_domain"
+    dtype: "category"
+    optional: true
+  up_votes:
+    source_column: "up_votes"
+    dtype: "int"
+    optional: true
+  down_votes:
+    source_column: "down_votes"
+    dtype: "int"
+    optional: true
+  age:
+    source_column: "age"
+    dtype: "category"
+    optional: true
+  gender:
+    source_column: "gender"
+    dtype: "category"
+    optional: true
+  accents:
+    source_column: "accents"
+    dtype: "category"
+    optional: true
+  variant:
+    source_column: "variant"
+    dtype: "category"
+    optional: true
+  locale:
+    source_column: "locale"
+    dtype: "category"
+    optional: true
