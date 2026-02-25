@@ -1,5 +1,7 @@
 dataset_id: "cmm23jslb003znq07vdska54l"
 task: "TTS"
+format: "tsv"
+has_header: true
 root_strategy: "multi_sections"
 
 section_root: "Lingala-TTS-Dataset"
