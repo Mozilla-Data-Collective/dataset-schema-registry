@@ -2,12 +2,14 @@ dataset_id: "cmm23jslb003znq07vdska54l"
 task: "TTS"
 root_strategy: "multi_sections"
 
+section_root: "Lingala-TTS-Dataset"
+
 sections:
-  - Lingala_TTS_Dataset_01 
-  - Lingala_TTS_Dataset_02 
-  - Lingala_TTS_Dataset_03 
-  - Lingala_TTS_Dataset_04 
-  - Lingala_TTS_Dataset_05
+  - "Lingala_TTS_Dataset_01"
+  - "Lingala_TTS_Dataset_02" 
+  - "Lingala_TTS_Dataset_03" 
+  - "Lingala_TTS_Dataset_04"
+  - "Lingala_TTS_Dataset_05"
 
 index_file: "text.tsv"
 base_audio_path: "clips/"
