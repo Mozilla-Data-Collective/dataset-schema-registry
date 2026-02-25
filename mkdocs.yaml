@@ -3,8 +3,8 @@ repo_url: https://github.com/Mozilla-Data-Collective/dataset-schema-registry
 repo_name: dataset-schema-registry
 
 nav:
-  - Home: README.md
-  - Dataset Coverage: docs/dataset-coverage.md
+  - Home: index.md
+  - Dataset Coverage: dataset-coverage.md
 
 theme:
   icon:
@@ -21,10 +21,8 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
-  logo: docs/mdc_logo.png
-  favicon: docs/mdc_ccc.png
-  extra_css:
-    - assets/custom.css
+  logo: mdc_logo.png
+  favicon: mdc_ccc.png
   features:
     - content.code.copy
     - content.tabs.link
@@ -40,10 +38,11 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+
 plugins:
-- search
-- mkdocstrings:
-    handlers:
-      python:
-        options:
-          show_root_heading: true
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_root_heading: true

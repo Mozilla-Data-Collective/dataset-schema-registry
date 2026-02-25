@@ -6,7 +6,7 @@ schema in this registry and which ones are still missing.
 !!! info "How to add a schema"
     If your dataset is missing, open a pull-request and add a
     `registry/<dataset_id>/schema.yaml` file.  See the
-    [README](README.md) for details.
+    [Home](index.md) for details.
 
 **Last updated:** 2026-02-25  
 **Total datasets in sitemap:** 505  

@@ -94,7 +94,7 @@ def build_markdown(datasets: list[dict], registered: set[str]) -> str:
         "!!! info \"How to add a schema\"",
         "    If your dataset is missing, open a pull-request and add a",
         "    `registry/<dataset_id>/schema.yaml` file.  See the",
-        "    [README](README.md) for details.",
+        "    [Home](index.md) for details.",
         "",
         f"**Last updated:** {today}  ",
         f"**Total datasets in sitemap:** {total}  ",

@@ -67,6 +67,7 @@ content = fetch_schema("cmihqro9h0238o207fgg5cmf6")
 
 ### One-liner using `curl`:
 
-```bashcurl -sL \
+```bash
+curl -sL \
     https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmihqro9h0238o207fgg5cmf6/schema.yaml
 ```
