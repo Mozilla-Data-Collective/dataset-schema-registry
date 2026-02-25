@@ -1,0 +1,21 @@
+dataset_id: "cmm23jslb003znq07vdska54l"
+task: "TTS"
+root_strategy: "multi_sections"
+
+sections:
+  - Lingala_TTS_Dataset_01 
+  - Lingala_TTS_Dataset_02 
+  - Lingala_TTS_Dataset_03 
+  - Lingala_TTS_Dataset_04 
+  - Lingala_TTS_Dataset_05
+
+index_file: "text.tsv"
+base_audio_path: "clips/"
+
+columns:
+  audio_path: # header in DF
+    source_column: "clip_filename" # header in the TSV
+    dtype: "file_path"
+  transcription:
+    source_column: "text"
+    dtype: "string"
