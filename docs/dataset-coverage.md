@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-02-25  
+**Last updated:** 2026-02-26  
 **Total datasets in sitemap:** 505  
-**Schemas registered:** 294 ✅  
-**Schemas missing:** 211 ❌  
+**Schemas registered:** 355 ✅  
+**Schemas missing:** 150 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -385,67 +385,67 @@ schema in this registry and which ones are still missing.
 | `cmj8u3q3400vtnxxbk12lq8ht` | Common Voice Scripted Speech 24.0 - Copainalá Zoque | `mcv-scripted-zoc-v24.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u3q3400vtnxxbk12lq8ht) | ✅ |
 | `cmj8u3q3b00vxnxxbilr9nfyu` | Common Voice Scripted Speech 24.0 - Zulu | `mcv-scripted-zu-v24.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u3q3b00vxnxxbilr9nfyu) | ✅ |
 | `cmj8u3q3h00w1nxxbmbawji1c` | Common Voice Scripted Speech 24.0 - Zaza | `mcv-scripted-zza-v24.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u3q3h00w1nxxbmbawji1c) | ✅ |
-| `cmj8u48640001nxzp9br9v3d8` | Common Voice Spontaneous Speech 2.0 - Arvanitika | `mcv-spontaneous-aat-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48640001nxzp9br9v3d8) | ❌ |
-| `cmj8u486h0005nxzpobsdpnp0` | Common Voice Spontaneous Speech 2.0 - Adyghe | `mcv-spontaneous-ady-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u486h0005nxzpobsdpnp0) | ❌ |
-| `cmj8u48770009nxzp6rcar8fs` | Common Voice Spontaneous Speech 2.0 - Gheg Albanian | `mcv-spontaneous-aln-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48770009nxzp6rcar8fs) | ❌ |
-| `cmj8u487i000dnxzpw4j8lt6y` | Common Voice Spontaneous Speech 2.0 - Aragonese | `mcv-spontaneous-an-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u487i000dnxzpw4j8lt6y) | ❌ |
-| `cmj8u487p000hnxzpeat2kk6y` | Common Voice Spontaneous Speech 2.0 - Bashkir | `mcv-spontaneous-ba-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u487p000hnxzpeat2kk6y) | ❌ |
-| `cmj8u487v000lnxzpw6odo2dt` | Common Voice Spontaneous Speech 2.0 - Basaa | `mcv-spontaneous-bas-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u487v000lnxzpw6odo2dt) | ❌ |
-| `cmj8u4882000pnxzpw273de31` | Common Voice Spontaneous Speech 2.0 - Betawi | `mcv-spontaneous-bew-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u4882000pnxzpw273de31) | ❌ |
-| `cmj8u4888000tnxzpeks1725l` | Common Voice Spontaneous Speech 2.0 - Breton | `mcv-spontaneous-br-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u4888000tnxzpeks1725l) | ❌ |
-| `cmj8u488e000xnxzpxnazyy5b` | Common Voice Spontaneous Speech 2.0 - Bodo | `mcv-spontaneous-brx-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u488e000xnxzpxnazyy5b) | ❌ |
-| `cmj8u488l0011nxzp7m34uy8y` | Common Voice Spontaneous Speech 2.0 - Sabah Bisaya | `mcv-spontaneous-bsy-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u488l0011nxzp7m34uy8y) | ❌ |
-| `cmj8u488r0015nxzp12weltxj` | Common Voice Spontaneous Speech 2.0 - Bukusu | `mcv-spontaneous-bxk-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u488r0015nxzp12weltxj) | ❌ |
-| `cmj8u488y0019nxzp3bcvjo3c` | Common Voice Spontaneous Speech 2.0 - Catalan | `mcv-spontaneous-ca-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u488y0019nxzp3bcvjo3c) | ❌ |
-| `cmj8u4895001dnxzptp6jzf4m` | Common Voice Spontaneous Speech 2.0 - Eastern Min | `mcv-spontaneous-cdo-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u4895001dnxzptp6jzf4m) | ❌ |
-| `cmj8u489d001hnxzpha62b6z4` | Common Voice Spontaneous Speech 2.0 - Chiga | `mcv-spontaneous-cgg-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u489d001hnxzpha62b6z4) | ❌ |
-| `cmj8u489i001lnxzpmk7txdi4` | Common Voice Spontaneous Speech 2.0 - Heng Hua | `mcv-spontaneous-cpx-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u489i001lnxzpmk7txdi4) | ❌ |
-| `cmj8u489p001pnxzpsct7boob` | Common Voice Spontaneous Speech 2.0 - Welsh | `mcv-spontaneous-cy-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u489p001pnxzpsct7boob) | ❌ |
-| `cmj8u489v001tnxzp7x8ayacr` | Common Voice Spontaneous Speech 2.0 - German | `mcv-spontaneous-de-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u489v001tnxzp7x8ayacr) | ❌ |
-| `cmj8u48a1001xnxzp0kw1gj7b` | Common Voice Spontaneous Speech 2.0 - Cypriot Greek | `mcv-spontaneous-el-CY-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48a1001xnxzp0kw1gj7b) | ❌ |
-| `cmj8u48a70021nxzpqvs3sisu` | Common Voice Spontaneous Speech 2.0 - Spanish | `mcv-spontaneous-es-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48a70021nxzpqvs3sisu) | ❌ |
-| `cmj8u48ad0025nxzp2lfaluce` | Common Voice Spontaneous Speech 2.0 - French | `mcv-spontaneous-fr-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ad0025nxzp2lfaluce) | ❌ |
-| `cmj8u48ai0029nxzp3figruz1` | Common Voice Spontaneous Speech 2.0 - Frisian | `mcv-spontaneous-fy-NL-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ai0029nxzp3figruz1) | ❌ |
-| `cmj8u48ao002dnxzpa5fthrmp` | Common Voice Spontaneous Speech 2.0 - Irish | `mcv-spontaneous-ga-IE-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ao002dnxzpa5fthrmp) | ❌ |
-| `cmj8u48au002hnxzpjsw02mwu` | Common Voice Spontaneous Speech 2.0 - Galician | `mcv-spontaneous-gl-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48au002hnxzpjsw02mwu) | ❌ |
-| `cmj8u48az002lnxzp4b47bq1i` | Common Voice Spontaneous Speech 2.0 - Alsatian | `mcv-spontaneous-gsw-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48az002lnxzp4b47bq1i) | ❌ |
-| `cmj8u48b4002pnxzp5z4brldq` | Common Voice Spontaneous Speech 2.0 - Manx | `mcv-spontaneous-gv-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48b4002pnxzp5z4brldq) | ❌ |
-| `cmj8u48ba002tnxzpj0b2t3t0` | Common Voice Spontaneous Speech 2.0 - Gorani | `mcv-spontaneous-hac-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ba002tnxzpj0b2t3t0) | ❌ |
-| `cmj8u48bg002xnxzpa14uifq7` | Common Voice Spontaneous Speech 2.0 - Wixárika | `mcv-spontaneous-hch-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48bg002xnxzpa14uifq7) | ❌ |
-| `cmj8u48bo0031nxzpypyrqd0i` | Common Voice Spontaneous Speech 2.0 - Georgian | `mcv-spontaneous-ka-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48bo0031nxzpypyrqd0i) | ❌ |
-| `cmj8u48bv0035nxzp5p53g4je` | Common Voice Spontaneous Speech 2.0 - Kabardian | `mcv-spontaneous-kbd-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48bv0035nxzp5p53g4je) | ❌ |
-| `cmj8u48c10039nxzp0yjb2hef` | Common Voice Spontaneous Speech 2.0 - Nubi | `mcv-spontaneous-kcn-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48c10039nxzp0yjb2hef) | ❌ |
-| `cmj8u48c6003dnxzpy72jxr8g` | Common Voice Spontaneous Speech 2.0 - Konzo | `mcv-spontaneous-koo-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48c6003dnxzpy72jxr8g) | ❌ |
-| `cmj8u48cc003hnxzpsh51mz9i` | Common Voice Spontaneous Speech 2.0 - Kelabit | `mcv-spontaneous-kzi-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48cc003hnxzpsh51mz9i) | ❌ |
-| `cmj8u48ch003lnxzp86j12afi` | Common Voice Spontaneous Speech 2.0 - Lendu | `mcv-spontaneous-led-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ch003lnxzp86j12afi) | ❌ |
-| `cmj8u48d0003pnxzpmm01l7os` | Common Voice Spontaneous Speech 2.0 - Ligurian | `mcv-spontaneous-lij-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48d0003pnxzpmm01l7os) | ❌ |
-| `cmj8u48d9003tnxzp9m69p2ca` | Common Voice Spontaneous Speech 2.0 - Kenyi | `mcv-spontaneous-lke-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48d9003tnxzp9m69p2ca) | ❌ |
-| `cmj8u48dg003xnxzp4al7n65z` | Common Voice Spontaneous Speech 2.0 - Thur | `mcv-spontaneous-lth-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48dg003xnxzp4al7n65z) | ❌ |
-| `cmj8u48dm0041nxzp1ps97mh4` | Common Voice Spontaneous Speech 2.0 - Latvian | `mcv-spontaneous-lv-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48dm0041nxzp1ps97mh4) | ❌ |
-| `cmj8u48dt0045nxzp9i0ze2qt` | Common Voice Spontaneous Speech 2.0 - Mixteco Yucuhiti | `mcv-spontaneous-meh-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48dt0045nxzp9i0ze2qt) | ❌ |
-| `cmj8u48dz0049nxzp5dgbpy9b` | Common Voice Spontaneous Speech 2.0 - Melanau | `mcv-spontaneous-mel-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48dz0049nxzp5dgbpy9b) | ❌ |
-| `cmj8u48e6004dnxzpjb1rmo7e` | Common Voice Spontaneous Speech 2.0 - Michoacán Mazahua | `mcv-spontaneous-mmc-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48e6004dnxzpjb1rmo7e) | ❌ |
-| `cmj8u48ec004hnxzp5npch3xa` | Common Voice Spontaneous Speech 2.0 - Bahasa Malay | `mcv-spontaneous-ms-MY-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ec004hnxzp5npch3xa) | ❌ |
-| `cmj8u48ej004lnxzp8sdt5z8c` | Common Voice Spontaneous Speech 2.0 - Sabah Malay | `mcv-spontaneous-msi-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ej004lnxzp8sdt5z8c) | ❌ |
-| `cmj8u48eo004pnxzp991piql1` | Common Voice Spontaneous Speech 2.0 - Western Penan | `mcv-spontaneous-pne-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48eo004pnxzp991piql1) | ❌ |
-| `cmj8u48et004tnxzps28psruc` | Common Voice Spontaneous Speech 2.0 - Puno Quechua | `mcv-spontaneous-qxp-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48et004tnxzps28psruc) | ❌ |
-| `cmj8u48ey004xnxzpphv4udzz` | Common Voice Spontaneous Speech 2.0 - Russian | `mcv-spontaneous-ru-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ey004xnxzpphv4udzz) | ❌ |
-| `cmj8u48f60051nxzplpe1elj4` | Common Voice Spontaneous Speech 2.0 - Ruuli | `mcv-spontaneous-ruc-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48f60051nxzplpe1elj4) | ❌ |
-| `cmj8u48fb0055nxzpqba4if8t` | Common Voice Spontaneous Speech 2.0 - Amba | `mcv-spontaneous-rwm-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48fb0055nxzpqba4if8t) | ❌ |
-| `cmj8u48fg0059nxzp1nhmykyr` | Common Voice Spontaneous Speech 2.0 - Scots | `mcv-spontaneous-sco-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48fg0059nxzp1nhmykyr) | ❌ |
-| `cmj8u48fp005dnxzpmf26m8xo` | Common Voice Spontaneous Speech 2.0 - Serian Bidayuh | `mcv-spontaneous-sdo-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48fp005dnxzpmf26m8xo) | ❌ |
-| `cmj8u48fu005hnxzp78hiv9ll` | Common Voice Spontaneous Speech 2.0 - Sena | `mcv-spontaneous-seh-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48fu005hnxzp78hiv9ll) | ❌ |
-| `cmj8u48g4005lnxzp98cpr7b2` | Common Voice Spontaneous Speech 2.0 - Tashlhiyt | `mcv-spontaneous-shi-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48g4005lnxzp98cpr7b2) | ❌ |
-| `cmj8u48ga005pnxzpmsz76k9o` | Common Voice Spontaneous Speech 2.0 - Shona | `mcv-spontaneous-sn-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ga005pnxzpmsz76k9o) | ❌ |
-| `cmj8u48gg005tnxzp9wqdltrl` | Common Voice Spontaneous Speech 2.0 - snv | `mcv-spontaneous-snv-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48gg005tnxzp9wqdltrl) | ❌ |
-| `cmj8u48gl005xnxzpqzvf4ovg` | Common Voice Spontaneous Speech 2.0 - Thai | `mcv-spontaneous-th-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48gl005xnxzpqzvf4ovg) | ❌ |
-| `cmj8u48gq0061nxzpvl67iu91` | Common Voice Spontaneous Speech 2.0 - Toba Qom | `mcv-spontaneous-tob-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48gq0061nxzpvl67iu91) | ❌ |
-| `cmj8u48gv0065nxzpb3y7vi7v` | Common Voice Spontaneous Speech 2.0 - Papantla Totonac | `mcv-spontaneous-top-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48gv0065nxzpb3y7vi7v) | ❌ |
-| `cmj8u48h10069nxzpo6tghopr` | Common Voice Spontaneous Speech 2.0 - Turkish | `mcv-spontaneous-tr-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48h10069nxzpo6tghopr) | ❌ |
-| `cmj8u48h7006dnxzp3y4uqb69` | Common Voice Spontaneous Speech 2.0 - Rutoro | `mcv-spontaneous-ttj-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48h7006dnxzp3y4uqb69) | ❌ |
-| `cmj8u48hc006hnxzprn4k1cxx` | Common Voice Spontaneous Speech 2.0 - Kuku | `mcv-spontaneous-ukv-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48hc006hnxzprn4k1cxx) | ❌ |
-| `cmj8u48hj006lnxzpnj14uhpz` | Common Voice Spontaneous Speech 2.0 - Ushojo | `mcv-spontaneous-ush-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48hj006lnxzpnj14uhpz) | ❌ |
-| `cmj8u48hr006pnxzp3s43beqr` | Common Voice Spontaneous Speech 2.0 - Kenyah | `mcv-spontaneous-xkl-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48hr006pnxzp3s43beqr) | ❌ |
+| `cmj8u48640001nxzp9br9v3d8` | Common Voice Spontaneous Speech 2.0 - Arvanitika | `mcv-spontaneous-aat-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48640001nxzp9br9v3d8) | ✅ |
+| `cmj8u486h0005nxzpobsdpnp0` | Common Voice Spontaneous Speech 2.0 - Adyghe | `mcv-spontaneous-ady-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u486h0005nxzpobsdpnp0) | ✅ |
+| `cmj8u48770009nxzp6rcar8fs` | Common Voice Spontaneous Speech 2.0 - Gheg Albanian | `mcv-spontaneous-aln-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48770009nxzp6rcar8fs) | ✅ |
+| `cmj8u487i000dnxzpw4j8lt6y` | Common Voice Spontaneous Speech 2.0 - Aragonese | `mcv-spontaneous-an-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u487i000dnxzpw4j8lt6y) | ✅ |
+| `cmj8u487p000hnxzpeat2kk6y` | Common Voice Spontaneous Speech 2.0 - Bashkir | `mcv-spontaneous-ba-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u487p000hnxzpeat2kk6y) | ✅ |
+| `cmj8u487v000lnxzpw6odo2dt` | Common Voice Spontaneous Speech 2.0 - Basaa | `mcv-spontaneous-bas-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u487v000lnxzpw6odo2dt) | ✅ |
+| `cmj8u4882000pnxzpw273de31` | Common Voice Spontaneous Speech 2.0 - Betawi | `mcv-spontaneous-bew-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u4882000pnxzpw273de31) | ✅ |
+| `cmj8u4888000tnxzpeks1725l` | Common Voice Spontaneous Speech 2.0 - Breton | `mcv-spontaneous-br-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u4888000tnxzpeks1725l) | ✅ |
+| `cmj8u488e000xnxzpxnazyy5b` | Common Voice Spontaneous Speech 2.0 - Bodo | `mcv-spontaneous-brx-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u488e000xnxzpxnazyy5b) | ✅ |
+| `cmj8u488l0011nxzp7m34uy8y` | Common Voice Spontaneous Speech 2.0 - Sabah Bisaya | `mcv-spontaneous-bsy-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u488l0011nxzp7m34uy8y) | ✅ |
+| `cmj8u488r0015nxzp12weltxj` | Common Voice Spontaneous Speech 2.0 - Bukusu | `mcv-spontaneous-bxk-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u488r0015nxzp12weltxj) | ✅ |
+| `cmj8u488y0019nxzp3bcvjo3c` | Common Voice Spontaneous Speech 2.0 - Catalan | `mcv-spontaneous-ca-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u488y0019nxzp3bcvjo3c) | ✅ |
+| `cmj8u4895001dnxzptp6jzf4m` | Common Voice Spontaneous Speech 2.0 - Eastern Min | `mcv-spontaneous-cdo-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u4895001dnxzptp6jzf4m) | ✅ |
+| `cmj8u489d001hnxzpha62b6z4` | Common Voice Spontaneous Speech 2.0 - Chiga | `mcv-spontaneous-cgg-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u489d001hnxzpha62b6z4) | ✅ |
+| `cmj8u489i001lnxzpmk7txdi4` | Common Voice Spontaneous Speech 2.0 - Heng Hua | `mcv-spontaneous-cpx-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u489i001lnxzpmk7txdi4) | ✅ |
+| `cmj8u489p001pnxzpsct7boob` | Common Voice Spontaneous Speech 2.0 - Welsh | `mcv-spontaneous-cy-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u489p001pnxzpsct7boob) | ✅ |
+| `cmj8u489v001tnxzp7x8ayacr` | Common Voice Spontaneous Speech 2.0 - German | `mcv-spontaneous-de-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u489v001tnxzp7x8ayacr) | ✅ |
+| `cmj8u48a1001xnxzp0kw1gj7b` | Common Voice Spontaneous Speech 2.0 - Cypriot Greek | `mcv-spontaneous-el-CY-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48a1001xnxzp0kw1gj7b) | ✅ |
+| `cmj8u48a70021nxzpqvs3sisu` | Common Voice Spontaneous Speech 2.0 - Spanish | `mcv-spontaneous-es-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48a70021nxzpqvs3sisu) | ✅ |
+| `cmj8u48ad0025nxzp2lfaluce` | Common Voice Spontaneous Speech 2.0 - French | `mcv-spontaneous-fr-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ad0025nxzp2lfaluce) | ✅ |
+| `cmj8u48ai0029nxzp3figruz1` | Common Voice Spontaneous Speech 2.0 - Frisian | `mcv-spontaneous-fy-NL-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ai0029nxzp3figruz1) | ✅ |
+| `cmj8u48ao002dnxzpa5fthrmp` | Common Voice Spontaneous Speech 2.0 - Irish | `mcv-spontaneous-ga-IE-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ao002dnxzpa5fthrmp) | ✅ |
+| `cmj8u48au002hnxzpjsw02mwu` | Common Voice Spontaneous Speech 2.0 - Galician | `mcv-spontaneous-gl-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48au002hnxzpjsw02mwu) | ✅ |
+| `cmj8u48az002lnxzp4b47bq1i` | Common Voice Spontaneous Speech 2.0 - Alsatian | `mcv-spontaneous-gsw-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48az002lnxzp4b47bq1i) | ✅ |
+| `cmj8u48b4002pnxzp5z4brldq` | Common Voice Spontaneous Speech 2.0 - Manx | `mcv-spontaneous-gv-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48b4002pnxzp5z4brldq) | ✅ |
+| `cmj8u48ba002tnxzpj0b2t3t0` | Common Voice Spontaneous Speech 2.0 - Gorani | `mcv-spontaneous-hac-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ba002tnxzpj0b2t3t0) | ✅ |
+| `cmj8u48bg002xnxzpa14uifq7` | Common Voice Spontaneous Speech 2.0 - Wixárika | `mcv-spontaneous-hch-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48bg002xnxzpa14uifq7) | ✅ |
+| `cmj8u48bo0031nxzpypyrqd0i` | Common Voice Spontaneous Speech 2.0 - Georgian | `mcv-spontaneous-ka-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48bo0031nxzpypyrqd0i) | ✅ |
+| `cmj8u48bv0035nxzp5p53g4je` | Common Voice Spontaneous Speech 2.0 - Kabardian | `mcv-spontaneous-kbd-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48bv0035nxzp5p53g4je) | ✅ |
+| `cmj8u48c10039nxzp0yjb2hef` | Common Voice Spontaneous Speech 2.0 - Nubi | `mcv-spontaneous-kcn-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48c10039nxzp0yjb2hef) | ✅ |
+| `cmj8u48c6003dnxzpy72jxr8g` | Common Voice Spontaneous Speech 2.0 - Konzo | `mcv-spontaneous-koo-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48c6003dnxzpy72jxr8g) | ✅ |
+| `cmj8u48cc003hnxzpsh51mz9i` | Common Voice Spontaneous Speech 2.0 - Kelabit | `mcv-spontaneous-kzi-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48cc003hnxzpsh51mz9i) | ✅ |
+| `cmj8u48ch003lnxzp86j12afi` | Common Voice Spontaneous Speech 2.0 - Lendu | `mcv-spontaneous-led-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ch003lnxzp86j12afi) | ✅ |
+| `cmj8u48d0003pnxzpmm01l7os` | Common Voice Spontaneous Speech 2.0 - Ligurian | `mcv-spontaneous-lij-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48d0003pnxzpmm01l7os) | ✅ |
+| `cmj8u48d9003tnxzp9m69p2ca` | Common Voice Spontaneous Speech 2.0 - Kenyi | `mcv-spontaneous-lke-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48d9003tnxzp9m69p2ca) | ✅ |
+| `cmj8u48dg003xnxzp4al7n65z` | Common Voice Spontaneous Speech 2.0 - Thur | `mcv-spontaneous-lth-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48dg003xnxzp4al7n65z) | ✅ |
+| `cmj8u48dm0041nxzp1ps97mh4` | Common Voice Spontaneous Speech 2.0 - Latvian | `mcv-spontaneous-lv-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48dm0041nxzp1ps97mh4) | ✅ |
+| `cmj8u48dt0045nxzp9i0ze2qt` | Common Voice Spontaneous Speech 2.0 - Mixteco Yucuhiti | `mcv-spontaneous-meh-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48dt0045nxzp9i0ze2qt) | ✅ |
+| `cmj8u48dz0049nxzp5dgbpy9b` | Common Voice Spontaneous Speech 2.0 - Melanau | `mcv-spontaneous-mel-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48dz0049nxzp5dgbpy9b) | ✅ |
+| `cmj8u48e6004dnxzpjb1rmo7e` | Common Voice Spontaneous Speech 2.0 - Michoacán Mazahua | `mcv-spontaneous-mmc-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48e6004dnxzpjb1rmo7e) | ✅ |
+| `cmj8u48ec004hnxzp5npch3xa` | Common Voice Spontaneous Speech 2.0 - Bahasa Malay | `mcv-spontaneous-ms-MY-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ec004hnxzp5npch3xa) | ✅ |
+| `cmj8u48ej004lnxzp8sdt5z8c` | Common Voice Spontaneous Speech 2.0 - Sabah Malay | `mcv-spontaneous-msi-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ej004lnxzp8sdt5z8c) | ✅ |
+| `cmj8u48eo004pnxzp991piql1` | Common Voice Spontaneous Speech 2.0 - Western Penan | `mcv-spontaneous-pne-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48eo004pnxzp991piql1) | ✅ |
+| `cmj8u48et004tnxzps28psruc` | Common Voice Spontaneous Speech 2.0 - Puno Quechua | `mcv-spontaneous-qxp-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48et004tnxzps28psruc) | ✅ |
+| `cmj8u48ey004xnxzpphv4udzz` | Common Voice Spontaneous Speech 2.0 - Russian | `mcv-spontaneous-ru-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ey004xnxzpphv4udzz) | ✅ |
+| `cmj8u48f60051nxzplpe1elj4` | Common Voice Spontaneous Speech 2.0 - Ruuli | `mcv-spontaneous-ruc-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48f60051nxzplpe1elj4) | ✅ |
+| `cmj8u48fb0055nxzpqba4if8t` | Common Voice Spontaneous Speech 2.0 - Amba | `mcv-spontaneous-rwm-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48fb0055nxzpqba4if8t) | ✅ |
+| `cmj8u48fg0059nxzp1nhmykyr` | Common Voice Spontaneous Speech 2.0 - Scots | `mcv-spontaneous-sco-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48fg0059nxzp1nhmykyr) | ✅ |
+| `cmj8u48fp005dnxzpmf26m8xo` | Common Voice Spontaneous Speech 2.0 - Serian Bidayuh | `mcv-spontaneous-sdo-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48fp005dnxzpmf26m8xo) | ✅ |
+| `cmj8u48fu005hnxzp78hiv9ll` | Common Voice Spontaneous Speech 2.0 - Sena | `mcv-spontaneous-seh-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48fu005hnxzp78hiv9ll) | ✅ |
+| `cmj8u48g4005lnxzp98cpr7b2` | Common Voice Spontaneous Speech 2.0 - Tashlhiyt | `mcv-spontaneous-shi-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48g4005lnxzp98cpr7b2) | ✅ |
+| `cmj8u48ga005pnxzpmsz76k9o` | Common Voice Spontaneous Speech 2.0 - Shona | `mcv-spontaneous-sn-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48ga005pnxzpmsz76k9o) | ✅ |
+| `cmj8u48gg005tnxzp9wqdltrl` | Common Voice Spontaneous Speech 2.0 - snv | `mcv-spontaneous-snv-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48gg005tnxzp9wqdltrl) | ✅ |
+| `cmj8u48gl005xnxzpqzvf4ovg` | Common Voice Spontaneous Speech 2.0 - Thai | `mcv-spontaneous-th-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48gl005xnxzpqzvf4ovg) | ✅ |
+| `cmj8u48gq0061nxzpvl67iu91` | Common Voice Spontaneous Speech 2.0 - Toba Qom | `mcv-spontaneous-tob-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48gq0061nxzpvl67iu91) | ✅ |
+| `cmj8u48gv0065nxzpb3y7vi7v` | Common Voice Spontaneous Speech 2.0 - Papantla Totonac | `mcv-spontaneous-top-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48gv0065nxzpb3y7vi7v) | ✅ |
+| `cmj8u48h10069nxzpo6tghopr` | Common Voice Spontaneous Speech 2.0 - Turkish | `mcv-spontaneous-tr-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48h10069nxzpo6tghopr) | ✅ |
+| `cmj8u48h7006dnxzp3y4uqb69` | Common Voice Spontaneous Speech 2.0 - Rutoro | `mcv-spontaneous-ttj-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48h7006dnxzp3y4uqb69) | ✅ |
+| `cmj8u48hc006hnxzprn4k1cxx` | Common Voice Spontaneous Speech 2.0 - Kuku | `mcv-spontaneous-ukv-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48hc006hnxzprn4k1cxx) | ✅ |
+| `cmj8u48hj006lnxzpnj14uhpz` | Common Voice Spontaneous Speech 2.0 - Ushojo | `mcv-spontaneous-ush-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48hj006lnxzpnj14uhpz) | ✅ |
+| `cmj8u48hr006pnxzp3s43beqr` | Common Voice Spontaneous Speech 2.0 - Kenyah | `mcv-spontaneous-xkl-v2.0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8u48hr006pnxzp3s43beqr) | ✅ |
 | `cmjcc6g9z06c7mk07yolcdyjr` | Archivo de la Comisionada María de los Ángeles Guzmán García (COTAI Nuevo León / InfoNL) | `archivo-de-la-comisionada-mar-a-de-los-n-86187fb6` | [link](https://datacollective.mozillafoundation.org/datasets/cmjcc6g9z06c7mk07yolcdyjr) | ❌ |
 | `cmjepxo6t08nmmk07iauvua6v` | DhoNam: Dholuo Speech dataset | `dhonam-dholuo-speech-dataset-b06e2acf` | [link](https://datacollective.mozillafoundation.org/datasets/cmjepxo6t08nmmk07iauvua6v) | ❌ |
 | `cmjhe0xap09gamb078g9loi3q` | Surmiran Newspaper Corpus | `surmiran-newspaper-corpus-83df8952` | [link](https://datacollective.mozillafoundation.org/datasets/cmjhe0xap09gamb078g9loi3q) | ❌ |
