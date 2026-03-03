@@ -1,0 +1,40 @@
+name: "Schema Request"
+description: Submit a request for a schema of an MDC Dataset. 
+title: "[SCHEMA]: "
+labels:
+  - request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this form!
+        Please make sure there are no other [requests](ttps://github.com/Mozilla-Data-Collective/dataset-schema-registry/issues) for this dataset before submitting a new one.
+
+  - type: textarea
+    id: dataset_id
+    attributes:
+      label: Dataset ID
+      description: Input the dataset ID you are requesting the schema for.
+      placeholder: |
+        cmimao7...
+    validations:
+      required: true
+
+  - type: textarea
+    id: dataset_name
+    attributes:
+      label: Dataset Name
+      description: Input the dataset name.
+      placeholder: |
+        Jhoke Publisher Multan’s Saraiki Newspaper Corpus
+    validations:
+      required: true
+
+  - type: textarea
+    id: info
+    attributes:
+      label: Additional info
+      description: |
+        Please add any additional information relating to your request. 
+    validations:
+      required: false
