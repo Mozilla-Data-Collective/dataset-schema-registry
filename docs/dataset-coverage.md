@@ -10,8 +10,8 @@ schema in this registry and which ones are still missing.
 
 **Last updated:** 2026-03-11  
 **Total datasets in sitemap:** 505  
-**Schemas registered:** 355 ✅  
-**Schemas missing:** 150 ❌  
+**Schemas registered:** 350 ✅  
+**Schemas missing:** 155 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -47,7 +47,7 @@ schema in this registry and which ones are still missing.
 | `cmig0fljr00yrmd075gqlj2qo` | Putèr Newspaper Corpus | `put-r-newspaper-corpus-1814f0ef` | [link](https://datacollective.mozillafoundation.org/datasets/cmig0fljr00yrmd075gqlj2qo) | ❌ |
 | `cmihefmde01vxmd07djfchz51` | KyrgyzNER: Human-Annotated NER Dataset for Kyrgyz | `kyrgyzner-human-annotated-ner-dataset-fo-20b82547` | [link](https://datacollective.mozillafoundation.org/datasets/cmihefmde01vxmd07djfchz51) | ❌ |
 | `cmihkoth10246md07dtojxehg` | Speech Data Collection for The Nupe Language | `speech-data-collection-for-the-nupe-lang-9e09e0f9` | [link](https://datacollective.mozillafoundation.org/datasets/cmihkoth10246md07dtojxehg) | ❌ |
-| `cmihqro9h0238o207fgg5cmf6` | Ehugbo TTS: biblical text to speech dataset in Ehugbo Language | `ehugbo-tts-biblical-text-to-speech-datas-054eaa87` | [link](https://datacollective.mozillafoundation.org/datasets/cmihqro9h0238o207fgg5cmf6) | ✅ |
+| `cmihqro9h0238o207fgg5cmf6` | Ehugbo TTS: biblical text to speech dataset in Ehugbo Language | `ehugbo-tts-biblical-text-to-speech-datas-054eaa87` | [link](https://datacollective.mozillafoundation.org/datasets/cmihqro9h0238o207fgg5cmf6) | ❌ |
 | `cmihqzerk023co20749miafhq` | Common Voice Spontaneous Speech 1.0 - English | `common-voice-spontaneous-speech-1-0-engl-db791383` | [link](https://datacollective.mozillafoundation.org/datasets/cmihqzerk023co20749miafhq) | ❌ |
 | `cmihtsewu023so207xot1iqqw` | TidyVoiceX_ASV | `tidyvoicex-asv-459e6087` | [link](https://datacollective.mozillafoundation.org/datasets/cmihtsewu023so207xot1iqqw) | ❌ |
 | `cmin6i6da001so707uwggcn7a` | Everyday Interactions in Ibọnọ and Obolo Languages | `everyday-interactions-in-ib-n-and-obolo-3df6264d` | [link](https://datacollective.mozillafoundation.org/datasets/cmin6i6da001so707uwggcn7a) | ❌ |
@@ -68,14 +68,14 @@ schema in this registry and which ones are still missing.
 | `cmiugo0h501exmf073drr56rr` | Pim 1.0 | `pim-1-0-6fc94d3e` | [link](https://datacollective.mozillafoundation.org/datasets/cmiugo0h501exmf073drr56rr) | ❌ |
 | `cmiugoh1u01c9nv07x7i2t25c` | Gosia 1.0 | `gosia-1-0-6cb80e22` | [link](https://datacollective.mozillafoundation.org/datasets/cmiugoh1u01c9nv07x7i2t25c) | ❌ |
 | `cmiui8v3101cpnv074qwggdsj` | Tugão 1.0 | `tug-o-1-0-6c33f9aa` | [link](https://datacollective.mozillafoundation.org/datasets/cmiui8v3101cpnv074qwggdsj) | ❌ |
-| `cmiuimd7e01fimf072njn3mbb` | Cadu 1.0 | `cadu-1-0-f78a6642` | [link](https://datacollective.mozillafoundation.org/datasets/cmiuimd7e01fimf072njn3mbb) | ✅ |
+| `cmiuimd7e01fimf072njn3mbb` | Cadu 1.0 | `cadu-1-0-f78a6642` | [link](https://datacollective.mozillafoundation.org/datasets/cmiuimd7e01fimf072njn3mbb) | ❌ |
 | `cmiujt8r401d2nv07avt6446s` | Ronnie 1.0 | `ronnie-1-0-f42a46b9` | [link](https://datacollective.mozillafoundation.org/datasets/cmiujt8r401d2nv07avt6446s) | ❌ |
 | `cmiup5wqw01hlmf074qy07b80` | Lili 1.0 | `lili-1-0-875bb67e` | [link](https://datacollective.mozillafoundation.org/datasets/cmiup5wqw01hlmf074qy07b80) | ❌ |
 | `cmiup9hrx01hsmf074vi5iqgz` | Dmitri 1.0 | `dmitri-1-0-fd227527` | [link](https://datacollective.mozillafoundation.org/datasets/cmiup9hrx01hsmf074vi5iqgz) | ❌ |
 | `cmiup9seu01flnv076fexaqp9` | Denis 1.0 | `denis-1-0-3f60c388` | [link](https://datacollective.mozillafoundation.org/datasets/cmiup9seu01flnv076fexaqp9) | ❌ |
 | `cmiupa1t801hwmf07xcawi3ve` | Mihai 1.0 | `mihai-1-0-28978680` | [link](https://datacollective.mozillafoundation.org/datasets/cmiupa1t801hwmf07xcawi3ve) | ❌ |
 | `cmiupaf3e01i0mf07qkqxbzzx` | Jeff 1.0 | `jeff-1-0-1819f9f5` | [link](https://datacollective.mozillafoundation.org/datasets/cmiupaf3e01i0mf07qkqxbzzx) | ❌ |
-| `cmiuparkl01fpnv077wvg3hhm` | Darkman 1.0 | `darkman-1-0-6aa34c0a` | [link](https://datacollective.mozillafoundation.org/datasets/cmiuparkl01fpnv077wvg3hhm) | ✅ |
+| `cmiuparkl01fpnv077wvg3hhm` | Darkman 1.0 | `darkman-1-0-6aa34c0a` | [link](https://datacollective.mozillafoundation.org/datasets/cmiuparkl01fpnv077wvg3hhm) | ❌ |
 | `cmiupazq801ftnv079bo1zu4h` | Faber 1.0 | `faber-1-0-674f3f44` | [link](https://datacollective.mozillafoundation.org/datasets/cmiupazq801ftnv079bo1zu4h) | ❌ |
 | `cmiupbboq01i4mf071clmd43n` | Flemishguy 1.0 | `flemishguy-1-0-81584e83` | [link](https://datacollective.mozillafoundation.org/datasets/cmiupbboq01i4mf071clmd43n) | ❌ |
 | `cmiv2rbv901mwmf07iyhv4pva` | Ewondo-Yanda-ALCAM-MultimodalDataset | `ewondo-yanda-alcam-multimodaldataset-63e52dd2` | [link](https://datacollective.mozillafoundation.org/datasets/cmiv2rbv901mwmf07iyhv4pva) | ❌ |
@@ -88,9 +88,9 @@ schema in this registry and which ones are still missing.
 | `cmj1gd6j400uvnw07ylungxjz` | Beembe-TTS-Dataset | `beembe-tts-dataset-9f6a5d06` | [link](https://datacollective.mozillafoundation.org/datasets/cmj1gd6j400uvnw07ylungxjz) | ❌ |
 | `cmj1gdg1s00vrnu07nmlrax7g` | Mbosi-TTS-Dataset | `mbosi-tts-dataset-2996fa93` | [link](https://datacollective.mozillafoundation.org/datasets/cmj1gdg1s00vrnu07nmlrax7g) | ❌ |
 | `cmj1qhr5n001wnv07hqcatq25` | Suundi-TTS-Dataset | `suundi-tts-dataset-2e258f40` | [link](https://datacollective.mozillafoundation.org/datasets/cmj1qhr5n001wnv07hqcatq25) | ❌ |
-| `cmj2rze7r00j5ny07uhs85go2` | Bomitaba-TTS-Dataset | `bomitaba-tts-dataset-28b2e589` | [link](https://datacollective.mozillafoundation.org/datasets/cmj2rze7r00j5ny07uhs85go2) | ✅ |
+| `cmj2rze7r00j5ny07uhs85go2` | Bomitaba-TTS-Dataset | `bomitaba-tts-dataset-28b2e589` | [link](https://datacollective.mozillafoundation.org/datasets/cmj2rze7r00j5ny07uhs85go2) | ❌ |
 | `cmj324gbx00p4ny078pi26kfz` | Laari-TTS-Dataset | `laari-tts-dataset-68805386` | [link](https://datacollective.mozillafoundation.org/datasets/cmj324gbx00p4ny078pi26kfz) | ❌ |
-| `cmj77njd701ljmb07m97pw1p3` | Central Kurdish TTS dataset 1.0 | `central-kurdish-tts-dataset-1-0-6b2a7b8e` | [link](https://datacollective.mozillafoundation.org/datasets/cmj77njd701ljmb07m97pw1p3) | ✅ |
+| `cmj77njd701ljmb07m97pw1p3` | Central Kurdish TTS dataset 1.0 | `central-kurdish-tts-dataset-1-0-6b2a7b8e` | [link](https://datacollective.mozillafoundation.org/datasets/cmj77njd701ljmb07m97pw1p3) | ❌ |
 | `cmj8ddapc02c8mb07l6wyr882` | Mozilla Common Voice Text Language Identification dataset | `mozilla-common-voice-text-language-ident-b1b3aae0` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8ddapc02c8mb07l6wyr882) | ❌ |
 | `cmj8fdiyv02egmb07m2wfdltm` | Bati-MultiDialectalASR-Dataset | `bati-multidialectalasr-dataset-2ae1f868` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8fdiyv02egmb07m2wfdltm) | ❌ |
 | `cmj8g2kw902fwmb07hub8puq8` | Teke-Laali-TTS-Dataset | `teke-laali-tts-dataset-f69af854` | [link](https://datacollective.mozillafoundation.org/datasets/cmj8g2kw902fwmb07hub8puq8) | ❌ |
