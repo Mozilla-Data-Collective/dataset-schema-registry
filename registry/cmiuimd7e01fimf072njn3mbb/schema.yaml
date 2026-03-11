@@ -1,8 +1,0 @@
-dataset_id: "1764971821887-pt_BR-cadu"
-task: "TTS"
-root_strategy: "paired_glob"
-checksum: "87b46aec3d801d9981df9f92810e3a0ab8fff770f46686d6af13de76eb45f723"
-
-file_pattern: "**/*.txt"
-audio_extension: ".webm"
-
