@@ -1,0 +1,7 @@
+dataset_id: "cmiugmupp01etmf07h89hfpir"
+task: "TTS"
+root_strategy: "paired_glob"
+checksum: ""
+
+file_pattern: "**/*.txt"
+audio_extension: ".webm"
