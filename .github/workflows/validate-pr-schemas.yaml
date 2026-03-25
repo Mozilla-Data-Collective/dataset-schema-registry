@@ -69,4 +69,4 @@ jobs:
         env:
           SCHEMA_FILES: ${{ needs.detect-schema-changes.outputs.schema_files }}
         run: |
-          printf '%s\n' "$SCHEMA_FILES" | sed '/^$/d' | xargs -r python src/dataset_schema_registry/validate_changed_schemas.py
+          printf '%s\n' "$SCHEMA_FILES" | sed '/^$/d' | xargs -r uv run python src/dataset_schema_registry/validate_changed_schemas.py --schema_paths
