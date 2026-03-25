@@ -6,6 +6,8 @@ from datacollective import download_dataset
 from datacollective.schema import _parse_schema
 from datacollective.schema_loaders.registry import _load_dataset_from_schema
 
+from dataset_schema_registry.utils import _extract_archive
+
 REPO_ROOT = Path(__file__).parents[2]
 DEFAULT_DOWNLOAD_DIR = REPO_ROOT / "data"
 
@@ -17,9 +19,11 @@ def extract_dataset_id(schema_path: Path) -> str:
 
 def validate_schema(schema_path: Path, download_dir: Path) -> None:
     dataset_id = extract_dataset_id(schema_path)
-    download_dataset(dataset_id, download_directory=str(download_dir))
+    download_path = download_dataset(dataset_id, download_directory=str(download_dir))
+    # Extract the .tar.gz in the download path in the same download_dir
+    extracted_path = _extract_archive(download_path, download_dir)
     schema = _parse_schema(schema_path)
-    df = _load_dataset_from_schema(schema, extract_dir=download_dir)
+    df = _load_dataset_from_schema(schema, extract_dir=extracted_path)
     if df.empty:
         raise ValueError(f"{schema_path.relative_to(REPO_ROOT)} loaded an empty DataFrame")
     print(f"Validated {schema_path.relative_to(REPO_ROOT)}")
