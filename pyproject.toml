@@ -19,7 +19,7 @@ classifiers = [
 license = "MPL-2.0"
 license-files = ["LICENSE*"]
 
-[project.optional-dependencies]
+[dependency-groups]
 docs = [
   "mkdocs",
   "mkdocs-material",
