@@ -20,8 +20,7 @@ def extract_dataset_id(schema_path: Path) -> str:
 def validate_schema(schema_path: Path, download_dir: Path) -> None:
     dataset_id = extract_dataset_id(schema_path)
     download_path = download_dataset(dataset_id, download_directory=str(download_dir))
-    # Extract the .tar.gz in the download path in the same download_dir
-    extracted_path = _extract_archive(download_path, download_dir)
+    extracted_path = _extract_archive(download_path, download_dir, overwrite_extracted=True)
     schema = _parse_schema(schema_path)
     df = _load_dataset_from_schema(schema, extract_dir=extracted_path)
     if df.empty:
