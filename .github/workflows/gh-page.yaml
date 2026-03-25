@@ -44,7 +44,7 @@ jobs:
           git config user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Install requirements
-        run: pip install -e '.[scripts]'
+        run: pip install -e .
 
       - name: Sync dataset registry JSON
         run: python src/dataset_schema_registry/sync_dataset_registry.py
@@ -83,7 +83,7 @@ jobs:
           git config user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Install requirements
-        run: pip install -e '.[docs,scripts]'
+        run: pip install -e '.[docs]'
 
       - name: Pull latest commits (registry JSON may have just been pushed)
         run: git pull --rebase origin main
