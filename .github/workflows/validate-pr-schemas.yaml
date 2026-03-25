@@ -57,10 +57,13 @@ jobs:
           python-version: '3.11'
           cache: "pip"
 
-      - name: Install requirements
-        run: |
-          python -m pip install --upgrade pip
-          python -m pip install -e '.[scripts]'
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+
+      - name: Install test dependencies
+        run: uv sync
 
       - name: Validate changed schema files
         env:
