@@ -68,6 +68,8 @@ jobs:
 
       - name: Validate changed schema files
         env:
+          MDC_API_URL: ${{ secrets.MDC_API_URL }}
+          MDC_API_KEY: ${{ secrets.MDC_API_KEY }}
           SCHEMA_FILES: ${{ needs.detect-schema-changes.outputs.schema_files }}
         run: |
           printf '%s\n' "$SCHEMA_FILES" | sed '/^$/d' | xargs -r uv run python src/dataset_schema_registry/validate_changed_schemas.py --schema_paths
