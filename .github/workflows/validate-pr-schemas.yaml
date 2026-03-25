@@ -3,6 +3,9 @@ name: Validate PR Schemas
 on:
   pull_request:
     branches: [main]
+    paths:
+      - 'registry/**'
+  workflow_dispatch:
 
 permissions:
   contents: read
