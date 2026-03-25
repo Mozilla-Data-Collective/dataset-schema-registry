@@ -28,9 +28,9 @@ docs = [
 scripts = [
   "requests>=2.28",
   "datacollective",
+  "PyYAML",
 ]
 
 [project.urls]
 Homepage = "https://github.com/Mozilla-Data-Collective/dataset-schema-registry"
 Documentation = "https://Mozilla-Data-Collective.github.io/dataset-schema-registry/"
-
