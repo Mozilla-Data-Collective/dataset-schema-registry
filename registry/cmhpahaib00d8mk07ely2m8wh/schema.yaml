@@ -1,7 +1,7 @@
 dataset_id: "cmhpahaib00d8mk07ely2m8wh"
 task: "TTS"
 root_strategy: "paired_glob"
-checksum: ""
+checksum: "bcf565c8a25de5b8ce4f30b92ec2342002f9a6bc1c9b760005e18e3433ef8c17"
 
 file_pattern: "**/*.txt"
 audio_extension: ".webm"
