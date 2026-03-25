@@ -13,6 +13,7 @@ permissions:
 jobs:
   detect-schema-changes:
     runs-on: ubuntu-latest
+    environment: schema-validation
     outputs:
       count: ${{ steps.changed.outputs.count }}
       schema_files: ${{ steps.changed.outputs.schema_files }}
