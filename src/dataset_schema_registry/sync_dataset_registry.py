@@ -8,7 +8,7 @@ Usage:
     python src/dataset_schema_registry/sync_dataset_registry.py
 
 Requirements:
-    uv sync --extra scripts
+    uv sync
 """
 
 import json

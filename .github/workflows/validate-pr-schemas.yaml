@@ -1,0 +1,72 @@
+name: Validate PR Schemas
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'registry/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  detect-schema-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      count: ${{ steps.changed.outputs.count }}
+      schema_files: ${{ steps.changed.outputs.schema_files }}
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Detect changed schema files
+        id: changed
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          schema_files="$(git diff --name-only --diff-filter=ACMR "$BASE_SHA" "$HEAD_SHA" -- 'registry/**/schema.yaml')"
+          count="$(printf '%s\n' "$schema_files" | sed '/^$/d' | wc -l | tr -d ' ')"
+          {
+            echo "count=$count"
+            echo "schema_files<<EOF"
+            printf '%s\n' "$schema_files"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: No schema changes
+        if: steps.changed.outputs.count == '0'
+        run: echo "No schema.yaml changes in this PR."
+
+  validate-schema-changes:
+    needs: detect-schema-changes
+    if: needs.detect-schema-changes.outputs.count != '0'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: "pip"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+
+      - name: Install test dependencies
+        run: uv sync
+
+      - name: Validate changed schema files
+        env:
+          SCHEMA_FILES: ${{ needs.detect-schema-changes.outputs.schema_files }}
+        run: |
+          printf '%s\n' "$SCHEMA_FILES" | sed '/^$/d' | xargs -r uv run python src/dataset_schema_registry/validate_changed_schemas.py --schema_paths
