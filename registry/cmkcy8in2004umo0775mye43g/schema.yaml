@@ -1,0 +1,29 @@
+dataset_id: "cmkcy8in2004umo0775mye43g"
+task: "ASR"
+
+index_file: "data/metadata.csv"
+base_audio_path:
+  - "data/recipes/"
+  - "data/giving_gift/"
+
+columns:
+  audio_path:
+    source_column: "Sentence ID"
+    file_extension: ".wav"
+    dtype: "file_path"
+    path_template: "${Speaker ID}_khm_${value}"
+  transcription:
+    source_column: "Sentences"
+    dtype: "string"
+  topic:
+    source_column: "Topic"
+    dtype: "string"
+  subtopic:
+    source_column: "Subtopic"
+    dtype: "string"
+  speaker_id:
+    source_column: "Speaker ID"
+    dtype: "string"
+  paragraph_id:
+    source_column: "Paragraph ID"
+    dtype: "string"
