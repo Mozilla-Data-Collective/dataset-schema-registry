@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-03-11  
+**Last updated:** 2026-04-06  
 **Total datasets in sitemap:** 505  
-**Schemas registered:** 350 ✅  
-**Schemas missing:** 155 ❌  
+**Schemas registered:** 351 ✅  
+**Schemas missing:** 154 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -458,7 +458,7 @@ schema in this registry and which ones are still missing.
 | `cmk40plhc001lmd07kwixjls0` | Vallader Newspaper Corpus | `vallader-newspaper-corpus-ac66c889` | [link](https://datacollective.mozillafoundation.org/datasets/cmk40plhc001lmd07kwixjls0) | ❌ |
 | `cmk70opha02yxnt072patcjnd` | SI-NLI | `si-nli-5c926f32` | [link](https://datacollective.mozillafoundation.org/datasets/cmk70opha02yxnt072patcjnd) | ❌ |
 | `cmk719jvs02z1nt07tjswt52s` | Corpus of Panjebar Semangat Javanese-Language Magazine | `corpus-of-panjebar-semangat-javanese-lan-1fe6d08a` | [link](https://datacollective.mozillafoundation.org/datasets/cmk719jvs02z1nt07tjswt52s) | ❌ |
-| `cmkcy8in2004umo0775mye43g` | Khmer ASR Cultural Dataset | `khmer-asr-cultural-dataset-4e33cd05` | [link](https://datacollective.mozillafoundation.org/datasets/cmkcy8in2004umo0775mye43g) | ❌ |
+| `cmkcy8in2004umo0775mye43g` | Khmer ASR Cultural Dataset | `khmer-asr-cultural-dataset-4e33cd05` | [link](https://datacollective.mozillafoundation.org/datasets/cmkcy8in2004umo0775mye43g) | ✅ |
 | `cmkfm6xtw00k2nv07oakesnix` | DataTrust Africa: Speech Corpus of Public Radio Recordings from Northern Uganda | `datatrust-africa-speech-corpus-of-public-84630945` | [link](https://datacollective.mozillafoundation.org/datasets/cmkfm6xtw00k2nv07oakesnix) | ❌ |
 | `cmkfm9fbl00nto0070sdcrak2` | Effect AI Scripted Speech 1.0 - English | `effect-ai-scripted-speech-1-0-english-6feecf00` | [link](https://datacollective.mozillafoundation.org/datasets/cmkfm9fbl00nto0070sdcrak2) | ❌ |
 | `cmkh2stj6004mmj0751rn8vq6` | Luhya ASR data subset 70 hours | `luhya-asr-data-subset-70-hours-dab9aa35` | [link](https://datacollective.mozillafoundation.org/datasets/cmkh2stj6004mmj0751rn8vq6) | ❌ |
