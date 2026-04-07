@@ -18,6 +18,7 @@ columns:
   audio_path:
     source_column: "path"
     dtype: "file_path"
+    optional: true
   transcription:
     source_column: "sentence"
     dtype: "string"
@@ -59,5 +60,9 @@ columns:
     optional: true
   locale:
     source_column: "locale"
+    dtype: "category"
+    optional: true
+  segment:
+    source_column: "segment"
     dtype: "category"
     optional: true
