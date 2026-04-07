@@ -6,7 +6,6 @@ splits:
   - dev
   - invalidated
   - other
-  - reported
   - test
   - train
   - validated
@@ -18,7 +17,6 @@ columns:
   audio_path:
     source_column: "path"
     dtype: "file_path"
-    optional: true
   transcription:
     source_column: "sentence"
     dtype: "string"
