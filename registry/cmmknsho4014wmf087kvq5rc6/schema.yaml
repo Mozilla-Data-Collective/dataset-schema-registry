@@ -1,0 +1,17 @@
+dataset_id: cmmknsho4014wmf087kvq5rc6
+task: TTS
+index_file: metadata.csv
+has_header: false
+separator: "|"
+base_audio_path: wavs/
+
+columns:
+  audio_path:
+    source_column: 0
+    dtype: file_path
+    file_extension: .flac
+  transcription:
+    source_column: 1
+  romanized_transcription:
+    source_column: 2
+checksum: 86a769539f23958a058b6939be8686e5e23a60df91f0897de7a5e79412482059
