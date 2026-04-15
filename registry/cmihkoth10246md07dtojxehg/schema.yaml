@@ -1,0 +1,35 @@
+dataset_id: cmihkoth10246md07dtojxehg
+task: ASR
+index_file: Metadata.csv
+base_audio_path:
+- Speaker_id_1
+- Speaker_id_2
+- Speaker_id_3
+- Speaker_id_4
+- Speaker_id_5
+- Speaker_id_6
+- Speaker_id_7
+
+columns:
+    audio_path:
+        source_column: Audio_File_Path
+        dtype: file_path
+        file_extension: .wav
+    transcription:
+        source_column: Transcript_File_Path
+        dtype: file_content
+        file_extension: .txt
+    speaker_id:
+        source_column: Speaker_ID
+    accent:
+        source_column: Accent
+    age_range:
+        source_column: Age_Range
+    gender:
+        source_column: Gender
+    nationality:
+        source_column: Nationality
+    languages:
+        source_column: Languages
+
+checksum: 2fa4546b73f20806b08b6b38c861a5a77f5e0feb182393f2d4b29104063de66b
