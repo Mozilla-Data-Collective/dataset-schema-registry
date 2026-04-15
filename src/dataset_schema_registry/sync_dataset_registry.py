@@ -28,7 +28,7 @@ REPO_ROOT = Path(__file__).parents[2]
 OUTPUT_FILE = REPO_ROOT / "docs" / "dataset_registry.json"
 
 DATASET_PATTERN = re.compile(
-    r"^https://datacollective\.mozillafoundation\.org/datasets/([a-z0-9]+)$"
+    r"^https://mozilladatacollective\.com/datasets/([a-z0-9]+)$"
 )
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; DatasetRegistrySync/1.0)"}
