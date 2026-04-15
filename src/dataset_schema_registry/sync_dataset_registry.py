@@ -20,7 +20,7 @@ from pathlib import Path
 import requests
 from datacollective import get_dataset_details
 
-SITEMAP_URL = "https://datacollective.mozillafoundation.org/sitemap.xml"
+SITEMAP_URL = "https://mozilladatacollective.com/sitemap.xml"
 SITEMAP_NS = {"ns": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 
 # Repo root -> docs/dataset_registry.json
