@@ -1,0 +1,15 @@
+dataset_id: "cmiupbboq01i4mf071clmd43n"
+task: "TTS"
+index_file: "metadata.csv"
+has_header: false
+separator: "|"
+base_audio_path: "wav"
+
+columns:
+  audio_path:
+    source_column: 0
+    dtype: file_path
+    file_extension: .flac
+  transcription:
+    source_column: 1
+checksum: ""
