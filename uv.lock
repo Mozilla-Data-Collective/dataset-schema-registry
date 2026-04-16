@@ -147,7 +147,7 @@ wheels = [
 
 [[package]]
 name = "datacollective"
-version = "0.4.5"
+version = "0.5.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "fox-progress-bar" },
@@ -157,9 +157,9 @@ dependencies = [
     { name = "pyyaml" },
     { name = "requests" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/28/b0/70ff0be855b8ad0efc488145531c0271a0d8d31e65fa128869f4ea71b1aa/datacollective-0.4.5.tar.gz", hash = "sha256:5c90555f5328a8ec4b1f3546f095b28f585d16ac74b1e91c084965a173ca7d43", size = 32415, upload_time = "2026-03-24T19:23:33.658Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/61/07/713c06d8366f83049bb531235cc0b0b3e4b637a3a00fbea676f7bde4d915/datacollective-0.5.0.tar.gz", hash = "sha256:4ddf6b797873696c76e791795d5179a2f14f2ff87c7e3e0337a900a7e6914351", size = 36826, upload_time = "2026-04-09T15:41:56.113Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/d1/08/c2060f8cc828a5fd7fb4ba90b1fe77d6ac704fe9c25f076b3b89a59da760/datacollective-0.4.5-py3-none-any.whl", hash = "sha256:27ecef05b7a077826eaa62aaa12b7e79132c54d9a6fa0db6f19890b183f4b436", size = 42396, upload_time = "2026-03-24T19:23:32.418Z" },
+    { url = "https://files.pythonhosted.org/packages/b1/74/f0d4c9b56bdc5cb7c350ace6c00498e7febf054869fb74e94a13808c0bd0/datacollective-0.5.0-py3-none-any.whl", hash = "sha256:13e0c1a086622fd5a011cb73c3fcc650592c1873533c24bb38cac98493c22583", size = 46826, upload_time = "2026-04-09T15:41:54.854Z" },
 ]
 
 [[package]]
@@ -181,7 +181,7 @@ docs = [
 
 [package.metadata]
 requires-dist = [
-    { name = "datacollective", specifier = ">=0.4.5" },
+    { name = "datacollective", specifier = ">=0.5.0" },
     { name = "pyyaml" },
     { name = "requests", specifier = ">=2.28" },
 ]
