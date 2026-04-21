@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-04-15  
-**Total datasets in sitemap:** 606  
+**Last updated:** 2026-04-21  
+**Total datasets in sitemap:** 631  
 **Schemas registered:** 363 ✅  
-**Schemas missing:** 243 ❌  
+**Schemas missing:** 268 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -130,8 +130,8 @@ schema in this registry and which ones are still missing.
 | `cml0wtouz026wno075aq7v201` | Hawrami Kurdish TTS dataset 1.0 | `hawrami-kurdish-tts-dataset-1-0-e054d33b` | [link](https://mozilladatacollective.com/datasets/cml0wtouz026wno075aq7v201) | ❌ |
 | `cml161p08007ynt07iilell66` | TTS Muna Dataset | `tts-muna-dataset-bc489540` | [link](https://mozilladatacollective.com/datasets/cml161p08007ynt07iilell66) | ❌ |
 | `cml16bz8v008pnt07scfh66p5` | Bamun-French Parallel Corpus 1.1 | `bamun-french-parallel-corpus-1-1-64fe9ff1` | [link](https://mozilladatacollective.com/datasets/cml16bz8v008pnt07scfh66p5) | ❌ |
-| `cml16fpkn009lnt07ht6k406o` | Ewondo-TTS-Dataset | `ewondo-tts-dataset-62fe7b57` | [link](https://mozilladatacollective.com/datasets/cml16fpkn009lnt07ht6k406o) | ❌ |
-| `cml5asbhf009sme079y6sa9hm` | Adamawa Fulfulde-French Parallel Corpus of Narratives 1.2 | `adamawa-fulfulde-french-parallel-corpus-083739f0` | [link](https://mozilladatacollective.com/datasets/cml5asbhf009sme079y6sa9hm) | ❌ |
+| `cml16fpkn009lnt07ht6k406o` | Ewondo-TTS-Dataset | `ewondo-tts-dataset-ef07a0de` | [link](https://mozilladatacollective.com/datasets/cml16fpkn009lnt07ht6k406o) | ❌ |
+| `cml5asbhf009sme079y6sa9hm` | Adamawa Fulfulde-French Parallel Corpus of Narratives 1.2 | `adamawa-fulfulde-french-parallel-corpus-748952a3` | [link](https://mozilladatacollective.com/datasets/cml5asbhf009sme079y6sa9hm) | ❌ |
 | `cml5bgysg00bhkr07g23kewke` | TTS Javanese-Lumajang Dialect | `tts-javanese-lumajang-dialect-e4bf8a25` | [link](https://mozilladatacollective.com/datasets/cml5bgysg00bhkr07g23kewke) | ❌ |
 | `cml5bn4k900aame07u0rwidcg` | TTS Central Javanese  | `tts-central-javanese-18f65d12` | [link](https://mozilladatacollective.com/datasets/cml5bn4k900aame07u0rwidcg) | ❌ |
 | `cml5e30pd00eskr072e6a4rrh` | Mandar Spontaneous Speech | `mandar-spontaneous-speech-05a6e755` | [link](https://mozilladatacollective.com/datasets/cml5e30pd00eskr072e6a4rrh) | ❌ |
@@ -140,7 +140,7 @@ schema in this registry and which ones are still missing.
 | `cml9h5vgc01bxmn075sjeftek` | Khmer ASR Cultural Dataset (V2) | `khmer-asr-cultural-dataset-v2-60d7b361` | [link](https://mozilladatacollective.com/datasets/cml9h5vgc01bxmn075sjeftek) | ❌ |
 | `cml9hmuis017yo407k0p4i0t4` | Betawi TTS of Cultural Language (BEKAL) | `betawi-tts-of-cultural-language-bekal-1e3ae3f6` | [link](https://mozilladatacollective.com/datasets/cml9hmuis017yo407k0p4i0t4) | ❌ |
 | `cml9i39tx018so40750re64v6` | TTS Sasak Language | `tts-sasak-language-cee7a620` | [link](https://mozilladatacollective.com/datasets/cml9i39tx018so40750re64v6) | ❌ |
-| `cml9iik7d01efmn07miuf8yof` | Bulu-TTS-Dataset 1.0 | `bulu-tts-dataset-1-0-3823b1e4` | [link](https://mozilladatacollective.com/datasets/cml9iik7d01efmn07miuf8yof) | ❌ |
+| `cml9iik7d01efmn07miuf8yof` | Bulu-TTS-Dataset 1.0 | `bulu-tts-dataset-1-0-0aed953e` | [link](https://mozilladatacollective.com/datasets/cml9iik7d01efmn07miuf8yof) | ❌ |
 | `cmlcqxjwl01t8mm07wz7c08bz` | Zacatlán Tepetzintla Nahuatl Audio | `zacatl-n-tepetzintla-nahuatl-audio-f7c7ae62` | [link](https://mozilladatacollective.com/datasets/cmlcqxjwl01t8mm07wz7c08bz) | ❌ |
 | `cmlct0jzu01s4nv07023lv3m3` | Zacatlán Tepetzintla Nahuatl Transcriptions | `zacatl-n-tepetzintla-nahuatl-transcripti-6fdb6e0a` | [link](https://mozilladatacollective.com/datasets/cmlct0jzu01s4nv07023lv3m3) | ❌ |
 | `cmlgm5a94008kny07nz2intus` | Jember Javanese Spontaneous Speech Corpus | `jember-javanese-spontaneous-speech-corpu-d43a201a` | [link](https://mozilladatacollective.com/datasets/cmlgm5a94008kny07nz2intus) | ❌ |
@@ -161,13 +161,13 @@ schema in this registry and which ones are still missing.
 | `cmll54ryz00ljl60764ivc60m` | Manggarai Language for NLP | `manggarai-language-for-nlp-b1afdc85` | [link](https://mozilladatacollective.com/datasets/cmll54ryz00ljl60764ivc60m) | ❌ |
 | `cmlqmsm0d00pinx072m0mm3aw` | Finweb-Edu-Chinese-v2.2 | `finweb-edu-chinese-v2-2-17f2368a` | [link](https://mozilladatacollective.com/datasets/cmlqmsm0d00pinx072m0mm3aw) | ❌ |
 | `cmlqoukmi000hnr07cprdmxsc` | Kyrgyz Folklore Text Corpus | `kyrgyz-folklore-text-corpus-de2f27ff` | [link](https://mozilladatacollective.com/datasets/cmlqoukmi000hnr07cprdmxsc) | ❌ |
-| `cmls27zfd0043ma07mxvsz8zg` | Zacatlán Tepetzintla Nahuatl ASR Dataset | `zacatl-n-tepetzintla-nahuatl-asr-dataset-467222b1` | [link](https://mozilladatacollective.com/datasets/cmls27zfd0043ma07mxvsz8zg) | ❌ |
+| `cmls27zfd0043ma07mxvsz8zg` | Zacatlán Tepetzintla Nahuatl ASR Dataset | `zacatl-n-tepetzintla-nahuatl-asr-dataset-f5e3fc35` | [link](https://mozilladatacollective.com/datasets/cmls27zfd0043ma07mxvsz8zg) | ❌ |
 | `cmlth9lrp000ams07yjdscjgu` | ATLAS Cross-Lingual Transfer Matrix | `atlas-cross-lingual-transfer-matrix-b3661347` | [link](https://mozilladatacollective.com/datasets/cmlth9lrp000ams07yjdscjgu) | ❌ |
 | `cmltnzkug0012mh07k1obic7v` | Bojonegoro Javanese TTS  | `bojonegoro-javanese-tts-c4d23090` | [link](https://mozilladatacollective.com/datasets/cmltnzkug0012mh07k1obic7v) | ❌ |
 | `cmm0n37lm000dnq07vpctdtc9` | GeoLogicQA: An LLM Benchmark for Logical Reasoning in Georgian | `geologicqa-an-llm-benchmark-for-logical-612b08b2` | [link](https://mozilladatacollective.com/datasets/cmm0n37lm000dnq07vpctdtc9) | ❌ |
 | `cmm0n4ro2000hnq079tknw6gv` | Dolgan Folklore Text Corpus | `dolgan-folklore-text-corpus-d5c4c9ae` | [link](https://mozilladatacollective.com/datasets/cmm0n4ro2000hnq079tknw6gv) | ❌ |
 | `cmm0nm2ua000eo007qs4r3m8q` | Polish Public Domain 20th Century Literature Text Corpus | `polish-public-domain-20th-century-litera-6cb59f65` | [link](https://mozilladatacollective.com/datasets/cmm0nm2ua000eo007qs4r3m8q) | ❌ |
-| `cmm23jslb003znq07vdska54l` | Lingala-TTS-Dataset | `lingala-tts-dataset-eef0dd61` | [link](https://mozilladatacollective.com/datasets/cmm23jslb003znq07vdska54l) | ❌ |
+| `cmm23jslb003znq07vdska54l` | Lingala-TTS-Dataset | `lingala-tts-dataset-c74b41b5` | [link](https://mozilladatacollective.com/datasets/cmm23jslb003znq07vdska54l) | ❌ |
 | `cmm27p8oy00auo3073kg3f1gj` | Persian VOA Corpus 2003-2008 | `persian-voa-corpus-2003-2008-70989868` | [link](https://mozilladatacollective.com/datasets/cmm27p8oy00auo3073kg3f1gj) | ❌ |
 | `cmm2fwi490024nt0779vv9o0d` | Thorsten-Voice Dataset 2021.02 | `thorsten-voice-dataset-2021-02-2ab0c450` | [link](https://mozilladatacollective.com/datasets/cmm2fwi490024nt0779vv9o0d) | ❌ |
 | `cmm3gntdp00jymn07zjetwkyy` | Finance Sentences - North American Spanish  | `finance-sentences-north-american-spanish-fabeb98e` | [link](https://mozilladatacollective.com/datasets/cmm3gntdp00jymn07zjetwkyy) | ❌ |
@@ -181,7 +181,7 @@ schema in this registry and which ones are still missing.
 | `cmm4de9w500ntmh073nx14k7p` | Thorsten-Voice-44kHz-Full | `thorsten-voice-44khz-full-ded7f701` | [link](https://mozilladatacollective.com/datasets/cmm4de9w500ntmh073nx14k7p) | ❌ |
 | `cmm5078n50168mk07v64792sf` | Finnish Public Domain 20th Century Literature Text Corpus | `finnish-public-domain-20th-century-liter-294fe404` | [link](https://mozilladatacollective.com/datasets/cmm5078n50168mk07v64792sf) | ❌ |
 | `cmmamtaf104nemh07xa9e7sdx` | Javanese TTS of Banyumasan Dialect | `javanese-tts-of-banyumasan-dialect-1f7e2f21` | [link](https://mozilladatacollective.com/datasets/cmmamtaf104nemh07xa9e7sdx) | ❌ |
-| `cmmamvzrz04qtmk077j1k99vt` | Mada-French Parallel Corpus 1.0 | `mada-french-parallel-corpus-1-0-1a1139ce` | [link](https://mozilladatacollective.com/datasets/cmmamvzrz04qtmk077j1k99vt) | ❌ |
+| `cmmamvzrz04qtmk077j1k99vt` | Mada-French Parallel Corpus 1.0 | `mada-french-parallel-corpus-1-0-6f1a334d` | [link](https://mozilladatacollective.com/datasets/cmmamvzrz04qtmk077j1k99vt) | ❌ |
 | `cmmao7dc504oamh0710j4wau1` | Jhoke Publisher Multan’s Saraiki Newspaper Corpus | `jhoke-publisher-multan-s-saraiki-newspap-e0350169` | [link](https://mozilladatacollective.com/datasets/cmmao7dc504oamh0710j4wau1) | ❌ |
 | `cmmaphscg04t2mk07i1f8yc0q` | Saraiki-English Parallel Corpus | `saraiki-english-parallel-corpus-096ab4eb` | [link](https://mozilladatacollective.com/datasets/cmmaphscg04t2mk07i1f8yc0q) | ❌ |
 | `cmmccfc5000efmu07ommi3zfr` | Bangor Patagonia Welsh-Spanish Corpus | `bangor-patagonia-welsh-spanish-corpus-5440036b` | [link](https://mozilladatacollective.com/datasets/cmmccfc5000efmu07ommi3zfr) | ❌ |
@@ -575,22 +575,22 @@ schema in this registry and which ones are still missing.
 | `cmn4z1n52000knv07h01532dd` | Common Voice Scripted Speech 25.0 - Spanish | `common-voice-scripted-speech-25-0-spanis-24092b75` | [link](https://mozilladatacollective.com/datasets/cmn4z1n52000knv07h01532dd) | ✅ |
 | `cmn5zugst00w3nv07upovf2bg` | Common Voice Scripted Speech 25.0 - French | `common-voice-scripted-speech-25-0-french-c0e29588` | [link](https://mozilladatacollective.com/datasets/cmn5zugst00w3nv07upovf2bg) | ✅ |
 | `cmn60xnfi00wnnv07028xltoz` | Common Voice Scripted Speech 25.0 - Kinyarwanda | `common-voice-scripted-speech-25-0-kinyar-ce8deac8` | [link](https://mozilladatacollective.com/datasets/cmn60xnfi00wnnv07028xltoz) | ✅ |
-| `cmn6ay1xg016jnv07drtmw7qo` | Bamun-French Parallel Corpus 2.0 | `bamun-french-parallel-corpus-2-0-1a0c2a1d` | [link](https://mozilladatacollective.com/datasets/cmn6ay1xg016jnv07drtmw7qo) | ❌ |
+| `cmn6ay1xg016jnv07drtmw7qo` | Bamun-French Parallel Corpus 2.0 | `bamun-french-parallel-corpus-2-0-324fbd3f` | [link](https://mozilladatacollective.com/datasets/cmn6ay1xg016jnv07drtmw7qo) | ❌ |
 | `cmnd4la5a02fwmh074t1fx5y9` | Common Voice Scripted Speech 25.0 - Catalan | `common-voice-scripted-speech-25-0-catala-4707e7c7` | [link](https://mozilladatacollective.com/datasets/cmnd4la5a02fwmh074t1fx5y9) | ✅ |
 | `cmndapwry02jnmh07dyo46mot` | Common Voice Scripted Speech 25.0 - English | `common-voice-scripted-speech-25-0-englis-0c0b9a16` | [link](https://mozilladatacollective.com/datasets/cmndapwry02jnmh07dyo46mot) | ✅ |
 | `cmndf6mgs001lnz07bf9t3skp` | Common Voice Scripted Speech 25.0 - Pashto | `common-voice-scripted-speech-25-0-pashto-fdfd7282` | [link](https://mozilladatacollective.com/datasets/cmndf6mgs001lnz07bf9t3skp) | ✅ |
 | `cmndf7vbn002gma07np6nc35o` | Common Voice Spontaneous Speech 3.0 - Serian Bidayuh | `common-voice-spontaneous-speech-3-0-seri-19b901ab` | [link](https://mozilladatacollective.com/datasets/cmndf7vbn002gma07np6nc35o) | ✅ |
 | `cmndjfw9d000qmj070dece40f` | Yezoum_ALCAM-MultimodalDataset | `yezoum-alcam-multimodaldataset-bb0308a3` | [link](https://mozilladatacollective.com/datasets/cmndjfw9d000qmj070dece40f) | ❌ |
-| `cmngbf1tt0050nn07i49aebnk` | Sentence translation difficulty in Spanish - BOUQuET | `sentence-translation-difficulty-in-spani-29d5ba79` | [link](https://mozilladatacollective.com/datasets/cmngbf1tt0050nn07i49aebnk) | ❌ |
+| `cmngbf1tt0050nn07i49aebnk` | Sentence translation difficulty in Spanish - BOUQuET | `sentence-translation-difficulty-in-spani-355c4d15` | [link](https://mozilladatacollective.com/datasets/cmngbf1tt0050nn07i49aebnk) | ❌ |
 | `cmnggocgg007ymh079k30st39` | Kannada Time Aligned Speech Corpus | `kannada-time-aligned-speech-corpus-6c996d55` | [link](https://mozilladatacollective.com/datasets/cmnggocgg007ymh079k30st39) | ❌ |
 | `cmnggqr8z0082mh07vbsbm6t5` | Saraiki 10 Hours  TTS Dataset | `saraiki-10-hours-tts-dataset-8774ddeb` | [link](https://mozilladatacollective.com/datasets/cmnggqr8z0082mh07vbsbm6t5) | ❌ |
 | `cmnhgmkgg00wimh07wc0v3s49` | RFE/RL Persian News Text Corpus | `rfe-rl-persian-news-text-corpus-c5838e9b` | [link](https://mozilladatacollective.com/datasets/cmnhgmkgg00wimh07wc0v3s49) | ❌ |
 | `cmnhhi0by00zknn07edrnd82e` | Chuvash TTS | `chuvash-tts-c8d599ba` | [link](https://mozilladatacollective.com/datasets/cmnhhi0by00zknn07edrnd82e) | ❌ |
 | `cmnhi28fc00xpmh07fwall3wn` | Territórios Digitais | `territ-rios-digitais-ee5b55d2` | [link](https://mozilladatacollective.com/datasets/cmnhi28fc00xpmh07fwall3wn) | ❌ |
-| `cmnhjbnjp0115mh07kiha0rei` | Bamun-TTS-Dataset | `bamun-tts-dataset-4fcf7897` | [link](https://mozilladatacollective.com/datasets/cmnhjbnjp0115mh07kiha0rei) | ❌ |
+| `cmnhjbnjp0115mh07kiha0rei` | Bamun-TTS-Dataset | `bamun-tts-dataset-e1a518e9` | [link](https://mozilladatacollective.com/datasets/cmnhjbnjp0115mh07kiha0rei) | ❌ |
 | `cmnmy7tmf02k6ml07m7vvcxzr` | ViQua² — Visual Question-answering about Quantities | `viqua-visual-question-answering-about-qu-3e8deb4e` | [link](https://mozilladatacollective.com/datasets/cmnmy7tmf02k6ml07m7vvcxzr) | ❌ |
 | `cmnmyptri02glo107p5cx5por` | Tamil Time Aligned Speech Dataset | `tamil-time-aligned-speech-dataset-7d228a5b` | [link](https://mozilladatacollective.com/datasets/cmnmyptri02glo107p5cx5por) | ❌ |
-| `cmnopto3q00t0mf07v2dtc0ej` | Hausa-TTS-Dataset | `hausa-tts-dataset-412473aa` | [link](https://mozilladatacollective.com/datasets/cmnopto3q00t0mf07v2dtc0ej) | ❌ |
+| `cmnopto3q00t0mf07v2dtc0ej` | Hausa-TTS-Dataset | `hausa-tts-dataset-17bc050d` | [link](https://mozilladatacollective.com/datasets/cmnopto3q00t0mf07v2dtc0ej) | ❌ |
 | `cmnopvxxr00t6mf07nm4cp4qs` | Bulu_ALCAM-MultimodalDataset | `bulu-alcam-multimodaldataset-c3804b14` | [link](https://mozilladatacollective.com/datasets/cmnopvxxr00t6mf07nm4cp4qs) | ❌ |
 | `cmnoqtoq900ugmf077kiuny8y` | IBT Torwali Literature Corpus | `ibt-torwali-literature-corpus-7bb922e0` | [link](https://mozilladatacollective.com/datasets/cmnoqtoq900ugmf077kiuny8y) | ❌ |
 | `cmnprpfot01khnz07xdjosybq` | CV Korean Test 25.0 - Noise-Augmented (SCAI) | `cv-korean-test-25-0-noise-augmented-scai-2f4f0b65` | [link](https://mozilladatacollective.com/datasets/cmnprpfot01khnz07xdjosybq) | ❌ |
@@ -606,7 +606,7 @@ schema in this registry and which ones are still missing.
 | `cmnxk6nou00a5nu07kid0mewy` | RFE/RL Pashto (Pakistani) News Text Corpus | `rfe-rl-pashto-pakistani-news-text-corpus-9baee644` | [link](https://mozilladatacollective.com/datasets/cmnxk6nou00a5nu07kid0mewy) | ❌ |
 | `cmnxk7u8900a2ny076pyqzama` | RFE/RL Ukrainian (Crimea) News Text Corpus | `rfe-rl-ukrainian-crimea-news-text-corpus-8ba7ee64` | [link](https://mozilladatacollective.com/datasets/cmnxk7u8900a2ny076pyqzama) | ❌ |
 | `cmnxk95so00a6ny07vtscd9a9` | RFE/RL Hungarian News Text Corpus | `rfe-rl-hungarian-news-text-corpus-f4b0f510` | [link](https://mozilladatacollective.com/datasets/cmnxk95so00a6ny07vtscd9a9) | ❌ |
-| `cmnykldcz010knu0737o8bgh9` | Naija-TTS-Dataset | `naija-tts-dataset-d16041dc` | [link](https://mozilladatacollective.com/datasets/cmnykldcz010knu0737o8bgh9) | ❌ |
+| `cmnykldcz010knu0737o8bgh9` | Naija-TTS-Dataset | `naija-tts-dataset-ad9f8f35` | [link](https://mozilladatacollective.com/datasets/cmnykldcz010knu0737o8bgh9) | ❌ |
 | `cmnykm7yi010rny0737lq2fth` | RFE/RL Chechen News Text Corpus | `rfe-rl-chechen-news-text-corpus-ef4f1727` | [link](https://mozilladatacollective.com/datasets/cmnykm7yi010rny0737lq2fth) | ❌ |
 | `cmnykmjx6010xny079bqway5r` | RFE/RL Crimean Tatar News Text Corpus | `rfe-rl-crimean-tatar-news-text-corpus-7f83b1b0` | [link](https://mozilladatacollective.com/datasets/cmnykmjx6010xny079bqway5r) | ❌ |
 | `cmnylmd5c000ynx07qonxot0v` | RFE/RL Kazakh News Text Corpus | `rfe-rl-kazakh-news-text-corpus-84d57619` | [link](https://mozilladatacollective.com/datasets/cmnylmd5c000ynx07qonxot0v) | ❌ |
@@ -621,3 +621,28 @@ schema in this registry and which ones are still missing.
 | `cmnz260wu00h8nr07h3uf4499` | RFE/RL Belarusian News Text Corpus | `rfe-rl-belarusian-news-text-corpus-3b4ec4af` | [link](https://mozilladatacollective.com/datasets/cmnz260wu00h8nr07h3uf4499) | ❌ |
 | `cmnz269cd00hcnr075v74km69` | RFE/RL Azerbaijani News Text Corpus | `rfe-rl-azerbaijani-news-text-corpus-1c71075a` | [link](https://mozilladatacollective.com/datasets/cmnz269cd00hcnr075v74km69) | ❌ |
 | `cmnz26xn200hgnr07m1x2po5v` | RFE/RL Bulgarian News Text Corpus | `rfe-rl-bulgarian-news-text-corpus-a5900a72` | [link](https://mozilladatacollective.com/datasets/cmnz26xn200hgnr07m1x2po5v) | ❌ |
+| `cmo06ikpt00chnx07xmaj8rxe` | RFE/RL Serbian, Bosnian, and Montenegrin (Balkan) News Text Corpus | `rfe-rl-serbian-bosnian-and-montenegrin-b-0a5c7977` | [link](https://mozilladatacollective.com/datasets/cmo06ikpt00chnx07xmaj8rxe) | ❌ |
+| `cmo07ixww00ddmr07enqrrpfw` | Awal Tamazight Dataset | `awal-tamazight-dataset-acc51046` | [link](https://mozilladatacollective.com/datasets/cmo07ixww00ddmr07enqrrpfw) | ❌ |
+| `cmo0cro1g00hlmr07oichasyk` | otomí-hñähñu TTS Voz Masculina  | `otom-h-h-u-tts-voz-masculina-b3c8c8a8` | [link](https://mozilladatacollective.com/datasets/cmo0cro1g00hlmr07oichasyk) | ❌ |
+| `cmo0h34b600n8nx07khjct4iy` | UK Sort Codes - ASR Evaluation | `uk-sort-codes-asr-evaluation-3a75316e` | [link](https://mozilladatacollective.com/datasets/cmo0h34b600n8nx07khjct4iy) | ❌ |
+| `cmo0jfvnw00p1nx070preklt5` | LibriVox Czech TTS Female Voice | `librivox-czech-tts-female-voice-dacc0fd3` | [link](https://mozilladatacollective.com/datasets/cmo0jfvnw00p1nx070preklt5) | ❌ |
+| `cmo0qtw7v003knt07u6yupncc` | LibriVox Italian TTS Female Voice | `librivox-italian-tts-female-voice-249d4ed7` | [link](https://mozilladatacollective.com/datasets/cmo0qtw7v003knt07u6yupncc) | ❌ |
+| `cmo1hv2fm001xmk07ity2g0xw` | Kanuri Books Corpus | `kanuri-books-corpus-27351a9f` | [link](https://mozilladatacollective.com/datasets/cmo1hv2fm001xmk07ity2g0xw) | ❌ |
+| `cmo1kqs2a004anr07sxn2mtf5` | Imágenes de Señalamientos en México | `im-genes-de-se-alamientos-en-m-xico-66546ce0` | [link](https://mozilladatacollective.com/datasets/cmo1kqs2a004anr07sxn2mtf5) | ❌ |
+| `cmo1krloc004zmk07fon30uqs` | Ladino: Una Fraza al Diya | `ladino-una-fraza-al-diya-c1b24af5` | [link](https://mozilladatacollective.com/datasets/cmo1krloc004zmk07fon30uqs) | ❌ |
+| `cmo1ks4zv004enr07la1rkr9x` | Şalom Ladino Corpus | `alom-ladino-corpus-f409a2bb` | [link](https://mozilladatacollective.com/datasets/cmo1ks4zv004enr07la1rkr9x) | ❌ |
+| `cmo1nlaah0071mk077mw0qhpv` | Yoruba-TTS-Dataset | `yoruba-tts-dataset-f9b24c0f` | [link](https://mozilladatacollective.com/datasets/cmo1nlaah0071mk077mw0qhpv) | ❌ |
+| `cmo1qb62200anmk07ls9feuh5` | Ladino-Spanish Lexical Resources | `ladino-spanish-lexical-resources-d2a84a2a` | [link](https://mozilladatacollective.com/datasets/cmo1qb62200anmk07ls9feuh5) | ❌ |
+| `cmo1sg74a00cwmk07q6nin2of` | ERT Press | `ert-press-e9625bc3` | [link](https://mozilladatacollective.com/datasets/cmo1sg74a00cwmk07q6nin2of) | ❌ |
+| `cmo1sklpo00d0mk07taoepe1a` | Modern Greek Dictionary | `modern-greek-dictionary-88bde7ff` | [link](https://mozilladatacollective.com/datasets/cmo1sklpo00d0mk07taoepe1a) | ❌ |
+| `cmo1y8vrv006ol207lc86hc13` | IsiZulu Second Language Learner Speech Corpus | `isizulu-second-language-learner-speech-c-ad118b52` | [link](https://mozilladatacollective.com/datasets/cmo1y8vrv006ol207lc86hc13) | ❌ |
+| `cmo29qkrl00g5o207hash6gk2` | Archivo GELED: Muestra general de audios del cuicateco | `archivo-geled-muestra-general-de-audios-5f021a04` | [link](https://mozilladatacollective.com/datasets/cmo29qkrl00g5o207hash6gk2) | ❌ |
+| `cmo29siht00gfo207oj2jrnrd` | Highland Puebla Nahuatl Spoken Image Descriptions | `highland-puebla-nahuatl-spoken-image-des-e8bf5798` | [link](https://mozilladatacollective.com/datasets/cmo29siht00gfo207oj2jrnrd) | ❌ |
+| `cmo29suhm00gjo2078rhmqn3p` | Speech Corpus of English Learners from Mexico | `speech-corpus-of-english-learners-from-m-02e15f4e` | [link](https://mozilladatacollective.com/datasets/cmo29suhm00gjo2078rhmqn3p) | ❌ |
+| `cmo3f5ydj001umo07y8579zna` | Chittagonian (চাটগাঁইয়া, saṭgãia) Text Corpus | `chittagonian-sa-g-ia-text-corpus-f63ac41e` | [link](https://mozilladatacollective.com/datasets/cmo3f5ydj001umo07y8579zna) | ❌ |
+| `cmo3f6wem001wny0792yg26as` | Rangpuri (অংপুরি Ôṅgpuri) Text Corpus | `rangpuri-gpuri-text-corpus-8558ffa5` | [link](https://mozilladatacollective.com/datasets/cmo3f6wem001wny0792yg26as) | ❌ |
+| `cmo4gtixz00kwny07hayfsk8s` | isiXhosa-TTS-Dataset | `isixhosa-tts-dataset-aaef0436` | [link](https://mozilladatacollective.com/datasets/cmo4gtixz00kwny07hayfsk8s) | ❌ |
+| `cmo4nmfam00nxny07rssox2tj` | Tiv-TTS-Dataset | `tiv-tts-dataset-57d4ed18` | [link](https://mozilladatacollective.com/datasets/cmo4nmfam00nxny07rssox2tj) | ❌ |
+| `cmo8oicwk020dnt077o5dqhwm` | Noakhalian (নোয়াখাইল্লা) Text Corpus | `noakhalian-text-corpus-67ba6147` | [link](https://mozilladatacollective.com/datasets/cmo8oicwk020dnt077o5dqhwm) | ❌ |
+| `cmo8q6f9a024mmg0708ccv04j` | Rohingya Literature Corpus | `rohingya-literature-corpus-c5c2a737` | [link](https://mozilladatacollective.com/datasets/cmo8q6f9a024mmg0708ccv04j) | ❌ |
+| `cmo8rj0f60258mg0783ls9gjb` | Sylheti Text Corpus by Haque Publishers | `sylheti-text-corpus-by-haque-publishers-8cfeffe0` | [link](https://mozilladatacollective.com/datasets/cmo8rj0f60258mg0783ls9gjb) | ❌ |
