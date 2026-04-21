@@ -50,7 +50,10 @@ jobs:
       - name: Install requirements
         run: uv sync
 
-      - name: Sync dataset registry JSON
+      - name: Sync dataset registry JSONcheck
+        env:
+          MDC_API_KEY: ${{ secrets.MDC_API_KEY }}
+          MDC_API_URL: ${{ secrets.MDC_API_URL }}
         run: uv run python src/dataset_schema_registry/sync_dataset_registry.py
 
       - name: Commit updated registry JSON
