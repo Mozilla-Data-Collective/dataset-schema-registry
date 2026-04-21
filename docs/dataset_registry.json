@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-15T09:54:40.660981+00:00",
-  "total": 606,
+  "updated_at": "2026-04-21T19:12:35.117618+00:00",
+  "total": 631,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -810,16 +810,16 @@
     {
       "id": "cml16fpkn009lnt07ht6k406o",
       "url": "https://mozilladatacollective.com/datasets/cml16fpkn009lnt07ht6k406o",
-      "lastmod": "2026-01-30T17:48:36.024Z",
+      "lastmod": "2026-04-16T14:01:40.027Z",
       "name": "Ewondo-TTS-Dataset",
-      "slug": "ewondo-tts-dataset-62fe7b57"
+      "slug": "ewondo-tts-dataset-ef07a0de"
     },
     {
       "id": "cml5asbhf009sme079y6sa9hm",
       "url": "https://mozilladatacollective.com/datasets/cml5asbhf009sme079y6sa9hm",
-      "lastmod": "2026-02-02T15:01:27.459Z",
+      "lastmod": "2026-04-19T06:29:12.476Z",
       "name": "Adamawa Fulfulde-French Parallel Corpus of Narratives 1.2",
-      "slug": "adamawa-fulfulde-french-parallel-corpus-083739f0"
+      "slug": "adamawa-fulfulde-french-parallel-corpus-748952a3"
     },
     {
       "id": "cml5bgysg00bhkr07g23kewke",
@@ -880,9 +880,9 @@
     {
       "id": "cml9iik7d01efmn07miuf8yof",
       "url": "https://mozilladatacollective.com/datasets/cml9iik7d01efmn07miuf8yof",
-      "lastmod": "2026-02-05T13:48:53.833Z",
+      "lastmod": "2026-04-16T14:01:59.748Z",
       "name": "Bulu-TTS-Dataset 1.0",
-      "slug": "bulu-tts-dataset-1-0-3823b1e4"
+      "slug": "bulu-tts-dataset-1-0-0aed953e"
     },
     {
       "id": "cmlcqxjwl01t8mm07wz7c08bz",
@@ -1027,9 +1027,9 @@
     {
       "id": "cmls27zfd0043ma07mxvsz8zg",
       "url": "https://mozilladatacollective.com/datasets/cmls27zfd0043ma07mxvsz8zg",
-      "lastmod": "2026-03-31T00:21:21.731Z",
+      "lastmod": "2026-04-16T13:59:04.628Z",
       "name": "Zacatlán Tepetzintla Nahuatl ASR Dataset",
-      "slug": "zacatl-n-tepetzintla-nahuatl-asr-dataset-467222b1"
+      "slug": "zacatl-n-tepetzintla-nahuatl-asr-dataset-f5e3fc35"
     },
     {
       "id": "cmlth9lrp000ams07yjdscjgu",
@@ -1069,9 +1069,9 @@
     {
       "id": "cmm23jslb003znq07vdska54l",
       "url": "https://mozilladatacollective.com/datasets/cmm23jslb003znq07vdska54l",
-      "lastmod": "2026-02-25T13:55:16.224Z",
+      "lastmod": "2026-04-16T14:01:10.865Z",
       "name": "Lingala-TTS-Dataset",
-      "slug": "lingala-tts-dataset-eef0dd61"
+      "slug": "lingala-tts-dataset-c74b41b5"
     },
     {
       "id": "cmm27p8oy00auo3073kg3f1gj",
@@ -1167,9 +1167,9 @@
     {
       "id": "cmmamvzrz04qtmk077j1k99vt",
       "url": "https://mozilladatacollective.com/datasets/cmmamvzrz04qtmk077j1k99vt",
-      "lastmod": "2026-03-03T13:18:47.519Z",
+      "lastmod": "2026-04-19T06:29:26.174Z",
       "name": "Mada-French Parallel Corpus 1.0",
-      "slug": "mada-french-parallel-corpus-1-0-1a1139ce"
+      "slug": "mada-french-parallel-corpus-1-0-6f1a334d"
     },
     {
       "id": "cmmao7dc504oamh0710j4wau1",
@@ -3925,9 +3925,9 @@
     {
       "id": "cmn6ay1xg016jnv07drtmw7qo",
       "url": "https://mozilladatacollective.com/datasets/cmn6ay1xg016jnv07drtmw7qo",
-      "lastmod": "2026-03-25T17:13:05.860Z",
+      "lastmod": "2026-04-16T14:00:55.857Z",
       "name": "Bamun-French Parallel Corpus 2.0",
-      "slug": "bamun-french-parallel-corpus-2-0-1a0c2a1d"
+      "slug": "bamun-french-parallel-corpus-2-0-324fbd3f"
     },
     {
       "id": "cmnd4la5a02fwmh074t1fx5y9",
@@ -3967,9 +3967,9 @@
     {
       "id": "cmngbf1tt0050nn07i49aebnk",
       "url": "https://mozilladatacollective.com/datasets/cmngbf1tt0050nn07i49aebnk",
-      "lastmod": "2026-04-01T17:24:00.641Z",
+      "lastmod": "2026-04-21T17:56:58.196Z",
       "name": "Sentence translation difficulty in Spanish - BOUQuET",
-      "slug": "sentence-translation-difficulty-in-spani-29d5ba79"
+      "slug": "sentence-translation-difficulty-in-spani-355c4d15"
     },
     {
       "id": "cmnggocgg007ymh079k30st39",
@@ -4009,9 +4009,9 @@
     {
       "id": "cmnhjbnjp0115mh07kiha0rei",
       "url": "https://mozilladatacollective.com/datasets/cmnhjbnjp0115mh07kiha0rei",
-      "lastmod": "2026-04-02T13:53:05.269Z",
+      "lastmod": "2026-04-16T14:00:42.708Z",
       "name": "Bamun-TTS-Dataset",
-      "slug": "bamun-tts-dataset-4fcf7897"
+      "slug": "bamun-tts-dataset-e1a518e9"
     },
     {
       "id": "cmnmy7tmf02k6ml07m7vvcxzr",
@@ -4030,9 +4030,9 @@
     {
       "id": "cmnopto3q00t0mf07v2dtc0ej",
       "url": "https://mozilladatacollective.com/datasets/cmnopto3q00t0mf07v2dtc0ej",
-      "lastmod": "2026-04-07T14:29:26.726Z",
+      "lastmod": "2026-04-16T14:00:18.876Z",
       "name": "Hausa-TTS-Dataset",
-      "slug": "hausa-tts-dataset-412473aa"
+      "slug": "hausa-tts-dataset-17bc050d"
     },
     {
       "id": "cmnopvxxr00t6mf07nm4cp4qs",
@@ -4142,9 +4142,9 @@
     {
       "id": "cmnykldcz010knu0737o8bgh9",
       "url": "https://mozilladatacollective.com/datasets/cmnykldcz010knu0737o8bgh9",
-      "lastmod": "2026-04-14T12:00:43.235Z",
+      "lastmod": "2026-04-16T13:59:15.976Z",
       "name": "Naija-TTS-Dataset",
-      "slug": "naija-tts-dataset-d16041dc"
+      "slug": "naija-tts-dataset-ad9f8f35"
     },
     {
       "id": "cmnykm7yi010rny0737lq2fth",
@@ -4243,6 +4243,181 @@
       "lastmod": "2026-04-14T20:13:22.766Z",
       "name": "RFE/RL Bulgarian News Text Corpus",
       "slug": "rfe-rl-bulgarian-news-text-corpus-a5900a72"
+    },
+    {
+      "id": "cmo06ikpt00chnx07xmaj8rxe",
+      "url": "https://mozilladatacollective.com/datasets/cmo06ikpt00chnx07xmaj8rxe",
+      "lastmod": "2026-04-15T15:02:10.529Z",
+      "name": "RFE/RL Serbian, Bosnian, and Montenegrin (Balkan) News Text Corpus",
+      "slug": "rfe-rl-serbian-bosnian-and-montenegrin-b-0a5c7977"
+    },
+    {
+      "id": "cmo07ixww00ddmr07enqrrpfw",
+      "url": "https://mozilladatacollective.com/datasets/cmo07ixww00ddmr07enqrrpfw",
+      "lastmod": "2026-04-15T15:30:27.249Z",
+      "name": "Awal Tamazight Dataset",
+      "slug": "awal-tamazight-dataset-acc51046"
+    },
+    {
+      "id": "cmo0cro1g00hlmr07oichasyk",
+      "url": "https://mozilladatacollective.com/datasets/cmo0cro1g00hlmr07oichasyk",
+      "lastmod": "2026-04-15T17:57:12.436Z",
+      "name": "otomí-hñähñu TTS Voz Masculina ",
+      "slug": "otom-h-h-u-tts-voz-masculina-b3c8c8a8"
+    },
+    {
+      "id": "cmo0h34b600n8nx07khjct4iy",
+      "url": "https://mozilladatacollective.com/datasets/cmo0h34b600n8nx07khjct4iy",
+      "lastmod": "2026-04-15T19:58:05.203Z",
+      "name": "UK Sort Codes - ASR Evaluation",
+      "slug": "uk-sort-codes-asr-evaluation-3a75316e"
+    },
+    {
+      "id": "cmo0jfvnw00p1nx070preklt5",
+      "url": "https://mozilladatacollective.com/datasets/cmo0jfvnw00p1nx070preklt5",
+      "lastmod": "2026-04-15T21:03:59.756Z",
+      "name": "LibriVox Czech TTS Female Voice",
+      "slug": "librivox-czech-tts-female-voice-dacc0fd3"
+    },
+    {
+      "id": "cmo0qtw7v003knt07u6yupncc",
+      "url": "https://mozilladatacollective.com/datasets/cmo0qtw7v003knt07u6yupncc",
+      "lastmod": "2026-04-16T00:30:50.971Z",
+      "name": "LibriVox Italian TTS Female Voice",
+      "slug": "librivox-italian-tts-female-voice-249d4ed7"
+    },
+    {
+      "id": "cmo1hv2fm001xmk07ity2g0xw",
+      "url": "https://mozilladatacollective.com/datasets/cmo1hv2fm001xmk07ity2g0xw",
+      "lastmod": "2026-04-16T13:07:35.314Z",
+      "name": "Kanuri Books Corpus",
+      "slug": "kanuri-books-corpus-27351a9f"
+    },
+    {
+      "id": "cmo1kqs2a004anr07sxn2mtf5",
+      "url": "https://mozilladatacollective.com/datasets/cmo1kqs2a004anr07sxn2mtf5",
+      "lastmod": "2026-04-16T14:28:14.098Z",
+      "name": "Imágenes de Señalamientos en México",
+      "slug": "im-genes-de-se-alamientos-en-m-xico-66546ce0"
+    },
+    {
+      "id": "cmo1krloc004zmk07fon30uqs",
+      "url": "https://mozilladatacollective.com/datasets/cmo1krloc004zmk07fon30uqs",
+      "lastmod": "2026-04-16T14:37:16.503Z",
+      "name": "Ladino: Una Fraza al Diya",
+      "slug": "ladino-una-fraza-al-diya-c1b24af5"
+    },
+    {
+      "id": "cmo1ks4zv004enr07la1rkr9x",
+      "url": "https://mozilladatacollective.com/datasets/cmo1ks4zv004enr07la1rkr9x",
+      "lastmod": "2026-04-16T14:29:17.515Z",
+      "name": "Şalom Ladino Corpus",
+      "slug": "alom-ladino-corpus-f409a2bb"
+    },
+    {
+      "id": "cmo1nlaah0071mk077mw0qhpv",
+      "url": "https://mozilladatacollective.com/datasets/cmo1nlaah0071mk077mw0qhpv",
+      "lastmod": "2026-04-16T17:36:54.149Z",
+      "name": "Yoruba-TTS-Dataset",
+      "slug": "yoruba-tts-dataset-f9b24c0f"
+    },
+    {
+      "id": "cmo1qb62200anmk07ls9feuh5",
+      "url": "https://mozilladatacollective.com/datasets/cmo1qb62200anmk07ls9feuh5",
+      "lastmod": "2026-04-16T17:04:03.434Z",
+      "name": "Ladino-Spanish Lexical Resources",
+      "slug": "ladino-spanish-lexical-resources-d2a84a2a"
+    },
+    {
+      "id": "cmo1sg74a00cwmk07q6nin2of",
+      "url": "https://mozilladatacollective.com/datasets/cmo1sg74a00cwmk07q6nin2of",
+      "lastmod": "2026-04-16T18:03:57.322Z",
+      "name": "ERT Press",
+      "slug": "ert-press-e9625bc3"
+    },
+    {
+      "id": "cmo1sklpo00d0mk07taoepe1a",
+      "url": "https://mozilladatacollective.com/datasets/cmo1sklpo00d0mk07taoepe1a",
+      "lastmod": "2026-04-16T18:07:22.861Z",
+      "name": "Modern Greek Dictionary",
+      "slug": "modern-greek-dictionary-88bde7ff"
+    },
+    {
+      "id": "cmo1y8vrv006ol207lc86hc13",
+      "url": "https://mozilladatacollective.com/datasets/cmo1y8vrv006ol207lc86hc13",
+      "lastmod": "2026-04-16T20:46:13.723Z",
+      "name": "IsiZulu Second Language Learner Speech Corpus",
+      "slug": "isizulu-second-language-learner-speech-c-ad118b52"
+    },
+    {
+      "id": "cmo29qkrl00g5o207hash6gk2",
+      "url": "https://mozilladatacollective.com/datasets/cmo29qkrl00g5o207hash6gk2",
+      "lastmod": "2026-04-17T02:07:55.041Z",
+      "name": "Archivo GELED: Muestra general de audios del cuicateco",
+      "slug": "archivo-geled-muestra-general-de-audios-5f021a04"
+    },
+    {
+      "id": "cmo29siht00gfo207oj2jrnrd",
+      "url": "https://mozilladatacollective.com/datasets/cmo29siht00gfo207oj2jrnrd",
+      "lastmod": "2026-04-17T02:09:25.409Z",
+      "name": "Highland Puebla Nahuatl Spoken Image Descriptions",
+      "slug": "highland-puebla-nahuatl-spoken-image-des-e8bf5798"
+    },
+    {
+      "id": "cmo29suhm00gjo2078rhmqn3p",
+      "url": "https://mozilladatacollective.com/datasets/cmo29suhm00gjo2078rhmqn3p",
+      "lastmod": "2026-04-17T02:09:40.955Z",
+      "name": "Speech Corpus of English Learners from Mexico",
+      "slug": "speech-corpus-of-english-learners-from-m-02e15f4e"
+    },
+    {
+      "id": "cmo3f5ydj001umo07y8579zna",
+      "url": "https://mozilladatacollective.com/datasets/cmo3f5ydj001umo07y8579zna",
+      "lastmod": "2026-04-17T21:27:36.775Z",
+      "name": "Chittagonian (চাটগাঁইয়া, saṭgãia) Text Corpus",
+      "slug": "chittagonian-sa-g-ia-text-corpus-f63ac41e"
+    },
+    {
+      "id": "cmo3f6wem001wny0792yg26as",
+      "url": "https://mozilladatacollective.com/datasets/cmo3f6wem001wny0792yg26as",
+      "lastmod": "2026-04-17T21:28:20.878Z",
+      "name": "Rangpuri (অংপুরি Ôṅgpuri) Text Corpus",
+      "slug": "rangpuri-gpuri-text-corpus-8558ffa5"
+    },
+    {
+      "id": "cmo4gtixz00kwny07hayfsk8s",
+      "url": "https://mozilladatacollective.com/datasets/cmo4gtixz00kwny07hayfsk8s",
+      "lastmod": "2026-04-18T15:01:42.311Z",
+      "name": "isiXhosa-TTS-Dataset",
+      "slug": "isixhosa-tts-dataset-aaef0436"
+    },
+    {
+      "id": "cmo4nmfam00nxny07rssox2tj",
+      "url": "https://mozilladatacollective.com/datasets/cmo4nmfam00nxny07rssox2tj",
+      "lastmod": "2026-04-18T18:12:08.302Z",
+      "name": "Tiv-TTS-Dataset",
+      "slug": "tiv-tts-dataset-57d4ed18"
+    },
+    {
+      "id": "cmo8oicwk020dnt077o5dqhwm",
+      "url": "https://mozilladatacollective.com/datasets/cmo8oicwk020dnt077o5dqhwm",
+      "lastmod": "2026-04-21T13:48:02.900Z",
+      "name": "Noakhalian (নোয়াখাইল্লা) Text Corpus",
+      "slug": "noakhalian-text-corpus-67ba6147"
+    },
+    {
+      "id": "cmo8q6f9a024mmg0708ccv04j",
+      "url": "https://mozilladatacollective.com/datasets/cmo8q6f9a024mmg0708ccv04j",
+      "lastmod": "2026-04-21T14:34:45.310Z",
+      "name": "Rohingya Literature Corpus",
+      "slug": "rohingya-literature-corpus-c5c2a737"
+    },
+    {
+      "id": "cmo8rj0f60258mg0783ls9gjb",
+      "url": "https://mozilladatacollective.com/datasets/cmo8rj0f60258mg0783ls9gjb",
+      "lastmod": "2026-04-21T15:12:32.226Z",
+      "name": "Sylheti Text Corpus by Haque Publishers",
+      "slug": "sylheti-text-corpus-by-haque-publishers-8cfeffe0"
     }
   ]
 }
