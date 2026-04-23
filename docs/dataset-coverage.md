@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-04-22  
+**Last updated:** 2026-04-23  
 **Total datasets in sitemap:** 631  
-**Schemas registered:** 363 ✅  
-**Schemas missing:** 268 ❌  
+**Schemas registered:** 386 ✅  
+**Schemas missing:** 245 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -22,7 +22,7 @@ schema in this registry and which ones are still missing.
 | `cmhp3jurx00afmk07z5z4fktu` | Urdu Literature Corpus | `urdu-literature-corpus-2a2877f9` | [link](https://mozilladatacollective.com/datasets/cmhp3jurx00afmk07z5z4fktu) | ❌ |
 | `cmhp3uclf00ammk07nnd1m0bj` | Saraiki Quarterly Magazine Wasson Wehray Corpus | `saraiki-quarterly-magazine-wasson-wehray-cf997cbd` | [link](https://mozilladatacollective.com/datasets/cmhp3uclf00ammk07nnd1m0bj) | ❌ |
 | `cmhp42gmu00aumk07w7k22tbp` | Punjabi Literature Corpus | `punjabi-literature-corpus-57dd3461` | [link](https://mozilladatacollective.com/datasets/cmhp42gmu00aumk07w7k22tbp) | ❌ |
-| `cmhpahaib00d8mk07ely2m8wh` | Dimitar 1.0 | `dimitar-1-0-7e962aa3` | [link](https://mozilladatacollective.com/datasets/cmhpahaib00d8mk07ely2m8wh) | ❌ |
+| `cmhpahaib00d8mk07ely2m8wh` | Dimitar 1.0 | `dimitar-1-0-7e962aa3` | [link](https://mozilladatacollective.com/datasets/cmhpahaib00d8mk07ely2m8wh) | ✅ |
 | `cmhqebl6h001pmn071yvbkbyv` | Ewondo-French Parallel Corpus | `ewondo-french-parallel-corpus-3b21bcca` | [link](https://mozilladatacollective.com/datasets/cmhqebl6h001pmn071yvbkbyv) | ❌ |
 | `cmhqr666h009gmn07fpp0egby` | Speech Corpus of Armenian Question-Answer Dialogues | `speech-corpus-of-armenian-question-answe-8f1f9bf8` | [link](https://mozilladatacollective.com/datasets/cmhqr666h009gmn07fpp0egby) | ❌ |
 | `cmhrlxa1100h3mn07l6tpvqwz` | Mediamen Punjabi Literature Corpus | `mediamen-punjabi-literature-corpus-376bd5bd` | [link](https://mozilladatacollective.com/datasets/cmhrlxa1100h3mn07l6tpvqwz) | ❌ |
@@ -33,13 +33,13 @@ schema in this registry and which ones are still missing.
 | `cmi39h0xr08jzmn07hij4fz40` | Baloch Publishers Saraiki Literature Corpus | `baloch-publishers-saraiki-literature-cor-aada1f27` | [link](https://mozilladatacollective.com/datasets/cmi39h0xr08jzmn07hij4fz40) | ❌ |
 | `cmi39jopd08k5mn0745umscb3` | Kaleem Magazine Urdu Corpus | `kaleem-magazine-urdu-corpus-b4723c2d` | [link](https://mozilladatacollective.com/datasets/cmi39jopd08k5mn0745umscb3) | ❌ |
 | `cmi4ma15g09wykx07xbolzpoz` | ReRooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants | `rerooted-speech-corpus-of-testimonials-f-dbc0bed1` | [link](https://mozilladatacollective.com/datasets/cmi4ma15g09wykx07xbolzpoz) | ❌ |
-| `cmi7mgbam000bnx074097g2yg` | Kerstin 1.0 | `kerstin-1-0-7fecd621` | [link](https://mozilladatacollective.com/datasets/cmi7mgbam000bnx074097g2yg) | ❌ |
-| `cmid3cyuy00gnnv07mo54373n` | Joe 1.0 | `joe-1-0-9fd746cc` | [link](https://mozilladatacollective.com/datasets/cmid3cyuy00gnnv07mo54373n) | ❌ |
-| `cmid4ekjn00b8nu07xonhj0x8` | Kathleen 1.0 | `kathleen-1-0-64d57c1a` | [link](https://mozilladatacollective.com/datasets/cmid4ekjn00b8nu07xonhj0x8) | ❌ |
-| `cmid4ir9100bgnu07du03svuc` | Dave 1.0 | `dave-1-0-4af39244` | [link](https://mozilladatacollective.com/datasets/cmid4ir9100bgnu07du03svuc) | ❌ |
-| `cmid4jner00hnnv072tkwlbps` | Anna 1.0 | `anna-1-0-93530100` | [link](https://mozilladatacollective.com/datasets/cmid4jner00hnnv072tkwlbps) | ❌ |
-| `cmid4vszk00hrnv07ljzu2xsa` | Berta 1.0 | `berta-1-0-3fdd40dc` | [link](https://mozilladatacollective.com/datasets/cmid4vszk00hrnv07ljzu2xsa) | ❌ |
-| `cmid4wbrc00hvnv07e448rwv3` | Imre 1.0 | `imre-1-0-1886265d` | [link](https://mozilladatacollective.com/datasets/cmid4wbrc00hvnv07e448rwv3) | ❌ |
+| `cmi7mgbam000bnx074097g2yg` | Kerstin 1.0 | `kerstin-1-0-7fecd621` | [link](https://mozilladatacollective.com/datasets/cmi7mgbam000bnx074097g2yg) | ✅ |
+| `cmid3cyuy00gnnv07mo54373n` | Joe 1.0 | `joe-1-0-9fd746cc` | [link](https://mozilladatacollective.com/datasets/cmid3cyuy00gnnv07mo54373n) | ✅ |
+| `cmid4ekjn00b8nu07xonhj0x8` | Kathleen 1.0 | `kathleen-1-0-64d57c1a` | [link](https://mozilladatacollective.com/datasets/cmid4ekjn00b8nu07xonhj0x8) | ✅ |
+| `cmid4ir9100bgnu07du03svuc` | Dave 1.0 | `dave-1-0-4af39244` | [link](https://mozilladatacollective.com/datasets/cmid4ir9100bgnu07du03svuc) | ✅ |
+| `cmid4jner00hnnv072tkwlbps` | Anna 1.0 | `anna-1-0-93530100` | [link](https://mozilladatacollective.com/datasets/cmid4jner00hnnv072tkwlbps) | ✅ |
+| `cmid4vszk00hrnv07ljzu2xsa` | Berta 1.0 | `berta-1-0-3fdd40dc` | [link](https://mozilladatacollective.com/datasets/cmid4vszk00hrnv07ljzu2xsa) | ✅ |
+| `cmid4wbrc00hvnv07e448rwv3` | Imre 1.0 | `imre-1-0-1886265d` | [link](https://mozilladatacollective.com/datasets/cmid4wbrc00hvnv07e448rwv3) | ✅ |
 | `cmiepnyu1001jo207hzslvb5m` | Podcast Homostoria (Indonesia) | `podcast-homostoria-indonesia-6dff568f` | [link](https://mozilladatacollective.com/datasets/cmiepnyu1001jo207hzslvb5m) | ❌ |
 | `cmifzczuo00w6o207wgmqb97m` | Rumantsch Grischun Newspaper Corpus | `rumantsch-grischun-newspaper-corpus-ac210cc7` | [link](https://mozilladatacollective.com/datasets/cmifzczuo00w6o207wgmqb97m) | ❌ |
 | `cmig0eqj700x6o207tp8pb5za` | Sursilvan Newspaper Corpus | `sursilvan-newspaper-corpus-0443b4e6` | [link](https://mozilladatacollective.com/datasets/cmig0eqj700x6o207tp8pb5za) | ❌ |
@@ -62,21 +62,21 @@ schema in this registry and which ones are still missing.
 | `cmiq9ulwl004ao207pglxpszv` | Aim Foundation Dari Literature Corpus | `aim-foundation-dari-literature-corpus-c8258ba6` | [link](https://mozilladatacollective.com/datasets/cmiq9ulwl004ao207pglxpszv) | ❌ |
 | `cmiqbnn0x005uns07c3evoh0k` | Sindh Sujag Newspaper Corpus | `sindh-sujag-newspaper-corpus-4eee28ba` | [link](https://mozilladatacollective.com/datasets/cmiqbnn0x005uns07c3evoh0k) | ❌ |
 | `cmit3jhj000nlnv073a6zduck` | Future-proofing Gbagyi: A community centered approach | `future-proofing-gbagyi-a-community-cente-6114733d` | [link](https://mozilladatacollective.com/datasets/cmit3jhj000nlnv073a6zduck) | ❌ |
-| `cmiugmupp01etmf07h89hfpir` | Chitwan 1.0 | `chitwan-1-0-7e535f23` | [link](https://mozilladatacollective.com/datasets/cmiugmupp01etmf07h89hfpir) | ❌ |
-| `cmiugnlxi01c5nv07yt3kxwhx` | Nathalie 1.0 | `nathalie-1-0-0d3b07fc` | [link](https://mozilladatacollective.com/datasets/cmiugnlxi01c5nv07yt3kxwhx) | ❌ |
-| `cmiugo0h501exmf073drr56rr` | Pim 1.0 | `pim-1-0-6fc94d3e` | [link](https://mozilladatacollective.com/datasets/cmiugo0h501exmf073drr56rr) | ❌ |
-| `cmiugoh1u01c9nv07x7i2t25c` | Gosia 1.0 | `gosia-1-0-6cb80e22` | [link](https://mozilladatacollective.com/datasets/cmiugoh1u01c9nv07x7i2t25c) | ❌ |
-| `cmiui8v3101cpnv074qwggdsj` | Tugão 1.0 | `tug-o-1-0-6c33f9aa` | [link](https://mozilladatacollective.com/datasets/cmiui8v3101cpnv074qwggdsj) | ❌ |
-| `cmiuimd7e01fimf072njn3mbb` | Cadu 1.0 | `cadu-1-0-f78a6642` | [link](https://mozilladatacollective.com/datasets/cmiuimd7e01fimf072njn3mbb) | ❌ |
-| `cmiujt8r401d2nv07avt6446s` | Ronnie 1.0 | `ronnie-1-0-f42a46b9` | [link](https://mozilladatacollective.com/datasets/cmiujt8r401d2nv07avt6446s) | ❌ |
-| `cmiup5wqw01hlmf074qy07b80` | Lili 1.0 | `lili-1-0-875bb67e` | [link](https://mozilladatacollective.com/datasets/cmiup5wqw01hlmf074qy07b80) | ❌ |
-| `cmiup9hrx01hsmf074vi5iqgz` | Dmitri 1.0 | `dmitri-1-0-fd227527` | [link](https://mozilladatacollective.com/datasets/cmiup9hrx01hsmf074vi5iqgz) | ❌ |
-| `cmiup9seu01flnv076fexaqp9` | Denis 1.0 | `denis-1-0-3f60c388` | [link](https://mozilladatacollective.com/datasets/cmiup9seu01flnv076fexaqp9) | ❌ |
-| `cmiupa1t801hwmf07xcawi3ve` | Mihai 1.0 | `mihai-1-0-28978680` | [link](https://mozilladatacollective.com/datasets/cmiupa1t801hwmf07xcawi3ve) | ❌ |
-| `cmiupaf3e01i0mf07qkqxbzzx` | Jeff 1.0 | `jeff-1-0-1819f9f5` | [link](https://mozilladatacollective.com/datasets/cmiupaf3e01i0mf07qkqxbzzx) | ❌ |
-| `cmiuparkl01fpnv077wvg3hhm` | Darkman 1.0 | `darkman-1-0-6aa34c0a` | [link](https://mozilladatacollective.com/datasets/cmiuparkl01fpnv077wvg3hhm) | ❌ |
-| `cmiupazq801ftnv079bo1zu4h` | Faber 1.0 | `faber-1-0-674f3f44` | [link](https://mozilladatacollective.com/datasets/cmiupazq801ftnv079bo1zu4h) | ❌ |
-| `cmiupbboq01i4mf071clmd43n` | Flemishguy 1.0 | `flemishguy-1-0-81584e83` | [link](https://mozilladatacollective.com/datasets/cmiupbboq01i4mf071clmd43n) | ❌ |
+| `cmiugmupp01etmf07h89hfpir` | Chitwan 1.0 | `chitwan-1-0-7e535f23` | [link](https://mozilladatacollective.com/datasets/cmiugmupp01etmf07h89hfpir) | ✅ |
+| `cmiugnlxi01c5nv07yt3kxwhx` | Nathalie 1.0 | `nathalie-1-0-0d3b07fc` | [link](https://mozilladatacollective.com/datasets/cmiugnlxi01c5nv07yt3kxwhx) | ✅ |
+| `cmiugo0h501exmf073drr56rr` | Pim 1.0 | `pim-1-0-6fc94d3e` | [link](https://mozilladatacollective.com/datasets/cmiugo0h501exmf073drr56rr) | ✅ |
+| `cmiugoh1u01c9nv07x7i2t25c` | Gosia 1.0 | `gosia-1-0-6cb80e22` | [link](https://mozilladatacollective.com/datasets/cmiugoh1u01c9nv07x7i2t25c) | ✅ |
+| `cmiui8v3101cpnv074qwggdsj` | Tugão 1.0 | `tug-o-1-0-6c33f9aa` | [link](https://mozilladatacollective.com/datasets/cmiui8v3101cpnv074qwggdsj) | ✅ |
+| `cmiuimd7e01fimf072njn3mbb` | Cadu 1.0 | `cadu-1-0-f78a6642` | [link](https://mozilladatacollective.com/datasets/cmiuimd7e01fimf072njn3mbb) | ✅ |
+| `cmiujt8r401d2nv07avt6446s` | Ronnie 1.0 | `ronnie-1-0-f42a46b9` | [link](https://mozilladatacollective.com/datasets/cmiujt8r401d2nv07avt6446s) | ✅ |
+| `cmiup5wqw01hlmf074qy07b80` | Lili 1.0 | `lili-1-0-875bb67e` | [link](https://mozilladatacollective.com/datasets/cmiup5wqw01hlmf074qy07b80) | ✅ |
+| `cmiup9hrx01hsmf074vi5iqgz` | Dmitri 1.0 | `dmitri-1-0-fd227527` | [link](https://mozilladatacollective.com/datasets/cmiup9hrx01hsmf074vi5iqgz) | ✅ |
+| `cmiup9seu01flnv076fexaqp9` | Denis 1.0 | `denis-1-0-3f60c388` | [link](https://mozilladatacollective.com/datasets/cmiup9seu01flnv076fexaqp9) | ✅ |
+| `cmiupa1t801hwmf07xcawi3ve` | Mihai 1.0 | `mihai-1-0-28978680` | [link](https://mozilladatacollective.com/datasets/cmiupa1t801hwmf07xcawi3ve) | ✅ |
+| `cmiupaf3e01i0mf07qkqxbzzx` | Jeff 1.0 | `jeff-1-0-1819f9f5` | [link](https://mozilladatacollective.com/datasets/cmiupaf3e01i0mf07qkqxbzzx) | ✅ |
+| `cmiuparkl01fpnv077wvg3hhm` | Darkman 1.0 | `darkman-1-0-6aa34c0a` | [link](https://mozilladatacollective.com/datasets/cmiuparkl01fpnv077wvg3hhm) | ✅ |
+| `cmiupazq801ftnv079bo1zu4h` | Faber 1.0 | `faber-1-0-674f3f44` | [link](https://mozilladatacollective.com/datasets/cmiupazq801ftnv079bo1zu4h) | ✅ |
+| `cmiupbboq01i4mf071clmd43n` | Flemishguy 1.0 | `flemishguy-1-0-81584e83` | [link](https://mozilladatacollective.com/datasets/cmiupbboq01i4mf071clmd43n) | ✅ |
 | `cmiv2rbv901mwmf07iyhv4pva` | Ewondo-Yanda-ALCAM-MultimodalDataset | `ewondo-yanda-alcam-multimodaldataset-63e52dd2` | [link](https://mozilladatacollective.com/datasets/cmiv2rbv901mwmf07iyhv4pva) | ❌ |
 | `cmixehxof005dnr07yp80kluh` | Hussain Faizy Indus Kohistani Corpus  | `hussain-faizy-indus-kohistani-corpus-d828656f` | [link](https://mozilladatacollective.com/datasets/cmixehxof005dnr07yp80kluh) | ❌ |
 | `cmixmkzhk003vnw07a7d2pgns` | Multilingual Humanitarian Response Eval (MHRE) | `multilingual-humanitarian-response-eval-af95c65f` | [link](https://mozilladatacollective.com/datasets/cmixmkzhk003vnw07a7d2pgns) | ❌ |
