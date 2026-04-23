@@ -1,0 +1,24 @@
+dataset_id: cmhkl8z2a007rnr07p9bm5kmz
+task: ASR
+index_file: corpus.tsv
+base_audio_path: audios/
+
+columns:
+    audio_path:
+        source_column: audio_file
+        dtype: file_path
+        file_extension: .wav
+    transcription:
+        source_column: sentence
+    original_transcription:
+        source_column: original_sentence
+    spanish_transcription:
+        source_column: spanish_sentence
+    lid_tokens:
+        source_column: lid_tokens
+    split:
+        source_column: split
+    speaker:
+        source_column: speaker
+
+checksum: f481372f7f66c1099a3dc8771a9f1a9ab76653fd9b3cea31db41a64ba043740f
