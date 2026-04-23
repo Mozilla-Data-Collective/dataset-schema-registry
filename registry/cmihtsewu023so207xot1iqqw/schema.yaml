@@ -1,0 +1,10 @@
+dataset_id: "cmihtsewu023so207xot1iqqw"
+task: "OTH"
+root_strategy: "glob"
+file_pattern: "**/*.wav"
+extract_files:
+  - "TidyVoiceX_Dev.tar.gz"
+  - "TidyVoiceX_Train.tar.gz"
+splits:
+  - "tidyvoicex-asv-459e6087/TidyVoiceX_ASV/TidyVoiceX_Dev"
+  - "tidyvoicex-asv-459e6087/TidyVoiceX_ASV/TidyVoiceX_Train"
