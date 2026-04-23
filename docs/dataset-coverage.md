@@ -10,8 +10,8 @@ schema in this registry and which ones are still missing.
 
 **Last updated:** 2026-04-23  
 **Total datasets in sitemap:** 631  
-**Schemas registered:** 394 ✅  
-**Schemas missing:** 237 ❌  
+**Schemas registered:** 396 ✅  
+**Schemas missing:** 235 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -46,7 +46,7 @@ schema in this registry and which ones are still missing.
 | `cmig0f00m00ynmd07kqzscviy` | Sutsilvan Newspaper Corpus | `sutsilvan-newspaper-corpus-d0c78c1b` | [link](https://mozilladatacollective.com/datasets/cmig0f00m00ynmd07kqzscviy) | ❌ |
 | `cmig0fljr00yrmd075gqlj2qo` | Putèr Newspaper Corpus | `put-r-newspaper-corpus-1814f0ef` | [link](https://mozilladatacollective.com/datasets/cmig0fljr00yrmd075gqlj2qo) | ❌ |
 | `cmihefmde01vxmd07djfchz51` | KyrgyzNER: Human-Annotated NER Dataset for Kyrgyz | `kyrgyzner-human-annotated-ner-dataset-fo-20b82547` | [link](https://mozilladatacollective.com/datasets/cmihefmde01vxmd07djfchz51) | ❌ |
-| `cmihkoth10246md07dtojxehg` | Speech Data Collection for The Nupe Language | `speech-data-collection-for-the-nupe-lang-9e09e0f9` | [link](https://mozilladatacollective.com/datasets/cmihkoth10246md07dtojxehg) | ❌ |
+| `cmihkoth10246md07dtojxehg` | Speech Data Collection for The Nupe Language | `speech-data-collection-for-the-nupe-lang-9e09e0f9` | [link](https://mozilladatacollective.com/datasets/cmihkoth10246md07dtojxehg) | ✅ |
 | `cmihqro9h0238o207fgg5cmf6` | Ehugbo TTS: biblical text to speech dataset in Ehugbo Language | `ehugbo-tts-biblical-text-to-speech-datas-054eaa87` | [link](https://mozilladatacollective.com/datasets/cmihqro9h0238o207fgg5cmf6) | ✅ |
 | `cmihtsewu023so207xot1iqqw` | TidyVoiceX_ASV | `tidyvoicex-asv-459e6087` | [link](https://mozilladatacollective.com/datasets/cmihtsewu023so207xot1iqqw) | ✅ |
 | `cmin6i6da001so707uwggcn7a` | Everyday Interactions in Ibọnọ and Obolo Languages | `everyday-interactions-in-ib-n-and-obolo-3df6264d` | [link](https://mozilladatacollective.com/datasets/cmin6i6da001so707uwggcn7a) | ❌ |
@@ -123,7 +123,7 @@ schema in this registry and which ones are still missing.
 | `cmkpon5es03j2mg07j2kppzn7` |  chinese-cosmopedia  | `chinese-cosmopedia-ebb10d9d` | [link](https://mozilladatacollective.com/datasets/cmkpon5es03j2mg07j2kppzn7) | ❌ |
 | `cmkpzexin005gnq07f2ujqtar` | Reading Recommendations List | `reading-recommendations-list-698c2396` | [link](https://mozilladatacollective.com/datasets/cmkpzexin005gnq07f2ujqtar) | ❌ |
 | `cmkq08sqg005gmg07hshr5o5n` | Sermon-Malaysian-English | `sermon-malaysian-english-3be7a923` | [link](https://mozilladatacollective.com/datasets/cmkq08sqg005gmg07hshr5o5n) | ❌ |
-| `cmkv32i5e02tumg07j79d3c35` | TidyVoiceX2_ASV | `tidyvoicex2-asv-f3015dd1` | [link](https://mozilladatacollective.com/datasets/cmkv32i5e02tumg07j79d3c35) | ❌ |
+| `cmkv32i5e02tumg07j79d3c35` | TidyVoiceX2_ASV | `tidyvoicex2-asv-f3015dd1` | [link](https://mozilladatacollective.com/datasets/cmkv32i5e02tumg07j79d3c35) | ✅ |
 | `cmkwuye570028mo074bppsmiw` | openbook.gr v1.0 | `openbook-gr-v1-0-9a38edb2` | [link](https://mozilladatacollective.com/datasets/cmkwuye570028mo074bppsmiw) | ❌ |
 | `cmkwvpu7s0032mo07jpk20pj1` | Greek PhD Theses Corpus v1.0 | `greek-phd-theses-corpus-v1-0-4bc0fc26` | [link](https://mozilladatacollective.com/datasets/cmkwvpu7s0032mo07jpk20pj1) | ❌ |
 | `cmkzhp64p00wlno07elrmt20y` | Common Voice 7.0 - Single Word Target Segment | `common-voice-7-0-single-word-target-segm-2ba5e0aa` | [link](https://mozilladatacollective.com/datasets/cmkzhp64p00wlno07elrmt20y) | ❌ |
