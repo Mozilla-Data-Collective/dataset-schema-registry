@@ -1,0 +1,15 @@
+dataset_id: "cmi7mgbam000bnx074097g2yg"
+task: "TTS"
+index_file: "metadata.csv"
+has_header: false
+separator: "|"
+base_audio_path: "wav"
+
+columns:
+  audio_path:
+    source_column: 0
+    dtype: file_path
+    file_extension: .webm
+  transcription:
+    source_column: 1
+checksum: ""

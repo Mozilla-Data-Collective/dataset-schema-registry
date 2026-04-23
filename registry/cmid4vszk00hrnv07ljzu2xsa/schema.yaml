@@ -1,0 +1,7 @@
+dataset_id: cmid4vszk00hrnv07ljzu2xsa
+task: TTS
+root_strategy: paired_glob
+checksum: "e926ac572959652f49ef8f1307aa372b954f06d863770644c5ae2c15424477ec"
+
+file_pattern: '**/*.txt'
+audio_extension: .flac

@@ -1,0 +1,7 @@
+dataset_id: cmid4ir9100bgnu07du03svuc
+task: TTS
+root_strategy: paired_glob
+checksum: "453bb82cb27f583d65828719cf292a9051cf9d25e25ed75f2d27c9b81e51f951"
+
+file_pattern: '**/*.txt'
+audio_extension: .webm
