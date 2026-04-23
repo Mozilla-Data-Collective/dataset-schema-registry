@@ -10,8 +10,8 @@ schema in this registry and which ones are still missing.
 
 **Last updated:** 2026-04-23  
 **Total datasets in sitemap:** 631  
-**Schemas registered:** 386 ✅  
-**Schemas missing:** 245 ❌  
+**Schemas registered:** 389 ✅  
+**Schemas missing:** 242 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -47,7 +47,7 @@ schema in this registry and which ones are still missing.
 | `cmig0fljr00yrmd075gqlj2qo` | Putèr Newspaper Corpus | `put-r-newspaper-corpus-1814f0ef` | [link](https://mozilladatacollective.com/datasets/cmig0fljr00yrmd075gqlj2qo) | ❌ |
 | `cmihefmde01vxmd07djfchz51` | KyrgyzNER: Human-Annotated NER Dataset for Kyrgyz | `kyrgyzner-human-annotated-ner-dataset-fo-20b82547` | [link](https://mozilladatacollective.com/datasets/cmihefmde01vxmd07djfchz51) | ❌ |
 | `cmihkoth10246md07dtojxehg` | Speech Data Collection for The Nupe Language | `speech-data-collection-for-the-nupe-lang-9e09e0f9` | [link](https://mozilladatacollective.com/datasets/cmihkoth10246md07dtojxehg) | ❌ |
-| `cmihqro9h0238o207fgg5cmf6` | Ehugbo TTS: biblical text to speech dataset in Ehugbo Language | `ehugbo-tts-biblical-text-to-speech-datas-054eaa87` | [link](https://mozilladatacollective.com/datasets/cmihqro9h0238o207fgg5cmf6) | ❌ |
+| `cmihqro9h0238o207fgg5cmf6` | Ehugbo TTS: biblical text to speech dataset in Ehugbo Language | `ehugbo-tts-biblical-text-to-speech-datas-054eaa87` | [link](https://mozilladatacollective.com/datasets/cmihqro9h0238o207fgg5cmf6) | ✅ |
 | `cmihtsewu023so207xot1iqqw` | TidyVoiceX_ASV | `tidyvoicex-asv-459e6087` | [link](https://mozilladatacollective.com/datasets/cmihtsewu023so207xot1iqqw) | ❌ |
 | `cmin6i6da001so707uwggcn7a` | Everyday Interactions in Ibọnọ and Obolo Languages | `everyday-interactions-in-ib-n-and-obolo-3df6264d` | [link](https://mozilladatacollective.com/datasets/cmin6i6da001so707uwggcn7a) | ❌ |
 | `cminc35no007no707hql26lzk` | Mozilla Common Voice Spontaneous Speech ASR Shared Task Test Data | `mozilla-common-voice-spontaneous-speech-361720da` | [link](https://mozilladatacollective.com/datasets/cminc35no007no707hql26lzk) | ❌ |
@@ -87,9 +87,9 @@ schema in this registry and which ones are still missing.
 | `cmj1gd6j400uvnw07ylungxjz` | Beembe-TTS-Dataset | `beembe-tts-dataset-9f6a5d06` | [link](https://mozilladatacollective.com/datasets/cmj1gd6j400uvnw07ylungxjz) | ❌ |
 | `cmj1gdg1s00vrnu07nmlrax7g` | Mbosi-TTS-Dataset | `mbosi-tts-dataset-2996fa93` | [link](https://mozilladatacollective.com/datasets/cmj1gdg1s00vrnu07nmlrax7g) | ❌ |
 | `cmj1qhr5n001wnv07hqcatq25` | Suundi-TTS-Dataset | `suundi-tts-dataset-2e258f40` | [link](https://mozilladatacollective.com/datasets/cmj1qhr5n001wnv07hqcatq25) | ❌ |
-| `cmj2rze7r00j5ny07uhs85go2` | Bomitaba-TTS-Dataset | `bomitaba-tts-dataset-28b2e589` | [link](https://mozilladatacollective.com/datasets/cmj2rze7r00j5ny07uhs85go2) | ❌ |
+| `cmj2rze7r00j5ny07uhs85go2` | Bomitaba-TTS-Dataset | `bomitaba-tts-dataset-28b2e589` | [link](https://mozilladatacollective.com/datasets/cmj2rze7r00j5ny07uhs85go2) | ✅ |
 | `cmj324gbx00p4ny078pi26kfz` | Laari-TTS-Dataset | `laari-tts-dataset-68805386` | [link](https://mozilladatacollective.com/datasets/cmj324gbx00p4ny078pi26kfz) | ❌ |
-| `cmj77njd701ljmb07m97pw1p3` | Central Kurdish TTS dataset 1.0 | `central-kurdish-tts-dataset-1-0-6b2a7b8e` | [link](https://mozilladatacollective.com/datasets/cmj77njd701ljmb07m97pw1p3) | ❌ |
+| `cmj77njd701ljmb07m97pw1p3` | Central Kurdish TTS dataset 1.0 | `central-kurdish-tts-dataset-1-0-6b2a7b8e` | [link](https://mozilladatacollective.com/datasets/cmj77njd701ljmb07m97pw1p3) | ✅ |
 | `cmj8ddapc02c8mb07l6wyr882` | Mozilla Common Voice Text Language Identification dataset | `mozilla-common-voice-text-language-ident-b1b3aae0` | [link](https://mozilladatacollective.com/datasets/cmj8ddapc02c8mb07l6wyr882) | ❌ |
 | `cmj8fdiyv02egmb07m2wfdltm` | Bati-MultiDialectalASR-Dataset | `bati-multidialectalasr-dataset-2ae1f868` | [link](https://mozilladatacollective.com/datasets/cmj8fdiyv02egmb07m2wfdltm) | ❌ |
 | `cmj8g2kw902fwmb07hub8puq8` | Teke-Laali-TTS-Dataset | `teke-laali-tts-dataset-f69af854` | [link](https://mozilladatacollective.com/datasets/cmj8g2kw902fwmb07hub8puq8) | ❌ |
