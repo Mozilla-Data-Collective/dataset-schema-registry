@@ -10,8 +10,8 @@ schema in this registry and which ones are still missing.
 
 **Last updated:** 2026-04-23  
 **Total datasets in sitemap:** 631  
-**Schemas registered:** 389 ✅  
-**Schemas missing:** 242 ❌  
+**Schemas registered:** 391 ✅  
+**Schemas missing:** 240 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -48,7 +48,7 @@ schema in this registry and which ones are still missing.
 | `cmihefmde01vxmd07djfchz51` | KyrgyzNER: Human-Annotated NER Dataset for Kyrgyz | `kyrgyzner-human-annotated-ner-dataset-fo-20b82547` | [link](https://mozilladatacollective.com/datasets/cmihefmde01vxmd07djfchz51) | ❌ |
 | `cmihkoth10246md07dtojxehg` | Speech Data Collection for The Nupe Language | `speech-data-collection-for-the-nupe-lang-9e09e0f9` | [link](https://mozilladatacollective.com/datasets/cmihkoth10246md07dtojxehg) | ❌ |
 | `cmihqro9h0238o207fgg5cmf6` | Ehugbo TTS: biblical text to speech dataset in Ehugbo Language | `ehugbo-tts-biblical-text-to-speech-datas-054eaa87` | [link](https://mozilladatacollective.com/datasets/cmihqro9h0238o207fgg5cmf6) | ✅ |
-| `cmihtsewu023so207xot1iqqw` | TidyVoiceX_ASV | `tidyvoicex-asv-459e6087` | [link](https://mozilladatacollective.com/datasets/cmihtsewu023so207xot1iqqw) | ❌ |
+| `cmihtsewu023so207xot1iqqw` | TidyVoiceX_ASV | `tidyvoicex-asv-459e6087` | [link](https://mozilladatacollective.com/datasets/cmihtsewu023so207xot1iqqw) | ✅ |
 | `cmin6i6da001so707uwggcn7a` | Everyday Interactions in Ibọnọ and Obolo Languages | `everyday-interactions-in-ib-n-and-obolo-3df6264d` | [link](https://mozilladatacollective.com/datasets/cmin6i6da001so707uwggcn7a) | ❌ |
 | `cminc35no007no707hql26lzk` | Mozilla Common Voice Spontaneous Speech ASR Shared Task Test Data | `mozilla-common-voice-spontaneous-speech-361720da` | [link](https://mozilladatacollective.com/datasets/cminc35no007no707hql26lzk) | ❌ |
 | `cmind910n0096nx07gme9v3wj` | Basaa-ALCAM-MultimodalDataset | `basaa-alcam-multimodaldataset-ff5dfa3e` | [link](https://mozilladatacollective.com/datasets/cmind910n0096nx07gme9v3wj) | ❌ |
@@ -109,7 +109,7 @@ schema in this registry and which ones are still missing.
 | `cmk719jvs02z1nt07tjswt52s` | Corpus of Panjebar Semangat Javanese-Language Magazine | `corpus-of-panjebar-semangat-javanese-lan-1fe6d08a` | [link](https://mozilladatacollective.com/datasets/cmk719jvs02z1nt07tjswt52s) | ❌ |
 | `cmkcy8in2004umo0775mye43g` | Khmer ASR Cultural Dataset | `khmer-asr-cultural-dataset-4e33cd05` | [link](https://mozilladatacollective.com/datasets/cmkcy8in2004umo0775mye43g) | ✅ |
 | `cmkfm6xtw00k2nv07oakesnix` | DataTrust Africa: Speech Corpus of Public Radio Recordings from Northern Uganda | `datatrust-africa-speech-corpus-of-public-84630945` | [link](https://mozilladatacollective.com/datasets/cmkfm6xtw00k2nv07oakesnix) | ❌ |
-| `cmkfm9fbl00nto0070sdcrak2` | Effect AI Scripted Speech 1.0 - English | `effect-ai-scripted-speech-1-0-english-6feecf00` | [link](https://mozilladatacollective.com/datasets/cmkfm9fbl00nto0070sdcrak2) | ❌ |
+| `cmkfm9fbl00nto0070sdcrak2` | Effect AI Scripted Speech 1.0 - English | `effect-ai-scripted-speech-1-0-english-6feecf00` | [link](https://mozilladatacollective.com/datasets/cmkfm9fbl00nto0070sdcrak2) | ✅ |
 | `cmkh2stj6004mmj0751rn8vq6` | ddd-kenya-luhya-70hrs-asr | `ddd-kenya-luhya-70hrs-asr-6a0a25c7` | [link](https://mozilladatacollective.com/datasets/cmkh2stj6004mmj0751rn8vq6) | ❌ |
 | `cmkh3nwms0052nv07997y38zx` | RFE/RL Tatar-Bashkir News Text Corpus | `rfe-rl-tatar-bashkir-news-text-corpus-81671cd4` | [link](https://mozilladatacollective.com/datasets/cmkh3nwms0052nv07997y38zx) | ❌ |
 | `cmkh3vrob005pmj07vgm55iha` | HESEIA Sentence Bias Dataset | `heseia-sentence-bias-dataset-9caa8462` | [link](https://mozilladatacollective.com/datasets/cmkh3vrob005pmj07vgm55iha) | ❌ |
