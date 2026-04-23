@@ -10,8 +10,8 @@ schema in this registry and which ones are still missing.
 
 **Last updated:** 2026-04-23  
 **Total datasets in sitemap:** 631  
-**Schemas registered:** 391 ✅  
-**Schemas missing:** 240 ❌  
+**Schemas registered:** 393 ✅  
+**Schemas missing:** 238 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -167,7 +167,7 @@ schema in this registry and which ones are still missing.
 | `cmm0n37lm000dnq07vpctdtc9` | GeoLogicQA: An LLM Benchmark for Logical Reasoning in Georgian | `geologicqa-an-llm-benchmark-for-logical-612b08b2` | [link](https://mozilladatacollective.com/datasets/cmm0n37lm000dnq07vpctdtc9) | ❌ |
 | `cmm0n4ro2000hnq079tknw6gv` | Dolgan Folklore Text Corpus | `dolgan-folklore-text-corpus-d5c4c9ae` | [link](https://mozilladatacollective.com/datasets/cmm0n4ro2000hnq079tknw6gv) | ❌ |
 | `cmm0nm2ua000eo007qs4r3m8q` | Polish Public Domain 20th Century Literature Text Corpus | `polish-public-domain-20th-century-litera-6cb59f65` | [link](https://mozilladatacollective.com/datasets/cmm0nm2ua000eo007qs4r3m8q) | ❌ |
-| `cmm23jslb003znq07vdska54l` | Lingala-TTS-Dataset | `lingala-tts-dataset-c74b41b5` | [link](https://mozilladatacollective.com/datasets/cmm23jslb003znq07vdska54l) | ❌ |
+| `cmm23jslb003znq07vdska54l` | Lingala-TTS-Dataset | `lingala-tts-dataset-c74b41b5` | [link](https://mozilladatacollective.com/datasets/cmm23jslb003znq07vdska54l) | ✅ |
 | `cmm27p8oy00auo3073kg3f1gj` | Persian VOA Corpus 2003-2008 | `persian-voa-corpus-2003-2008-70989868` | [link](https://mozilladatacollective.com/datasets/cmm27p8oy00auo3073kg3f1gj) | ❌ |
 | `cmm2fwi490024nt0779vv9o0d` | Thorsten-Voice Dataset 2021.02 | `thorsten-voice-dataset-2021-02-2ab0c450` | [link](https://mozilladatacollective.com/datasets/cmm2fwi490024nt0779vv9o0d) | ❌ |
 | `cmm3gntdp00jymn07zjetwkyy` | Finance Sentences - North American Spanish  | `finance-sentences-north-american-spanish-fabeb98e` | [link](https://mozilladatacollective.com/datasets/cmm3gntdp00jymn07zjetwkyy) | ❌ |
@@ -191,7 +191,7 @@ schema in this registry and which ones are still missing.
 | `cmmdtenxt0050mh0792d10knv` | Elkhani Hazargi Literature Corpus  | `elkhani-hazargi-literature-corpus-85c403db` | [link](https://mozilladatacollective.com/datasets/cmmdtenxt0050mh0792d10knv) | ❌ |
 | `cmmfulo4r018bnz07py4q9t09` | Bangor Miami Spanish-English Corpus | `bangor-miami-spanish-english-corpus-36d9f971` | [link](https://mozilladatacollective.com/datasets/cmmfulo4r018bnz07py4q9t09) | ❌ |
 | `cmmj6vyb902ownz07j4k7cunj` | Sundanese TTS | `sundanese-tts-2ee99d3c` | [link](https://mozilladatacollective.com/datasets/cmmj6vyb902ownz07j4k7cunj) | ❌ |
-| `cmmknsho4014wmf087kvq5rc6` | Kokoro Speech Dataset | `kokoro-speech-dataset-d8bfaab0` | [link](https://mozilladatacollective.com/datasets/cmmknsho4014wmf087kvq5rc6) | ❌ |
+| `cmmknsho4014wmf087kvq5rc6` | Kokoro Speech Dataset | `kokoro-speech-dataset-d8bfaab0` | [link](https://mozilladatacollective.com/datasets/cmmknsho4014wmf087kvq5rc6) | ✅ |
 | `cmmm2ru5r003nmd07p53h9wdw` | TTS Balinese Language | `tts-balinese-language-59477e0c` | [link](https://mozilladatacollective.com/datasets/cmmm2ru5r003nmd07p53h9wdw) | ❌ |
 | `cmmm7rvm200b9md07h3pv8uae` | TODa: Tamazight Open Dataset | `toda-tamazight-open-dataset-3eef2658` | [link](https://mozilladatacollective.com/datasets/cmmm7rvm200b9md07h3pv8uae) | ❌ |
 | `cmmng8btl000yl807k8qtx891` | ddd-kenya-somali-68hrs-asr-part1 | `ddd-kenya-somali-68hrs-asr-part1-41a99fae` | [link](https://mozilladatacollective.com/datasets/cmmng8btl000yl807k8qtx891) | ❌ |
