@@ -1,0 +1,20 @@
+dataset_id: cmkfm9fbl00nto0070sdcrak2
+task: TTS
+index_file: effectai_sentence_recording_dataset.csv
+base_audio_path:
+- audio
+
+columns:
+  audio_path:
+    source_column: audio_file
+    dtype: file_path
+    file_extension: .mp3
+  transcription:
+    source_column: sentence
+  sentence_length:
+    source_column: sentence_length
+  author_id:
+    source_column: author_id
+  duration_sec:
+    source_column: duration_sec
+checksum: e1e9eb3dd4d90d3892d86e9e87fecf1fac46408648c46e11d49a6ce916498bc8
