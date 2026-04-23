@@ -10,13 +10,13 @@ schema in this registry and which ones are still missing.
 
 **Last updated:** 2026-04-23  
 **Total datasets in sitemap:** 631  
-**Schemas registered:** 393 ✅  
-**Schemas missing:** 238 ❌  
+**Schemas registered:** 394 ✅  
+**Schemas missing:** 237 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
 | `cmfzu8u8wa555eq8onrk334h4` | Mozilla Common Voice Spontaneous Speech ASR Shared Task Train/Dev Data | `mcv-sps-st-09-2025` | [link](https://mozilladatacollective.com/datasets/cmfzu8u8wa555eq8onrk334h4) | ❌ |
-| `cmhkl8z2a007rnr07p9bm5kmz` | Tetelancingo Nahuatl | `tetelancingo-nahuatl-4dd81077` | [link](https://mozilladatacollective.com/datasets/cmhkl8z2a007rnr07p9bm5kmz) | ❌ |
+| `cmhkl8z2a007rnr07p9bm5kmz` | Tetelancingo Nahuatl | `tetelancingo-nahuatl-4dd81077` | [link](https://mozilladatacollective.com/datasets/cmhkl8z2a007rnr07p9bm5kmz) | ✅ |
 | `cmhlvswz200fio007c7szypw8` | Podcast Hari Minggoean (Indonesia) | `podcast-hari-minggoean-indonesia-3b077582` | [link](https://mozilladatacollective.com/datasets/cmhlvswz200fio007c7szypw8) | ❌ |
 | `cmhnlbtx401ihmr07co7x8ptw` | Saraiki Literature Corpus | `saraiki-literature-corpus-bca56858` | [link](https://mozilladatacollective.com/datasets/cmhnlbtx401ihmr07co7x8ptw) | ❌ |
 | `cmhp3jurx00afmk07z5z4fktu` | Urdu Literature Corpus | `urdu-literature-corpus-2a2877f9` | [link](https://mozilladatacollective.com/datasets/cmhp3jurx00afmk07z5z4fktu) | ❌ |
