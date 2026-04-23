@@ -1,0 +1,6 @@
+dataset_id: "cmkv32i5e02tumg07j79d3c35"
+task: "OTH"
+root_strategy: "glob"
+file_pattern: "**/*.wav"
+base_audio_path: "TidyVoiceX2_ASV"
+checksum: "dab62eb8fe58584e176daea79e60412ac28eae5a41e7694cbe4a34fb970dfff0"
