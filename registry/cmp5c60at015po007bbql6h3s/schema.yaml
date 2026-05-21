@@ -1,0 +1,16 @@
+dataset_id: "cmp5c60at015po007bbql6h3s"
+task: "OTH"
+format: "tsv"
+
+index_file: "commonlid_20251209.tsv"
+
+columns:
+  text:
+    source_column: "text"
+    dtype: "string"
+  tag:
+    source_column: "tag"
+    dtype: "category"
+  line_id:
+    source_column: "line_id"
+    dtype: "string"
