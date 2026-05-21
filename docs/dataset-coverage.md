@@ -10,8 +10,8 @@ schema in this registry and which ones are still missing.
 
 **Last updated:** 2026-05-21  
 **Total datasets in sitemap:** 755  
-**Schemas registered:** 396 ✅  
-**Schemas missing:** 359 ❌  
+**Schemas registered:** 397 ✅  
+**Schemas missing:** 358 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -88,7 +88,7 @@ schema in this registry and which ones are still missing.
 | `cmj2rze7r00j5ny07uhs85go2` | Bomitaba-TTS-Dataset | `bomitaba-tts-dataset-a4d7820e` | [link](https://mozilladatacollective.com/datasets/cmj2rze7r00j5ny07uhs85go2) | ✅ |
 | `cmj324gbx00p4ny078pi26kfz` | Laari-TTS-Dataset | `laari-tts-dataset-b7dec869` | [link](https://mozilladatacollective.com/datasets/cmj324gbx00p4ny078pi26kfz) | ❌ |
 | `cmj77njd701ljmb07m97pw1p3` | Central Kurdish TTS dataset 1.0 | `central-kurdish-tts-dataset-1-0-6b2a7b8e` | [link](https://mozilladatacollective.com/datasets/cmj77njd701ljmb07m97pw1p3) | ✅ |
-| `cmj8ddapc02c8mb07l6wyr882` | Mozilla Common Voice Text Language Identification dataset | `mozilla-common-voice-text-language-ident-b1b3aae0` | [link](https://mozilladatacollective.com/datasets/cmj8ddapc02c8mb07l6wyr882) | ❌ |
+| `cmj8ddapc02c8mb07l6wyr882` | Mozilla Common Voice Text Language Identification dataset | `mozilla-common-voice-text-language-ident-b1b3aae0` | [link](https://mozilladatacollective.com/datasets/cmj8ddapc02c8mb07l6wyr882) | ✅ |
 | `cmj8fdiyv02egmb07m2wfdltm` | Bati-MultiDialectalASR-Dataset | `bati-multidialectalasr-dataset-fd003ed0` | [link](https://mozilladatacollective.com/datasets/cmj8fdiyv02egmb07m2wfdltm) | ❌ |
 | `cmj8g2kw902fwmb07hub8puq8` | Teke-Laali-TTS-Dataset | `teke-laali-tts-dataset-7e5379fe` | [link](https://mozilladatacollective.com/datasets/cmj8g2kw902fwmb07hub8puq8) | ❌ |
 | `cmj8mjbas02lmmk07glipgg79` | AI on the Frontline: Evaluating Large Language Models in Real-World Conflict Resolution | `ai-on-the-frontline-evaluating-large-lan-a2f0d099` | [link](https://mozilladatacollective.com/datasets/cmj8mjbas02lmmk07glipgg79) | ❌ |
