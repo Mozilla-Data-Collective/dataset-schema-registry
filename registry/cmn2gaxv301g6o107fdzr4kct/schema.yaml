@@ -11,7 +11,7 @@ splits:
   - validated
 
 splits_file_pattern: "**/*.tsv"
-base_audio_path: "clips/"
+base_audio_path: "cv-corpus-25.0-2026-03-09/fy-NL/clips/"
 
 columns:
   audio_path:
