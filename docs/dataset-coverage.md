@@ -10,8 +10,8 @@ schema in this registry and which ones are still missing.
 
 **Last updated:** 2026-05-21  
 **Total datasets in sitemap:** 755  
-**Schemas registered:** 397 ✅  
-**Schemas missing:** 358 ❌  
+**Schemas registered:** 398 ✅  
+**Schemas missing:** 357 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -696,7 +696,7 @@ schema in this registry and which ones are still missing.
 | `cmp4htnf000gpmp07shg6l5v9` | Pakistan Traffic Signs Dataset | `pakistan-traffic-signs-dataset-62e0f6c7` | [link](https://mozilladatacollective.com/datasets/cmp4htnf000gpmp07shg6l5v9) | ❌ |
 | `cmp4ijosh00h9mp078ggnaatm` | ReRooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants | `rerooted-speech-corpus-of-testimonials-f-fda6d7da` | [link](https://mozilladatacollective.com/datasets/cmp4ijosh00h9mp078ggnaatm) | ❌ |
 | `cmp5b9e10014mo007qkcmck75` | CoVoST 2 English - Arabic | `covost-2-english-arabic-1ee86ec6` | [link](https://mozilladatacollective.com/datasets/cmp5b9e10014mo007qkcmck75) | ❌ |
-| `cmp5c60at015po007bbql6h3s` |  CommonLID | `commonlid-622f6f75` | [link](https://mozilladatacollective.com/datasets/cmp5c60at015po007bbql6h3s) | ❌ |
+| `cmp5c60at015po007bbql6h3s` |  CommonLID | `commonlid-622f6f75` | [link](https://mozilladatacollective.com/datasets/cmp5c60at015po007bbql6h3s) | ✅ |
 | `cmp5hjood01comp07fxt1fb74` | CoVoST 2 Indonesian - English | `covost-2-indonesian-english-f070340a` | [link](https://mozilladatacollective.com/datasets/cmp5hjood01comp07fxt1fb74) | ❌ |
 | `cmp5ht3jx01dno007i1opx2rj` | TWB Voice 1.0 - Shuwa Arabic | `twb-voice-1-0-shuwa-arabic-aef30cee` | [link](https://mozilladatacollective.com/datasets/cmp5ht3jx01dno007i1opx2rj) | ❌ |
 | `cmp5k3fsy01gmmp07w2kaous5` | CoVoST 2 Italian - English | `covost-2-italian-english-ea425364` | [link](https://mozilladatacollective.com/datasets/cmp5k3fsy01gmmp07w2kaous5) | ❌ |
