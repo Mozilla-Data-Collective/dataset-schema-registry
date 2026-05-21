@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-22T06:36:44.251238+00:00",
-  "total": 631,
+  "updated_at": "2026-05-21T08:30:06.723269+00:00",
+  "total": 755,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -59,13 +59,6 @@
       "slug": "dimitar-1-0-7e962aa3"
     },
     {
-      "id": "cmhqebl6h001pmn071yvbkbyv",
-      "url": "https://mozilladatacollective.com/datasets/cmhqebl6h001pmn071yvbkbyv",
-      "lastmod": "2026-01-08T19:09:29.704Z",
-      "name": "Ewondo-French Parallel Corpus",
-      "slug": "ewondo-french-parallel-corpus-3b21bcca"
-    },
-    {
       "id": "cmhqr666h009gmn07fpp0egby",
       "url": "https://mozilladatacollective.com/datasets/cmhqr666h009gmn07fpp0egby",
       "lastmod": "2026-01-08T19:09:29.704Z",
@@ -120,13 +113,6 @@
       "lastmod": "2026-01-08T19:09:29.704Z",
       "name": "Kaleem Magazine Urdu Corpus",
       "slug": "kaleem-magazine-urdu-corpus-b4723c2d"
-    },
-    {
-      "id": "cmi4ma15g09wykx07xbolzpoz",
-      "url": "https://mozilladatacollective.com/datasets/cmi4ma15g09wykx07xbolzpoz",
-      "lastmod": "2026-01-08T19:09:29.704Z",
-      "name": "ReRooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants",
-      "slug": "rerooted-speech-corpus-of-testimonials-f-dbc0bed1"
     },
     {
       "id": "cmi7mgbam000bnx074097g2yg",
@@ -257,9 +243,9 @@
     {
       "id": "cmind910n0096nx07gme9v3wj",
       "url": "https://mozilladatacollective.com/datasets/cmind910n0096nx07gme9v3wj",
-      "lastmod": "2026-01-08T20:54:20.101Z",
+      "lastmod": "2026-05-11T08:25:04.953Z",
       "name": "Basaa-ALCAM-MultimodalDataset",
-      "slug": "basaa-alcam-multimodaldataset-ff5dfa3e"
+      "slug": "basaa-alcam-multimodaldataset-c7616025"
     },
     {
       "id": "cmiodqzui00wwnx07j549ek4c",
@@ -439,9 +425,9 @@
     {
       "id": "cmiv2rbv901mwmf07iyhv4pva",
       "url": "https://mozilladatacollective.com/datasets/cmiv2rbv901mwmf07iyhv4pva",
-      "lastmod": "2026-01-08T21:56:44.824Z",
+      "lastmod": "2026-04-22T11:39:43.468Z",
       "name": "Ewondo-Yanda-ALCAM-MultimodalDataset",
-      "slug": "ewondo-yanda-alcam-multimodaldataset-63e52dd2"
+      "slug": "ewondo-yanda-alcam-multimodaldataset-a8664188"
     },
     {
       "id": "cmixehxof005dnr07yp80kluh",
@@ -460,23 +446,23 @@
     {
       "id": "cmj0az3yz002enw07okqee8jr",
       "url": "https://mozilladatacollective.com/datasets/cmj0az3yz002enw07okqee8jr",
-      "lastmod": "2026-01-08T21:56:44.824Z",
+      "lastmod": "2026-05-11T08:25:33.907Z",
       "name": "Kituba-TTS-Dataset",
-      "slug": "kituba-tts-dataset-a199ea23"
+      "slug": "kituba-tts-dataset-77eadd98"
     },
     {
       "id": "cmj0b1ymo002pnu076g7oseat",
       "url": "https://mozilladatacollective.com/datasets/cmj0b1ymo002pnu076g7oseat",
-      "lastmod": "2026-01-08T21:56:44.824Z",
+      "lastmod": "2026-04-22T11:40:24.397Z",
       "name": "Akoose-ALCAM-MultimodalDataset",
-      "slug": "akoose-alcam-multimodaldataset-d068765f"
+      "slug": "akoose-alcam-multimodaldataset-817e7b0a"
     },
     {
       "id": "cmj0c3cpe003enw07zxujgdt1",
       "url": "https://mozilladatacollective.com/datasets/cmj0c3cpe003enw07zxujgdt1",
-      "lastmod": "2026-01-08T21:56:44.824Z",
+      "lastmod": "2026-05-11T08:25:47.757Z",
       "name": "Yaka-TTS-Dataset",
-      "slug": "yaka-tts-dataset-255887a5"
+      "slug": "yaka-tts-dataset-2c1aefa2"
     },
     {
       "id": "cmj0e4p03003mnu077qbbn17z",
@@ -488,37 +474,37 @@
     {
       "id": "cmj1gd6j400uvnw07ylungxjz",
       "url": "https://mozilladatacollective.com/datasets/cmj1gd6j400uvnw07ylungxjz",
-      "lastmod": "2026-01-08T21:56:44.824Z",
+      "lastmod": "2026-05-11T08:26:00.375Z",
       "name": "Beembe-TTS-Dataset",
-      "slug": "beembe-tts-dataset-9f6a5d06"
+      "slug": "beembe-tts-dataset-72fc19b5"
     },
     {
       "id": "cmj1gdg1s00vrnu07nmlrax7g",
       "url": "https://mozilladatacollective.com/datasets/cmj1gdg1s00vrnu07nmlrax7g",
-      "lastmod": "2026-01-08T21:56:44.824Z",
+      "lastmod": "2026-05-11T08:26:14.331Z",
       "name": "Mbosi-TTS-Dataset",
-      "slug": "mbosi-tts-dataset-2996fa93"
+      "slug": "mbosi-tts-dataset-f438364d"
     },
     {
       "id": "cmj1qhr5n001wnv07hqcatq25",
       "url": "https://mozilladatacollective.com/datasets/cmj1qhr5n001wnv07hqcatq25",
-      "lastmod": "2026-01-08T21:56:44.824Z",
+      "lastmod": "2026-05-11T08:26:29.161Z",
       "name": "Suundi-TTS-Dataset",
-      "slug": "suundi-tts-dataset-2e258f40"
+      "slug": "suundi-tts-dataset-719762cb"
     },
     {
       "id": "cmj2rze7r00j5ny07uhs85go2",
       "url": "https://mozilladatacollective.com/datasets/cmj2rze7r00j5ny07uhs85go2",
-      "lastmod": "2025-12-12T11:20:07.863Z",
+      "lastmod": "2026-05-11T08:26:49.784Z",
       "name": "Bomitaba-TTS-Dataset",
-      "slug": "bomitaba-tts-dataset-28b2e589"
+      "slug": "bomitaba-tts-dataset-a4d7820e"
     },
     {
       "id": "cmj324gbx00p4ny078pi26kfz",
       "url": "https://mozilladatacollective.com/datasets/cmj324gbx00p4ny078pi26kfz",
-      "lastmod": "2025-12-12T16:04:00.045Z",
+      "lastmod": "2026-05-11T08:27:02.041Z",
       "name": "Laari-TTS-Dataset",
-      "slug": "laari-tts-dataset-68805386"
+      "slug": "laari-tts-dataset-b7dec869"
     },
     {
       "id": "cmj77njd701ljmb07m97pw1p3",
@@ -537,16 +523,16 @@
     {
       "id": "cmj8fdiyv02egmb07m2wfdltm",
       "url": "https://mozilladatacollective.com/datasets/cmj8fdiyv02egmb07m2wfdltm",
-      "lastmod": "2025-12-16T10:13:49.255Z",
+      "lastmod": "2026-05-11T08:24:37.611Z",
       "name": "Bati-MultiDialectalASR-Dataset",
-      "slug": "bati-multidialectalasr-dataset-2ae1f868"
+      "slug": "bati-multidialectalasr-dataset-fd003ed0"
     },
     {
       "id": "cmj8g2kw902fwmb07hub8puq8",
       "url": "https://mozilladatacollective.com/datasets/cmj8g2kw902fwmb07hub8puq8",
-      "lastmod": "2025-12-16T10:33:18.153Z",
+      "lastmod": "2026-05-11T08:27:15.625Z",
       "name": "Teke-Laali-TTS-Dataset",
-      "slug": "teke-laali-tts-dataset-f69af854"
+      "slug": "teke-laali-tts-dataset-7e5379fe"
     },
     {
       "id": "cmj8mjbas02lmmk07glipgg79",
@@ -600,16 +586,16 @@
     {
       "id": "cmk1bbz7o39v2mb07jjupvzud",
       "url": "https://mozilladatacollective.com/datasets/cmk1bbz7o39v2mb07jjupvzud",
-      "lastmod": "2026-01-05T15:25:57.636Z",
+      "lastmod": "2026-04-22T11:39:08.926Z",
       "name": "Ewondo_Mbida-Mbani_ALCAM-MultimodalDataset",
-      "slug": "ewondo-mbida-mbani-alcam-multimodaldatas-d8d24c2f"
+      "slug": "ewondo-mbida-mbani-alcam-multimodaldatas-fc7095e8"
     },
     {
       "id": "cmk1bdl0q39v6mb07gee6udp2",
       "url": "https://mozilladatacollective.com/datasets/cmk1bdl0q39v6mb07gee6udp2",
-      "lastmod": "2026-01-05T15:27:12.554Z",
+      "lastmod": "2026-05-10T16:39:34.658Z",
       "name": "Spoken-Congolese-French-Dataset",
-      "slug": "spoken-congolese-french-dataset-a7614e44"
+      "slug": "spoken-congolese-french-dataset-29151a50"
     },
     {
       "id": "cmk1bfsez3htsmk07xfzaf9oe",
@@ -649,9 +635,9 @@
     {
       "id": "cmkcy8in2004umo0775mye43g",
       "url": "https://mozilladatacollective.com/datasets/cmkcy8in2004umo0775mye43g",
-      "lastmod": "2026-01-22T11:33:50.636Z",
+      "lastmod": "2026-05-15T10:24:57.968Z",
       "name": "Khmer ASR Cultural Dataset",
-      "slug": "khmer-asr-cultural-dataset-4e33cd05"
+      "slug": "khmer-asr-cultural-dataset-7f42ad25"
     },
     {
       "id": "cmkfm6xtw00k2nv07oakesnix",
@@ -719,9 +705,9 @@
     {
       "id": "cmkmoepzx018wnw07cnkupls3",
       "url": "https://mozilladatacollective.com/datasets/cmkmoepzx018wnw07cnkupls3",
-      "lastmod": "2026-01-20T14:15:10.366Z",
+      "lastmod": "2026-04-22T11:38:28.952Z",
       "name": "Ewondo_Fong_ALCAM-MultimodalDataset",
-      "slug": "ewondo-fong-alcam-multimodaldataset-c2ed5423"
+      "slug": "ewondo-fong-alcam-multimodaldataset-e1c15f9f"
     },
     {
       "id": "cmko7havo02f5nw07rbwwhowe",
@@ -859,9 +845,9 @@
     {
       "id": "cml9h5vgc01bxmn075sjeftek",
       "url": "https://mozilladatacollective.com/datasets/cml9h5vgc01bxmn075sjeftek",
-      "lastmod": "2026-02-05T13:11:02.268Z",
+      "lastmod": "2026-05-15T10:25:46.088Z",
       "name": "Khmer ASR Cultural Dataset (V2)",
-      "slug": "khmer-asr-cultural-dataset-v2-60d7b361"
+      "slug": "khmer-asr-cultural-dataset-v2-a5bd8176"
     },
     {
       "id": "cml9hmuis017yo407k0p4i0t4",
@@ -1167,9 +1153,9 @@
     {
       "id": "cmmamvzrz04qtmk077j1k99vt",
       "url": "https://mozilladatacollective.com/datasets/cmmamvzrz04qtmk077j1k99vt",
-      "lastmod": "2026-04-19T06:29:26.174Z",
+      "lastmod": "2026-05-11T08:24:51.416Z",
       "name": "Mada-French Parallel Corpus 1.0",
-      "slug": "mada-french-parallel-corpus-1-0-6f1a334d"
+      "slug": "mada-french-parallel-corpus-1-0-150fb722"
     },
     {
       "id": "cmmao7dc504oamh0710j4wau1",
@@ -1244,9 +1230,9 @@
     {
       "id": "cmmm2ru5r003nmd07p53h9wdw",
       "url": "https://mozilladatacollective.com/datasets/cmmm2ru5r003nmd07p53h9wdw",
-      "lastmod": "2026-03-11T13:28:55.408Z",
+      "lastmod": "2026-05-19T04:56:53.038Z",
       "name": "TTS Balinese Language",
-      "slug": "tts-balinese-language-59477e0c"
+      "slug": "tts-balinese-language-884fa798"
     },
     {
       "id": "cmmm7rvm200b9md07h3pv8uae",
@@ -1643,9 +1629,9 @@
     {
       "id": "cmmyyd6jq00k5mf07tjn4xh3j",
       "url": "https://mozilladatacollective.com/datasets/cmmyyd6jq00k5mf07tjn4xh3j",
-      "lastmod": "2026-03-20T13:46:33.447Z",
+      "lastmod": "2026-04-22T11:34:18.389Z",
       "name": "Mvele_ALCAM-MultimodalDataset",
-      "slug": "mvele-alcam-multimodaldataset-abe6fd94"
+      "slug": "mvele-alcam-multimodaldataset-bf6fcd7d"
     },
     {
       "id": "cmn1pl37b00uvmm07woxp33ef",
@@ -3925,9 +3911,9 @@
     {
       "id": "cmn6ay1xg016jnv07drtmw7qo",
       "url": "https://mozilladatacollective.com/datasets/cmn6ay1xg016jnv07drtmw7qo",
-      "lastmod": "2026-04-16T14:00:55.857Z",
+      "lastmod": "2026-05-10T16:39:09.258Z",
       "name": "Bamun-French Parallel Corpus 2.0",
-      "slug": "bamun-french-parallel-corpus-2-0-324fbd3f"
+      "slug": "bamun-french-parallel-corpus-2-0-2637e53d"
     },
     {
       "id": "cmnd4la5a02fwmh074t1fx5y9",
@@ -3960,9 +3946,9 @@
     {
       "id": "cmndjfw9d000qmj070dece40f",
       "url": "https://mozilladatacollective.com/datasets/cmndjfw9d000qmj070dece40f",
-      "lastmod": "2026-03-30T18:45:18.482Z",
+      "lastmod": "2026-05-05T08:29:32.663Z",
       "name": "Yezoum_ALCAM-MultimodalDataset",
-      "slug": "yezoum-alcam-multimodaldataset-bb0308a3"
+      "slug": "yezoum-alcam-multimodaldataset-29a744fa"
     },
     {
       "id": "cmngbf1tt0050nn07i49aebnk",
@@ -4009,9 +3995,9 @@
     {
       "id": "cmnhjbnjp0115mh07kiha0rei",
       "url": "https://mozilladatacollective.com/datasets/cmnhjbnjp0115mh07kiha0rei",
-      "lastmod": "2026-04-16T14:00:42.708Z",
+      "lastmod": "2026-05-10T16:38:37.546Z",
       "name": "Bamun-TTS-Dataset",
-      "slug": "bamun-tts-dataset-e1a518e9"
+      "slug": "bamun-tts-dataset-858de881"
     },
     {
       "id": "cmnmy7tmf02k6ml07m7vvcxzr",
@@ -4030,16 +4016,16 @@
     {
       "id": "cmnopto3q00t0mf07v2dtc0ej",
       "url": "https://mozilladatacollective.com/datasets/cmnopto3q00t0mf07v2dtc0ej",
-      "lastmod": "2026-04-16T14:00:18.876Z",
+      "lastmod": "2026-05-10T16:38:17.641Z",
       "name": "Hausa-TTS-Dataset",
-      "slug": "hausa-tts-dataset-17bc050d"
+      "slug": "hausa-tts-dataset-b69efbb0"
     },
     {
       "id": "cmnopvxxr00t6mf07nm4cp4qs",
       "url": "https://mozilladatacollective.com/datasets/cmnopvxxr00t6mf07nm4cp4qs",
-      "lastmod": "2026-04-07T14:31:12.783Z",
+      "lastmod": "2026-05-11T08:25:18.721Z",
       "name": "Bulu_ALCAM-MultimodalDataset",
-      "slug": "bulu-alcam-multimodaldataset-c3804b14"
+      "slug": "bulu-alcam-multimodaldataset-7d63bbe5"
     },
     {
       "id": "cmnoqtoq900ugmf077kiuny8y",
@@ -4142,9 +4128,9 @@
     {
       "id": "cmnykldcz010knu0737o8bgh9",
       "url": "https://mozilladatacollective.com/datasets/cmnykldcz010knu0737o8bgh9",
-      "lastmod": "2026-04-16T13:59:15.976Z",
+      "lastmod": "2026-05-10T16:38:50.422Z",
       "name": "Naija-TTS-Dataset",
-      "slug": "naija-tts-dataset-ad9f8f35"
+      "slug": "naija-tts-dataset-5a25ab41"
     },
     {
       "id": "cmnykm7yi010rny0737lq2fth",
@@ -4259,6 +4245,13 @@
       "slug": "awal-tamazight-dataset-acc51046"
     },
     {
+      "id": "cmo09pqp300gbnx07xcl42los",
+      "url": "https://mozilladatacollective.com/datasets/cmo09pqp300gbnx07xcl42los",
+      "lastmod": "2026-04-23T22:16:21.838Z",
+      "name": "Yoruba-English Code-Switching (YECS) Corpus",
+      "slug": "yoruba-english-code-switching-yecs-corpu-6da2a4ed"
+    },
+    {
       "id": "cmo0cro1g00hlmr07oichasyk",
       "url": "https://mozilladatacollective.com/datasets/cmo0cro1g00hlmr07oichasyk",
       "lastmod": "2026-04-15T17:57:12.436Z",
@@ -4296,9 +4289,9 @@
     {
       "id": "cmo1kqs2a004anr07sxn2mtf5",
       "url": "https://mozilladatacollective.com/datasets/cmo1kqs2a004anr07sxn2mtf5",
-      "lastmod": "2026-04-16T14:28:14.098Z",
+      "lastmod": "2026-04-24T02:47:58.083Z",
       "name": "Imágenes de Señalamientos en México",
-      "slug": "im-genes-de-se-alamientos-en-m-xico-66546ce0"
+      "slug": "im-genes-de-se-alamientos-en-m-xico-f9d07506"
     },
     {
       "id": "cmo1krloc004zmk07fon30uqs",
@@ -4317,9 +4310,9 @@
     {
       "id": "cmo1nlaah0071mk077mw0qhpv",
       "url": "https://mozilladatacollective.com/datasets/cmo1nlaah0071mk077mw0qhpv",
-      "lastmod": "2026-04-16T17:36:54.149Z",
+      "lastmod": "2026-05-10T16:37:53.464Z",
       "name": "Yoruba-TTS-Dataset",
-      "slug": "yoruba-tts-dataset-f9b24c0f"
+      "slug": "yoruba-tts-dataset-8d7b6ad2"
     },
     {
       "id": "cmo1qb62200anmk07ls9feuh5",
@@ -4387,16 +4380,16 @@
     {
       "id": "cmo4gtixz00kwny07hayfsk8s",
       "url": "https://mozilladatacollective.com/datasets/cmo4gtixz00kwny07hayfsk8s",
-      "lastmod": "2026-04-18T15:01:42.311Z",
+      "lastmod": "2026-05-10T16:37:36.311Z",
       "name": "isiXhosa-TTS-Dataset",
-      "slug": "isixhosa-tts-dataset-aaef0436"
+      "slug": "isixhosa-tts-dataset-16b3a1b6"
     },
     {
       "id": "cmo4nmfam00nxny07rssox2tj",
       "url": "https://mozilladatacollective.com/datasets/cmo4nmfam00nxny07rssox2tj",
-      "lastmod": "2026-04-18T18:12:08.302Z",
+      "lastmod": "2026-05-10T16:37:20.475Z",
       "name": "Tiv-TTS-Dataset",
-      "slug": "tiv-tts-dataset-57d4ed18"
+      "slug": "tiv-tts-dataset-d47b6688"
     },
     {
       "id": "cmo8oicwk020dnt077o5dqhwm",
@@ -4418,6 +4411,881 @@
       "lastmod": "2026-04-21T15:12:32.226Z",
       "name": "Sylheti Text Corpus by Haque Publishers",
       "slug": "sylheti-text-corpus-by-haque-publishers-8cfeffe0"
+    },
+    {
+      "id": "cmobufn0500a5nw07u01ivqa6",
+      "url": "https://mozilladatacollective.com/datasets/cmobufn0500a5nw07u01ivqa6",
+      "lastmod": "2026-04-23T18:57:12.245Z",
+      "name": "RFE/RL Armenian News Text Corpus",
+      "slug": "rfe-rl-armenian-news-text-corpus-916711b8"
+    },
+    {
+      "id": "cmobugzgs00c7md0783t69yd7",
+      "url": "https://mozilladatacollective.com/datasets/cmobugzgs00c7md0783t69yd7",
+      "lastmod": "2026-04-23T18:58:15.052Z",
+      "name": "RFE/RL Afghan Pashto News Text Corpus",
+      "slug": "rfe-rl-afghan-pashto-news-text-corpus-f4251510"
+    },
+    {
+      "id": "cmobui7g400cbmd07kmfe7oj4",
+      "url": "https://mozilladatacollective.com/datasets/cmobui7g400cbmd07kmfe7oj4",
+      "lastmod": "2026-04-23T18:59:12.052Z",
+      "name": "RFE/RL Afghan Dari News Text Corpus",
+      "slug": "rfe-rl-afghan-dari-news-text-corpus-2eb5456b"
+    },
+    {
+      "id": "cmobujn7b00aenw07wcn5dntu",
+      "url": "https://mozilladatacollective.com/datasets/cmobujn7b00aenw07wcn5dntu",
+      "lastmod": "2026-04-23T19:00:19.127Z",
+      "name": "RFE/RL Belarusian News Text Corpus",
+      "slug": "rfe-rl-belarusian-news-text-corpus-0d139b43"
+    },
+    {
+      "id": "cmocxuhkn00y4md07d8bllj2x",
+      "url": "https://mozilladatacollective.com/datasets/cmocxuhkn00y4md07d8bllj2x",
+      "lastmod": "2026-04-24T13:20:30.071Z",
+      "name": "Read Speech in Kenyan Swahili (6h)",
+      "slug": "read-speech-in-kenyan-swahili-6h-0692ed09"
+    },
+    {
+      "id": "cmoiuyem401j5mr07s0jx8rqr",
+      "url": "https://mozilladatacollective.com/datasets/cmoiuyem401j5mr07s0jx8rqr",
+      "lastmod": "2026-04-28T16:46:11.069Z",
+      "name": "Italian TTS - female voice",
+      "slug": "italian-tts-female-voice-78e192bf"
+    },
+    {
+      "id": "cmok1w0j002jcmr075bsof72y",
+      "url": "https://mozilladatacollective.com/datasets/cmok1w0j002jcmr075bsof72y",
+      "lastmod": "2026-04-29T12:48:02.988Z",
+      "name": "Tamazight Open Speech Dataset",
+      "slug": "tamazight-open-speech-dataset-a39ff6ca"
+    },
+    {
+      "id": "cmom3xala00gyo007hc0evymi",
+      "url": "https://mozilladatacollective.com/datasets/cmom3xala00gyo007hc0evymi",
+      "lastmod": "2026-04-30T23:20:34.270Z",
+      "name": "BAHANA-Betawi TTS",
+      "slug": "bahana-betawi-tts-33f94c22"
+    },
+    {
+      "id": "cmom3z1mc00h2o0071zxeq1ur",
+      "url": "https://mozilladatacollective.com/datasets/cmom3z1mc00h2o0071zxeq1ur",
+      "lastmod": "2026-04-30T23:21:55.956Z",
+      "name": "BAHANA-Manggarai TTS",
+      "slug": "bahana-manggarai-tts-b74b8ba1"
+    },
+    {
+      "id": "cmom41aj500h6o007zkt02p8n",
+      "url": "https://mozilladatacollective.com/datasets/cmom41aj500h6o007zkt02p8n",
+      "lastmod": "2026-04-30T23:23:40.818Z",
+      "name": "TTS Bugis - Barru Dialect: Language and Identity",
+      "slug": "tts-bugis-barru-dialect-language-and-ide-104404ad"
+    },
+    {
+      "id": "cmom43ixg00hao00731e0o0jg",
+      "url": "https://mozilladatacollective.com/datasets/cmom43ixg00hao00731e0o0jg",
+      "lastmod": "2026-04-30T23:25:25.012Z",
+      "name": "TWB Parallel Sentence kits - Hausa (30k)",
+      "slug": "twb-parallel-sentence-kits-hausa-30k-e8236719"
+    },
+    {
+      "id": "cmonjhxee01ako007kohpbg34",
+      "url": "https://mozilladatacollective.com/datasets/cmonjhxee01ako007kohpbg34",
+      "lastmod": "2026-05-01T23:24:17.366Z",
+      "name": "The LJSpeech Dataset",
+      "slug": "the-ljspeech-dataset-f9cb12b9"
+    },
+    {
+      "id": "cmoskkop100vjnu0775hclbd1",
+      "url": "https://mozilladatacollective.com/datasets/cmoskkop100vjnu0775hclbd1",
+      "lastmod": "2026-05-05T11:53:16.549Z",
+      "name": "TWB Parallel Sentence kits - Kanuri (5k)",
+      "slug": "twb-parallel-sentence-kits-kanuri-5k-01f0b513"
+    },
+    {
+      "id": "cmoskmbpj00vxnu07w8lu7rrk",
+      "url": "https://mozilladatacollective.com/datasets/cmoskmbpj00vxnu07w8lu7rrk",
+      "lastmod": "2026-05-05T11:54:33.032Z",
+      "name": "TWB Parallel Sentence kits - Tigrinya (5k)",
+      "slug": "twb-parallel-sentence-kits-tigrinya-5k-ac8c5166"
+    },
+    {
+      "id": "cmoskn32a00vhmj07prz6k5ng",
+      "url": "https://mozilladatacollective.com/datasets/cmoskn32a00vhmj07prz6k5ng",
+      "lastmod": "2026-05-05T11:55:08.483Z",
+      "name": "TWB Parallel Sentence kits - Nande (15k)",
+      "slug": "twb-parallel-sentence-kits-nande-15k-3f1997fa"
+    },
+    {
+      "id": "cmosknxap00vlmj07kf6mugba",
+      "url": "https://mozilladatacollective.com/datasets/cmosknxap00vlmj07kf6mugba",
+      "lastmod": "2026-05-05T11:55:47.665Z",
+      "name": "TWB Parallel Sentence kits - Lingala (5k)",
+      "slug": "twb-parallel-sentence-kits-lingala-5k-b99f63f1"
+    },
+    {
+      "id": "cmoskwsac00w3nu07b1nydlfb",
+      "url": "https://mozilladatacollective.com/datasets/cmoskwsac00w3nu07b1nydlfb",
+      "lastmod": "2026-05-05T12:02:41.076Z",
+      "name": "TWB Parallel Sentence kits - Rohingya (5k)",
+      "slug": "twb-parallel-sentence-kits-rohingya-5k-8fb312c7"
+    },
+    {
+      "id": "cmoskxn8k00vtmj07ubxtu0f2",
+      "url": "https://mozilladatacollective.com/datasets/cmoskxn8k00vtmj07ubxtu0f2",
+      "lastmod": "2026-05-05T12:03:21.188Z",
+      "name": "TWB Parallel Sentence kits - Swahili (5k)",
+      "slug": "twb-parallel-sentence-kits-swahili-5k-c7a7d116"
+    },
+    {
+      "id": "cmosl07v400w9nu07g3puif2t",
+      "url": "https://mozilladatacollective.com/datasets/cmosl07v400w9nu07g3puif2t",
+      "lastmod": "2026-05-05T12:05:21.232Z",
+      "name": "TWB Parallel Sentence kits - Congo Swahili (25k)",
+      "slug": "twb-parallel-sentence-kits-congo-swahili-a57afa4e"
+    },
+    {
+      "id": "cmosu28090085ny07x7d8ezoq",
+      "url": "https://mozilladatacollective.com/datasets/cmosu28090085ny07x7d8ezoq",
+      "lastmod": "2026-05-05T16:18:51.273Z",
+      "name": "CoVoST 2 English-Slovenian",
+      "slug": "covost-2-english-slovenian-90922cfa"
+    },
+    {
+      "id": "cmou2fdyx015fl307bux4c4gi",
+      "url": "https://mozilladatacollective.com/datasets/cmou2fdyx015fl307bux4c4gi",
+      "lastmod": "2026-05-06T13:00:48.633Z",
+      "name": "CoVoST 2 German-English",
+      "slug": "covost-2-german-english-73346f8c"
+    },
+    {
+      "id": "cmovv4qrj00hcmk07yuaxyvzv",
+      "url": "https://mozilladatacollective.com/datasets/cmovv4qrj00hcmk07yuaxyvzv",
+      "lastmod": "2026-05-07T19:12:07.039Z",
+      "name": "VoxForge - Bulgarian",
+      "slug": "voxforge-bulgarian-ec0c027c"
+    },
+    {
+      "id": "cmowvw8oq011hnn07re4l1vi3",
+      "url": "https://mozilladatacollective.com/datasets/cmowvw8oq011hnn07re4l1vi3",
+      "lastmod": "2026-05-15T16:28:54.006Z",
+      "name": "Public GenAI Vulnerability Disclosures",
+      "slug": "public-genai-vulnerability-disclosures-191f8631"
+    },
+    {
+      "id": "cmowvzwts011lnn078f3719jg",
+      "url": "https://mozilladatacollective.com/datasets/cmowvzwts011lnn078f3719jg",
+      "lastmod": "2026-05-08T12:24:07.408Z",
+      "name": "VoxForge - Catalan",
+      "slug": "voxforge-catalan-584b847f"
+    },
+    {
+      "id": "cmowwx2gq012hnn073izoljfz",
+      "url": "https://mozilladatacollective.com/datasets/cmowwx2gq012hnn073izoljfz",
+      "lastmod": "2026-05-08T13:53:56.447Z",
+      "name": "VoxForge - Greek",
+      "slug": "voxforge-greek-c60a6c65"
+    },
+    {
+      "id": "cmoxa7ndg01e1ny07zpwgtu22",
+      "url": "https://mozilladatacollective.com/datasets/cmoxa7ndg01e1ny07zpwgtu22",
+      "lastmod": "2026-05-08T19:02:03.028Z",
+      "name": "VoxForge - German",
+      "slug": "voxforge-german-e1fb65cf"
+    },
+    {
+      "id": "cmoyfkei701eynt07ut2uoiif",
+      "url": "https://mozilladatacollective.com/datasets/cmoyfkei701eynt07ut2uoiif",
+      "lastmod": "2026-05-09T14:19:42.319Z",
+      "name": "CoVoST 2 Arabic-English",
+      "slug": "covost-2-arabic-english-fa9094ec"
+    },
+    {
+      "id": "cmoyrppho01kvnt075pt9pj5x",
+      "url": "https://mozilladatacollective.com/datasets/cmoyrppho01kvnt075pt9pj5x",
+      "lastmod": "2026-05-09T19:59:45.228Z",
+      "name": "CoVoST 2 Welsh - English",
+      "slug": "covost-2-welsh-english-950a874e"
+    },
+    {
+      "id": "cmoz2e4oo01n7nt079rbo308t",
+      "url": "https://mozilladatacollective.com/datasets/cmoz2e4oo01n7nt079rbo308t",
+      "lastmod": "2026-05-10T00:58:40.824Z",
+      "name": "CoVoST 2 Catalan - English",
+      "slug": "covost-2-catalan-english-9482a255"
+    },
+    {
+      "id": "cmp0f3tib02a4mp07ch5tr808",
+      "url": "https://mozilladatacollective.com/datasets/cmp0f3tib02a4mp07ch5tr808",
+      "lastmod": "2026-05-10T23:42:20.963Z",
+      "name": "Adamawa Fulfulde-TTS-Dataset",
+      "slug": "adamawa-fulfulde-tts-dataset-5ddc826a"
+    },
+    {
+      "id": "cmp0f5u2n02a8mp0771ryoly8",
+      "url": "https://mozilladatacollective.com/datasets/cmp0f5u2n02a8mp0771ryoly8",
+      "lastmod": "2026-05-10T23:43:55.007Z",
+      "name": "Igbo-TTS-Dataset",
+      "slug": "igbo-tts-dataset-7a84d611"
+    },
+    {
+      "id": "cmp1ma8ty007eo607klisho1a",
+      "url": "https://mozilladatacollective.com/datasets/cmp1ma8ty007eo607klisho1a",
+      "lastmod": "2026-05-11T20:56:04.288Z",
+      "name": "Efik-TTS-Dataset",
+      "slug": "efik-tts-dataset-aaf44558"
+    },
+    {
+      "id": "cmp2ggvbx00lvmp07i0xqlntr",
+      "url": "https://mozilladatacollective.com/datasets/cmp2ggvbx00lvmp07i0xqlntr",
+      "lastmod": "2026-05-12T09:56:01.821Z",
+      "name": "VoxForge - Spanish",
+      "slug": "voxforge-spanish-bb2d65e3"
+    },
+    {
+      "id": "cmp2ghayo00lzmp07eh8fssxm",
+      "url": "https://mozilladatacollective.com/datasets/cmp2ghayo00lzmp07eh8fssxm",
+      "lastmod": "2026-05-12T09:56:22.080Z",
+      "name": "VoxForge - Italian",
+      "slug": "voxforge-italian-343f6f23"
+    },
+    {
+      "id": "cmp2goc8g00m5mp07dst6o64k",
+      "url": "https://mozilladatacollective.com/datasets/cmp2goc8g00m5mp07dst6o64k",
+      "lastmod": "2026-05-12T10:01:50.320Z",
+      "name": "VoxForge - Dutch",
+      "slug": "voxforge-dutch-d22ee3f5"
+    },
+    {
+      "id": "cmp2gp36800m9mp072hodigy6",
+      "url": "https://mozilladatacollective.com/datasets/cmp2gp36800m9mp072hodigy6",
+      "lastmod": "2026-05-12T10:02:25.233Z",
+      "name": "VoxForge - Portuguese",
+      "slug": "voxforge-portuguese-47dee4c5"
+    },
+    {
+      "id": "cmp2h0m5p00msmp07okqm2fzz",
+      "url": "https://mozilladatacollective.com/datasets/cmp2h0m5p00msmp07okqm2fzz",
+      "lastmod": "2026-05-12T10:11:23.054Z",
+      "name": "VoxForge - Croatian",
+      "slug": "voxforge-croatian-a709471b"
+    },
+    {
+      "id": "cmp2h0vtl00mwmp07ra6g2pre",
+      "url": "https://mozilladatacollective.com/datasets/cmp2h0vtl00mwmp07ra6g2pre",
+      "lastmod": "2026-05-12T10:11:35.577Z",
+      "name": "VoxForge - French",
+      "slug": "voxforge-french-ef64ffcd"
+    },
+    {
+      "id": "cmp2h1iop00krno07itbxve77",
+      "url": "https://mozilladatacollective.com/datasets/cmp2h1iop00krno07itbxve77",
+      "lastmod": "2026-05-12T10:12:05.210Z",
+      "name": "VoxForge - Persian",
+      "slug": "voxforge-persian-dfd6f01b"
+    },
+    {
+      "id": "cmp2h1qmo00kvno072hav0upy",
+      "url": "https://mozilladatacollective.com/datasets/cmp2h1qmo00kvno072hav0upy",
+      "lastmod": "2026-05-12T10:12:15.504Z",
+      "name": "VoxForge - Hebrew",
+      "slug": "voxforge-hebrew-c648648e"
+    },
+    {
+      "id": "cmp2h1zvg00n0mp07wrjxow3l",
+      "url": "https://mozilladatacollective.com/datasets/cmp2h1zvg00n0mp07wrjxow3l",
+      "lastmod": "2026-05-12T10:12:27.485Z",
+      "name": "VoxForge - Russian",
+      "slug": "voxforge-russian-9a8495d3"
+    },
+    {
+      "id": "cmp2h28f400n4mp07aeka38ca",
+      "url": "https://mozilladatacollective.com/datasets/cmp2h28f400n4mp07aeka38ca",
+      "lastmod": "2026-05-12T10:12:38.560Z",
+      "name": "VoxForge - Ukrainian",
+      "slug": "voxforge-ukrainian-6fdcdf1b"
+    },
+    {
+      "id": "cmp2h2jnt00n8mp07lkr11xru",
+      "url": "https://mozilladatacollective.com/datasets/cmp2h2jnt00n8mp07lkr11xru",
+      "lastmod": "2026-05-12T10:12:53.129Z",
+      "name": "VoxForge - Albanian",
+      "slug": "voxforge-albanian-1bd2e28b"
+    },
+    {
+      "id": "cmp2h2som00kzno07n8lwesrr",
+      "url": "https://mozilladatacollective.com/datasets/cmp2h2som00kzno07n8lwesrr",
+      "lastmod": "2026-05-12T10:13:04.822Z",
+      "name": "VoxForge - Turkish",
+      "slug": "voxforge-turkish-788023eb"
+    },
+    {
+      "id": "cmp2hgs2j00nsmp07q9s6g3m0",
+      "url": "https://mozilladatacollective.com/datasets/cmp2hgs2j00nsmp07q9s6g3m0",
+      "lastmod": "2026-05-12T10:23:57.212Z",
+      "name": "Less is More Corpus",
+      "slug": "less-is-more-corpus-e6dc1838"
+    },
+    {
+      "id": "cmp3rmip800ozo30799h7wp6g",
+      "url": "https://mozilladatacollective.com/datasets/cmp3rmip800ozo30799h7wp6g",
+      "lastmod": "2026-05-13T07:56:07.341Z",
+      "name": "Friulan TTS - female voice",
+      "slug": "friulan-tts-female-voice-73e62046"
+    },
+    {
+      "id": "cmp4htii700glmp07syfvo010",
+      "url": "https://mozilladatacollective.com/datasets/cmp4htii700glmp07syfvo010",
+      "lastmod": "2026-05-14T09:11:59.102Z",
+      "name": "Bangladesh Traffic Signs Dataset",
+      "slug": "bangladesh-traffic-signs-dataset-ea063219"
+    },
+    {
+      "id": "cmp4htkri00hao007kbrbew2h",
+      "url": "https://mozilladatacollective.com/datasets/cmp4htkri00hao007kbrbew2h",
+      "lastmod": "2026-05-14T06:30:53.230Z",
+      "name": "India Traffic Signs Dataset",
+      "slug": "india-traffic-signs-dataset-b74e4eac"
+    },
+    {
+      "id": "cmp4htnf000gpmp07shg6l5v9",
+      "url": "https://mozilladatacollective.com/datasets/cmp4htnf000gpmp07shg6l5v9",
+      "lastmod": "2026-05-14T08:08:25.874Z",
+      "name": "Pakistan Traffic Signs Dataset",
+      "slug": "pakistan-traffic-signs-dataset-62e0f6c7"
+    },
+    {
+      "id": "cmp4ijosh00h9mp078ggnaatm",
+      "url": "https://mozilladatacollective.com/datasets/cmp4ijosh00h9mp078ggnaatm",
+      "lastmod": "2026-05-13T20:51:01.945Z",
+      "name": "ReRooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants",
+      "slug": "rerooted-speech-corpus-of-testimonials-f-fda6d7da"
+    },
+    {
+      "id": "cmp5b9e10014mo007qkcmck75",
+      "url": "https://mozilladatacollective.com/datasets/cmp5b9e10014mo007qkcmck75",
+      "lastmod": "2026-05-14T09:53:33.252Z",
+      "name": "CoVoST 2 English - Arabic",
+      "slug": "covost-2-english-arabic-1ee86ec6"
+    },
+    {
+      "id": "cmp5c60at015po007bbql6h3s",
+      "url": "https://mozilladatacollective.com/datasets/cmp5c60at015po007bbql6h3s",
+      "lastmod": "2026-05-14T10:18:55.109Z",
+      "name": " CommonLID",
+      "slug": "commonlid-622f6f75"
+    },
+    {
+      "id": "cmp5hjood01comp07fxt1fb74",
+      "url": "https://mozilladatacollective.com/datasets/cmp5hjood01comp07fxt1fb74",
+      "lastmod": "2026-05-14T12:49:31.309Z",
+      "name": "CoVoST 2 Indonesian - English",
+      "slug": "covost-2-indonesian-english-f070340a"
+    },
+    {
+      "id": "cmp5ht3jx01dno007i1opx2rj",
+      "url": "https://mozilladatacollective.com/datasets/cmp5ht3jx01dno007i1opx2rj",
+      "lastmod": "2026-05-14T12:56:50.493Z",
+      "name": "TWB Voice 1.0 - Shuwa Arabic",
+      "slug": "twb-voice-1-0-shuwa-arabic-aef30cee"
+    },
+    {
+      "id": "cmp5k3fsy01gmmp07w2kaous5",
+      "url": "https://mozilladatacollective.com/datasets/cmp5k3fsy01gmmp07w2kaous5",
+      "lastmod": "2026-05-14T14:00:52.162Z",
+      "name": "CoVoST 2 Italian - English",
+      "slug": "covost-2-italian-english-ea425364"
+    },
+    {
+      "id": "cmp5kv8j101hvo007hjamlqet",
+      "url": "https://mozilladatacollective.com/datasets/cmp5kv8j101hvo007hjamlqet",
+      "lastmod": "2026-05-14T14:22:29.101Z",
+      "name": "CoVoST 2 Chinese (China) - English",
+      "slug": "covost-2-chinese-china-english-13b8c8d5"
+    },
+    {
+      "id": "cmp5kw3o301hcmp07d8dgejzx",
+      "url": "https://mozilladatacollective.com/datasets/cmp5kw3o301hcmp07d8dgejzx",
+      "lastmod": "2026-05-14T14:23:09.459Z",
+      "name": "CoVoST 2 Persian - English",
+      "slug": "covost-2-persian-english-8d6ffcb0"
+    },
+    {
+      "id": "cmp6qb2al02inmp07dlajrjke",
+      "url": "https://mozilladatacollective.com/datasets/cmp6qb2al02inmp07dlajrjke",
+      "lastmod": "2026-05-15T09:42:31.774Z",
+      "name": "śmigiel - machine generated text detection",
+      "slug": "migiel-machine-generated-text-detection-316501a5"
+    },
+    {
+      "id": "cmp704ive02qymp075orb8ok4",
+      "url": "https://mozilladatacollective.com/datasets/cmp704ive02qymp075orb8ok4",
+      "lastmod": "2026-05-15T14:17:22.827Z",
+      "name": "CoVoST 2 Spanish - English",
+      "slug": "covost-2-spanish-english-2a8f8b6f"
+    },
+    {
+      "id": "cmp72jw8l02sgo007cvzf77lu",
+      "url": "https://mozilladatacollective.com/datasets/cmp72jw8l02sgo007cvzf77lu",
+      "lastmod": "2026-05-15T15:25:19.222Z",
+      "name": "CoVoST 2 Portuguese - English",
+      "slug": "covost-2-portuguese-english-a257c53f"
+    },
+    {
+      "id": "cmp73gzl502twmp07g6f1bkrx",
+      "url": "https://mozilladatacollective.com/datasets/cmp73gzl502twmp07g6f1bkrx",
+      "lastmod": "2026-05-15T15:51:03.209Z",
+      "name": "CoVoST 2 Dutch - English",
+      "slug": "covost-2-dutch-english-fb6f075a"
+    },
+    {
+      "id": "cmp73hbl502swo007eb7ealfq",
+      "url": "https://mozilladatacollective.com/datasets/cmp73hbl502swo007eb7ealfq",
+      "lastmod": "2026-05-15T15:51:18.762Z",
+      "name": "CoVoST 2 Japanese - English",
+      "slug": "covost-2-japanese-english-3f21d5a3"
+    },
+    {
+      "id": "cmp74k47s02u2mp07zr9zwhpt",
+      "url": "https://mozilladatacollective.com/datasets/cmp74k47s02u2mp07zr9zwhpt",
+      "lastmod": "2026-05-15T16:21:28.793Z",
+      "name": "TWB Voice 1.0 - Hausa",
+      "slug": "twb-voice-1-0-hausa-54c18f4b"
+    },
+    {
+      "id": "cmp753p4902t8o007nejqkhlo",
+      "url": "https://mozilladatacollective.com/datasets/cmp753p4902t8o007nejqkhlo",
+      "lastmod": "2026-05-15T16:36:42.346Z",
+      "name": "CoVoST 2 Tamil - English",
+      "slug": "covost-2-tamil-english-d22da972"
+    },
+    {
+      "id": "cmp77rkiv02wao007n5ut2oxr",
+      "url": "https://mozilladatacollective.com/datasets/cmp77rkiv02wao007n5ut2oxr",
+      "lastmod": "2026-05-15T17:51:15.367Z",
+      "name": "TWB Voice 1.0 - Kanuri",
+      "slug": "twb-voice-1-0-kanuri-0fc8d419"
+    },
+    {
+      "id": "cmp77t2kg02weo007s6hkkzec",
+      "url": "https://mozilladatacollective.com/datasets/cmp77t2kg02weo007s6hkkzec",
+      "lastmod": "2026-05-15T17:52:25.408Z",
+      "name": "CoVoST 2 Latvian - English",
+      "slug": "covost-2-latvian-english-cdee880d"
+    },
+    {
+      "id": "cmp77tlx802w5mp07dwv1rsq0",
+      "url": "https://mozilladatacollective.com/datasets/cmp77tlx802w5mp07dwv1rsq0",
+      "lastmod": "2026-05-15T17:52:50.493Z",
+      "name": "CoVoST 2 Turkish - English",
+      "slug": "covost-2-turkish-english-20293be5"
+    },
+    {
+      "id": "cmp77ufsd02w9mp07q65muzr3",
+      "url": "https://mozilladatacollective.com/datasets/cmp77ufsd02w9mp07q65muzr3",
+      "lastmod": "2026-05-15T17:53:29.197Z",
+      "name": "CoVoST 2 Mongolian - English",
+      "slug": "covost-2-mongolian-english-50ef62cd"
+    },
+    {
+      "id": "cmp77wrdm02wdmp071z00ldk3",
+      "url": "https://mozilladatacollective.com/datasets/cmp77wrdm02wdmp071z00ldk3",
+      "lastmod": "2026-05-20T17:22:03.843Z",
+      "name": "CoVoST 2 Estonian - English",
+      "slug": "covost-2-estonian-english-21b7c086"
+    },
+    {
+      "id": "cmp787jb102whmp07hbogpvaw",
+      "url": "https://mozilladatacollective.com/datasets/cmp787jb102whmp07hbogpvaw",
+      "lastmod": "2026-05-15T18:03:40.285Z",
+      "name": "CoVoST 2 Russian - English",
+      "slug": "covost-2-russian-english-46e2d400"
+    },
+    {
+      "id": "cmp8vqj5h03m0o007qu438s4a",
+      "url": "https://mozilladatacollective.com/datasets/cmp8vqj5h03m0o007qu438s4a",
+      "lastmod": "2026-05-16T21:50:03.893Z",
+      "name": "Gujarati News and Blogs Corpus",
+      "slug": "gujarati-news-and-blogs-corpus-12ca4558"
+    },
+    {
+      "id": "cmp8w3owe03phmp076hciar56",
+      "url": "https://mozilladatacollective.com/datasets/cmp8w3owe03phmp076hciar56",
+      "lastmod": "2026-05-16T22:00:17.870Z",
+      "name": "Multispeaker Hindi ASR Dataset",
+      "slug": "multispeaker-hindi-asr-dataset-5450a717"
+    },
+    {
+      "id": "cmpbfyxlc002nmj07k67e3ok2",
+      "url": "https://mozilladatacollective.com/datasets/cmpbfyxlc002nmj07k67e3ok2",
+      "lastmod": "2026-05-18T16:52:00.528Z",
+      "name": "CoVoST 2 French - English",
+      "slug": "covost-2-french-english-d459549b"
+    },
+    {
+      "id": "cmpbmhj4i0067nw07tk46v2jp",
+      "url": "https://mozilladatacollective.com/datasets/cmpbmhj4i0067nw07tk46v2jp",
+      "lastmod": "2026-05-18T19:54:25.938Z",
+      "name": "Synthetic Ladino Parallel Corpus",
+      "slug": "synthetic-ladino-parallel-corpus-c1dbf629"
+    },
+    {
+      "id": "cmpcp7cl800ydmg077wte52mv",
+      "url": "https://mozilladatacollective.com/datasets/cmpcp7cl800ydmg077wte52mv",
+      "lastmod": "2026-05-19T14:32:20.021Z",
+      "name": "LegendNER-ID (Javanese)",
+      "slug": "legendner-id-javanese-62d5a93d"
+    },
+    {
+      "id": "cmpdy07op00l1nu07lucrntkj",
+      "url": "https://mozilladatacollective.com/datasets/cmpdy07op00l1nu07lucrntkj",
+      "lastmod": "2026-05-20T10:52:25.706Z",
+      "name": "Khmer ASR Cultural Dataset (Version 3 - Part 4)",
+      "slug": "khmer-asr-cultural-dataset-version-3-par-e346427c"
+    },
+    {
+      "id": "cmpdy0a9h00l5nu078u4y91x1",
+      "url": "https://mozilladatacollective.com/datasets/cmpdy0a9h00l5nu078u4y91x1",
+      "lastmod": "2026-05-20T10:52:29.045Z",
+      "name": "Khmer ASR Cultural Dataset (Version 3 - Part 3)",
+      "slug": "khmer-asr-cultural-dataset-version-3-par-1a7b086a"
+    },
+    {
+      "id": "cmpdy0e2c00lxnv071292ocxf",
+      "url": "https://mozilladatacollective.com/datasets/cmpdy0e2c00lxnv071292ocxf",
+      "lastmod": "2026-05-20T10:52:33.973Z",
+      "name": "Khmer ASR Cultural Dataset (Version 3 - Part 6)",
+      "slug": "khmer-asr-cultural-dataset-version-3-par-b089ab09"
+    },
+    {
+      "id": "cmpdy0icy00l9nu07zo5hl1m3",
+      "url": "https://mozilladatacollective.com/datasets/cmpdy0icy00l9nu07zo5hl1m3",
+      "lastmod": "2026-05-20T10:52:39.538Z",
+      "name": "Khmer ASR Cultural Dataset (Version 3 - Part 7)",
+      "slug": "khmer-asr-cultural-dataset-version-3-par-45a95fdf"
+    },
+    {
+      "id": "cmpdy0si400ldnu07rs6zwql4",
+      "url": "https://mozilladatacollective.com/datasets/cmpdy0si400ldnu07rs6zwql4",
+      "lastmod": "2026-05-20T10:52:52.684Z",
+      "name": "Khmer ASR Cultural Dataset (Version 3 - Part 1)",
+      "slug": "khmer-asr-cultural-dataset-version-3-par-500f679e"
+    },
+    {
+      "id": "cmpdy14ka00lhnu07yzk3ixyn",
+      "url": "https://mozilladatacollective.com/datasets/cmpdy14ka00lhnu07yzk3ixyn",
+      "lastmod": "2026-05-20T10:53:08.315Z",
+      "name": "Khmer ASR Cultural Dataset (Version 3 - Part 2)",
+      "slug": "khmer-asr-cultural-dataset-version-3-par-acc271d3"
+    },
+    {
+      "id": "cmpdy19nn00llnu07y94pzeu4",
+      "url": "https://mozilladatacollective.com/datasets/cmpdy19nn00llnu07y94pzeu4",
+      "lastmod": "2026-05-20T10:53:14.915Z",
+      "name": "Khmer ASR Cultural Dataset (Version 3 - Part 5)",
+      "slug": "khmer-asr-cultural-dataset-version-3-par-114b001c"
+    },
+    {
+      "id": "cmpdycv7k00m7nu07co3jmxt8",
+      "url": "https://mozilladatacollective.com/datasets/cmpdycv7k00m7nu07co3jmxt8",
+      "lastmod": "2026-05-20T11:02:16.064Z",
+      "name": "StackOverflow Knowledge Graph - C++",
+      "slug": "stackoverflow-knowledge-graph-c-481f3863"
+    },
+    {
+      "id": "cmpdyd5r500mbnu07ntygcv16",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyd5r500mbnu07ntygcv16",
+      "lastmod": "2026-05-20T11:02:29.730Z",
+      "name": "StackOverflow Knowledge Graph - SQL",
+      "slug": "stackoverflow-knowledge-graph-sql-673e0c2d"
+    },
+    {
+      "id": "cmpdydc4o00mfnu0761rbiv86",
+      "url": "https://mozilladatacollective.com/datasets/cmpdydc4o00mfnu0761rbiv86",
+      "lastmod": "2026-05-20T11:02:37.992Z",
+      "name": "StackOverflow Knowledge Graph - R",
+      "slug": "stackoverflow-knowledge-graph-r-7bf3af4d"
+    },
+    {
+      "id": "cmpdydl4400mbnv07rzc2sf56",
+      "url": "https://mozilladatacollective.com/datasets/cmpdydl4400mbnv07rzc2sf56",
+      "lastmod": "2026-05-20T11:02:49.636Z",
+      "name": "StackOverflow Knowledge Graph - Swift",
+      "slug": "stackoverflow-knowledge-graph-swift-d293d19d"
+    },
+    {
+      "id": "cmpdydrp600mfnv07yake2j40",
+      "url": "https://mozilladatacollective.com/datasets/cmpdydrp600mfnv07yake2j40",
+      "lastmod": "2026-05-20T11:02:58.170Z",
+      "name": "StackOverflow Knowledge Graph - Typescript",
+      "slug": "stackoverflow-knowledge-graph-typescript-1382bb80"
+    },
+    {
+      "id": "cmpdye1q800mnnu07toknnvps",
+      "url": "https://mozilladatacollective.com/datasets/cmpdye1q800mnnu07toknnvps",
+      "lastmod": "2026-05-20T11:03:11.168Z",
+      "name": "StackOverflow Knowledge Graph - Python",
+      "slug": "stackoverflow-knowledge-graph-python-9d067804"
+    },
+    {
+      "id": "cmpdye7xc00mjnv07ug7zhu9k",
+      "url": "https://mozilladatacollective.com/datasets/cmpdye7xc00mjnv07ug7zhu9k",
+      "lastmod": "2026-05-20T11:03:19.201Z",
+      "name": "StackOverflow Knowledge Graph - Assembly",
+      "slug": "stackoverflow-knowledge-graph-assembly-75835f5b"
+    },
+    {
+      "id": "cmpdyefi900mrnu076a7ge28i",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyefi900mrnu076a7ge28i",
+      "lastmod": "2026-05-20T11:03:29.025Z",
+      "name": "StackOverflow Knowledge Graph - Abap",
+      "slug": "stackoverflow-knowledge-graph-abap-6709aa4e"
+    },
+    {
+      "id": "cmpdyeljq00mvnu07y0s26kw5",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyeljq00mvnu07y0s26kw5",
+      "lastmod": "2026-05-20T11:03:36.854Z",
+      "name": "StackOverflow Knowledge Graph - .Net",
+      "slug": "stackoverflow-knowledge-graph-net-a70d45f5"
+    },
+    {
+      "id": "cmpdyes6u00mnnv07wyjjzpgg",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyes6u00mnnv07wyjjzpgg",
+      "lastmod": "2026-05-20T11:03:45.462Z",
+      "name": "StackOverflow Knowledge Graph - Vb.Net",
+      "slug": "stackoverflow-knowledge-graph-vb-net-0c95c003"
+    },
+    {
+      "id": "cmpdyhlyw00mrnv07va1jwwko",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyhlyw00mrnv07va1jwwko",
+      "lastmod": "2026-05-20T11:05:57.369Z",
+      "name": "StackOverflow Knowledge Graph - Shell",
+      "slug": "stackoverflow-knowledge-graph-shell-d49f8202"
+    },
+    {
+      "id": "cmpdyhww200n5nu07ez4y7ppw",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyhww200n5nu07ez4y7ppw",
+      "lastmod": "2026-05-20T11:06:11.522Z",
+      "name": "StackOverflow Knowledge Graph - Scala",
+      "slug": "stackoverflow-knowledge-graph-scala-8b0961f0"
+    },
+    {
+      "id": "cmpdyi6wl00mvnv077tm2mqdf",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyi6wl00mvnv077tm2mqdf",
+      "lastmod": "2026-05-20T11:06:24.501Z",
+      "name": "StackOverflow Knowledge Graph - Rust",
+      "slug": "stackoverflow-knowledge-graph-rust-53e8b07a"
+    },
+    {
+      "id": "cmpdyjegk00ndnu07rq7ai8g7",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyjegk00ndnu07rq7ai8g7",
+      "lastmod": "2026-05-20T11:07:20.949Z",
+      "name": "StackOverflow Knowledge Graph - Ruby",
+      "slug": "stackoverflow-knowledge-graph-ruby-bfd5a264"
+    },
+    {
+      "id": "cmpdyjnp900n1nv079ccqu2x3",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyjnp900n1nv079ccqu2x3",
+      "lastmod": "2026-05-20T11:07:32.926Z",
+      "name": "StackOverflow Knowledge Graph - Prolog",
+      "slug": "stackoverflow-knowledge-graph-prolog-4ffc2305"
+    },
+    {
+      "id": "cmpdyjvuj00nhnu07sbmm4giq",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyjvuj00nhnu07sbmm4giq",
+      "lastmod": "2026-05-20T11:07:43.484Z",
+      "name": "StackOverflow Knowledge Graph - Powershell",
+      "slug": "stackoverflow-knowledge-graph-powershell-657136ed"
+    },
+    {
+      "id": "cmpdyk3ap00n5nv078lcz7evy",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyk3ap00n5nv078lcz7evy",
+      "lastmod": "2026-05-20T11:07:53.137Z",
+      "name": "StackOverflow Knowledge Graph - PHP",
+      "slug": "stackoverflow-knowledge-graph-php-4c49b597"
+    },
+    {
+      "id": "cmpdyk9yd00n9nv073odu03go",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyk9yd00n9nv073odu03go",
+      "lastmod": "2026-05-20T11:08:01.765Z",
+      "name": "StackOverflow Knowledge Graph - Perl",
+      "slug": "stackoverflow-knowledge-graph-perl-22f520a0"
+    },
+    {
+      "id": "cmpdykii200ndnv07wkw14oqa",
+      "url": "https://mozilladatacollective.com/datasets/cmpdykii200ndnv07wkw14oqa",
+      "lastmod": "2026-05-20T11:08:12.842Z",
+      "name": "StackOverflow Knowledge Graph - Objective-C",
+      "slug": "stackoverflow-knowledge-graph-objective-4911527d"
+    },
+    {
+      "id": "cmpdyknrh00nhnv07ohqk1hrc",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyknrh00nhnv07ohqk1hrc",
+      "lastmod": "2026-05-20T11:08:19.661Z",
+      "name": "StackOverflow Knowledge Graph - Matlab",
+      "slug": "stackoverflow-knowledge-graph-matlab-8950eb8f"
+    },
+    {
+      "id": "cmpdykw5h00nlnu079ty86xbw",
+      "url": "https://mozilladatacollective.com/datasets/cmpdykw5h00nlnu079ty86xbw",
+      "lastmod": "2026-05-20T11:08:30.534Z",
+      "name": "StackOverflow Knowledge Graph - LUA",
+      "slug": "stackoverflow-knowledge-graph-lua-794be389"
+    },
+    {
+      "id": "cmpdyl2wk00npnu0727nrkvfk",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyl2wk00npnu0727nrkvfk",
+      "lastmod": "2026-05-20T11:08:39.284Z",
+      "name": "StackOverflow Knowledge Graph - Lisp",
+      "slug": "stackoverflow-knowledge-graph-lisp-7b767ed8"
+    },
+    {
+      "id": "cmpdyl8p800ntnu07od7r1u51",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyl8p800ntnu07od7r1u51",
+      "lastmod": "2026-05-20T11:08:46.796Z",
+      "name": "StackOverflow Knowledge Graph - Kotlin",
+      "slug": "stackoverflow-knowledge-graph-kotlin-acceeb08"
+    },
+    {
+      "id": "cmpdylr4p00nxnu07j6vnqwl6",
+      "url": "https://mozilladatacollective.com/datasets/cmpdylr4p00nxnu07j6vnqwl6",
+      "lastmod": "2026-05-20T11:09:10.681Z",
+      "name": "StackOverflow Knowledge Graph - Julia",
+      "slug": "stackoverflow-knowledge-graph-julia-98a8d48b"
+    },
+    {
+      "id": "cmpdylxq900nlnv07sobvszik",
+      "url": "https://mozilladatacollective.com/datasets/cmpdylxq900nlnv07sobvszik",
+      "lastmod": "2026-05-20T11:09:19.233Z",
+      "name": "StackOverflow Knowledge Graph - Javascript",
+      "slug": "stackoverflow-knowledge-graph-javascript-5a825980"
+    },
+    {
+      "id": "cmpdym5uw00o1nu071kqpz3vw",
+      "url": "https://mozilladatacollective.com/datasets/cmpdym5uw00o1nu071kqpz3vw",
+      "lastmod": "2026-05-20T11:09:29.768Z",
+      "name": "StackOverflow Knowledge Graph - Java",
+      "slug": "stackoverflow-knowledge-graph-java-5faf4127"
+    },
+    {
+      "id": "cmpdymcul00npnv07amwfj0zq",
+      "url": "https://mozilladatacollective.com/datasets/cmpdymcul00npnv07amwfj0zq",
+      "lastmod": "2026-05-20T11:09:38.830Z",
+      "name": "StackOverflow Knowledge Graph - Html",
+      "slug": "stackoverflow-knowledge-graph-html-631a0572"
+    },
+    {
+      "id": "cmpdymk8t00ntnv07vw6h2zhr",
+      "url": "https://mozilladatacollective.com/datasets/cmpdymk8t00ntnv07vw6h2zhr",
+      "lastmod": "2026-05-20T11:09:48.414Z",
+      "name": "StackOverflow Knowledge Graph - Haskell",
+      "slug": "stackoverflow-knowledge-graph-haskell-88a066e1"
+    },
+    {
+      "id": "cmpdymqte00o9nu07mzkxwxfb",
+      "url": "https://mozilladatacollective.com/datasets/cmpdymqte00o9nu07mzkxwxfb",
+      "lastmod": "2026-05-20T11:09:56.930Z",
+      "name": "StackOverflow Knowledge Graph - GO",
+      "slug": "stackoverflow-knowledge-graph-go-86db6200"
+    },
+    {
+      "id": "cmpdymy7o00ofnu0743zb36hs",
+      "url": "https://mozilladatacollective.com/datasets/cmpdymy7o00ofnu0743zb36hs",
+      "lastmod": "2026-05-20T11:10:06.516Z",
+      "name": "StackOverflow Knowledge Graph - F#",
+      "slug": "stackoverflow-knowledge-graph-f-c1892b62"
+    },
+    {
+      "id": "cmpdyn3lc00ojnu07qfq4ff3h",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyn3lc00ojnu07qfq4ff3h",
+      "lastmod": "2026-05-20T11:10:13.488Z",
+      "name": "StackOverflow Knowledge Graph - Fortran",
+      "slug": "stackoverflow-knowledge-graph-fortran-8008b34e"
+    },
+    {
+      "id": "cmpdynb1g00onnu0783qgrvdr",
+      "url": "https://mozilladatacollective.com/datasets/cmpdynb1g00onnu0783qgrvdr",
+      "lastmod": "2026-05-20T11:10:23.140Z",
+      "name": "StackOverflow Knowledge Graph - Erlang",
+      "slug": "stackoverflow-knowledge-graph-erlang-9737bac5"
+    },
+    {
+      "id": "cmpdyng3300nxnv07p9nlq3na",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyng3300nxnv07p9nlq3na",
+      "lastmod": "2026-05-20T11:10:29.679Z",
+      "name": "StackOverflow Knowledge Graph - Elixir",
+      "slug": "stackoverflow-knowledge-graph-elixir-31c8ed69"
+    },
+    {
+      "id": "cmpdynmf900o1nv07s9a3fopl",
+      "url": "https://mozilladatacollective.com/datasets/cmpdynmf900o1nv07s9a3fopl",
+      "lastmod": "2026-05-20T11:10:37.894Z",
+      "name": "StackOverflow Knowledge Graph - Dart",
+      "slug": "stackoverflow-knowledge-graph-dart-771a870f"
+    },
+    {
+      "id": "cmpdyntcn00o5nv07wwkgz5x7",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyntcn00o5nv07wwkgz5x7",
+      "lastmod": "2026-05-20T11:10:46.871Z",
+      "name": "StackOverflow Knowledge Graph - CSS",
+      "slug": "stackoverflow-knowledge-graph-css-10d0c528"
+    },
+    {
+      "id": "cmpdynyzu00ornu074r3i2ndm",
+      "url": "https://mozilladatacollective.com/datasets/cmpdynyzu00ornu074r3i2ndm",
+      "lastmod": "2026-05-20T11:10:54.186Z",
+      "name": "StackOverflow Knowledge Graph - C#",
+      "slug": "stackoverflow-knowledge-graph-c-ea54d68b"
+    },
+    {
+      "id": "cmpdyo45100o9nv07np0uqmpm",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyo45100o9nv07np0uqmpm",
+      "lastmod": "2026-05-20T11:11:00.853Z",
+      "name": "StackOverflow Knowledge Graph - Cobol",
+      "slug": "stackoverflow-knowledge-graph-cobol-a668a3ae"
+    },
+    {
+      "id": "cmpdyoaa300ovnu07ruxpomwb",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyoaa300ovnu07ruxpomwb",
+      "lastmod": "2026-05-20T11:11:08.811Z",
+      "name": "StackOverflow Knowledge Graph - C",
+      "slug": "stackoverflow-knowledge-graph-c-0439fead"
+    },
+    {
+      "id": "cmpdyogk700ohnv07aasx1q4f",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyogk700ohnv07aasx1q4f",
+      "lastmod": "2026-05-20T11:11:16.951Z",
+      "name": "StackOverflow Knowledge Graph - Bash",
+      "slug": "stackoverflow-knowledge-graph-bash-b8655e8e"
+    },
+    {
+      "id": "cmpdyqe6u00oznu07c3scvwz0",
+      "url": "https://mozilladatacollective.com/datasets/cmpdyqe6u00oznu07c3scvwz0",
+      "lastmod": "2026-05-20T11:12:47.190Z",
+      "name": "AmaWar",
+      "slug": "amawar-edf1bbcb"
+    },
+    {
+      "id": "cmpe4rs9800r2nv07qpq8972c",
+      "url": "https://mozilladatacollective.com/datasets/cmpe4rs9800r2nv07qpq8972c",
+      "lastmod": "2026-05-20T14:01:49.772Z",
+      "name": "Multilingual Audio Visual Speech (Lip-Reading) Dataset",
+      "slug": "multilingual-audio-visual-speech-lip-rea-a0a8ae34"
+    },
+    {
+      "id": "cmpe4sp6100rznu07p61gmppd",
+      "url": "https://mozilladatacollective.com/datasets/cmpe4sp6100rznu07p61gmppd",
+      "lastmod": "2026-05-20T14:02:32.425Z",
+      "name": "Diboum-ALCAM-MultimodalDataset",
+      "slug": "diboum-alcam-multimodaldataset-ed5ca36e"
+    },
+    {
+      "id": "cmpedjr9y00wqnv07styloz0d",
+      "url": "https://mozilladatacollective.com/datasets/cmpedjr9y00wqnv07styloz0d",
+      "lastmod": "2026-05-20T18:07:31.798Z",
+      "name": "Ewondo-French Parallel Corpus",
+      "slug": "ewondo-french-parallel-corpus-4c300545"
     }
   ]
 }
