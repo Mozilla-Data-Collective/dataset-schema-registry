@@ -9,9 +9,9 @@ schema in this registry and which ones are still missing.
     [Home](index.md) for details.
 
 **Last updated:** 2026-05-21  
-**Total datasets in sitemap:** 631  
+**Total datasets in sitemap:** 755  
 **Schemas registered:** 396 ✅  
-**Schemas missing:** 235 ❌  
+**Schemas missing:** 359 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -23,7 +23,6 @@ schema in this registry and which ones are still missing.
 | `cmhp3uclf00ammk07nnd1m0bj` | Saraiki Quarterly Magazine Wasson Wehray Corpus | `saraiki-quarterly-magazine-wasson-wehray-cf997cbd` | [link](https://mozilladatacollective.com/datasets/cmhp3uclf00ammk07nnd1m0bj) | ❌ |
 | `cmhp42gmu00aumk07w7k22tbp` | Punjabi Literature Corpus | `punjabi-literature-corpus-57dd3461` | [link](https://mozilladatacollective.com/datasets/cmhp42gmu00aumk07w7k22tbp) | ❌ |
 | `cmhpahaib00d8mk07ely2m8wh` | Dimitar 1.0 | `dimitar-1-0-7e962aa3` | [link](https://mozilladatacollective.com/datasets/cmhpahaib00d8mk07ely2m8wh) | ✅ |
-| `cmhqebl6h001pmn071yvbkbyv` | Ewondo-French Parallel Corpus | `ewondo-french-parallel-corpus-3b21bcca` | [link](https://mozilladatacollective.com/datasets/cmhqebl6h001pmn071yvbkbyv) | ❌ |
 | `cmhqr666h009gmn07fpp0egby` | Speech Corpus of Armenian Question-Answer Dialogues | `speech-corpus-of-armenian-question-answe-8f1f9bf8` | [link](https://mozilladatacollective.com/datasets/cmhqr666h009gmn07fpp0egby) | ❌ |
 | `cmhrlxa1100h3mn07l6tpvqwz` | Mediamen Punjabi Literature Corpus | `mediamen-punjabi-literature-corpus-376bd5bd` | [link](https://mozilladatacollective.com/datasets/cmhrlxa1100h3mn07l6tpvqwz) | ❌ |
 | `cmhruaw9j00llkx07uxgm81a7` | Tamir Sindhi News Corpus | `tamir-sindhi-news-corpus-131764b5` | [link](https://mozilladatacollective.com/datasets/cmhruaw9j00llkx07uxgm81a7) | ❌ |
@@ -32,7 +31,6 @@ schema in this registry and which ones are still missing.
 | `cmi39dqwq08jnmn0739vleijb` | Chishti Sons Punjabi Literature Corpus | `chishti-sons-punjabi-literature-corpus-d29dffc4` | [link](https://mozilladatacollective.com/datasets/cmi39dqwq08jnmn0739vleijb) | ❌ |
 | `cmi39h0xr08jzmn07hij4fz40` | Baloch Publishers Saraiki Literature Corpus | `baloch-publishers-saraiki-literature-cor-aada1f27` | [link](https://mozilladatacollective.com/datasets/cmi39h0xr08jzmn07hij4fz40) | ❌ |
 | `cmi39jopd08k5mn0745umscb3` | Kaleem Magazine Urdu Corpus | `kaleem-magazine-urdu-corpus-b4723c2d` | [link](https://mozilladatacollective.com/datasets/cmi39jopd08k5mn0745umscb3) | ❌ |
-| `cmi4ma15g09wykx07xbolzpoz` | ReRooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants | `rerooted-speech-corpus-of-testimonials-f-dbc0bed1` | [link](https://mozilladatacollective.com/datasets/cmi4ma15g09wykx07xbolzpoz) | ❌ |
 | `cmi7mgbam000bnx074097g2yg` | Kerstin 1.0 | `kerstin-1-0-7fecd621` | [link](https://mozilladatacollective.com/datasets/cmi7mgbam000bnx074097g2yg) | ✅ |
 | `cmid3cyuy00gnnv07mo54373n` | Joe 1.0 | `joe-1-0-9fd746cc` | [link](https://mozilladatacollective.com/datasets/cmid3cyuy00gnnv07mo54373n) | ✅ |
 | `cmid4ekjn00b8nu07xonhj0x8` | Kathleen 1.0 | `kathleen-1-0-64d57c1a` | [link](https://mozilladatacollective.com/datasets/cmid4ekjn00b8nu07xonhj0x8) | ✅ |
@@ -51,7 +49,7 @@ schema in this registry and which ones are still missing.
 | `cmihtsewu023so207xot1iqqw` | TidyVoiceX_ASV | `tidyvoicex-asv-459e6087` | [link](https://mozilladatacollective.com/datasets/cmihtsewu023so207xot1iqqw) | ✅ |
 | `cmin6i6da001so707uwggcn7a` | Everyday Interactions in Ibọnọ and Obolo Languages | `everyday-interactions-in-ib-n-and-obolo-3df6264d` | [link](https://mozilladatacollective.com/datasets/cmin6i6da001so707uwggcn7a) | ❌ |
 | `cminc35no007no707hql26lzk` | Mozilla Common Voice Spontaneous Speech ASR Shared Task Test Data | `mozilla-common-voice-spontaneous-speech-361720da` | [link](https://mozilladatacollective.com/datasets/cminc35no007no707hql26lzk) | ❌ |
-| `cmind910n0096nx07gme9v3wj` | Basaa-ALCAM-MultimodalDataset | `basaa-alcam-multimodaldataset-ff5dfa3e` | [link](https://mozilladatacollective.com/datasets/cmind910n0096nx07gme9v3wj) | ❌ |
+| `cmind910n0096nx07gme9v3wj` | Basaa-ALCAM-MultimodalDataset | `basaa-alcam-multimodaldataset-c7616025` | [link](https://mozilladatacollective.com/datasets/cmind910n0096nx07gme9v3wj) | ❌ |
 | `cmiodqzui00wwnx07j549ek4c` | Atyap Afwan_: Preserving Tyap Through Community-Driven Speech Data | `atyap-afwan-preserving-tyap-through-comm-9aacf7e5` | [link](https://mozilladatacollective.com/datasets/cmiodqzui00wwnx07j549ek4c) | ❌ |
 | `cmiohwz2t011hnx07urwsx55i` | Documenting Ekpeye Folktales and Preserving Cultural Heritage | `documenting-ekpeye-folktales-and-preserv-7c19f90c` | [link](https://mozilladatacollective.com/datasets/cmiohwz2t011hnx07urwsx55i) | ❌ |
 | `cmiq9mdsg004sns07lrp0rypp` | Keblagh-e-Azergi Hazargi literature corpus | `keblagh-e-azergi-hazargi-literature-corp-4f645969` | [link](https://mozilladatacollective.com/datasets/cmiq9mdsg004sns07lrp0rypp) | ❌ |
@@ -77,22 +75,22 @@ schema in this registry and which ones are still missing.
 | `cmiuparkl01fpnv077wvg3hhm` | Darkman 1.0 | `darkman-1-0-6aa34c0a` | [link](https://mozilladatacollective.com/datasets/cmiuparkl01fpnv077wvg3hhm) | ✅ |
 | `cmiupazq801ftnv079bo1zu4h` | Faber 1.0 | `faber-1-0-674f3f44` | [link](https://mozilladatacollective.com/datasets/cmiupazq801ftnv079bo1zu4h) | ✅ |
 | `cmiupbboq01i4mf071clmd43n` | Flemishguy 1.0 | `flemishguy-1-0-81584e83` | [link](https://mozilladatacollective.com/datasets/cmiupbboq01i4mf071clmd43n) | ✅ |
-| `cmiv2rbv901mwmf07iyhv4pva` | Ewondo-Yanda-ALCAM-MultimodalDataset | `ewondo-yanda-alcam-multimodaldataset-63e52dd2` | [link](https://mozilladatacollective.com/datasets/cmiv2rbv901mwmf07iyhv4pva) | ❌ |
+| `cmiv2rbv901mwmf07iyhv4pva` | Ewondo-Yanda-ALCAM-MultimodalDataset | `ewondo-yanda-alcam-multimodaldataset-a8664188` | [link](https://mozilladatacollective.com/datasets/cmiv2rbv901mwmf07iyhv4pva) | ❌ |
 | `cmixehxof005dnr07yp80kluh` | Hussain Faizy Indus Kohistani Corpus  | `hussain-faizy-indus-kohistani-corpus-d828656f` | [link](https://mozilladatacollective.com/datasets/cmixehxof005dnr07yp80kluh) | ❌ |
 | `cmixmkzhk003vnw07a7d2pgns` | Multilingual Humanitarian Response Eval (MHRE) | `multilingual-humanitarian-response-eval-af95c65f` | [link](https://mozilladatacollective.com/datasets/cmixmkzhk003vnw07a7d2pgns) | ❌ |
-| `cmj0az3yz002enw07okqee8jr` | Kituba-TTS-Dataset | `kituba-tts-dataset-a199ea23` | [link](https://mozilladatacollective.com/datasets/cmj0az3yz002enw07okqee8jr) | ❌ |
-| `cmj0b1ymo002pnu076g7oseat` | Akoose-ALCAM-MultimodalDataset | `akoose-alcam-multimodaldataset-d068765f` | [link](https://mozilladatacollective.com/datasets/cmj0b1ymo002pnu076g7oseat) | ❌ |
-| `cmj0c3cpe003enw07zxujgdt1` | Yaka-TTS-Dataset | `yaka-tts-dataset-255887a5` | [link](https://mozilladatacollective.com/datasets/cmj0c3cpe003enw07zxujgdt1) | ❌ |
+| `cmj0az3yz002enw07okqee8jr` | Kituba-TTS-Dataset | `kituba-tts-dataset-77eadd98` | [link](https://mozilladatacollective.com/datasets/cmj0az3yz002enw07okqee8jr) | ❌ |
+| `cmj0b1ymo002pnu076g7oseat` | Akoose-ALCAM-MultimodalDataset | `akoose-alcam-multimodaldataset-817e7b0a` | [link](https://mozilladatacollective.com/datasets/cmj0b1ymo002pnu076g7oseat) | ❌ |
+| `cmj0c3cpe003enw07zxujgdt1` | Yaka-TTS-Dataset | `yaka-tts-dataset-2c1aefa2` | [link](https://mozilladatacollective.com/datasets/cmj0c3cpe003enw07zxujgdt1) | ❌ |
 | `cmj0e4p03003mnu077qbbn17z` | KyrgyzLLM-Bench: Kyrgyz LLM Evaluation Dataset | `kyrgyzllm-bench-kyrgyz-llm-evaluation-da-da590a9e` | [link](https://mozilladatacollective.com/datasets/cmj0e4p03003mnu077qbbn17z) | ❌ |
-| `cmj1gd6j400uvnw07ylungxjz` | Beembe-TTS-Dataset | `beembe-tts-dataset-9f6a5d06` | [link](https://mozilladatacollective.com/datasets/cmj1gd6j400uvnw07ylungxjz) | ❌ |
-| `cmj1gdg1s00vrnu07nmlrax7g` | Mbosi-TTS-Dataset | `mbosi-tts-dataset-2996fa93` | [link](https://mozilladatacollective.com/datasets/cmj1gdg1s00vrnu07nmlrax7g) | ❌ |
-| `cmj1qhr5n001wnv07hqcatq25` | Suundi-TTS-Dataset | `suundi-tts-dataset-2e258f40` | [link](https://mozilladatacollective.com/datasets/cmj1qhr5n001wnv07hqcatq25) | ❌ |
-| `cmj2rze7r00j5ny07uhs85go2` | Bomitaba-TTS-Dataset | `bomitaba-tts-dataset-28b2e589` | [link](https://mozilladatacollective.com/datasets/cmj2rze7r00j5ny07uhs85go2) | ✅ |
-| `cmj324gbx00p4ny078pi26kfz` | Laari-TTS-Dataset | `laari-tts-dataset-68805386` | [link](https://mozilladatacollective.com/datasets/cmj324gbx00p4ny078pi26kfz) | ❌ |
+| `cmj1gd6j400uvnw07ylungxjz` | Beembe-TTS-Dataset | `beembe-tts-dataset-72fc19b5` | [link](https://mozilladatacollective.com/datasets/cmj1gd6j400uvnw07ylungxjz) | ❌ |
+| `cmj1gdg1s00vrnu07nmlrax7g` | Mbosi-TTS-Dataset | `mbosi-tts-dataset-f438364d` | [link](https://mozilladatacollective.com/datasets/cmj1gdg1s00vrnu07nmlrax7g) | ❌ |
+| `cmj1qhr5n001wnv07hqcatq25` | Suundi-TTS-Dataset | `suundi-tts-dataset-719762cb` | [link](https://mozilladatacollective.com/datasets/cmj1qhr5n001wnv07hqcatq25) | ❌ |
+| `cmj2rze7r00j5ny07uhs85go2` | Bomitaba-TTS-Dataset | `bomitaba-tts-dataset-a4d7820e` | [link](https://mozilladatacollective.com/datasets/cmj2rze7r00j5ny07uhs85go2) | ✅ |
+| `cmj324gbx00p4ny078pi26kfz` | Laari-TTS-Dataset | `laari-tts-dataset-b7dec869` | [link](https://mozilladatacollective.com/datasets/cmj324gbx00p4ny078pi26kfz) | ❌ |
 | `cmj77njd701ljmb07m97pw1p3` | Central Kurdish TTS dataset 1.0 | `central-kurdish-tts-dataset-1-0-6b2a7b8e` | [link](https://mozilladatacollective.com/datasets/cmj77njd701ljmb07m97pw1p3) | ✅ |
 | `cmj8ddapc02c8mb07l6wyr882` | Mozilla Common Voice Text Language Identification dataset | `mozilla-common-voice-text-language-ident-b1b3aae0` | [link](https://mozilladatacollective.com/datasets/cmj8ddapc02c8mb07l6wyr882) | ❌ |
-| `cmj8fdiyv02egmb07m2wfdltm` | Bati-MultiDialectalASR-Dataset | `bati-multidialectalasr-dataset-2ae1f868` | [link](https://mozilladatacollective.com/datasets/cmj8fdiyv02egmb07m2wfdltm) | ❌ |
-| `cmj8g2kw902fwmb07hub8puq8` | Teke-Laali-TTS-Dataset | `teke-laali-tts-dataset-f69af854` | [link](https://mozilladatacollective.com/datasets/cmj8g2kw902fwmb07hub8puq8) | ❌ |
+| `cmj8fdiyv02egmb07m2wfdltm` | Bati-MultiDialectalASR-Dataset | `bati-multidialectalasr-dataset-fd003ed0` | [link](https://mozilladatacollective.com/datasets/cmj8fdiyv02egmb07m2wfdltm) | ❌ |
+| `cmj8g2kw902fwmb07hub8puq8` | Teke-Laali-TTS-Dataset | `teke-laali-tts-dataset-7e5379fe` | [link](https://mozilladatacollective.com/datasets/cmj8g2kw902fwmb07hub8puq8) | ❌ |
 | `cmj8mjbas02lmmk07glipgg79` | AI on the Frontline: Evaluating Large Language Models in Real-World Conflict Resolution | `ai-on-the-frontline-evaluating-large-lan-a2f0d099` | [link](https://mozilladatacollective.com/datasets/cmj8mjbas02lmmk07glipgg79) | ❌ |
 | `cmj8mkwot02ltmb07a8pyg3ne` | Improving AI Conflict Resolution Capacities: A Prompts-Based Evaluation | `improving-ai-conflict-resolution-capacit-3564750a` | [link](https://mozilladatacollective.com/datasets/cmj8mkwot02ltmb07a8pyg3ne) | ❌ |
 | `cmjcc6g9z06c7mk07yolcdyjr` | Archivo de la Comisionada María de los Ángeles Guzmán García (COTAI Nuevo León / InfoNL) | `archivo-de-la-comisionada-mar-a-de-los-n-86187fb6` | [link](https://mozilladatacollective.com/datasets/cmjcc6g9z06c7mk07yolcdyjr) | ❌ |
@@ -100,14 +98,14 @@ schema in this registry and which ones are still missing.
 | `cmjhe0xap09gamb078g9loi3q` | Surmiran Newspaper Corpus | `surmiran-newspaper-corpus-83df8952` | [link](https://mozilladatacollective.com/datasets/cmjhe0xap09gamb078g9loi3q) | ❌ |
 | `cmk19uruw39urmb07alqf493e` | Mada Narratives | `mada-narratives-26e080a9` | [link](https://mozilladatacollective.com/datasets/cmk19uruw39urmb07alqf493e) | ❌ |
 | `cmk1bb49f3htomk0760xg4cb6` | Balochi Academy Text Corpus | `balochi-academy-text-corpus-548677b7` | [link](https://mozilladatacollective.com/datasets/cmk1bb49f3htomk0760xg4cb6) | ❌ |
-| `cmk1bbz7o39v2mb07jjupvzud` | Ewondo_Mbida-Mbani_ALCAM-MultimodalDataset | `ewondo-mbida-mbani-alcam-multimodaldatas-d8d24c2f` | [link](https://mozilladatacollective.com/datasets/cmk1bbz7o39v2mb07jjupvzud) | ❌ |
-| `cmk1bdl0q39v6mb07gee6udp2` | Spoken-Congolese-French-Dataset | `spoken-congolese-french-dataset-a7614e44` | [link](https://mozilladatacollective.com/datasets/cmk1bdl0q39v6mb07gee6udp2) | ❌ |
+| `cmk1bbz7o39v2mb07jjupvzud` | Ewondo_Mbida-Mbani_ALCAM-MultimodalDataset | `ewondo-mbida-mbani-alcam-multimodaldatas-fc7095e8` | [link](https://mozilladatacollective.com/datasets/cmk1bbz7o39v2mb07jjupvzud) | ❌ |
+| `cmk1bdl0q39v6mb07gee6udp2` | Spoken-Congolese-French-Dataset | `spoken-congolese-french-dataset-29151a50` | [link](https://mozilladatacollective.com/datasets/cmk1bdl0q39v6mb07gee6udp2) | ❌ |
 | `cmk1bfsez3htsmk07xfzaf9oe` | Sindh Line Publishers | `sindh-line-publishers-ddac6f22` | [link](https://mozilladatacollective.com/datasets/cmk1bfsez3htsmk07xfzaf9oe) | ❌ |
 | `cmk1bhogs3htwmk07wo7o9p6y` | Multilingual Religious Parallel Corpus (Kaleem Art Press) | `multilingual-religious-parallel-corpus-k-1995af6e` | [link](https://mozilladatacollective.com/datasets/cmk1bhogs3htwmk07wo7o9p6y) | ❌ |
 | `cmk40plhc001lmd07kwixjls0` | Vallader Newspaper Corpus | `vallader-newspaper-corpus-ac66c889` | [link](https://mozilladatacollective.com/datasets/cmk40plhc001lmd07kwixjls0) | ❌ |
 | `cmk70opha02yxnt072patcjnd` | SI-NLI | `si-nli-5c926f32` | [link](https://mozilladatacollective.com/datasets/cmk70opha02yxnt072patcjnd) | ❌ |
 | `cmk719jvs02z1nt07tjswt52s` | Corpus of Panjebar Semangat Javanese-Language Magazine | `corpus-of-panjebar-semangat-javanese-lan-1fe6d08a` | [link](https://mozilladatacollective.com/datasets/cmk719jvs02z1nt07tjswt52s) | ❌ |
-| `cmkcy8in2004umo0775mye43g` | Khmer ASR Cultural Dataset | `khmer-asr-cultural-dataset-4e33cd05` | [link](https://mozilladatacollective.com/datasets/cmkcy8in2004umo0775mye43g) | ✅ |
+| `cmkcy8in2004umo0775mye43g` | Khmer ASR Cultural Dataset | `khmer-asr-cultural-dataset-7f42ad25` | [link](https://mozilladatacollective.com/datasets/cmkcy8in2004umo0775mye43g) | ✅ |
 | `cmkfm6xtw00k2nv07oakesnix` | DataTrust Africa: Speech Corpus of Public Radio Recordings from Northern Uganda | `datatrust-africa-speech-corpus-of-public-84630945` | [link](https://mozilladatacollective.com/datasets/cmkfm6xtw00k2nv07oakesnix) | ❌ |
 | `cmkfm9fbl00nto0070sdcrak2` | Effect AI Scripted Speech 1.0 - English | `effect-ai-scripted-speech-1-0-english-6feecf00` | [link](https://mozilladatacollective.com/datasets/cmkfm9fbl00nto0070sdcrak2) | ✅ |
 | `cmkh2stj6004mmj0751rn8vq6` | ddd-kenya-luhya-70hrs-asr | `ddd-kenya-luhya-70hrs-asr-6a0a25c7` | [link](https://mozilladatacollective.com/datasets/cmkh2stj6004mmj0751rn8vq6) | ❌ |
@@ -117,7 +115,7 @@ schema in this registry and which ones are still missing.
 | `cmklbq9qt006mnw077t9lqh89` | Compar:IA conversations | `compar-ia-conversations-739ba6d7` | [link](https://mozilladatacollective.com/datasets/cmklbq9qt006mnw077t9lqh89) | ❌ |
 | `cmkmn6o6e0165mg07s9h542vt` | Ficha de Documentación de Datos: Resoluciones InfoNL (Ponencia F. Guajardo) | `ficha-de-documentaci-n-de-datos-resoluci-ff4a3e4c` | [link](https://mozilladatacollective.com/datasets/cmkmn6o6e0165mg07s9h542vt) | ❌ |
 | `cmkmnb80w0177nw07iswxo3re` | Informes de Actividades InfoCDMX (Ponencia Laura Enríquez) | `informes-de-actividades-infocdmx-ponenci-75e4bb75` | [link](https://mozilladatacollective.com/datasets/cmkmnb80w0177nw07iswxo3re) | ❌ |
-| `cmkmoepzx018wnw07cnkupls3` | Ewondo_Fong_ALCAM-MultimodalDataset | `ewondo-fong-alcam-multimodaldataset-c2ed5423` | [link](https://mozilladatacollective.com/datasets/cmkmoepzx018wnw07cnkupls3) | ❌ |
+| `cmkmoepzx018wnw07cnkupls3` | Ewondo_Fong_ALCAM-MultimodalDataset | `ewondo-fong-alcam-multimodaldataset-e1c15f9f` | [link](https://mozilladatacollective.com/datasets/cmkmoepzx018wnw07cnkupls3) | ❌ |
 | `cmko7havo02f5nw07rbwwhowe` | Common Voice v24 English - en-AU subset for Everything Open 2026 | `common-voice-v24-english-en-au-subset-fo-0447e8a6` | [link](https://mozilladatacollective.com/datasets/cmko7havo02f5nw07rbwwhowe) | ❌ |
 | `cmkplyrln03jknw07u3iy35rm` | smoltalk-chinese | `smoltalk-chinese-f9578b95` | [link](https://mozilladatacollective.com/datasets/cmkplyrln03jknw07u3iy35rm) | ❌ |
 | `cmkpon5es03j2mg07j2kppzn7` |  chinese-cosmopedia  | `chinese-cosmopedia-ebb10d9d` | [link](https://mozilladatacollective.com/datasets/cmkpon5es03j2mg07j2kppzn7) | ❌ |
@@ -137,7 +135,7 @@ schema in this registry and which ones are still missing.
 | `cml5e30pd00eskr072e6a4rrh` | Mandar Spontaneous Speech | `mandar-spontaneous-speech-05a6e755` | [link](https://mozilladatacollective.com/datasets/cml5e30pd00eskr072e6a4rrh) | ❌ |
 | `cml6ywgg0007xmn07ppq469gt` | TTS-Tolaki | `tts-tolaki-d48cdaf8` | [link](https://mozilladatacollective.com/datasets/cml6ywgg0007xmn07ppq469gt) | ❌ |
 | `cml8gixh60087o407lfgoumgu` | Tatar Folklore Text Corpus | `tatar-folklore-text-corpus-48dc1a6a` | [link](https://mozilladatacollective.com/datasets/cml8gixh60087o407lfgoumgu) | ❌ |
-| `cml9h5vgc01bxmn075sjeftek` | Khmer ASR Cultural Dataset (V2) | `khmer-asr-cultural-dataset-v2-60d7b361` | [link](https://mozilladatacollective.com/datasets/cml9h5vgc01bxmn075sjeftek) | ❌ |
+| `cml9h5vgc01bxmn075sjeftek` | Khmer ASR Cultural Dataset (V2) | `khmer-asr-cultural-dataset-v2-a5bd8176` | [link](https://mozilladatacollective.com/datasets/cml9h5vgc01bxmn075sjeftek) | ❌ |
 | `cml9hmuis017yo407k0p4i0t4` | Betawi TTS of Cultural Language (BEKAL) | `betawi-tts-of-cultural-language-bekal-1e3ae3f6` | [link](https://mozilladatacollective.com/datasets/cml9hmuis017yo407k0p4i0t4) | ❌ |
 | `cml9i39tx018so40750re64v6` | TTS Sasak Language | `tts-sasak-language-cee7a620` | [link](https://mozilladatacollective.com/datasets/cml9i39tx018so40750re64v6) | ❌ |
 | `cml9iik7d01efmn07miuf8yof` | Bulu-TTS-Dataset 1.0 | `bulu-tts-dataset-1-0-0aed953e` | [link](https://mozilladatacollective.com/datasets/cml9iik7d01efmn07miuf8yof) | ❌ |
@@ -181,7 +179,7 @@ schema in this registry and which ones are still missing.
 | `cmm4de9w500ntmh073nx14k7p` | Thorsten-Voice-44kHz-Full | `thorsten-voice-44khz-full-ded7f701` | [link](https://mozilladatacollective.com/datasets/cmm4de9w500ntmh073nx14k7p) | ❌ |
 | `cmm5078n50168mk07v64792sf` | Finnish Public Domain 20th Century Literature Text Corpus | `finnish-public-domain-20th-century-liter-294fe404` | [link](https://mozilladatacollective.com/datasets/cmm5078n50168mk07v64792sf) | ❌ |
 | `cmmamtaf104nemh07xa9e7sdx` | Javanese TTS of Banyumasan Dialect | `javanese-tts-of-banyumasan-dialect-1f7e2f21` | [link](https://mozilladatacollective.com/datasets/cmmamtaf104nemh07xa9e7sdx) | ❌ |
-| `cmmamvzrz04qtmk077j1k99vt` | Mada-French Parallel Corpus 1.0 | `mada-french-parallel-corpus-1-0-6f1a334d` | [link](https://mozilladatacollective.com/datasets/cmmamvzrz04qtmk077j1k99vt) | ❌ |
+| `cmmamvzrz04qtmk077j1k99vt` | Mada-French Parallel Corpus 1.0 | `mada-french-parallel-corpus-1-0-150fb722` | [link](https://mozilladatacollective.com/datasets/cmmamvzrz04qtmk077j1k99vt) | ❌ |
 | `cmmao7dc504oamh0710j4wau1` | Jhoke Publisher Multan’s Saraiki Newspaper Corpus | `jhoke-publisher-multan-s-saraiki-newspap-e0350169` | [link](https://mozilladatacollective.com/datasets/cmmao7dc504oamh0710j4wau1) | ❌ |
 | `cmmaphscg04t2mk07i1f8yc0q` | Saraiki-English Parallel Corpus | `saraiki-english-parallel-corpus-096ab4eb` | [link](https://mozilladatacollective.com/datasets/cmmaphscg04t2mk07i1f8yc0q) | ❌ |
 | `cmmccfc5000efmu07ommi3zfr` | Bangor Patagonia Welsh-Spanish Corpus | `bangor-patagonia-welsh-spanish-corpus-5440036b` | [link](https://mozilladatacollective.com/datasets/cmmccfc5000efmu07ommi3zfr) | ❌ |
@@ -192,7 +190,7 @@ schema in this registry and which ones are still missing.
 | `cmmfulo4r018bnz07py4q9t09` | Bangor Miami Spanish-English Corpus | `bangor-miami-spanish-english-corpus-36d9f971` | [link](https://mozilladatacollective.com/datasets/cmmfulo4r018bnz07py4q9t09) | ❌ |
 | `cmmj6vyb902ownz07j4k7cunj` | Sundanese TTS | `sundanese-tts-2ee99d3c` | [link](https://mozilladatacollective.com/datasets/cmmj6vyb902ownz07j4k7cunj) | ❌ |
 | `cmmknsho4014wmf087kvq5rc6` | Kokoro Speech Dataset | `kokoro-speech-dataset-d8bfaab0` | [link](https://mozilladatacollective.com/datasets/cmmknsho4014wmf087kvq5rc6) | ✅ |
-| `cmmm2ru5r003nmd07p53h9wdw` | TTS Balinese Language | `tts-balinese-language-59477e0c` | [link](https://mozilladatacollective.com/datasets/cmmm2ru5r003nmd07p53h9wdw) | ❌ |
+| `cmmm2ru5r003nmd07p53h9wdw` | TTS Balinese Language | `tts-balinese-language-884fa798` | [link](https://mozilladatacollective.com/datasets/cmmm2ru5r003nmd07p53h9wdw) | ❌ |
 | `cmmm7rvm200b9md07h3pv8uae` | TODa: Tamazight Open Dataset | `toda-tamazight-open-dataset-3eef2658` | [link](https://mozilladatacollective.com/datasets/cmmm7rvm200b9md07h3pv8uae) | ❌ |
 | `cmmng8btl000yl807k8qtx891` | ddd-kenya-somali-68hrs-asr-part1 | `ddd-kenya-somali-68hrs-asr-part1-41a99fae` | [link](https://mozilladatacollective.com/datasets/cmmng8btl000yl807k8qtx891) | ❌ |
 | `cmmnixx2d0043ml07zbq1i7oi` | ddd-kenya-somali-68hrs-asr-part2 | `ddd-kenya-somali-68hrs-asr-part2-019894e7` | [link](https://mozilladatacollective.com/datasets/cmmnixx2d0043ml07zbq1i7oi) | ❌ |
@@ -249,7 +247,7 @@ schema in this registry and which ones are still missing.
 | `cmmytnyhe00i3mf07l1q1gwx1` | Common Voice Spontaneous Speech 3.0 - Konzo | `common-voice-spontaneous-speech-3-0-konz-2ea3549b` | [link](https://mozilladatacollective.com/datasets/cmmytnyhe00i3mf07l1q1gwx1) | ✅ |
 | `cmmytpom600ibmf07abftw5m0` | Common Voice Spontaneous Speech 3.0 - Thur | `common-voice-spontaneous-speech-3-0-thur-4f37e705` | [link](https://mozilladatacollective.com/datasets/cmmytpom600ibmf07abftw5m0) | ✅ |
 | `cmmytprab00ifmf074pd0bvn3` | Common Voice Spontaneous Speech 3.0 - Nubi | `common-voice-spontaneous-speech-3-0-nubi-b492429c` | [link](https://mozilladatacollective.com/datasets/cmmytprab00ifmf074pd0bvn3) | ✅ |
-| `cmmyyd6jq00k5mf07tjn4xh3j` | Mvele_ALCAM-MultimodalDataset | `mvele-alcam-multimodaldataset-abe6fd94` | [link](https://mozilladatacollective.com/datasets/cmmyyd6jq00k5mf07tjn4xh3j) | ❌ |
+| `cmmyyd6jq00k5mf07tjn4xh3j` | Mvele_ALCAM-MultimodalDataset | `mvele-alcam-multimodaldataset-bf6fcd7d` | [link](https://mozilladatacollective.com/datasets/cmmyyd6jq00k5mf07tjn4xh3j) | ❌ |
 | `cmn1pl37b00uvmm07woxp33ef` | Common Voice Spontaneous Speech 3.0 - Welsh | `common-voice-spontaneous-speech-3-0-wels-99af7f12` | [link](https://mozilladatacollective.com/datasets/cmn1pl37b00uvmm07woxp33ef) | ✅ |
 | `cmn1pleap00tho107nvvwnbyj` | Common Voice Spontaneous Speech 3.0 - Turkish | `common-voice-spontaneous-speech-3-0-turk-8a2c4b69` | [link](https://mozilladatacollective.com/datasets/cmn1pleap00tho107nvvwnbyj) | ✅ |
 | `cmn1pllvd00tlo10743ce16nh` | Common Voice Spontaneous Speech 3.0 - Latvian | `common-voice-spontaneous-speech-3-0-latv-20294a06` | [link](https://mozilladatacollective.com/datasets/cmn1pllvd00tlo10743ce16nh) | ✅ |
@@ -575,23 +573,23 @@ schema in this registry and which ones are still missing.
 | `cmn4z1n52000knv07h01532dd` | Common Voice Scripted Speech 25.0 - Spanish | `common-voice-scripted-speech-25-0-spanis-24092b75` | [link](https://mozilladatacollective.com/datasets/cmn4z1n52000knv07h01532dd) | ✅ |
 | `cmn5zugst00w3nv07upovf2bg` | Common Voice Scripted Speech 25.0 - French | `common-voice-scripted-speech-25-0-french-c0e29588` | [link](https://mozilladatacollective.com/datasets/cmn5zugst00w3nv07upovf2bg) | ✅ |
 | `cmn60xnfi00wnnv07028xltoz` | Common Voice Scripted Speech 25.0 - Kinyarwanda | `common-voice-scripted-speech-25-0-kinyar-ce8deac8` | [link](https://mozilladatacollective.com/datasets/cmn60xnfi00wnnv07028xltoz) | ✅ |
-| `cmn6ay1xg016jnv07drtmw7qo` | Bamun-French Parallel Corpus 2.0 | `bamun-french-parallel-corpus-2-0-324fbd3f` | [link](https://mozilladatacollective.com/datasets/cmn6ay1xg016jnv07drtmw7qo) | ❌ |
+| `cmn6ay1xg016jnv07drtmw7qo` | Bamun-French Parallel Corpus 2.0 | `bamun-french-parallel-corpus-2-0-2637e53d` | [link](https://mozilladatacollective.com/datasets/cmn6ay1xg016jnv07drtmw7qo) | ❌ |
 | `cmnd4la5a02fwmh074t1fx5y9` | Common Voice Scripted Speech 25.0 - Catalan | `common-voice-scripted-speech-25-0-catala-4707e7c7` | [link](https://mozilladatacollective.com/datasets/cmnd4la5a02fwmh074t1fx5y9) | ✅ |
 | `cmndapwry02jnmh07dyo46mot` | Common Voice Scripted Speech 25.0 - English | `common-voice-scripted-speech-25-0-englis-0c0b9a16` | [link](https://mozilladatacollective.com/datasets/cmndapwry02jnmh07dyo46mot) | ✅ |
 | `cmndf6mgs001lnz07bf9t3skp` | Common Voice Scripted Speech 25.0 - Pashto | `common-voice-scripted-speech-25-0-pashto-fdfd7282` | [link](https://mozilladatacollective.com/datasets/cmndf6mgs001lnz07bf9t3skp) | ✅ |
 | `cmndf7vbn002gma07np6nc35o` | Common Voice Spontaneous Speech 3.0 - Serian Bidayuh | `common-voice-spontaneous-speech-3-0-seri-19b901ab` | [link](https://mozilladatacollective.com/datasets/cmndf7vbn002gma07np6nc35o) | ✅ |
-| `cmndjfw9d000qmj070dece40f` | Yezoum_ALCAM-MultimodalDataset | `yezoum-alcam-multimodaldataset-bb0308a3` | [link](https://mozilladatacollective.com/datasets/cmndjfw9d000qmj070dece40f) | ❌ |
+| `cmndjfw9d000qmj070dece40f` | Yezoum_ALCAM-MultimodalDataset | `yezoum-alcam-multimodaldataset-29a744fa` | [link](https://mozilladatacollective.com/datasets/cmndjfw9d000qmj070dece40f) | ❌ |
 | `cmngbf1tt0050nn07i49aebnk` | Sentence translation difficulty in Spanish - BOUQuET | `sentence-translation-difficulty-in-spani-355c4d15` | [link](https://mozilladatacollective.com/datasets/cmngbf1tt0050nn07i49aebnk) | ❌ |
 | `cmnggocgg007ymh079k30st39` | Kannada Time Aligned Speech Corpus | `kannada-time-aligned-speech-corpus-6c996d55` | [link](https://mozilladatacollective.com/datasets/cmnggocgg007ymh079k30st39) | ❌ |
 | `cmnggqr8z0082mh07vbsbm6t5` | Saraiki 10 Hours  TTS Dataset | `saraiki-10-hours-tts-dataset-8774ddeb` | [link](https://mozilladatacollective.com/datasets/cmnggqr8z0082mh07vbsbm6t5) | ❌ |
 | `cmnhgmkgg00wimh07wc0v3s49` | RFE/RL Persian News Text Corpus | `rfe-rl-persian-news-text-corpus-c5838e9b` | [link](https://mozilladatacollective.com/datasets/cmnhgmkgg00wimh07wc0v3s49) | ❌ |
 | `cmnhhi0by00zknn07edrnd82e` | Chuvash TTS | `chuvash-tts-c8d599ba` | [link](https://mozilladatacollective.com/datasets/cmnhhi0by00zknn07edrnd82e) | ❌ |
 | `cmnhi28fc00xpmh07fwall3wn` | Territórios Digitais | `territ-rios-digitais-ee5b55d2` | [link](https://mozilladatacollective.com/datasets/cmnhi28fc00xpmh07fwall3wn) | ❌ |
-| `cmnhjbnjp0115mh07kiha0rei` | Bamun-TTS-Dataset | `bamun-tts-dataset-e1a518e9` | [link](https://mozilladatacollective.com/datasets/cmnhjbnjp0115mh07kiha0rei) | ❌ |
+| `cmnhjbnjp0115mh07kiha0rei` | Bamun-TTS-Dataset | `bamun-tts-dataset-858de881` | [link](https://mozilladatacollective.com/datasets/cmnhjbnjp0115mh07kiha0rei) | ❌ |
 | `cmnmy7tmf02k6ml07m7vvcxzr` | ViQua² — Visual Question-answering about Quantities | `viqua-visual-question-answering-about-qu-3e8deb4e` | [link](https://mozilladatacollective.com/datasets/cmnmy7tmf02k6ml07m7vvcxzr) | ❌ |
 | `cmnmyptri02glo107p5cx5por` | Tamil Time Aligned Speech Dataset | `tamil-time-aligned-speech-dataset-7d228a5b` | [link](https://mozilladatacollective.com/datasets/cmnmyptri02glo107p5cx5por) | ❌ |
-| `cmnopto3q00t0mf07v2dtc0ej` | Hausa-TTS-Dataset | `hausa-tts-dataset-17bc050d` | [link](https://mozilladatacollective.com/datasets/cmnopto3q00t0mf07v2dtc0ej) | ❌ |
-| `cmnopvxxr00t6mf07nm4cp4qs` | Bulu_ALCAM-MultimodalDataset | `bulu-alcam-multimodaldataset-c3804b14` | [link](https://mozilladatacollective.com/datasets/cmnopvxxr00t6mf07nm4cp4qs) | ❌ |
+| `cmnopto3q00t0mf07v2dtc0ej` | Hausa-TTS-Dataset | `hausa-tts-dataset-b69efbb0` | [link](https://mozilladatacollective.com/datasets/cmnopto3q00t0mf07v2dtc0ej) | ❌ |
+| `cmnopvxxr00t6mf07nm4cp4qs` | Bulu_ALCAM-MultimodalDataset | `bulu-alcam-multimodaldataset-7d63bbe5` | [link](https://mozilladatacollective.com/datasets/cmnopvxxr00t6mf07nm4cp4qs) | ❌ |
 | `cmnoqtoq900ugmf077kiuny8y` | IBT Torwali Literature Corpus | `ibt-torwali-literature-corpus-7bb922e0` | [link](https://mozilladatacollective.com/datasets/cmnoqtoq900ugmf077kiuny8y) | ❌ |
 | `cmnprpfot01khnz07xdjosybq` | CV Korean Test 25.0 - Noise-Augmented (SCAI) | `cv-korean-test-25-0-noise-augmented-scai-2f4f0b65` | [link](https://mozilladatacollective.com/datasets/cmnprpfot01khnz07xdjosybq) | ❌ |
 | `cmnx6375n031gnn07sm6juaz4` | The Daily Jugantor Bengali Language Corpus | `the-daily-jugantor-bengali-language-corp-4c8cadd8` | [link](https://mozilladatacollective.com/datasets/cmnx6375n031gnn07sm6juaz4) | ❌ |
@@ -606,7 +604,7 @@ schema in this registry and which ones are still missing.
 | `cmnxk6nou00a5nu07kid0mewy` | RFE/RL Pashto (Pakistani) News Text Corpus | `rfe-rl-pashto-pakistani-news-text-corpus-9baee644` | [link](https://mozilladatacollective.com/datasets/cmnxk6nou00a5nu07kid0mewy) | ❌ |
 | `cmnxk7u8900a2ny076pyqzama` | RFE/RL Ukrainian (Crimea) News Text Corpus | `rfe-rl-ukrainian-crimea-news-text-corpus-8ba7ee64` | [link](https://mozilladatacollective.com/datasets/cmnxk7u8900a2ny076pyqzama) | ❌ |
 | `cmnxk95so00a6ny07vtscd9a9` | RFE/RL Hungarian News Text Corpus | `rfe-rl-hungarian-news-text-corpus-f4b0f510` | [link](https://mozilladatacollective.com/datasets/cmnxk95so00a6ny07vtscd9a9) | ❌ |
-| `cmnykldcz010knu0737o8bgh9` | Naija-TTS-Dataset | `naija-tts-dataset-ad9f8f35` | [link](https://mozilladatacollective.com/datasets/cmnykldcz010knu0737o8bgh9) | ❌ |
+| `cmnykldcz010knu0737o8bgh9` | Naija-TTS-Dataset | `naija-tts-dataset-5a25ab41` | [link](https://mozilladatacollective.com/datasets/cmnykldcz010knu0737o8bgh9) | ❌ |
 | `cmnykm7yi010rny0737lq2fth` | RFE/RL Chechen News Text Corpus | `rfe-rl-chechen-news-text-corpus-ef4f1727` | [link](https://mozilladatacollective.com/datasets/cmnykm7yi010rny0737lq2fth) | ❌ |
 | `cmnykmjx6010xny079bqway5r` | RFE/RL Crimean Tatar News Text Corpus | `rfe-rl-crimean-tatar-news-text-corpus-7f83b1b0` | [link](https://mozilladatacollective.com/datasets/cmnykmjx6010xny079bqway5r) | ❌ |
 | `cmnylmd5c000ynx07qonxot0v` | RFE/RL Kazakh News Text Corpus | `rfe-rl-kazakh-news-text-corpus-84d57619` | [link](https://mozilladatacollective.com/datasets/cmnylmd5c000ynx07qonxot0v) | ❌ |
@@ -623,15 +621,16 @@ schema in this registry and which ones are still missing.
 | `cmnz26xn200hgnr07m1x2po5v` | RFE/RL Bulgarian News Text Corpus | `rfe-rl-bulgarian-news-text-corpus-a5900a72` | [link](https://mozilladatacollective.com/datasets/cmnz26xn200hgnr07m1x2po5v) | ❌ |
 | `cmo06ikpt00chnx07xmaj8rxe` | RFE/RL Serbian, Bosnian, and Montenegrin (Balkan) News Text Corpus | `rfe-rl-serbian-bosnian-and-montenegrin-b-0a5c7977` | [link](https://mozilladatacollective.com/datasets/cmo06ikpt00chnx07xmaj8rxe) | ❌ |
 | `cmo07ixww00ddmr07enqrrpfw` | Awal Tamazight Dataset | `awal-tamazight-dataset-acc51046` | [link](https://mozilladatacollective.com/datasets/cmo07ixww00ddmr07enqrrpfw) | ❌ |
+| `cmo09pqp300gbnx07xcl42los` | Yoruba-English Code-Switching (YECS) Corpus | `yoruba-english-code-switching-yecs-corpu-6da2a4ed` | [link](https://mozilladatacollective.com/datasets/cmo09pqp300gbnx07xcl42los) | ❌ |
 | `cmo0cro1g00hlmr07oichasyk` | otomí-hñähñu TTS Voz Masculina  | `otom-h-h-u-tts-voz-masculina-b3c8c8a8` | [link](https://mozilladatacollective.com/datasets/cmo0cro1g00hlmr07oichasyk) | ❌ |
 | `cmo0h34b600n8nx07khjct4iy` | UK Sort Codes - ASR Evaluation | `uk-sort-codes-asr-evaluation-3a75316e` | [link](https://mozilladatacollective.com/datasets/cmo0h34b600n8nx07khjct4iy) | ❌ |
 | `cmo0jfvnw00p1nx070preklt5` | LibriVox Czech TTS Female Voice | `librivox-czech-tts-female-voice-dacc0fd3` | [link](https://mozilladatacollective.com/datasets/cmo0jfvnw00p1nx070preklt5) | ❌ |
 | `cmo0qtw7v003knt07u6yupncc` | LibriVox Italian TTS Female Voice | `librivox-italian-tts-female-voice-249d4ed7` | [link](https://mozilladatacollective.com/datasets/cmo0qtw7v003knt07u6yupncc) | ❌ |
 | `cmo1hv2fm001xmk07ity2g0xw` | Kanuri Books Corpus | `kanuri-books-corpus-27351a9f` | [link](https://mozilladatacollective.com/datasets/cmo1hv2fm001xmk07ity2g0xw) | ❌ |
-| `cmo1kqs2a004anr07sxn2mtf5` | Imágenes de Señalamientos en México | `im-genes-de-se-alamientos-en-m-xico-66546ce0` | [link](https://mozilladatacollective.com/datasets/cmo1kqs2a004anr07sxn2mtf5) | ❌ |
+| `cmo1kqs2a004anr07sxn2mtf5` | Imágenes de Señalamientos en México | `im-genes-de-se-alamientos-en-m-xico-f9d07506` | [link](https://mozilladatacollective.com/datasets/cmo1kqs2a004anr07sxn2mtf5) | ❌ |
 | `cmo1krloc004zmk07fon30uqs` | Ladino: Una Fraza al Diya | `ladino-una-fraza-al-diya-c1b24af5` | [link](https://mozilladatacollective.com/datasets/cmo1krloc004zmk07fon30uqs) | ❌ |
 | `cmo1ks4zv004enr07la1rkr9x` | Şalom Ladino Corpus | `alom-ladino-corpus-f409a2bb` | [link](https://mozilladatacollective.com/datasets/cmo1ks4zv004enr07la1rkr9x) | ❌ |
-| `cmo1nlaah0071mk077mw0qhpv` | Yoruba-TTS-Dataset | `yoruba-tts-dataset-f9b24c0f` | [link](https://mozilladatacollective.com/datasets/cmo1nlaah0071mk077mw0qhpv) | ❌ |
+| `cmo1nlaah0071mk077mw0qhpv` | Yoruba-TTS-Dataset | `yoruba-tts-dataset-8d7b6ad2` | [link](https://mozilladatacollective.com/datasets/cmo1nlaah0071mk077mw0qhpv) | ❌ |
 | `cmo1qb62200anmk07ls9feuh5` | Ladino-Spanish Lexical Resources | `ladino-spanish-lexical-resources-d2a84a2a` | [link](https://mozilladatacollective.com/datasets/cmo1qb62200anmk07ls9feuh5) | ❌ |
 | `cmo1sg74a00cwmk07q6nin2of` | ERT Press | `ert-press-e9625bc3` | [link](https://mozilladatacollective.com/datasets/cmo1sg74a00cwmk07q6nin2of) | ❌ |
 | `cmo1sklpo00d0mk07taoepe1a` | Modern Greek Dictionary | `modern-greek-dictionary-88bde7ff` | [link](https://mozilladatacollective.com/datasets/cmo1sklpo00d0mk07taoepe1a) | ❌ |
@@ -641,8 +640,133 @@ schema in this registry and which ones are still missing.
 | `cmo29suhm00gjo2078rhmqn3p` | Speech Corpus of English Learners from Mexico | `speech-corpus-of-english-learners-from-m-02e15f4e` | [link](https://mozilladatacollective.com/datasets/cmo29suhm00gjo2078rhmqn3p) | ❌ |
 | `cmo3f5ydj001umo07y8579zna` | Chittagonian (চাটগাঁইয়া, saṭgãia) Text Corpus | `chittagonian-sa-g-ia-text-corpus-f63ac41e` | [link](https://mozilladatacollective.com/datasets/cmo3f5ydj001umo07y8579zna) | ❌ |
 | `cmo3f6wem001wny0792yg26as` | Rangpuri (অংপুরি Ôṅgpuri) Text Corpus | `rangpuri-gpuri-text-corpus-8558ffa5` | [link](https://mozilladatacollective.com/datasets/cmo3f6wem001wny0792yg26as) | ❌ |
-| `cmo4gtixz00kwny07hayfsk8s` | isiXhosa-TTS-Dataset | `isixhosa-tts-dataset-aaef0436` | [link](https://mozilladatacollective.com/datasets/cmo4gtixz00kwny07hayfsk8s) | ❌ |
-| `cmo4nmfam00nxny07rssox2tj` | Tiv-TTS-Dataset | `tiv-tts-dataset-57d4ed18` | [link](https://mozilladatacollective.com/datasets/cmo4nmfam00nxny07rssox2tj) | ❌ |
+| `cmo4gtixz00kwny07hayfsk8s` | isiXhosa-TTS-Dataset | `isixhosa-tts-dataset-16b3a1b6` | [link](https://mozilladatacollective.com/datasets/cmo4gtixz00kwny07hayfsk8s) | ❌ |
+| `cmo4nmfam00nxny07rssox2tj` | Tiv-TTS-Dataset | `tiv-tts-dataset-d47b6688` | [link](https://mozilladatacollective.com/datasets/cmo4nmfam00nxny07rssox2tj) | ❌ |
 | `cmo8oicwk020dnt077o5dqhwm` | Noakhalian (নোয়াখাইল্লা) Text Corpus | `noakhalian-text-corpus-67ba6147` | [link](https://mozilladatacollective.com/datasets/cmo8oicwk020dnt077o5dqhwm) | ❌ |
 | `cmo8q6f9a024mmg0708ccv04j` | Rohingya Literature Corpus | `rohingya-literature-corpus-c5c2a737` | [link](https://mozilladatacollective.com/datasets/cmo8q6f9a024mmg0708ccv04j) | ❌ |
 | `cmo8rj0f60258mg0783ls9gjb` | Sylheti Text Corpus by Haque Publishers | `sylheti-text-corpus-by-haque-publishers-8cfeffe0` | [link](https://mozilladatacollective.com/datasets/cmo8rj0f60258mg0783ls9gjb) | ❌ |
+| `cmobufn0500a5nw07u01ivqa6` | RFE/RL Armenian News Text Corpus | `rfe-rl-armenian-news-text-corpus-916711b8` | [link](https://mozilladatacollective.com/datasets/cmobufn0500a5nw07u01ivqa6) | ❌ |
+| `cmobugzgs00c7md0783t69yd7` | RFE/RL Afghan Pashto News Text Corpus | `rfe-rl-afghan-pashto-news-text-corpus-f4251510` | [link](https://mozilladatacollective.com/datasets/cmobugzgs00c7md0783t69yd7) | ❌ |
+| `cmobui7g400cbmd07kmfe7oj4` | RFE/RL Afghan Dari News Text Corpus | `rfe-rl-afghan-dari-news-text-corpus-2eb5456b` | [link](https://mozilladatacollective.com/datasets/cmobui7g400cbmd07kmfe7oj4) | ❌ |
+| `cmobujn7b00aenw07wcn5dntu` | RFE/RL Belarusian News Text Corpus | `rfe-rl-belarusian-news-text-corpus-0d139b43` | [link](https://mozilladatacollective.com/datasets/cmobujn7b00aenw07wcn5dntu) | ❌ |
+| `cmocxuhkn00y4md07d8bllj2x` | Read Speech in Kenyan Swahili (6h) | `read-speech-in-kenyan-swahili-6h-0692ed09` | [link](https://mozilladatacollective.com/datasets/cmocxuhkn00y4md07d8bllj2x) | ❌ |
+| `cmoiuyem401j5mr07s0jx8rqr` | Italian TTS - female voice | `italian-tts-female-voice-78e192bf` | [link](https://mozilladatacollective.com/datasets/cmoiuyem401j5mr07s0jx8rqr) | ❌ |
+| `cmok1w0j002jcmr075bsof72y` | Tamazight Open Speech Dataset | `tamazight-open-speech-dataset-a39ff6ca` | [link](https://mozilladatacollective.com/datasets/cmok1w0j002jcmr075bsof72y) | ❌ |
+| `cmom3xala00gyo007hc0evymi` | BAHANA-Betawi TTS | `bahana-betawi-tts-33f94c22` | [link](https://mozilladatacollective.com/datasets/cmom3xala00gyo007hc0evymi) | ❌ |
+| `cmom3z1mc00h2o0071zxeq1ur` | BAHANA-Manggarai TTS | `bahana-manggarai-tts-b74b8ba1` | [link](https://mozilladatacollective.com/datasets/cmom3z1mc00h2o0071zxeq1ur) | ❌ |
+| `cmom41aj500h6o007zkt02p8n` | TTS Bugis - Barru Dialect: Language and Identity | `tts-bugis-barru-dialect-language-and-ide-104404ad` | [link](https://mozilladatacollective.com/datasets/cmom41aj500h6o007zkt02p8n) | ❌ |
+| `cmom43ixg00hao00731e0o0jg` | TWB Parallel Sentence kits - Hausa (30k) | `twb-parallel-sentence-kits-hausa-30k-e8236719` | [link](https://mozilladatacollective.com/datasets/cmom43ixg00hao00731e0o0jg) | ❌ |
+| `cmonjhxee01ako007kohpbg34` | The LJSpeech Dataset | `the-ljspeech-dataset-f9cb12b9` | [link](https://mozilladatacollective.com/datasets/cmonjhxee01ako007kohpbg34) | ❌ |
+| `cmoskkop100vjnu0775hclbd1` | TWB Parallel Sentence kits - Kanuri (5k) | `twb-parallel-sentence-kits-kanuri-5k-01f0b513` | [link](https://mozilladatacollective.com/datasets/cmoskkop100vjnu0775hclbd1) | ❌ |
+| `cmoskmbpj00vxnu07w8lu7rrk` | TWB Parallel Sentence kits - Tigrinya (5k) | `twb-parallel-sentence-kits-tigrinya-5k-ac8c5166` | [link](https://mozilladatacollective.com/datasets/cmoskmbpj00vxnu07w8lu7rrk) | ❌ |
+| `cmoskn32a00vhmj07prz6k5ng` | TWB Parallel Sentence kits - Nande (15k) | `twb-parallel-sentence-kits-nande-15k-3f1997fa` | [link](https://mozilladatacollective.com/datasets/cmoskn32a00vhmj07prz6k5ng) | ❌ |
+| `cmosknxap00vlmj07kf6mugba` | TWB Parallel Sentence kits - Lingala (5k) | `twb-parallel-sentence-kits-lingala-5k-b99f63f1` | [link](https://mozilladatacollective.com/datasets/cmosknxap00vlmj07kf6mugba) | ❌ |
+| `cmoskwsac00w3nu07b1nydlfb` | TWB Parallel Sentence kits - Rohingya (5k) | `twb-parallel-sentence-kits-rohingya-5k-8fb312c7` | [link](https://mozilladatacollective.com/datasets/cmoskwsac00w3nu07b1nydlfb) | ❌ |
+| `cmoskxn8k00vtmj07ubxtu0f2` | TWB Parallel Sentence kits - Swahili (5k) | `twb-parallel-sentence-kits-swahili-5k-c7a7d116` | [link](https://mozilladatacollective.com/datasets/cmoskxn8k00vtmj07ubxtu0f2) | ❌ |
+| `cmosl07v400w9nu07g3puif2t` | TWB Parallel Sentence kits - Congo Swahili (25k) | `twb-parallel-sentence-kits-congo-swahili-a57afa4e` | [link](https://mozilladatacollective.com/datasets/cmosl07v400w9nu07g3puif2t) | ❌ |
+| `cmosu28090085ny07x7d8ezoq` | CoVoST 2 English-Slovenian | `covost-2-english-slovenian-90922cfa` | [link](https://mozilladatacollective.com/datasets/cmosu28090085ny07x7d8ezoq) | ❌ |
+| `cmou2fdyx015fl307bux4c4gi` | CoVoST 2 German-English | `covost-2-german-english-73346f8c` | [link](https://mozilladatacollective.com/datasets/cmou2fdyx015fl307bux4c4gi) | ❌ |
+| `cmovv4qrj00hcmk07yuaxyvzv` | VoxForge - Bulgarian | `voxforge-bulgarian-ec0c027c` | [link](https://mozilladatacollective.com/datasets/cmovv4qrj00hcmk07yuaxyvzv) | ❌ |
+| `cmowvw8oq011hnn07re4l1vi3` | Public GenAI Vulnerability Disclosures | `public-genai-vulnerability-disclosures-191f8631` | [link](https://mozilladatacollective.com/datasets/cmowvw8oq011hnn07re4l1vi3) | ❌ |
+| `cmowvzwts011lnn078f3719jg` | VoxForge - Catalan | `voxforge-catalan-584b847f` | [link](https://mozilladatacollective.com/datasets/cmowvzwts011lnn078f3719jg) | ❌ |
+| `cmowwx2gq012hnn073izoljfz` | VoxForge - Greek | `voxforge-greek-c60a6c65` | [link](https://mozilladatacollective.com/datasets/cmowwx2gq012hnn073izoljfz) | ❌ |
+| `cmoxa7ndg01e1ny07zpwgtu22` | VoxForge - German | `voxforge-german-e1fb65cf` | [link](https://mozilladatacollective.com/datasets/cmoxa7ndg01e1ny07zpwgtu22) | ❌ |
+| `cmoyfkei701eynt07ut2uoiif` | CoVoST 2 Arabic-English | `covost-2-arabic-english-fa9094ec` | [link](https://mozilladatacollective.com/datasets/cmoyfkei701eynt07ut2uoiif) | ❌ |
+| `cmoyrppho01kvnt075pt9pj5x` | CoVoST 2 Welsh - English | `covost-2-welsh-english-950a874e` | [link](https://mozilladatacollective.com/datasets/cmoyrppho01kvnt075pt9pj5x) | ❌ |
+| `cmoz2e4oo01n7nt079rbo308t` | CoVoST 2 Catalan - English | `covost-2-catalan-english-9482a255` | [link](https://mozilladatacollective.com/datasets/cmoz2e4oo01n7nt079rbo308t) | ❌ |
+| `cmp0f3tib02a4mp07ch5tr808` | Adamawa Fulfulde-TTS-Dataset | `adamawa-fulfulde-tts-dataset-5ddc826a` | [link](https://mozilladatacollective.com/datasets/cmp0f3tib02a4mp07ch5tr808) | ❌ |
+| `cmp0f5u2n02a8mp0771ryoly8` | Igbo-TTS-Dataset | `igbo-tts-dataset-7a84d611` | [link](https://mozilladatacollective.com/datasets/cmp0f5u2n02a8mp0771ryoly8) | ❌ |
+| `cmp1ma8ty007eo607klisho1a` | Efik-TTS-Dataset | `efik-tts-dataset-aaf44558` | [link](https://mozilladatacollective.com/datasets/cmp1ma8ty007eo607klisho1a) | ❌ |
+| `cmp2ggvbx00lvmp07i0xqlntr` | VoxForge - Spanish | `voxforge-spanish-bb2d65e3` | [link](https://mozilladatacollective.com/datasets/cmp2ggvbx00lvmp07i0xqlntr) | ❌ |
+| `cmp2ghayo00lzmp07eh8fssxm` | VoxForge - Italian | `voxforge-italian-343f6f23` | [link](https://mozilladatacollective.com/datasets/cmp2ghayo00lzmp07eh8fssxm) | ❌ |
+| `cmp2goc8g00m5mp07dst6o64k` | VoxForge - Dutch | `voxforge-dutch-d22ee3f5` | [link](https://mozilladatacollective.com/datasets/cmp2goc8g00m5mp07dst6o64k) | ❌ |
+| `cmp2gp36800m9mp072hodigy6` | VoxForge - Portuguese | `voxforge-portuguese-47dee4c5` | [link](https://mozilladatacollective.com/datasets/cmp2gp36800m9mp072hodigy6) | ❌ |
+| `cmp2h0m5p00msmp07okqm2fzz` | VoxForge - Croatian | `voxforge-croatian-a709471b` | [link](https://mozilladatacollective.com/datasets/cmp2h0m5p00msmp07okqm2fzz) | ❌ |
+| `cmp2h0vtl00mwmp07ra6g2pre` | VoxForge - French | `voxforge-french-ef64ffcd` | [link](https://mozilladatacollective.com/datasets/cmp2h0vtl00mwmp07ra6g2pre) | ❌ |
+| `cmp2h1iop00krno07itbxve77` | VoxForge - Persian | `voxforge-persian-dfd6f01b` | [link](https://mozilladatacollective.com/datasets/cmp2h1iop00krno07itbxve77) | ❌ |
+| `cmp2h1qmo00kvno072hav0upy` | VoxForge - Hebrew | `voxforge-hebrew-c648648e` | [link](https://mozilladatacollective.com/datasets/cmp2h1qmo00kvno072hav0upy) | ❌ |
+| `cmp2h1zvg00n0mp07wrjxow3l` | VoxForge - Russian | `voxforge-russian-9a8495d3` | [link](https://mozilladatacollective.com/datasets/cmp2h1zvg00n0mp07wrjxow3l) | ❌ |
+| `cmp2h28f400n4mp07aeka38ca` | VoxForge - Ukrainian | `voxforge-ukrainian-6fdcdf1b` | [link](https://mozilladatacollective.com/datasets/cmp2h28f400n4mp07aeka38ca) | ❌ |
+| `cmp2h2jnt00n8mp07lkr11xru` | VoxForge - Albanian | `voxforge-albanian-1bd2e28b` | [link](https://mozilladatacollective.com/datasets/cmp2h2jnt00n8mp07lkr11xru) | ❌ |
+| `cmp2h2som00kzno07n8lwesrr` | VoxForge - Turkish | `voxforge-turkish-788023eb` | [link](https://mozilladatacollective.com/datasets/cmp2h2som00kzno07n8lwesrr) | ❌ |
+| `cmp2hgs2j00nsmp07q9s6g3m0` | Less is More Corpus | `less-is-more-corpus-e6dc1838` | [link](https://mozilladatacollective.com/datasets/cmp2hgs2j00nsmp07q9s6g3m0) | ❌ |
+| `cmp3rmip800ozo30799h7wp6g` | Friulan TTS - female voice | `friulan-tts-female-voice-73e62046` | [link](https://mozilladatacollective.com/datasets/cmp3rmip800ozo30799h7wp6g) | ❌ |
+| `cmp4htii700glmp07syfvo010` | Bangladesh Traffic Signs Dataset | `bangladesh-traffic-signs-dataset-ea063219` | [link](https://mozilladatacollective.com/datasets/cmp4htii700glmp07syfvo010) | ❌ |
+| `cmp4htkri00hao007kbrbew2h` | India Traffic Signs Dataset | `india-traffic-signs-dataset-b74e4eac` | [link](https://mozilladatacollective.com/datasets/cmp4htkri00hao007kbrbew2h) | ❌ |
+| `cmp4htnf000gpmp07shg6l5v9` | Pakistan Traffic Signs Dataset | `pakistan-traffic-signs-dataset-62e0f6c7` | [link](https://mozilladatacollective.com/datasets/cmp4htnf000gpmp07shg6l5v9) | ❌ |
+| `cmp4ijosh00h9mp078ggnaatm` | ReRooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants | `rerooted-speech-corpus-of-testimonials-f-fda6d7da` | [link](https://mozilladatacollective.com/datasets/cmp4ijosh00h9mp078ggnaatm) | ❌ |
+| `cmp5b9e10014mo007qkcmck75` | CoVoST 2 English - Arabic | `covost-2-english-arabic-1ee86ec6` | [link](https://mozilladatacollective.com/datasets/cmp5b9e10014mo007qkcmck75) | ❌ |
+| `cmp5c60at015po007bbql6h3s` |  CommonLID | `commonlid-622f6f75` | [link](https://mozilladatacollective.com/datasets/cmp5c60at015po007bbql6h3s) | ❌ |
+| `cmp5hjood01comp07fxt1fb74` | CoVoST 2 Indonesian - English | `covost-2-indonesian-english-f070340a` | [link](https://mozilladatacollective.com/datasets/cmp5hjood01comp07fxt1fb74) | ❌ |
+| `cmp5ht3jx01dno007i1opx2rj` | TWB Voice 1.0 - Shuwa Arabic | `twb-voice-1-0-shuwa-arabic-aef30cee` | [link](https://mozilladatacollective.com/datasets/cmp5ht3jx01dno007i1opx2rj) | ❌ |
+| `cmp5k3fsy01gmmp07w2kaous5` | CoVoST 2 Italian - English | `covost-2-italian-english-ea425364` | [link](https://mozilladatacollective.com/datasets/cmp5k3fsy01gmmp07w2kaous5) | ❌ |
+| `cmp5kv8j101hvo007hjamlqet` | CoVoST 2 Chinese (China) - English | `covost-2-chinese-china-english-13b8c8d5` | [link](https://mozilladatacollective.com/datasets/cmp5kv8j101hvo007hjamlqet) | ❌ |
+| `cmp5kw3o301hcmp07d8dgejzx` | CoVoST 2 Persian - English | `covost-2-persian-english-8d6ffcb0` | [link](https://mozilladatacollective.com/datasets/cmp5kw3o301hcmp07d8dgejzx) | ❌ |
+| `cmp6qb2al02inmp07dlajrjke` | śmigiel - machine generated text detection | `migiel-machine-generated-text-detection-316501a5` | [link](https://mozilladatacollective.com/datasets/cmp6qb2al02inmp07dlajrjke) | ❌ |
+| `cmp704ive02qymp075orb8ok4` | CoVoST 2 Spanish - English | `covost-2-spanish-english-2a8f8b6f` | [link](https://mozilladatacollective.com/datasets/cmp704ive02qymp075orb8ok4) | ❌ |
+| `cmp72jw8l02sgo007cvzf77lu` | CoVoST 2 Portuguese - English | `covost-2-portuguese-english-a257c53f` | [link](https://mozilladatacollective.com/datasets/cmp72jw8l02sgo007cvzf77lu) | ❌ |
+| `cmp73gzl502twmp07g6f1bkrx` | CoVoST 2 Dutch - English | `covost-2-dutch-english-fb6f075a` | [link](https://mozilladatacollective.com/datasets/cmp73gzl502twmp07g6f1bkrx) | ❌ |
+| `cmp73hbl502swo007eb7ealfq` | CoVoST 2 Japanese - English | `covost-2-japanese-english-3f21d5a3` | [link](https://mozilladatacollective.com/datasets/cmp73hbl502swo007eb7ealfq) | ❌ |
+| `cmp74k47s02u2mp07zr9zwhpt` | TWB Voice 1.0 - Hausa | `twb-voice-1-0-hausa-54c18f4b` | [link](https://mozilladatacollective.com/datasets/cmp74k47s02u2mp07zr9zwhpt) | ❌ |
+| `cmp753p4902t8o007nejqkhlo` | CoVoST 2 Tamil - English | `covost-2-tamil-english-d22da972` | [link](https://mozilladatacollective.com/datasets/cmp753p4902t8o007nejqkhlo) | ❌ |
+| `cmp77rkiv02wao007n5ut2oxr` | TWB Voice 1.0 - Kanuri | `twb-voice-1-0-kanuri-0fc8d419` | [link](https://mozilladatacollective.com/datasets/cmp77rkiv02wao007n5ut2oxr) | ❌ |
+| `cmp77t2kg02weo007s6hkkzec` | CoVoST 2 Latvian - English | `covost-2-latvian-english-cdee880d` | [link](https://mozilladatacollective.com/datasets/cmp77t2kg02weo007s6hkkzec) | ❌ |
+| `cmp77tlx802w5mp07dwv1rsq0` | CoVoST 2 Turkish - English | `covost-2-turkish-english-20293be5` | [link](https://mozilladatacollective.com/datasets/cmp77tlx802w5mp07dwv1rsq0) | ❌ |
+| `cmp77ufsd02w9mp07q65muzr3` | CoVoST 2 Mongolian - English | `covost-2-mongolian-english-50ef62cd` | [link](https://mozilladatacollective.com/datasets/cmp77ufsd02w9mp07q65muzr3) | ❌ |
+| `cmp77wrdm02wdmp071z00ldk3` | CoVoST 2 Estonian - English | `covost-2-estonian-english-21b7c086` | [link](https://mozilladatacollective.com/datasets/cmp77wrdm02wdmp071z00ldk3) | ❌ |
+| `cmp787jb102whmp07hbogpvaw` | CoVoST 2 Russian - English | `covost-2-russian-english-46e2d400` | [link](https://mozilladatacollective.com/datasets/cmp787jb102whmp07hbogpvaw) | ❌ |
+| `cmp8vqj5h03m0o007qu438s4a` | Gujarati News and Blogs Corpus | `gujarati-news-and-blogs-corpus-12ca4558` | [link](https://mozilladatacollective.com/datasets/cmp8vqj5h03m0o007qu438s4a) | ❌ |
+| `cmp8w3owe03phmp076hciar56` | Multispeaker Hindi ASR Dataset | `multispeaker-hindi-asr-dataset-5450a717` | [link](https://mozilladatacollective.com/datasets/cmp8w3owe03phmp076hciar56) | ❌ |
+| `cmpbfyxlc002nmj07k67e3ok2` | CoVoST 2 French - English | `covost-2-french-english-d459549b` | [link](https://mozilladatacollective.com/datasets/cmpbfyxlc002nmj07k67e3ok2) | ❌ |
+| `cmpbmhj4i0067nw07tk46v2jp` | Synthetic Ladino Parallel Corpus | `synthetic-ladino-parallel-corpus-c1dbf629` | [link](https://mozilladatacollective.com/datasets/cmpbmhj4i0067nw07tk46v2jp) | ❌ |
+| `cmpcp7cl800ydmg077wte52mv` | LegendNER-ID (Javanese) | `legendner-id-javanese-62d5a93d` | [link](https://mozilladatacollective.com/datasets/cmpcp7cl800ydmg077wte52mv) | ❌ |
+| `cmpdy07op00l1nu07lucrntkj` | Khmer ASR Cultural Dataset (Version 3 - Part 4) | `khmer-asr-cultural-dataset-version-3-par-e346427c` | [link](https://mozilladatacollective.com/datasets/cmpdy07op00l1nu07lucrntkj) | ❌ |
+| `cmpdy0a9h00l5nu078u4y91x1` | Khmer ASR Cultural Dataset (Version 3 - Part 3) | `khmer-asr-cultural-dataset-version-3-par-1a7b086a` | [link](https://mozilladatacollective.com/datasets/cmpdy0a9h00l5nu078u4y91x1) | ❌ |
+| `cmpdy0e2c00lxnv071292ocxf` | Khmer ASR Cultural Dataset (Version 3 - Part 6) | `khmer-asr-cultural-dataset-version-3-par-b089ab09` | [link](https://mozilladatacollective.com/datasets/cmpdy0e2c00lxnv071292ocxf) | ❌ |
+| `cmpdy0icy00l9nu07zo5hl1m3` | Khmer ASR Cultural Dataset (Version 3 - Part 7) | `khmer-asr-cultural-dataset-version-3-par-45a95fdf` | [link](https://mozilladatacollective.com/datasets/cmpdy0icy00l9nu07zo5hl1m3) | ❌ |
+| `cmpdy0si400ldnu07rs6zwql4` | Khmer ASR Cultural Dataset (Version 3 - Part 1) | `khmer-asr-cultural-dataset-version-3-par-500f679e` | [link](https://mozilladatacollective.com/datasets/cmpdy0si400ldnu07rs6zwql4) | ❌ |
+| `cmpdy14ka00lhnu07yzk3ixyn` | Khmer ASR Cultural Dataset (Version 3 - Part 2) | `khmer-asr-cultural-dataset-version-3-par-acc271d3` | [link](https://mozilladatacollective.com/datasets/cmpdy14ka00lhnu07yzk3ixyn) | ❌ |
+| `cmpdy19nn00llnu07y94pzeu4` | Khmer ASR Cultural Dataset (Version 3 - Part 5) | `khmer-asr-cultural-dataset-version-3-par-114b001c` | [link](https://mozilladatacollective.com/datasets/cmpdy19nn00llnu07y94pzeu4) | ❌ |
+| `cmpdycv7k00m7nu07co3jmxt8` | StackOverflow Knowledge Graph - C++ | `stackoverflow-knowledge-graph-c-481f3863` | [link](https://mozilladatacollective.com/datasets/cmpdycv7k00m7nu07co3jmxt8) | ❌ |
+| `cmpdyd5r500mbnu07ntygcv16` | StackOverflow Knowledge Graph - SQL | `stackoverflow-knowledge-graph-sql-673e0c2d` | [link](https://mozilladatacollective.com/datasets/cmpdyd5r500mbnu07ntygcv16) | ❌ |
+| `cmpdydc4o00mfnu0761rbiv86` | StackOverflow Knowledge Graph - R | `stackoverflow-knowledge-graph-r-7bf3af4d` | [link](https://mozilladatacollective.com/datasets/cmpdydc4o00mfnu0761rbiv86) | ❌ |
+| `cmpdydl4400mbnv07rzc2sf56` | StackOverflow Knowledge Graph - Swift | `stackoverflow-knowledge-graph-swift-d293d19d` | [link](https://mozilladatacollective.com/datasets/cmpdydl4400mbnv07rzc2sf56) | ❌ |
+| `cmpdydrp600mfnv07yake2j40` | StackOverflow Knowledge Graph - Typescript | `stackoverflow-knowledge-graph-typescript-1382bb80` | [link](https://mozilladatacollective.com/datasets/cmpdydrp600mfnv07yake2j40) | ❌ |
+| `cmpdye1q800mnnu07toknnvps` | StackOverflow Knowledge Graph - Python | `stackoverflow-knowledge-graph-python-9d067804` | [link](https://mozilladatacollective.com/datasets/cmpdye1q800mnnu07toknnvps) | ❌ |
+| `cmpdye7xc00mjnv07ug7zhu9k` | StackOverflow Knowledge Graph - Assembly | `stackoverflow-knowledge-graph-assembly-75835f5b` | [link](https://mozilladatacollective.com/datasets/cmpdye7xc00mjnv07ug7zhu9k) | ❌ |
+| `cmpdyefi900mrnu076a7ge28i` | StackOverflow Knowledge Graph - Abap | `stackoverflow-knowledge-graph-abap-6709aa4e` | [link](https://mozilladatacollective.com/datasets/cmpdyefi900mrnu076a7ge28i) | ❌ |
+| `cmpdyeljq00mvnu07y0s26kw5` | StackOverflow Knowledge Graph - .Net | `stackoverflow-knowledge-graph-net-a70d45f5` | [link](https://mozilladatacollective.com/datasets/cmpdyeljq00mvnu07y0s26kw5) | ❌ |
+| `cmpdyes6u00mnnv07wyjjzpgg` | StackOverflow Knowledge Graph - Vb.Net | `stackoverflow-knowledge-graph-vb-net-0c95c003` | [link](https://mozilladatacollective.com/datasets/cmpdyes6u00mnnv07wyjjzpgg) | ❌ |
+| `cmpdyhlyw00mrnv07va1jwwko` | StackOverflow Knowledge Graph - Shell | `stackoverflow-knowledge-graph-shell-d49f8202` | [link](https://mozilladatacollective.com/datasets/cmpdyhlyw00mrnv07va1jwwko) | ❌ |
+| `cmpdyhww200n5nu07ez4y7ppw` | StackOverflow Knowledge Graph - Scala | `stackoverflow-knowledge-graph-scala-8b0961f0` | [link](https://mozilladatacollective.com/datasets/cmpdyhww200n5nu07ez4y7ppw) | ❌ |
+| `cmpdyi6wl00mvnv077tm2mqdf` | StackOverflow Knowledge Graph - Rust | `stackoverflow-knowledge-graph-rust-53e8b07a` | [link](https://mozilladatacollective.com/datasets/cmpdyi6wl00mvnv077tm2mqdf) | ❌ |
+| `cmpdyjegk00ndnu07rq7ai8g7` | StackOverflow Knowledge Graph - Ruby | `stackoverflow-knowledge-graph-ruby-bfd5a264` | [link](https://mozilladatacollective.com/datasets/cmpdyjegk00ndnu07rq7ai8g7) | ❌ |
+| `cmpdyjnp900n1nv079ccqu2x3` | StackOverflow Knowledge Graph - Prolog | `stackoverflow-knowledge-graph-prolog-4ffc2305` | [link](https://mozilladatacollective.com/datasets/cmpdyjnp900n1nv079ccqu2x3) | ❌ |
+| `cmpdyjvuj00nhnu07sbmm4giq` | StackOverflow Knowledge Graph - Powershell | `stackoverflow-knowledge-graph-powershell-657136ed` | [link](https://mozilladatacollective.com/datasets/cmpdyjvuj00nhnu07sbmm4giq) | ❌ |
+| `cmpdyk3ap00n5nv078lcz7evy` | StackOverflow Knowledge Graph - PHP | `stackoverflow-knowledge-graph-php-4c49b597` | [link](https://mozilladatacollective.com/datasets/cmpdyk3ap00n5nv078lcz7evy) | ❌ |
+| `cmpdyk9yd00n9nv073odu03go` | StackOverflow Knowledge Graph - Perl | `stackoverflow-knowledge-graph-perl-22f520a0` | [link](https://mozilladatacollective.com/datasets/cmpdyk9yd00n9nv073odu03go) | ❌ |
+| `cmpdykii200ndnv07wkw14oqa` | StackOverflow Knowledge Graph - Objective-C | `stackoverflow-knowledge-graph-objective-4911527d` | [link](https://mozilladatacollective.com/datasets/cmpdykii200ndnv07wkw14oqa) | ❌ |
+| `cmpdyknrh00nhnv07ohqk1hrc` | StackOverflow Knowledge Graph - Matlab | `stackoverflow-knowledge-graph-matlab-8950eb8f` | [link](https://mozilladatacollective.com/datasets/cmpdyknrh00nhnv07ohqk1hrc) | ❌ |
+| `cmpdykw5h00nlnu079ty86xbw` | StackOverflow Knowledge Graph - LUA | `stackoverflow-knowledge-graph-lua-794be389` | [link](https://mozilladatacollective.com/datasets/cmpdykw5h00nlnu079ty86xbw) | ❌ |
+| `cmpdyl2wk00npnu0727nrkvfk` | StackOverflow Knowledge Graph - Lisp | `stackoverflow-knowledge-graph-lisp-7b767ed8` | [link](https://mozilladatacollective.com/datasets/cmpdyl2wk00npnu0727nrkvfk) | ❌ |
+| `cmpdyl8p800ntnu07od7r1u51` | StackOverflow Knowledge Graph - Kotlin | `stackoverflow-knowledge-graph-kotlin-acceeb08` | [link](https://mozilladatacollective.com/datasets/cmpdyl8p800ntnu07od7r1u51) | ❌ |
+| `cmpdylr4p00nxnu07j6vnqwl6` | StackOverflow Knowledge Graph - Julia | `stackoverflow-knowledge-graph-julia-98a8d48b` | [link](https://mozilladatacollective.com/datasets/cmpdylr4p00nxnu07j6vnqwl6) | ❌ |
+| `cmpdylxq900nlnv07sobvszik` | StackOverflow Knowledge Graph - Javascript | `stackoverflow-knowledge-graph-javascript-5a825980` | [link](https://mozilladatacollective.com/datasets/cmpdylxq900nlnv07sobvszik) | ❌ |
+| `cmpdym5uw00o1nu071kqpz3vw` | StackOverflow Knowledge Graph - Java | `stackoverflow-knowledge-graph-java-5faf4127` | [link](https://mozilladatacollective.com/datasets/cmpdym5uw00o1nu071kqpz3vw) | ❌ |
+| `cmpdymcul00npnv07amwfj0zq` | StackOverflow Knowledge Graph - Html | `stackoverflow-knowledge-graph-html-631a0572` | [link](https://mozilladatacollective.com/datasets/cmpdymcul00npnv07amwfj0zq) | ❌ |
+| `cmpdymk8t00ntnv07vw6h2zhr` | StackOverflow Knowledge Graph - Haskell | `stackoverflow-knowledge-graph-haskell-88a066e1` | [link](https://mozilladatacollective.com/datasets/cmpdymk8t00ntnv07vw6h2zhr) | ❌ |
+| `cmpdymqte00o9nu07mzkxwxfb` | StackOverflow Knowledge Graph - GO | `stackoverflow-knowledge-graph-go-86db6200` | [link](https://mozilladatacollective.com/datasets/cmpdymqte00o9nu07mzkxwxfb) | ❌ |
+| `cmpdymy7o00ofnu0743zb36hs` | StackOverflow Knowledge Graph - F# | `stackoverflow-knowledge-graph-f-c1892b62` | [link](https://mozilladatacollective.com/datasets/cmpdymy7o00ofnu0743zb36hs) | ❌ |
+| `cmpdyn3lc00ojnu07qfq4ff3h` | StackOverflow Knowledge Graph - Fortran | `stackoverflow-knowledge-graph-fortran-8008b34e` | [link](https://mozilladatacollective.com/datasets/cmpdyn3lc00ojnu07qfq4ff3h) | ❌ |
+| `cmpdynb1g00onnu0783qgrvdr` | StackOverflow Knowledge Graph - Erlang | `stackoverflow-knowledge-graph-erlang-9737bac5` | [link](https://mozilladatacollective.com/datasets/cmpdynb1g00onnu0783qgrvdr) | ❌ |
+| `cmpdyng3300nxnv07p9nlq3na` | StackOverflow Knowledge Graph - Elixir | `stackoverflow-knowledge-graph-elixir-31c8ed69` | [link](https://mozilladatacollective.com/datasets/cmpdyng3300nxnv07p9nlq3na) | ❌ |
+| `cmpdynmf900o1nv07s9a3fopl` | StackOverflow Knowledge Graph - Dart | `stackoverflow-knowledge-graph-dart-771a870f` | [link](https://mozilladatacollective.com/datasets/cmpdynmf900o1nv07s9a3fopl) | ❌ |
+| `cmpdyntcn00o5nv07wwkgz5x7` | StackOverflow Knowledge Graph - CSS | `stackoverflow-knowledge-graph-css-10d0c528` | [link](https://mozilladatacollective.com/datasets/cmpdyntcn00o5nv07wwkgz5x7) | ❌ |
+| `cmpdynyzu00ornu074r3i2ndm` | StackOverflow Knowledge Graph - C# | `stackoverflow-knowledge-graph-c-ea54d68b` | [link](https://mozilladatacollective.com/datasets/cmpdynyzu00ornu074r3i2ndm) | ❌ |
+| `cmpdyo45100o9nv07np0uqmpm` | StackOverflow Knowledge Graph - Cobol | `stackoverflow-knowledge-graph-cobol-a668a3ae` | [link](https://mozilladatacollective.com/datasets/cmpdyo45100o9nv07np0uqmpm) | ❌ |
+| `cmpdyoaa300ovnu07ruxpomwb` | StackOverflow Knowledge Graph - C | `stackoverflow-knowledge-graph-c-0439fead` | [link](https://mozilladatacollective.com/datasets/cmpdyoaa300ovnu07ruxpomwb) | ❌ |
+| `cmpdyogk700ohnv07aasx1q4f` | StackOverflow Knowledge Graph - Bash | `stackoverflow-knowledge-graph-bash-b8655e8e` | [link](https://mozilladatacollective.com/datasets/cmpdyogk700ohnv07aasx1q4f) | ❌ |
+| `cmpdyqe6u00oznu07c3scvwz0` | AmaWar | `amawar-edf1bbcb` | [link](https://mozilladatacollective.com/datasets/cmpdyqe6u00oznu07c3scvwz0) | ❌ |
+| `cmpe4rs9800r2nv07qpq8972c` | Multilingual Audio Visual Speech (Lip-Reading) Dataset | `multilingual-audio-visual-speech-lip-rea-a0a8ae34` | [link](https://mozilladatacollective.com/datasets/cmpe4rs9800r2nv07qpq8972c) | ❌ |
+| `cmpe4sp6100rznu07p61gmppd` | Diboum-ALCAM-MultimodalDataset | `diboum-alcam-multimodaldataset-ed5ca36e` | [link](https://mozilladatacollective.com/datasets/cmpe4sp6100rznu07p61gmppd) | ❌ |
+| `cmpedjr9y00wqnv07styloz0d` | Ewondo-French Parallel Corpus | `ewondo-french-parallel-corpus-4c300545` | [link](https://mozilladatacollective.com/datasets/cmpedjr9y00wqnv07styloz0d) | ❌ |
