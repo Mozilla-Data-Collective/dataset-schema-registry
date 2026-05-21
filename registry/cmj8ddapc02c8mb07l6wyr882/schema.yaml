@@ -1,0 +1,29 @@
+dataset_id: "cmj8ddapc02c8mb07l6wyr882"
+task: "OTH"
+format: "tsv"
+
+index_file: "mcv_text_lid.tsv"
+
+columns:
+  id:
+    source_column: "id"
+    dtype: "int"
+  sentence:
+    source_column: "sentence"
+    dtype: "string"
+  lang:
+    source_column: "lang"
+    dtype: "category"
+  sentence_domain:
+    source_column: "sentence_domain"
+    dtype: "category"
+    optional: true
+  source:
+    source_column: "source"
+    dtype: "category"
+  style:
+    source_column: "style"
+    dtype: "category"
+  split:
+    source_column: "split"
+    dtype: "category"
