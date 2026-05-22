@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T08:30:06.723269+00:00",
-  "total": 755,
+  "updated_at": "2026-05-22T06:27:05.894681+00:00",
+  "total": 757,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5286,6 +5286,20 @@
       "lastmod": "2026-05-20T18:07:31.798Z",
       "name": "Ewondo-French Parallel Corpus",
       "slug": "ewondo-french-parallel-corpus-4c300545"
+    },
+    {
+      "id": "cmpfmnia3000dnx0776qa5xp6",
+      "url": "https://mozilladatacollective.com/datasets/cmpfmnia3000dnx0776qa5xp6",
+      "lastmod": "2026-05-21T15:10:09.483Z",
+      "name": "Buscador de Obligaciones de Transparencia de la Plataforma Nacional de Transparencia",
+      "slug": "buscador-de-obligaciones-de-transparenci-b74de5e7"
+    },
+    {
+      "id": "cmpfuh0p0004rmm070vm3ggnx",
+      "url": "https://mozilladatacollective.com/datasets/cmpfuh0p0004rmm070vm3ggnx",
+      "lastmod": "2026-05-21T18:59:13.279Z",
+      "name": "Cross Agency Federal Violations by Company",
+      "slug": "cross-agency-federal-violations-by-compa-f35009c3"
     }
   ]
 }
