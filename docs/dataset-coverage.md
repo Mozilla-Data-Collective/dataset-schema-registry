@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-05-21  
-**Total datasets in sitemap:** 755  
+**Last updated:** 2026-05-22  
+**Total datasets in sitemap:** 757  
 **Schemas registered:** 398 ✅  
-**Schemas missing:** 357 ❌  
+**Schemas missing:** 359 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -770,3 +770,5 @@ schema in this registry and which ones are still missing.
 | `cmpe4rs9800r2nv07qpq8972c` | Multilingual Audio Visual Speech (Lip-Reading) Dataset | `multilingual-audio-visual-speech-lip-rea-a0a8ae34` | [link](https://mozilladatacollective.com/datasets/cmpe4rs9800r2nv07qpq8972c) | ❌ |
 | `cmpe4sp6100rznu07p61gmppd` | Diboum-ALCAM-MultimodalDataset | `diboum-alcam-multimodaldataset-ed5ca36e` | [link](https://mozilladatacollective.com/datasets/cmpe4sp6100rznu07p61gmppd) | ❌ |
 | `cmpedjr9y00wqnv07styloz0d` | Ewondo-French Parallel Corpus | `ewondo-french-parallel-corpus-4c300545` | [link](https://mozilladatacollective.com/datasets/cmpedjr9y00wqnv07styloz0d) | ❌ |
+| `cmpfmnia3000dnx0776qa5xp6` | Buscador de Obligaciones de Transparencia de la Plataforma Nacional de Transparencia | `buscador-de-obligaciones-de-transparenci-b74de5e7` | [link](https://mozilladatacollective.com/datasets/cmpfmnia3000dnx0776qa5xp6) | ❌ |
+| `cmpfuh0p0004rmm070vm3ggnx` | Cross Agency Federal Violations by Company | `cross-agency-federal-violations-by-compa-f35009c3` | [link](https://mozilladatacollective.com/datasets/cmpfuh0p0004rmm070vm3ggnx) | ❌ |
