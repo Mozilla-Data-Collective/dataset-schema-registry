@@ -8,7 +8,7 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-05-25  
+**Last updated:** 2026-05-26  
 **Total datasets in sitemap:** 757  
 **Schemas registered:** 398 ✅  
 **Schemas missing:** 359 ❌  
@@ -622,7 +622,7 @@ schema in this registry and which ones are still missing.
 | `cmo06ikpt00chnx07xmaj8rxe` | RFE/RL Serbian, Bosnian, and Montenegrin (Balkan) News Text Corpus | `rfe-rl-serbian-bosnian-and-montenegrin-b-0a5c7977` | [link](https://mozilladatacollective.com/datasets/cmo06ikpt00chnx07xmaj8rxe) | ❌ |
 | `cmo07ixww00ddmr07enqrrpfw` | Awal Tamazight Dataset | `awal-tamazight-dataset-acc51046` | [link](https://mozilladatacollective.com/datasets/cmo07ixww00ddmr07enqrrpfw) | ❌ |
 | `cmo09pqp300gbnx07xcl42los` | Yoruba-English Code-Switching (YECS) Corpus | `yoruba-english-code-switching-yecs-corpu-6da2a4ed` | [link](https://mozilladatacollective.com/datasets/cmo09pqp300gbnx07xcl42los) | ❌ |
-| `cmo0cro1g00hlmr07oichasyk` | otomí-hñähñu TTS Voz Masculina  | `otom-h-h-u-tts-voz-masculina-b3c8c8a8` | [link](https://mozilladatacollective.com/datasets/cmo0cro1g00hlmr07oichasyk) | ❌ |
+| `cmo0cro1g00hlmr07oichasyk` | Otomí (Hñähñu) TTS Voz Masculina | `otom-h-h-u-tts-voz-masculina-e36eadde` | [link](https://mozilladatacollective.com/datasets/cmo0cro1g00hlmr07oichasyk) | ❌ |
 | `cmo0h34b600n8nx07khjct4iy` | UK Sort Codes - ASR Evaluation | `uk-sort-codes-asr-evaluation-3a75316e` | [link](https://mozilladatacollective.com/datasets/cmo0h34b600n8nx07khjct4iy) | ❌ |
 | `cmo0jfvnw00p1nx070preklt5` | LibriVox Czech TTS Female Voice | `librivox-czech-tts-female-voice-dacc0fd3` | [link](https://mozilladatacollective.com/datasets/cmo0jfvnw00p1nx070preklt5) | ❌ |
 | `cmo0qtw7v003knt07u6yupncc` | LibriVox Italian TTS Female Voice | `librivox-italian-tts-female-voice-249d4ed7` | [link](https://mozilladatacollective.com/datasets/cmo0qtw7v003knt07u6yupncc) | ❌ |
