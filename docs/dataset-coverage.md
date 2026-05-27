@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-05-26  
-**Total datasets in sitemap:** 757  
+**Last updated:** 2026-05-27  
+**Total datasets in sitemap:** 759  
 **Schemas registered:** 398 ✅  
-**Schemas missing:** 359 ❌  
+**Schemas missing:** 361 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -766,9 +766,11 @@ schema in this registry and which ones are still missing.
 | `cmpdyo45100o9nv07np0uqmpm` | StackOverflow Knowledge Graph - Cobol | `stackoverflow-knowledge-graph-cobol-a668a3ae` | [link](https://mozilladatacollective.com/datasets/cmpdyo45100o9nv07np0uqmpm) | ❌ |
 | `cmpdyoaa300ovnu07ruxpomwb` | StackOverflow Knowledge Graph - C | `stackoverflow-knowledge-graph-c-0439fead` | [link](https://mozilladatacollective.com/datasets/cmpdyoaa300ovnu07ruxpomwb) | ❌ |
 | `cmpdyogk700ohnv07aasx1q4f` | StackOverflow Knowledge Graph - Bash | `stackoverflow-knowledge-graph-bash-b8655e8e` | [link](https://mozilladatacollective.com/datasets/cmpdyogk700ohnv07aasx1q4f) | ❌ |
-| `cmpdyqe6u00oznu07c3scvwz0` | AmaWar | `amawar-edf1bbcb` | [link](https://mozilladatacollective.com/datasets/cmpdyqe6u00oznu07c3scvwz0) | ❌ |
+| `cmpdyqe6u00oznu07c3scvwz0` | AmaWar | `amawar-ab58fcd1` | [link](https://mozilladatacollective.com/datasets/cmpdyqe6u00oznu07c3scvwz0) | ❌ |
 | `cmpe4rs9800r2nv07qpq8972c` | Multilingual Audio Visual Speech (Lip-Reading) Dataset | `multilingual-audio-visual-speech-lip-rea-a0a8ae34` | [link](https://mozilladatacollective.com/datasets/cmpe4rs9800r2nv07qpq8972c) | ❌ |
 | `cmpe4sp6100rznu07p61gmppd` | Diboum-ALCAM-MultimodalDataset | `diboum-alcam-multimodaldataset-ed5ca36e` | [link](https://mozilladatacollective.com/datasets/cmpe4sp6100rznu07p61gmppd) | ❌ |
 | `cmpedjr9y00wqnv07styloz0d` | Ewondo-French Parallel Corpus | `ewondo-french-parallel-corpus-4c300545` | [link](https://mozilladatacollective.com/datasets/cmpedjr9y00wqnv07styloz0d) | ❌ |
 | `cmpfmnia3000dnx0776qa5xp6` | Buscador de Obligaciones de Transparencia de la Plataforma Nacional de Transparencia | `buscador-de-obligaciones-de-transparenci-b74de5e7` | [link](https://mozilladatacollective.com/datasets/cmpfmnia3000dnx0776qa5xp6) | ❌ |
 | `cmpfuh0p0004rmm070vm3ggnx` | Cross Agency Federal Violations by Company | `cross-agency-federal-violations-by-compa-f35009c3` | [link](https://mozilladatacollective.com/datasets/cmpfuh0p0004rmm070vm3ggnx) | ❌ |
+| `cmpmpdwwh0217nu07zomtwz7o` | Ngemba-ALCAM-MultimodalDataset | `ngemba-alcam-multimodaldataset-3238fc9d` | [link](https://mozilladatacollective.com/datasets/cmpmpdwwh0217nu07zomtwz7o) | ❌ |
+| `cmpmpf0jw021bnu0743hu7763` | Duala-TTS-Dataset | `duala-tts-dataset-23e0d67f` | [link](https://mozilladatacollective.com/datasets/cmpmpf0jw021bnu0743hu7763) | ❌ |
