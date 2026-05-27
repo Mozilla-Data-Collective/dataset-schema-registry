@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T07:10:23.236273+00:00",
-  "total": 757,
+  "updated_at": "2026-05-27T06:33:43.869922+00:00",
+  "total": 759,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5262,9 +5262,9 @@
     {
       "id": "cmpdyqe6u00oznu07c3scvwz0",
       "url": "https://mozilladatacollective.com/datasets/cmpdyqe6u00oznu07c3scvwz0",
-      "lastmod": "2026-05-20T11:12:47.190Z",
+      "lastmod": "2026-05-26T14:25:46.519Z",
       "name": "AmaWar",
-      "slug": "amawar-edf1bbcb"
+      "slug": "amawar-ab58fcd1"
     },
     {
       "id": "cmpe4rs9800r2nv07qpq8972c",
@@ -5300,6 +5300,20 @@
       "lastmod": "2026-05-21T18:59:13.279Z",
       "name": "Cross Agency Federal Violations by Company",
       "slug": "cross-agency-federal-violations-by-compa-f35009c3"
+    },
+    {
+      "id": "cmpmpdwwh0217nu07zomtwz7o",
+      "url": "https://mozilladatacollective.com/datasets/cmpmpdwwh0217nu07zomtwz7o",
+      "lastmod": "2026-05-26T14:01:03.953Z",
+      "name": "Ngemba-ALCAM-MultimodalDataset",
+      "slug": "ngemba-alcam-multimodaldataset-3238fc9d"
+    },
+    {
+      "id": "cmpmpf0jw021bnu0743hu7763",
+      "url": "https://mozilladatacollective.com/datasets/cmpmpf0jw021bnu0743hu7763",
+      "lastmod": "2026-05-26T14:01:55.340Z",
+      "name": "Duala-TTS-Dataset",
+      "slug": "duala-tts-dataset-23e0d67f"
     }
   ]
 }
