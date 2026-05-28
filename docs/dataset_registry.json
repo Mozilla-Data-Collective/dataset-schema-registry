@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-27T07:24:18.820611+00:00",
-  "total": 759,
+  "updated_at": "2026-05-28T06:29:02.969408+00:00",
+  "total": 761,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -1153,9 +1153,9 @@
     {
       "id": "cmmamvzrz04qtmk077j1k99vt",
       "url": "https://mozilladatacollective.com/datasets/cmmamvzrz04qtmk077j1k99vt",
-      "lastmod": "2026-05-11T08:24:51.416Z",
+      "lastmod": "2026-05-27T18:23:59.796Z",
       "name": "Mada-French Parallel Corpus 1.0",
-      "slug": "mada-french-parallel-corpus-1-0-150fb722"
+      "slug": "mada-french-parallel-corpus-1-0-55f89ce6"
     },
     {
       "id": "cmmao7dc504oamh0710j4wau1",
@@ -5314,6 +5314,20 @@
       "lastmod": "2026-05-26T14:01:55.340Z",
       "name": "Duala-TTS-Dataset",
       "slug": "duala-tts-dataset-23e0d67f"
+    },
+    {
+      "id": "cmpo51atc000mnu07idjb21pw",
+      "url": "https://mozilladatacollective.com/datasets/cmpo51atc000mnu07idjb21pw",
+      "lastmod": "2026-05-27T14:06:55.488Z",
+      "name": "Tequila Zongolica Nahuatl Audio",
+      "slug": "tequila-zongolica-nahuatl-audio-b0ce0a65"
+    },
+    {
+      "id": "cmpo53l5b000pku07cem453ac",
+      "url": "https://mozilladatacollective.com/datasets/cmpo53l5b000pku07cem453ac",
+      "lastmod": "2026-05-27T14:08:42.191Z",
+      "name": "Jombang Dialect-Javanese TTS",
+      "slug": "jombang-dialect-javanese-tts-cb30238f"
     }
   ]
 }
