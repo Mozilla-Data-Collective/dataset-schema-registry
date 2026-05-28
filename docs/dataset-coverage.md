@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-05-27  
-**Total datasets in sitemap:** 759  
+**Last updated:** 2026-05-28  
+**Total datasets in sitemap:** 761  
 **Schemas registered:** 398 ✅  
-**Schemas missing:** 361 ❌  
+**Schemas missing:** 363 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -179,7 +179,7 @@ schema in this registry and which ones are still missing.
 | `cmm4de9w500ntmh073nx14k7p` | Thorsten-Voice-44kHz-Full | `thorsten-voice-44khz-full-ded7f701` | [link](https://mozilladatacollective.com/datasets/cmm4de9w500ntmh073nx14k7p) | ❌ |
 | `cmm5078n50168mk07v64792sf` | Finnish Public Domain 20th Century Literature Text Corpus | `finnish-public-domain-20th-century-liter-294fe404` | [link](https://mozilladatacollective.com/datasets/cmm5078n50168mk07v64792sf) | ❌ |
 | `cmmamtaf104nemh07xa9e7sdx` | Javanese TTS of Banyumasan Dialect | `javanese-tts-of-banyumasan-dialect-1f7e2f21` | [link](https://mozilladatacollective.com/datasets/cmmamtaf104nemh07xa9e7sdx) | ❌ |
-| `cmmamvzrz04qtmk077j1k99vt` | Mada-French Parallel Corpus 1.0 | `mada-french-parallel-corpus-1-0-150fb722` | [link](https://mozilladatacollective.com/datasets/cmmamvzrz04qtmk077j1k99vt) | ❌ |
+| `cmmamvzrz04qtmk077j1k99vt` | Mada-French Parallel Corpus 1.0 | `mada-french-parallel-corpus-1-0-55f89ce6` | [link](https://mozilladatacollective.com/datasets/cmmamvzrz04qtmk077j1k99vt) | ❌ |
 | `cmmao7dc504oamh0710j4wau1` | Jhoke Publisher Multan’s Saraiki Newspaper Corpus | `jhoke-publisher-multan-s-saraiki-newspap-e0350169` | [link](https://mozilladatacollective.com/datasets/cmmao7dc504oamh0710j4wau1) | ❌ |
 | `cmmaphscg04t2mk07i1f8yc0q` | Saraiki-English Parallel Corpus | `saraiki-english-parallel-corpus-096ab4eb` | [link](https://mozilladatacollective.com/datasets/cmmaphscg04t2mk07i1f8yc0q) | ❌ |
 | `cmmccfc5000efmu07ommi3zfr` | Bangor Patagonia Welsh-Spanish Corpus | `bangor-patagonia-welsh-spanish-corpus-5440036b` | [link](https://mozilladatacollective.com/datasets/cmmccfc5000efmu07ommi3zfr) | ❌ |
@@ -774,3 +774,5 @@ schema in this registry and which ones are still missing.
 | `cmpfuh0p0004rmm070vm3ggnx` | Cross Agency Federal Violations by Company | `cross-agency-federal-violations-by-compa-f35009c3` | [link](https://mozilladatacollective.com/datasets/cmpfuh0p0004rmm070vm3ggnx) | ❌ |
 | `cmpmpdwwh0217nu07zomtwz7o` | Ngemba-ALCAM-MultimodalDataset | `ngemba-alcam-multimodaldataset-3238fc9d` | [link](https://mozilladatacollective.com/datasets/cmpmpdwwh0217nu07zomtwz7o) | ❌ |
 | `cmpmpf0jw021bnu0743hu7763` | Duala-TTS-Dataset | `duala-tts-dataset-23e0d67f` | [link](https://mozilladatacollective.com/datasets/cmpmpf0jw021bnu0743hu7763) | ❌ |
+| `cmpo51atc000mnu07idjb21pw` | Tequila Zongolica Nahuatl Audio | `tequila-zongolica-nahuatl-audio-b0ce0a65` | [link](https://mozilladatacollective.com/datasets/cmpo51atc000mnu07idjb21pw) | ❌ |
+| `cmpo53l5b000pku07cem453ac` | Jombang Dialect-Javanese TTS | `jombang-dialect-javanese-tts-cb30238f` | [link](https://mozilladatacollective.com/datasets/cmpo53l5b000pku07cem453ac) | ❌ |
