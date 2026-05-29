@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T07:17:57.669980+00:00",
-  "total": 761,
+  "updated_at": "2026-05-29T06:29:42.040271+00:00",
+  "total": 766,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -4730,9 +4730,9 @@
     {
       "id": "cmp3rmip800ozo30799h7wp6g",
       "url": "https://mozilladatacollective.com/datasets/cmp3rmip800ozo30799h7wp6g",
-      "lastmod": "2026-05-13T07:56:07.341Z",
-      "name": "Friulan TTS - female voice",
-      "slug": "friulan-tts-female-voice-73e62046"
+      "lastmod": "2026-05-28T18:21:52.772Z",
+      "name": "Friulian TTS - female voice",
+      "slug": "friulian-tts-female-voice-a39bcd04"
     },
     {
       "id": "cmp4htii700glmp07syfvo010",
@@ -5328,6 +5328,41 @@
       "lastmod": "2026-05-27T14:08:42.191Z",
       "name": "Jombang Dialect-Javanese TTS",
       "slug": "jombang-dialect-javanese-tts-cb30238f"
+    },
+    {
+      "id": "cmpps4tzv0019nu07p7h9zl0e",
+      "url": "https://mozilladatacollective.com/datasets/cmpps4tzv0019nu07p7h9zl0e",
+      "lastmod": "2026-05-28T17:41:17.660Z",
+      "name": "CoVoST 2 English - Catalan",
+      "slug": "covost-2-english-catalan-2a653505"
+    },
+    {
+      "id": "cmpq9bamw00eknu07hsiurgso",
+      "url": "https://mozilladatacollective.com/datasets/cmpq9bamw00eknu07hsiurgso",
+      "lastmod": "2026-05-29T01:42:12.632Z",
+      "name": "CoVoST 2 English - Indonesian",
+      "slug": "covost-2-english-indonesian-c851b8fb"
+    },
+    {
+      "id": "cmpq9bfw000eonu07uwrpnygg",
+      "url": "https://mozilladatacollective.com/datasets/cmpq9bfw000eonu07uwrpnygg",
+      "lastmod": "2026-05-29T01:42:19.440Z",
+      "name": "CoVoST 2 English - Estonian",
+      "slug": "covost-2-english-estonian-a463b41b"
+    },
+    {
+      "id": "cmpq9bjzy00f7nv07qff3brpb",
+      "url": "https://mozilladatacollective.com/datasets/cmpq9bjzy00f7nv07qff3brpb",
+      "lastmod": "2026-05-29T01:42:24.766Z",
+      "name": "CoVoST 2 English - German",
+      "slug": "covost-2-english-german-10a2754c"
+    },
+    {
+      "id": "cmpq9bnz000esnu073lop6tud",
+      "url": "https://mozilladatacollective.com/datasets/cmpq9bnz000esnu073lop6tud",
+      "lastmod": "2026-05-29T01:42:29.916Z",
+      "name": "CoVoST 2 English - Welsh",
+      "slug": "covost-2-english-welsh-828249f5"
     }
   ]
 }
