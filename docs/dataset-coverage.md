@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-05-28  
-**Total datasets in sitemap:** 761  
+**Last updated:** 2026-05-29  
+**Total datasets in sitemap:** 766  
 **Schemas registered:** 398 ✅  
-**Schemas missing:** 363 ❌  
+**Schemas missing:** 368 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -690,7 +690,7 @@ schema in this registry and which ones are still missing.
 | `cmp2h2jnt00n8mp07lkr11xru` | VoxForge - Albanian | `voxforge-albanian-1bd2e28b` | [link](https://mozilladatacollective.com/datasets/cmp2h2jnt00n8mp07lkr11xru) | ❌ |
 | `cmp2h2som00kzno07n8lwesrr` | VoxForge - Turkish | `voxforge-turkish-788023eb` | [link](https://mozilladatacollective.com/datasets/cmp2h2som00kzno07n8lwesrr) | ❌ |
 | `cmp2hgs2j00nsmp07q9s6g3m0` | Less is More Corpus | `less-is-more-corpus-e6dc1838` | [link](https://mozilladatacollective.com/datasets/cmp2hgs2j00nsmp07q9s6g3m0) | ❌ |
-| `cmp3rmip800ozo30799h7wp6g` | Friulan TTS - female voice | `friulan-tts-female-voice-73e62046` | [link](https://mozilladatacollective.com/datasets/cmp3rmip800ozo30799h7wp6g) | ❌ |
+| `cmp3rmip800ozo30799h7wp6g` | Friulian TTS - female voice | `friulian-tts-female-voice-a39bcd04` | [link](https://mozilladatacollective.com/datasets/cmp3rmip800ozo30799h7wp6g) | ❌ |
 | `cmp4htii700glmp07syfvo010` | Bangladesh Traffic Signs Dataset | `bangladesh-traffic-signs-dataset-ea063219` | [link](https://mozilladatacollective.com/datasets/cmp4htii700glmp07syfvo010) | ❌ |
 | `cmp4htkri00hao007kbrbew2h` | India Traffic Signs Dataset | `india-traffic-signs-dataset-b74e4eac` | [link](https://mozilladatacollective.com/datasets/cmp4htkri00hao007kbrbew2h) | ❌ |
 | `cmp4htnf000gpmp07shg6l5v9` | Pakistan Traffic Signs Dataset | `pakistan-traffic-signs-dataset-62e0f6c7` | [link](https://mozilladatacollective.com/datasets/cmp4htnf000gpmp07shg6l5v9) | ❌ |
@@ -776,3 +776,8 @@ schema in this registry and which ones are still missing.
 | `cmpmpf0jw021bnu0743hu7763` | Duala-TTS-Dataset | `duala-tts-dataset-23e0d67f` | [link](https://mozilladatacollective.com/datasets/cmpmpf0jw021bnu0743hu7763) | ❌ |
 | `cmpo51atc000mnu07idjb21pw` | Tequila Zongolica Nahuatl Audio | `tequila-zongolica-nahuatl-audio-b0ce0a65` | [link](https://mozilladatacollective.com/datasets/cmpo51atc000mnu07idjb21pw) | ❌ |
 | `cmpo53l5b000pku07cem453ac` | Jombang Dialect-Javanese TTS | `jombang-dialect-javanese-tts-cb30238f` | [link](https://mozilladatacollective.com/datasets/cmpo53l5b000pku07cem453ac) | ❌ |
+| `cmpps4tzv0019nu07p7h9zl0e` | CoVoST 2 English - Catalan | `covost-2-english-catalan-2a653505` | [link](https://mozilladatacollective.com/datasets/cmpps4tzv0019nu07p7h9zl0e) | ❌ |
+| `cmpq9bamw00eknu07hsiurgso` | CoVoST 2 English - Indonesian | `covost-2-english-indonesian-c851b8fb` | [link](https://mozilladatacollective.com/datasets/cmpq9bamw00eknu07hsiurgso) | ❌ |
+| `cmpq9bfw000eonu07uwrpnygg` | CoVoST 2 English - Estonian | `covost-2-english-estonian-a463b41b` | [link](https://mozilladatacollective.com/datasets/cmpq9bfw000eonu07uwrpnygg) | ❌ |
+| `cmpq9bjzy00f7nv07qff3brpb` | CoVoST 2 English - German | `covost-2-english-german-10a2754c` | [link](https://mozilladatacollective.com/datasets/cmpq9bjzy00f7nv07qff3brpb) | ❌ |
+| `cmpq9bnz000esnu073lop6tud` | CoVoST 2 English - Welsh | `covost-2-english-welsh-828249f5` | [link](https://mozilladatacollective.com/datasets/cmpq9bnz000esnu073lop6tud) | ❌ |
