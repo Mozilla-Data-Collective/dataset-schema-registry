@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-05-29  
-**Total datasets in sitemap:** 766  
+**Last updated:** 2026-05-30  
+**Total datasets in sitemap:** 774  
 **Schemas registered:** 398 ✅  
-**Schemas missing:** 368 ❌  
+**Schemas missing:** 376 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -781,3 +781,11 @@ schema in this registry and which ones are still missing.
 | `cmpq9bfw000eonu07uwrpnygg` | CoVoST 2 English - Estonian | `covost-2-english-estonian-a463b41b` | [link](https://mozilladatacollective.com/datasets/cmpq9bfw000eonu07uwrpnygg) | ❌ |
 | `cmpq9bjzy00f7nv07qff3brpb` | CoVoST 2 English - German | `covost-2-english-german-10a2754c` | [link](https://mozilladatacollective.com/datasets/cmpq9bjzy00f7nv07qff3brpb) | ❌ |
 | `cmpq9bnz000esnu073lop6tud` | CoVoST 2 English - Welsh | `covost-2-english-welsh-828249f5` | [link](https://mozilladatacollective.com/datasets/cmpq9bnz000esnu073lop6tud) | ❌ |
+| `cmpqxcd0300vznu07ynpc8du5` | CoVoST 2 English - Japanese | `covost-2-english-japanese-f967e981` | [link](https://mozilladatacollective.com/datasets/cmpqxcd0300vznu07ynpc8du5) | ❌ |
+| `cmpqxcg1z00zanv07m3qeb196` | CoVoST 2 English - Latvian | `covost-2-english-latvian-b79d6b9e` | [link](https://mozilladatacollective.com/datasets/cmpqxcg1z00zanv07m3qeb196) | ❌ |
+| `cmpqxciw600w3nu07pagrlqka` | CoVoST 2 English - Slovenian | `covost-2-english-slovenian-0d47cecb` | [link](https://mozilladatacollective.com/datasets/cmpqxciw600w3nu07pagrlqka) | ❌ |
+| `cmpqxclu100w7nu07890m5s45` | CoVoST 2 English - Tamil | `covost-2-english-tamil-d6ae9198` | [link](https://mozilladatacollective.com/datasets/cmpqxclu100w7nu07890m5s45) | ❌ |
+| `cmpqxcoy400zinv07bmrdx59x` | CoVoST 2 English - Chinese (China) | `covost-2-english-chinese-china-fd3fb681` | [link](https://mozilladatacollective.com/datasets/cmpqxcoy400zinv07bmrdx59x) | ❌ |
+| `cmpqxcsb900wbnu07wlxrag4b` | CoVoST 2 English - Turkish | `covost-2-english-turkish-2f192495` | [link](https://mozilladatacollective.com/datasets/cmpqxcsb900wbnu07wlxrag4b) | ❌ |
+| `cmpr2sd43014knv07mpsae5yf` | KerOfis toponymic database Breton-French | `kerofis-toponymic-database-breton-french-ade1f47a` | [link](https://mozilladatacollective.com/datasets/cmpr2sd43014knv07mpsae5yf) | ❌ |
+| `cmpr9hex201bhnv07aoztund6` | CoVoST 2 English - Persian | `covost-2-english-persian-7962b3b5` | [link](https://mozilladatacollective.com/datasets/cmpr9hex201bhnv07aoztund6) | ❌ |
