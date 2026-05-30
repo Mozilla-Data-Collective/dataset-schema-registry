@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-29T07:17:59.136973+00:00",
-  "total": 766,
+  "updated_at": "2026-05-30T06:10:07.293846+00:00",
+  "total": 774,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5363,6 +5363,62 @@
       "lastmod": "2026-05-29T01:42:29.916Z",
       "name": "CoVoST 2 English - Welsh",
       "slug": "covost-2-english-welsh-828249f5"
+    },
+    {
+      "id": "cmpqxcd0300vznu07ynpc8du5",
+      "url": "https://mozilladatacollective.com/datasets/cmpqxcd0300vznu07ynpc8du5",
+      "lastmod": "2026-05-29T12:54:53.139Z",
+      "name": "CoVoST 2 English - Japanese",
+      "slug": "covost-2-english-japanese-f967e981"
+    },
+    {
+      "id": "cmpqxcg1z00zanv07m3qeb196",
+      "url": "https://mozilladatacollective.com/datasets/cmpqxcg1z00zanv07m3qeb196",
+      "lastmod": "2026-05-29T12:54:57.095Z",
+      "name": "CoVoST 2 English - Latvian",
+      "slug": "covost-2-english-latvian-b79d6b9e"
+    },
+    {
+      "id": "cmpqxciw600w3nu07pagrlqka",
+      "url": "https://mozilladatacollective.com/datasets/cmpqxciw600w3nu07pagrlqka",
+      "lastmod": "2026-05-29T12:55:00.774Z",
+      "name": "CoVoST 2 English - Slovenian",
+      "slug": "covost-2-english-slovenian-0d47cecb"
+    },
+    {
+      "id": "cmpqxclu100w7nu07890m5s45",
+      "url": "https://mozilladatacollective.com/datasets/cmpqxclu100w7nu07890m5s45",
+      "lastmod": "2026-05-29T12:55:04.585Z",
+      "name": "CoVoST 2 English - Tamil",
+      "slug": "covost-2-english-tamil-d6ae9198"
+    },
+    {
+      "id": "cmpqxcoy400zinv07bmrdx59x",
+      "url": "https://mozilladatacollective.com/datasets/cmpqxcoy400zinv07bmrdx59x",
+      "lastmod": "2026-05-29T12:55:08.620Z",
+      "name": "CoVoST 2 English - Chinese (China)",
+      "slug": "covost-2-english-chinese-china-fd3fb681"
+    },
+    {
+      "id": "cmpqxcsb900wbnu07wlxrag4b",
+      "url": "https://mozilladatacollective.com/datasets/cmpqxcsb900wbnu07wlxrag4b",
+      "lastmod": "2026-05-29T12:55:12.981Z",
+      "name": "CoVoST 2 English - Turkish",
+      "slug": "covost-2-english-turkish-2f192495"
+    },
+    {
+      "id": "cmpr2sd43014knv07mpsae5yf",
+      "url": "https://mozilladatacollective.com/datasets/cmpr2sd43014knv07mpsae5yf",
+      "lastmod": "2026-05-29T15:27:17.860Z",
+      "name": "KerOfis toponymic database Breton-French",
+      "slug": "kerofis-toponymic-database-breton-french-ade1f47a"
+    },
+    {
+      "id": "cmpr9hex201bhnv07aoztund6",
+      "url": "https://mozilladatacollective.com/datasets/cmpr9hex201bhnv07aoztund6",
+      "lastmod": "2026-05-29T18:34:44.295Z",
+      "name": "CoVoST 2 English - Persian",
+      "slug": "covost-2-english-persian-7962b3b5"
     }
   ]
 }
