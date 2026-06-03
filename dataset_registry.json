@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-02T07:36:21.499636+00:00",
-  "total": 774,
+  "updated_at": "2026-06-03T06:39:18.703055+00:00",
+  "total": 778,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5419,6 +5419,34 @@
       "lastmod": "2026-05-29T18:34:44.295Z",
       "name": "CoVoST 2 English - Persian",
       "slug": "covost-2-english-persian-7962b3b5"
+    },
+    {
+      "id": "cmpwi0ac200zbo007hebmkzqy",
+      "url": "https://mozilladatacollective.com/datasets/cmpwi0ac200zbo007hebmkzqy",
+      "lastmod": "2026-06-02T10:32:12.626Z",
+      "name": "TTS Javanese-Gresik Dialect",
+      "slug": "tts-javanese-gresik-dialect-ec043023"
+    },
+    {
+      "id": "cmpwi2f8y00y5nv06lptoxf6n",
+      "url": "https://mozilladatacollective.com/datasets/cmpwi2f8y00y5nv06lptoxf6n",
+      "lastmod": "2026-06-02T10:33:52.306Z",
+      "name": "Mandar Balanipa Speech Corpus",
+      "slug": "mandar-balanipa-speech-corpus-d4da2913"
+    },
+    {
+      "id": "cmpwidn0500zpo0079wsj1phv",
+      "url": "https://mozilladatacollective.com/datasets/cmpwidn0500zpo0079wsj1phv",
+      "lastmod": "2026-06-02T10:42:35.574Z",
+      "name": "Gbaya-Lay_ALCAM-MultimodalDataset",
+      "slug": "gbaya-lay-alcam-multimodaldataset-5ed5cc2e"
+    },
+    {
+      "id": "cmpwkd15w013snv06tb5z0ydr",
+      "url": "https://mozilladatacollective.com/datasets/cmpwkd15w013snv06tb5z0ydr",
+      "lastmod": "2026-06-02T11:38:06.500Z",
+      "name": "Marathi Blog & Literature Corpus",
+      "slug": "marathi-blog-literature-corpus-968cfe8b"
     }
   ]
 }
