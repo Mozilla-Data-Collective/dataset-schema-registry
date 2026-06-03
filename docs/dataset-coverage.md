@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-02  
-**Total datasets in sitemap:** 774  
+**Last updated:** 2026-06-03  
+**Total datasets in sitemap:** 778  
 **Schemas registered:** 398 ✅  
-**Schemas missing:** 376 ❌  
+**Schemas missing:** 380 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -789,3 +789,7 @@ schema in this registry and which ones are still missing.
 | `cmpqxcsb900wbnu07wlxrag4b` | CoVoST 2 English - Turkish | `covost-2-english-turkish-2f192495` | [link](https://mozilladatacollective.com/datasets/cmpqxcsb900wbnu07wlxrag4b) | ❌ |
 | `cmpr2sd43014knv07mpsae5yf` | KerOfis toponymic database Breton-French | `kerofis-toponymic-database-breton-french-ade1f47a` | [link](https://mozilladatacollective.com/datasets/cmpr2sd43014knv07mpsae5yf) | ❌ |
 | `cmpr9hex201bhnv07aoztund6` | CoVoST 2 English - Persian | `covost-2-english-persian-7962b3b5` | [link](https://mozilladatacollective.com/datasets/cmpr9hex201bhnv07aoztund6) | ❌ |
+| `cmpwi0ac200zbo007hebmkzqy` | TTS Javanese-Gresik Dialect | `tts-javanese-gresik-dialect-ec043023` | [link](https://mozilladatacollective.com/datasets/cmpwi0ac200zbo007hebmkzqy) | ❌ |
+| `cmpwi2f8y00y5nv06lptoxf6n` | Mandar Balanipa Speech Corpus | `mandar-balanipa-speech-corpus-d4da2913` | [link](https://mozilladatacollective.com/datasets/cmpwi2f8y00y5nv06lptoxf6n) | ❌ |
+| `cmpwidn0500zpo0079wsj1phv` | Gbaya-Lay_ALCAM-MultimodalDataset | `gbaya-lay-alcam-multimodaldataset-5ed5cc2e` | [link](https://mozilladatacollective.com/datasets/cmpwidn0500zpo0079wsj1phv) | ❌ |
+| `cmpwkd15w013snv06tb5z0ydr` | Marathi Blog & Literature Corpus | `marathi-blog-literature-corpus-968cfe8b` | [link](https://mozilladatacollective.com/datasets/cmpwkd15w013snv06tb5z0ydr) | ❌ |
