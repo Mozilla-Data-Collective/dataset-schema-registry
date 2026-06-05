@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T06:33:46.215058+00:00",
+  "updated_at": "2026-06-05T07:27:23.501121+00:00",
   "total": 781,
   "datasets": [
     {
@@ -5409,9 +5409,9 @@
     {
       "id": "cmpr2sd43014knv07mpsae5yf",
       "url": "https://mozilladatacollective.com/datasets/cmpr2sd43014knv07mpsae5yf",
-      "lastmod": "2026-05-29T15:27:17.860Z",
+      "lastmod": "2026-06-05T07:11:49.167Z",
       "name": "KerOfis toponymic database Breton-French",
-      "slug": "kerofis-toponymic-database-breton-french-ade1f47a"
+      "slug": "kerofis-toponymic-database-breton-french-876c4512"
     },
     {
       "id": "cmpr9hex201bhnv07aoztund6",
@@ -5465,9 +5465,9 @@
     {
       "id": "cmpzkqaqu0065nv070bdv5hfj",
       "url": "https://mozilladatacollective.com/datasets/cmpzkqaqu0065nv070bdv5hfj",
-      "lastmod": "2026-06-04T14:11:43.974Z",
+      "lastmod": "2026-06-05T07:10:16.333Z",
       "name": "TermOfis terminology database Breton-French",
-      "slug": "termofis-terminology-database-breton-fre-dd4c9465"
+      "slug": "termofis-terminology-database-breton-fre-bef3c0e5"
     }
   ]
 }
