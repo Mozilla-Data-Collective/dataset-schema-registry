@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-04T07:35:59.261841+00:00",
-  "total": 778,
+  "updated_at": "2026-06-05T06:33:46.215058+00:00",
+  "total": 781,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5447,6 +5447,27 @@
       "lastmod": "2026-06-02T11:38:06.500Z",
       "name": "Marathi Blog & Literature Corpus",
       "slug": "marathi-blog-literature-corpus-968cfe8b"
+    },
+    {
+      "id": "cmpzgijrk001cnx0732jcpyc9",
+      "url": "https://mozilladatacollective.com/datasets/cmpzgijrk001cnx0732jcpyc9",
+      "lastmod": "2026-06-04T12:13:43.952Z",
+      "name": "OSHA Severe Injuries by Employer 2015-2025 ",
+      "slug": "osha-severe-injuries-by-employer-2015-20-d890e565"
+    },
+    {
+      "id": "cmpzgm29a001hnx07px74x658",
+      "url": "https://mozilladatacollective.com/datasets/cmpzgm29a001hnx07px74x658",
+      "lastmod": "2026-06-04T12:16:27.886Z",
+      "name": "Buscadores Temáticos de la Plataforma Nacional de Transparencia (PNT) de México ",
+      "slug": "buscadores-tem-ticos-de-la-plataforma-na-f9a77536"
+    },
+    {
+      "id": "cmpzkqaqu0065nv070bdv5hfj",
+      "url": "https://mozilladatacollective.com/datasets/cmpzkqaqu0065nv070bdv5hfj",
+      "lastmod": "2026-06-04T14:11:43.974Z",
+      "name": "TermOfis terminology database Breton-French",
+      "slug": "termofis-terminology-database-breton-fre-dd4c9465"
     }
   ]
 }
