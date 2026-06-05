@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-04  
-**Total datasets in sitemap:** 778  
+**Last updated:** 2026-06-05  
+**Total datasets in sitemap:** 781  
 **Schemas registered:** 398 ✅  
-**Schemas missing:** 380 ❌  
+**Schemas missing:** 383 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -793,3 +793,6 @@ schema in this registry and which ones are still missing.
 | `cmpwi2f8y00y5nv06lptoxf6n` | Mandar Balanipa Speech Corpus | `mandar-balanipa-speech-corpus-d4da2913` | [link](https://mozilladatacollective.com/datasets/cmpwi2f8y00y5nv06lptoxf6n) | ❌ |
 | `cmpwidn0500zpo0079wsj1phv` | Gbaya-Lay_ALCAM-MultimodalDataset | `gbaya-lay-alcam-multimodaldataset-5ed5cc2e` | [link](https://mozilladatacollective.com/datasets/cmpwidn0500zpo0079wsj1phv) | ❌ |
 | `cmpwkd15w013snv06tb5z0ydr` | Marathi Blog & Literature Corpus | `marathi-blog-literature-corpus-968cfe8b` | [link](https://mozilladatacollective.com/datasets/cmpwkd15w013snv06tb5z0ydr) | ❌ |
+| `cmpzgijrk001cnx0732jcpyc9` | OSHA Severe Injuries by Employer 2015-2025  | `osha-severe-injuries-by-employer-2015-20-d890e565` | [link](https://mozilladatacollective.com/datasets/cmpzgijrk001cnx0732jcpyc9) | ❌ |
+| `cmpzgm29a001hnx07px74x658` | Buscadores Temáticos de la Plataforma Nacional de Transparencia (PNT) de México  | `buscadores-tem-ticos-de-la-plataforma-na-f9a77536` | [link](https://mozilladatacollective.com/datasets/cmpzgm29a001hnx07px74x658) | ❌ |
+| `cmpzkqaqu0065nv070bdv5hfj` | TermOfis terminology database Breton-French | `termofis-terminology-database-breton-fre-dd4c9465` | [link](https://mozilladatacollective.com/datasets/cmpzkqaqu0065nv070bdv5hfj) | ❌ |
