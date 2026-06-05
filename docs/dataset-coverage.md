@@ -787,7 +787,7 @@ schema in this registry and which ones are still missing.
 | `cmpqxclu100w7nu07890m5s45` | CoVoST 2 English - Tamil | `covost-2-english-tamil-d6ae9198` | [link](https://mozilladatacollective.com/datasets/cmpqxclu100w7nu07890m5s45) | ❌ |
 | `cmpqxcoy400zinv07bmrdx59x` | CoVoST 2 English - Chinese (China) | `covost-2-english-chinese-china-fd3fb681` | [link](https://mozilladatacollective.com/datasets/cmpqxcoy400zinv07bmrdx59x) | ❌ |
 | `cmpqxcsb900wbnu07wlxrag4b` | CoVoST 2 English - Turkish | `covost-2-english-turkish-2f192495` | [link](https://mozilladatacollective.com/datasets/cmpqxcsb900wbnu07wlxrag4b) | ❌ |
-| `cmpr2sd43014knv07mpsae5yf` | KerOfis toponymic database Breton-French | `kerofis-toponymic-database-breton-french-ade1f47a` | [link](https://mozilladatacollective.com/datasets/cmpr2sd43014knv07mpsae5yf) | ❌ |
+| `cmpr2sd43014knv07mpsae5yf` | KerOfis toponymic database Breton-French | `kerofis-toponymic-database-breton-french-876c4512` | [link](https://mozilladatacollective.com/datasets/cmpr2sd43014knv07mpsae5yf) | ❌ |
 | `cmpr9hex201bhnv07aoztund6` | CoVoST 2 English - Persian | `covost-2-english-persian-7962b3b5` | [link](https://mozilladatacollective.com/datasets/cmpr9hex201bhnv07aoztund6) | ❌ |
 | `cmpwi0ac200zbo007hebmkzqy` | TTS Javanese-Gresik Dialect | `tts-javanese-gresik-dialect-ec043023` | [link](https://mozilladatacollective.com/datasets/cmpwi0ac200zbo007hebmkzqy) | ❌ |
 | `cmpwi2f8y00y5nv06lptoxf6n` | Mandar Balanipa Speech Corpus | `mandar-balanipa-speech-corpus-d4da2913` | [link](https://mozilladatacollective.com/datasets/cmpwi2f8y00y5nv06lptoxf6n) | ❌ |
@@ -795,4 +795,4 @@ schema in this registry and which ones are still missing.
 | `cmpwkd15w013snv06tb5z0ydr` | Marathi Blog & Literature Corpus | `marathi-blog-literature-corpus-968cfe8b` | [link](https://mozilladatacollective.com/datasets/cmpwkd15w013snv06tb5z0ydr) | ❌ |
 | `cmpzgijrk001cnx0732jcpyc9` | OSHA Severe Injuries by Employer 2015-2025  | `osha-severe-injuries-by-employer-2015-20-d890e565` | [link](https://mozilladatacollective.com/datasets/cmpzgijrk001cnx0732jcpyc9) | ❌ |
 | `cmpzgm29a001hnx07px74x658` | Buscadores Temáticos de la Plataforma Nacional de Transparencia (PNT) de México  | `buscadores-tem-ticos-de-la-plataforma-na-f9a77536` | [link](https://mozilladatacollective.com/datasets/cmpzgm29a001hnx07px74x658) | ❌ |
-| `cmpzkqaqu0065nv070bdv5hfj` | TermOfis terminology database Breton-French | `termofis-terminology-database-breton-fre-dd4c9465` | [link](https://mozilladatacollective.com/datasets/cmpzkqaqu0065nv070bdv5hfj) | ❌ |
+| `cmpzkqaqu0065nv070bdv5hfj` | TermOfis terminology database Breton-French | `termofis-terminology-database-breton-fre-bef3c0e5` | [link](https://mozilladatacollective.com/datasets/cmpzkqaqu0065nv070bdv5hfj) | ❌ |
