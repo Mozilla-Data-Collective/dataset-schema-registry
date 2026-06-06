@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-05T07:27:23.501121+00:00",
-  "total": 781,
+  "updated_at": "2026-06-06T06:14:41.506629+00:00",
+  "total": 782,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5468,6 +5468,13 @@
       "lastmod": "2026-06-05T07:10:16.333Z",
       "name": "TermOfis terminology database Breton-French",
       "slug": "termofis-terminology-database-breton-fre-bef3c0e5"
+    },
+    {
+      "id": "cmq16k8qa01bvnr07i2x92yry",
+      "url": "https://mozilladatacollective.com/datasets/cmq16k8qa01bvnr07i2x92yry",
+      "lastmod": "2026-06-05T17:22:57.532Z",
+      "name": "Brazilian Sign Language (Libras) Healthcare Corpus",
+      "slug": "brazilian-sign-language-libras-healthcar-039a22e3"
     }
   ]
 }
