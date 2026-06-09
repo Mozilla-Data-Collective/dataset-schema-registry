@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-08  
-**Total datasets in sitemap:** 782  
+**Last updated:** 2026-06-09  
+**Total datasets in sitemap:** 783  
 **Schemas registered:** 398 ✅  
-**Schemas missing:** 384 ❌  
+**Schemas missing:** 385 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -797,3 +797,4 @@ schema in this registry and which ones are still missing.
 | `cmpzgm29a001hnx07px74x658` | Buscadores Temáticos de la Plataforma Nacional de Transparencia (PNT) de México  | `buscadores-tem-ticos-de-la-plataforma-na-f9a77536` | [link](https://mozilladatacollective.com/datasets/cmpzgm29a001hnx07px74x658) | ❌ |
 | `cmpzkqaqu0065nv070bdv5hfj` | TermOfis terminology database Breton-French | `termofis-terminology-database-breton-fre-bef3c0e5` | [link](https://mozilladatacollective.com/datasets/cmpzkqaqu0065nv070bdv5hfj) | ❌ |
 | `cmq16k8qa01bvnr07i2x92yry` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-039a22e3` | [link](https://mozilladatacollective.com/datasets/cmq16k8qa01bvnr07i2x92yry) | ❌ |
+| `cmq5ga41w007xmg07i73vv0j0` | CoVoST 2 English - Mongolian | `covost-2-english-mongolian-ae5954b4` | [link](https://mozilladatacollective.com/datasets/cmq5ga41w007xmg07i73vv0j0) | ❌ |
