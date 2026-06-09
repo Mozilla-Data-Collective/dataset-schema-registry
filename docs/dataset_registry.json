@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T07:39:18.349524+00:00",
-  "total": 782,
+  "updated_at": "2026-06-09T06:27:18.671703+00:00",
+  "total": 783,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5475,6 +5475,13 @@
       "lastmod": "2026-06-05T17:22:57.532Z",
       "name": "Brazilian Sign Language (Libras) Healthcare Corpus",
       "slug": "brazilian-sign-language-libras-healthcar-039a22e3"
+    },
+    {
+      "id": "cmq5ga41w007xmg07i73vv0j0",
+      "url": "https://mozilladatacollective.com/datasets/cmq5ga41w007xmg07i73vv0j0",
+      "lastmod": "2026-06-08T16:53:47.396Z",
+      "name": "CoVoST 2 English - Mongolian",
+      "slug": "covost-2-english-mongolian-ae5954b4"
     }
   ]
 }
