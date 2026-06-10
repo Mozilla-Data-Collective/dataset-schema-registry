@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T07:12:19.438610+00:00",
-  "total": 783,
+  "updated_at": "2026-06-10T06:33:49.277783+00:00",
+  "total": 784,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5482,6 +5482,13 @@
       "lastmod": "2026-06-08T16:53:47.396Z",
       "name": "CoVoST 2 English - Mongolian",
       "slug": "covost-2-english-mongolian-ae5954b4"
+    },
+    {
+      "id": "cmq6q6tjz0195o3078oodsoeu",
+      "url": "https://mozilladatacollective.com/datasets/cmq6q6tjz0195o3078oodsoeu",
+      "lastmod": "2026-06-09T14:18:56.160Z",
+      "name": "AIRI AI4TALK Meadow Mari-Russian Translation",
+      "slug": "airi-ai4talk-meadow-mari-russian-transla-c20ca463"
     }
   ]
 }
