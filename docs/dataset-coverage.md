@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-09  
-**Total datasets in sitemap:** 783  
+**Last updated:** 2026-06-10  
+**Total datasets in sitemap:** 784  
 **Schemas registered:** 398 ✅  
-**Schemas missing:** 385 ❌  
+**Schemas missing:** 386 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -798,3 +798,4 @@ schema in this registry and which ones are still missing.
 | `cmpzkqaqu0065nv070bdv5hfj` | TermOfis terminology database Breton-French | `termofis-terminology-database-breton-fre-bef3c0e5` | [link](https://mozilladatacollective.com/datasets/cmpzkqaqu0065nv070bdv5hfj) | ❌ |
 | `cmq16k8qa01bvnr07i2x92yry` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-039a22e3` | [link](https://mozilladatacollective.com/datasets/cmq16k8qa01bvnr07i2x92yry) | ❌ |
 | `cmq5ga41w007xmg07i73vv0j0` | CoVoST 2 English - Mongolian | `covost-2-english-mongolian-ae5954b4` | [link](https://mozilladatacollective.com/datasets/cmq5ga41w007xmg07i73vv0j0) | ❌ |
+| `cmq6q6tjz0195o3078oodsoeu` | AIRI AI4TALK Meadow Mari-Russian Translation | `airi-ai4talk-meadow-mari-russian-transla-c20ca463` | [link](https://mozilladatacollective.com/datasets/cmq6q6tjz0195o3078oodsoeu) | ❌ |
