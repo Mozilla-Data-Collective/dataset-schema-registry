@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-10  
-**Total datasets in sitemap:** 784  
+**Last updated:** 2026-06-11  
+**Total datasets in sitemap:** 792  
 **Schemas registered:** 398 ✅  
-**Schemas missing:** 386 ❌  
+**Schemas missing:** 394 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -799,3 +799,11 @@ schema in this registry and which ones are still missing.
 | `cmq16k8qa01bvnr07i2x92yry` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-039a22e3` | [link](https://mozilladatacollective.com/datasets/cmq16k8qa01bvnr07i2x92yry) | ❌ |
 | `cmq5ga41w007xmg07i73vv0j0` | CoVoST 2 English - Mongolian | `covost-2-english-mongolian-ae5954b4` | [link](https://mozilladatacollective.com/datasets/cmq5ga41w007xmg07i73vv0j0) | ❌ |
 | `cmq6q6tjz0195o3078oodsoeu` | AIRI AI4TALK Meadow Mari-Russian Translation | `airi-ai4talk-meadow-mari-russian-transla-c20ca463` | [link](https://mozilladatacollective.com/datasets/cmq6q6tjz0195o3078oodsoeu) | ❌ |
+| `cmq80dcwp00xrl20740m9o1k5` | Public Company Federal Compliance Records — Q3 2026 | `public-company-federal-compliance-record-e28404f3` | [link](https://mozilladatacollective.com/datasets/cmq80dcwp00xrl20740m9o1k5) | ❌ |
+| `cmq820k3b010cl2074kdxjsj3` | Hindi Literature & News Corpus | `hindi-literature-news-corpus-fa201bff` | [link](https://mozilladatacollective.com/datasets/cmq820k3b010cl2074kdxjsj3) | ❌ |
+| `cmq822h8z011mmk075b4mxi6t` | Tamil Literature Corpus | `tamil-literature-corpus-ecde168c` | [link](https://mozilladatacollective.com/datasets/cmq822h8z011mmk075b4mxi6t) | ❌ |
+| `cmq82aqqv0110l207drh50nw4` | Telugu Text Corpus | `telugu-text-corpus-86a938c0` | [link](https://mozilladatacollective.com/datasets/cmq82aqqv0110l207drh50nw4) | ❌ |
+| `cmq82rl5i012ymk07yii2lzya` | Afaan Oromoo-TTS-Dataset | `afaan-oromoo-tts-dataset-99462b95` | [link](https://mozilladatacollective.com/datasets/cmq82rl5i012ymk07yii2lzya) | ❌ |
+| `cmq83jqac0141mk07gpu4vit2` | Ghomala-MultimodalDataset | `ghomala-multimodaldataset-3eb46bb0` | [link](https://mozilladatacollective.com/datasets/cmq83jqac0141mk07gpu4vit2) | ❌ |
+| `cmq83m9h00145mk07g2kanq2s` | Dagbani-TTS-Dataset | `dagbani-tts-dataset-808aa535` | [link](https://mozilladatacollective.com/datasets/cmq83m9h00145mk07g2kanq2s) | ❌ |
+| `cmq8fbsco01i5l207zvaorg0m` | AIRI AI4TALK Khakas-Russian Translation | `airi-ai4talk-khakas-russian-translation-1be0c384` | [link](https://mozilladatacollective.com/datasets/cmq8fbsco01i5l207zvaorg0m) | ❌ |
