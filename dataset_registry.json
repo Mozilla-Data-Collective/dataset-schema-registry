@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T07:27:03.156755+00:00",
-  "total": 784,
+  "updated_at": "2026-06-11T06:36:50.866520+00:00",
+  "total": 792,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5489,6 +5489,62 @@
       "lastmod": "2026-06-09T14:18:56.160Z",
       "name": "AIRI AI4TALK Meadow Mari-Russian Translation",
       "slug": "airi-ai4talk-meadow-mari-russian-transla-c20ca463"
+    },
+    {
+      "id": "cmq80dcwp00xrl20740m9o1k5",
+      "url": "https://mozilladatacollective.com/datasets/cmq80dcwp00xrl20740m9o1k5",
+      "lastmod": "2026-06-10T11:51:43.514Z",
+      "name": "Public Company Federal Compliance Records — Q3 2026",
+      "slug": "public-company-federal-compliance-record-e28404f3"
+    },
+    {
+      "id": "cmq820k3b010cl2074kdxjsj3",
+      "url": "https://mozilladatacollective.com/datasets/cmq820k3b010cl2074kdxjsj3",
+      "lastmod": "2026-06-10T12:37:45.527Z",
+      "name": "Hindi Literature & News Corpus",
+      "slug": "hindi-literature-news-corpus-fa201bff"
+    },
+    {
+      "id": "cmq822h8z011mmk075b4mxi6t",
+      "url": "https://mozilladatacollective.com/datasets/cmq822h8z011mmk075b4mxi6t",
+      "lastmod": "2026-06-10T12:39:15.155Z",
+      "name": "Tamil Literature Corpus",
+      "slug": "tamil-literature-corpus-ecde168c"
+    },
+    {
+      "id": "cmq82aqqv0110l207drh50nw4",
+      "url": "https://mozilladatacollective.com/datasets/cmq82aqqv0110l207drh50nw4",
+      "lastmod": "2026-06-10T12:45:40.711Z",
+      "name": "Telugu Text Corpus",
+      "slug": "telugu-text-corpus-86a938c0"
+    },
+    {
+      "id": "cmq82rl5i012ymk07yii2lzya",
+      "url": "https://mozilladatacollective.com/datasets/cmq82rl5i012ymk07yii2lzya",
+      "lastmod": "2026-06-10T12:58:46.614Z",
+      "name": "Afaan Oromoo-TTS-Dataset",
+      "slug": "afaan-oromoo-tts-dataset-99462b95"
+    },
+    {
+      "id": "cmq83jqac0141mk07gpu4vit2",
+      "url": "https://mozilladatacollective.com/datasets/cmq83jqac0141mk07gpu4vit2",
+      "lastmod": "2026-06-10T13:20:39.636Z",
+      "name": "Ghomala-MultimodalDataset",
+      "slug": "ghomala-multimodaldataset-3eb46bb0"
+    },
+    {
+      "id": "cmq83m9h00145mk07g2kanq2s",
+      "url": "https://mozilladatacollective.com/datasets/cmq83m9h00145mk07g2kanq2s",
+      "lastmod": "2026-06-10T13:22:37.812Z",
+      "name": "Dagbani-TTS-Dataset",
+      "slug": "dagbani-tts-dataset-808aa535"
+    },
+    {
+      "id": "cmq8fbsco01i5l207zvaorg0m",
+      "url": "https://mozilladatacollective.com/datasets/cmq8fbsco01i5l207zvaorg0m",
+      "lastmod": "2026-06-10T18:50:24.457Z",
+      "name": "AIRI AI4TALK Khakas-Russian Translation",
+      "slug": "airi-ai4talk-khakas-russian-translation-1be0c384"
     }
   ]
 }
