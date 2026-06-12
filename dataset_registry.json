@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T07:38:06.976660+00:00",
-  "total": 792,
+  "updated_at": "2026-06-12T06:35:41.481918+00:00",
+  "total": 799,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5545,6 +5545,55 @@
       "lastmod": "2026-06-10T18:50:24.457Z",
       "name": "AIRI AI4TALK Khakas-Russian Translation",
       "slug": "airi-ai4talk-khakas-russian-translation-1be0c384"
+    },
+    {
+      "id": "cmq9hfevy02j3l207h80wyon8",
+      "url": "https://mozilladatacollective.com/datasets/cmq9hfevy02j3l207h80wyon8",
+      "lastmod": "2026-06-11T13:36:00.679Z",
+      "name": "AIRI AI4TALK Meadow Mari ASR",
+      "slug": "airi-ai4talk-meadow-mari-asr-b00cb00d"
+    },
+    {
+      "id": "cmq9hqu3k02jbl2074u0yvk2i",
+      "url": "https://mozilladatacollective.com/datasets/cmq9hqu3k02jbl2074u0yvk2i",
+      "lastmod": "2026-06-11T12:45:51.968Z",
+      "name": "Bulu-ASR-Dataset",
+      "slug": "bulu-asr-dataset-3dd205aa"
+    },
+    {
+      "id": "cmq9htcx402gbmk07g00d1u67",
+      "url": "https://mozilladatacollective.com/datasets/cmq9htcx402gbmk07g00d1u67",
+      "lastmod": "2026-06-11T12:47:49.673Z",
+      "name": "Batanta-ALCAM-MultimodalDataset",
+      "slug": "batanta-alcam-multimodaldataset-076a2cb0"
+    },
+    {
+      "id": "cmq9hwfbr02gfmk07m1jgvwje",
+      "url": "https://mozilladatacollective.com/datasets/cmq9hwfbr02gfmk07m1jgvwje",
+      "lastmod": "2026-06-11T12:50:12.759Z",
+      "name": "Basaa-ASR-Dataset",
+      "slug": "basaa-asr-dataset-dd3e2174"
+    },
+    {
+      "id": "cmq9hxeod02gjmk07d9pq7jau",
+      "url": "https://mozilladatacollective.com/datasets/cmq9hxeod02gjmk07d9pq7jau",
+      "lastmod": "2026-06-11T12:50:58.573Z",
+      "name": "Ewondo-ASR-Dataset",
+      "slug": "ewondo-asr-dataset-a2d44d9f"
+    },
+    {
+      "id": "cmq9hxttl02jll207dw9krgw7",
+      "url": "https://mozilladatacollective.com/datasets/cmq9hxttl02jll207dw9krgw7",
+      "lastmod": "2026-06-11T12:51:18.201Z",
+      "name": "Eton-ASR-Dataset",
+      "slug": "eton-asr-dataset-0c68aa5d"
+    },
+    {
+      "id": "cmq9hy15t02jpl207wlcqfpxh",
+      "url": "https://mozilladatacollective.com/datasets/cmq9hy15t02jpl207wlcqfpxh",
+      "lastmod": "2026-06-11T12:51:27.713Z",
+      "name": "Tupuri-ASR-Dataset",
+      "slug": "tupuri-asr-dataset-94c27776"
     }
   ]
 }
