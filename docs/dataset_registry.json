@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T06:35:41.481918+00:00",
+  "updated_at": "2026-06-12T07:35:36.154050+00:00",
   "total": 799,
   "datasets": [
     {
@@ -5563,9 +5563,9 @@
     {
       "id": "cmq9htcx402gbmk07g00d1u67",
       "url": "https://mozilladatacollective.com/datasets/cmq9htcx402gbmk07g00d1u67",
-      "lastmod": "2026-06-11T12:47:49.673Z",
-      "name": "Batanta-ALCAM-MultimodalDataset",
-      "slug": "batanta-alcam-multimodaldataset-076a2cb0"
+      "lastmod": "2026-06-12T07:34:47.521Z",
+      "name": "Batanga-ALCAM-MultimodalDataset",
+      "slug": "batanga-alcam-multimodaldataset-13c101d6"
     },
     {
       "id": "cmq9hwfbr02gfmk07m1jgvwje",
