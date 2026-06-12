@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-11  
-**Total datasets in sitemap:** 792  
+**Last updated:** 2026-06-12  
+**Total datasets in sitemap:** 799  
 **Schemas registered:** 398 ✅  
-**Schemas missing:** 394 ❌  
+**Schemas missing:** 401 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -807,3 +807,10 @@ schema in this registry and which ones are still missing.
 | `cmq83jqac0141mk07gpu4vit2` | Ghomala-MultimodalDataset | `ghomala-multimodaldataset-3eb46bb0` | [link](https://mozilladatacollective.com/datasets/cmq83jqac0141mk07gpu4vit2) | ❌ |
 | `cmq83m9h00145mk07g2kanq2s` | Dagbani-TTS-Dataset | `dagbani-tts-dataset-808aa535` | [link](https://mozilladatacollective.com/datasets/cmq83m9h00145mk07g2kanq2s) | ❌ |
 | `cmq8fbsco01i5l207zvaorg0m` | AIRI AI4TALK Khakas-Russian Translation | `airi-ai4talk-khakas-russian-translation-1be0c384` | [link](https://mozilladatacollective.com/datasets/cmq8fbsco01i5l207zvaorg0m) | ❌ |
+| `cmq9hfevy02j3l207h80wyon8` | AIRI AI4TALK Meadow Mari ASR | `airi-ai4talk-meadow-mari-asr-b00cb00d` | [link](https://mozilladatacollective.com/datasets/cmq9hfevy02j3l207h80wyon8) | ❌ |
+| `cmq9hqu3k02jbl2074u0yvk2i` | Bulu-ASR-Dataset | `bulu-asr-dataset-3dd205aa` | [link](https://mozilladatacollective.com/datasets/cmq9hqu3k02jbl2074u0yvk2i) | ❌ |
+| `cmq9htcx402gbmk07g00d1u67` | Batanta-ALCAM-MultimodalDataset | `batanta-alcam-multimodaldataset-076a2cb0` | [link](https://mozilladatacollective.com/datasets/cmq9htcx402gbmk07g00d1u67) | ❌ |
+| `cmq9hwfbr02gfmk07m1jgvwje` | Basaa-ASR-Dataset | `basaa-asr-dataset-dd3e2174` | [link](https://mozilladatacollective.com/datasets/cmq9hwfbr02gfmk07m1jgvwje) | ❌ |
+| `cmq9hxeod02gjmk07d9pq7jau` | Ewondo-ASR-Dataset | `ewondo-asr-dataset-a2d44d9f` | [link](https://mozilladatacollective.com/datasets/cmq9hxeod02gjmk07d9pq7jau) | ❌ |
+| `cmq9hxttl02jll207dw9krgw7` | Eton-ASR-Dataset | `eton-asr-dataset-0c68aa5d` | [link](https://mozilladatacollective.com/datasets/cmq9hxttl02jll207dw9krgw7) | ❌ |
+| `cmq9hy15t02jpl207wlcqfpxh` | Tupuri-ASR-Dataset | `tupuri-asr-dataset-94c27776` | [link](https://mozilladatacollective.com/datasets/cmq9hy15t02jpl207wlcqfpxh) | ❌ |
