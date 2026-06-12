@@ -809,7 +809,7 @@ schema in this registry and which ones are still missing.
 | `cmq8fbsco01i5l207zvaorg0m` | AIRI AI4TALK Khakas-Russian Translation | `airi-ai4talk-khakas-russian-translation-1be0c384` | [link](https://mozilladatacollective.com/datasets/cmq8fbsco01i5l207zvaorg0m) | ❌ |
 | `cmq9hfevy02j3l207h80wyon8` | AIRI AI4TALK Meadow Mari ASR | `airi-ai4talk-meadow-mari-asr-b00cb00d` | [link](https://mozilladatacollective.com/datasets/cmq9hfevy02j3l207h80wyon8) | ❌ |
 | `cmq9hqu3k02jbl2074u0yvk2i` | Bulu-ASR-Dataset | `bulu-asr-dataset-3dd205aa` | [link](https://mozilladatacollective.com/datasets/cmq9hqu3k02jbl2074u0yvk2i) | ❌ |
-| `cmq9htcx402gbmk07g00d1u67` | Batanta-ALCAM-MultimodalDataset | `batanta-alcam-multimodaldataset-076a2cb0` | [link](https://mozilladatacollective.com/datasets/cmq9htcx402gbmk07g00d1u67) | ❌ |
+| `cmq9htcx402gbmk07g00d1u67` | Batanga-ALCAM-MultimodalDataset | `batanga-alcam-multimodaldataset-13c101d6` | [link](https://mozilladatacollective.com/datasets/cmq9htcx402gbmk07g00d1u67) | ❌ |
 | `cmq9hwfbr02gfmk07m1jgvwje` | Basaa-ASR-Dataset | `basaa-asr-dataset-dd3e2174` | [link](https://mozilladatacollective.com/datasets/cmq9hwfbr02gfmk07m1jgvwje) | ❌ |
 | `cmq9hxeod02gjmk07d9pq7jau` | Ewondo-ASR-Dataset | `ewondo-asr-dataset-a2d44d9f` | [link](https://mozilladatacollective.com/datasets/cmq9hxeod02gjmk07d9pq7jau) | ❌ |
 | `cmq9hxttl02jll207dw9krgw7` | Eton-ASR-Dataset | `eton-asr-dataset-0c68aa5d` | [link](https://mozilladatacollective.com/datasets/cmq9hxttl02jll207dw9krgw7) | ❌ |
