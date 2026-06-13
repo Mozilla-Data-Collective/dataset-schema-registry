@@ -8,7 +8,7 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-12  
+**Last updated:** 2026-06-13  
 **Total datasets in sitemap:** 799  
 **Schemas registered:** 398 ✅  
 **Schemas missing:** 401 ❌  
@@ -621,7 +621,7 @@ schema in this registry and which ones are still missing.
 | `cmnz26xn200hgnr07m1x2po5v` | RFE/RL Bulgarian News Text Corpus | `rfe-rl-bulgarian-news-text-corpus-a5900a72` | [link](https://mozilladatacollective.com/datasets/cmnz26xn200hgnr07m1x2po5v) | ❌ |
 | `cmo06ikpt00chnx07xmaj8rxe` | RFE/RL Serbian, Bosnian, and Montenegrin (Balkan) News Text Corpus | `rfe-rl-serbian-bosnian-and-montenegrin-b-0a5c7977` | [link](https://mozilladatacollective.com/datasets/cmo06ikpt00chnx07xmaj8rxe) | ❌ |
 | `cmo07ixww00ddmr07enqrrpfw` | Awal Tamazight Dataset | `awal-tamazight-dataset-acc51046` | [link](https://mozilladatacollective.com/datasets/cmo07ixww00ddmr07enqrrpfw) | ❌ |
-| `cmo09pqp300gbnx07xcl42los` | Yoruba-English Code-Switching (YECS) Corpus | `yoruba-english-code-switching-yecs-corpu-6da2a4ed` | [link](https://mozilladatacollective.com/datasets/cmo09pqp300gbnx07xcl42los) | ❌ |
+| `cmo09pqp300gbnx07xcl42los` | Yoruba-English Code-Switching (YECS) Corpus | `yoruba-english-code-switching-yecs-corpu-9ad16ce4` | [link](https://mozilladatacollective.com/datasets/cmo09pqp300gbnx07xcl42los) | ❌ |
 | `cmo0cro1g00hlmr07oichasyk` | Otomí (Hñähñu) TTS Voz Masculina | `otom-h-h-u-tts-voz-masculina-e36eadde` | [link](https://mozilladatacollective.com/datasets/cmo0cro1g00hlmr07oichasyk) | ❌ |
 | `cmo0h34b600n8nx07khjct4iy` | UK Sort Codes - ASR Evaluation | `uk-sort-codes-asr-evaluation-3a75316e` | [link](https://mozilladatacollective.com/datasets/cmo0h34b600n8nx07khjct4iy) | ❌ |
 | `cmo0jfvnw00p1nx070preklt5` | LibriVox Czech TTS Female Voice | `librivox-czech-tts-female-voice-dacc0fd3` | [link](https://mozilladatacollective.com/datasets/cmo0jfvnw00p1nx070preklt5) | ❌ |
