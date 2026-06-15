@@ -8,7 +8,7 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-14  
+**Last updated:** 2026-06-15  
 **Total datasets in sitemap:** 799  
 **Schemas registered:** 398 ✅  
 **Schemas missing:** 401 ❌  
@@ -803,8 +803,8 @@ schema in this registry and which ones are still missing.
 | `cmq820k3b010cl2074kdxjsj3` | Hindi Literature & News Corpus | `hindi-literature-news-corpus-fa201bff` | [link](https://mozilladatacollective.com/datasets/cmq820k3b010cl2074kdxjsj3) | ❌ |
 | `cmq822h8z011mmk075b4mxi6t` | Tamil Literature Corpus | `tamil-literature-corpus-ecde168c` | [link](https://mozilladatacollective.com/datasets/cmq822h8z011mmk075b4mxi6t) | ❌ |
 | `cmq82aqqv0110l207drh50nw4` | Telugu Text Corpus | `telugu-text-corpus-86a938c0` | [link](https://mozilladatacollective.com/datasets/cmq82aqqv0110l207drh50nw4) | ❌ |
-| `cmq82rl5i012ymk07yii2lzya` | Afaan Oromoo-TTS-Dataset | `afaan-oromoo-tts-dataset-99462b95` | [link](https://mozilladatacollective.com/datasets/cmq82rl5i012ymk07yii2lzya) | ❌ |
-| `cmq83jqac0141mk07gpu4vit2` | Ghomala-MultimodalDataset | `ghomala-multimodaldataset-3eb46bb0` | [link](https://mozilladatacollective.com/datasets/cmq83jqac0141mk07gpu4vit2) | ❌ |
+| `cmq82rl5i012ymk07yii2lzya` | Afaan Oromoo-TTS-Dataset | `afaan-oromoo-tts-dataset-b47c9c48` | [link](https://mozilladatacollective.com/datasets/cmq82rl5i012ymk07yii2lzya) | ❌ |
+| `cmq83jqac0141mk07gpu4vit2` | Ghomala-MultimodalDataset | `ghomala-multimodaldataset-41aae2c7` | [link](https://mozilladatacollective.com/datasets/cmq83jqac0141mk07gpu4vit2) | ❌ |
 | `cmq83m9h00145mk07g2kanq2s` | Dagbani-TTS-Dataset | `dagbani-tts-dataset-808aa535` | [link](https://mozilladatacollective.com/datasets/cmq83m9h00145mk07g2kanq2s) | ❌ |
 | `cmq8fbsco01i5l207zvaorg0m` | AIRI AI4TALK Khakas-Russian Translation | `airi-ai4talk-khakas-russian-translation-1be0c384` | [link](https://mozilladatacollective.com/datasets/cmq8fbsco01i5l207zvaorg0m) | ❌ |
 | `cmq9hfevy02j3l207h80wyon8` | AIRI AI4TALK Meadow Mari ASR | `airi-ai4talk-meadow-mari-asr-b00cb00d` | [link](https://mozilladatacollective.com/datasets/cmq9hfevy02j3l207h80wyon8) | ❌ |
@@ -813,4 +813,4 @@ schema in this registry and which ones are still missing.
 | `cmq9hwfbr02gfmk07m1jgvwje` | Basaa-ASR-Dataset | `basaa-asr-dataset-dd3e2174` | [link](https://mozilladatacollective.com/datasets/cmq9hwfbr02gfmk07m1jgvwje) | ❌ |
 | `cmq9hxeod02gjmk07d9pq7jau` | Ewondo-ASR-Dataset | `ewondo-asr-dataset-a2d44d9f` | [link](https://mozilladatacollective.com/datasets/cmq9hxeod02gjmk07d9pq7jau) | ❌ |
 | `cmq9hxttl02jll207dw9krgw7` | Eton-ASR-Dataset | `eton-asr-dataset-0c68aa5d` | [link](https://mozilladatacollective.com/datasets/cmq9hxttl02jll207dw9krgw7) | ❌ |
-| `cmq9hy15t02jpl207wlcqfpxh` | Tupuri-ASR-Dataset | `tupuri-asr-dataset-94c27776` | [link](https://mozilladatacollective.com/datasets/cmq9hy15t02jpl207wlcqfpxh) | ❌ |
+| `cmq9hy15t02jpl207wlcqfpxh` | Tupuri-ASR-Dataset | `tupuri-asr-dataset-d058d59a` | [link](https://mozilladatacollective.com/datasets/cmq9hy15t02jpl207wlcqfpxh) | ❌ |
