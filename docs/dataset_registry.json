@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T07:34:21.577888+00:00",
+  "updated_at": "2026-06-15T06:51:19.331020+00:00",
   "total": 799,
   "datasets": [
     {
@@ -5521,16 +5521,16 @@
     {
       "id": "cmq82rl5i012ymk07yii2lzya",
       "url": "https://mozilladatacollective.com/datasets/cmq82rl5i012ymk07yii2lzya",
-      "lastmod": "2026-06-10T12:58:46.614Z",
+      "lastmod": "2026-06-14T10:58:11.181Z",
       "name": "Afaan Oromoo-TTS-Dataset",
-      "slug": "afaan-oromoo-tts-dataset-99462b95"
+      "slug": "afaan-oromoo-tts-dataset-b47c9c48"
     },
     {
       "id": "cmq83jqac0141mk07gpu4vit2",
       "url": "https://mozilladatacollective.com/datasets/cmq83jqac0141mk07gpu4vit2",
-      "lastmod": "2026-06-10T13:20:39.636Z",
+      "lastmod": "2026-06-14T09:42:28.333Z",
       "name": "Ghomala-MultimodalDataset",
-      "slug": "ghomala-multimodaldataset-3eb46bb0"
+      "slug": "ghomala-multimodaldataset-41aae2c7"
     },
     {
       "id": "cmq83m9h00145mk07g2kanq2s",
@@ -5591,9 +5591,9 @@
     {
       "id": "cmq9hy15t02jpl207wlcqfpxh",
       "url": "https://mozilladatacollective.com/datasets/cmq9hy15t02jpl207wlcqfpxh",
-      "lastmod": "2026-06-11T12:51:27.713Z",
+      "lastmod": "2026-06-14T14:13:56.454Z",
       "name": "Tupuri-ASR-Dataset",
-      "slug": "tupuri-asr-dataset-94c27776"
+      "slug": "tupuri-asr-dataset-d058d59a"
     }
   ]
 }
