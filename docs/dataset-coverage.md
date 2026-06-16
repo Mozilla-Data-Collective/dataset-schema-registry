@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-15  
-**Total datasets in sitemap:** 799  
+**Last updated:** 2026-06-16  
+**Total datasets in sitemap:** 806  
 **Schemas registered:** 398 ✅  
-**Schemas missing:** 401 ❌  
+**Schemas missing:** 408 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -814,3 +814,10 @@ schema in this registry and which ones are still missing.
 | `cmq9hxeod02gjmk07d9pq7jau` | Ewondo-ASR-Dataset | `ewondo-asr-dataset-a2d44d9f` | [link](https://mozilladatacollective.com/datasets/cmq9hxeod02gjmk07d9pq7jau) | ❌ |
 | `cmq9hxttl02jll207dw9krgw7` | Eton-ASR-Dataset | `eton-asr-dataset-0c68aa5d` | [link](https://mozilladatacollective.com/datasets/cmq9hxttl02jll207dw9krgw7) | ❌ |
 | `cmq9hy15t02jpl207wlcqfpxh` | Tupuri-ASR-Dataset | `tupuri-asr-dataset-d058d59a` | [link](https://mozilladatacollective.com/datasets/cmq9hy15t02jpl207wlcqfpxh) | ❌ |
+| `cmqf58twx06fdl207ihp2oywl` | Sample Medumba-TTS-Dataset | `sample-medumba-tts-dataset-82159082` | [link](https://mozilladatacollective.com/datasets/cmqf58twx06fdl207ihp2oywl) | ❌ |
+| `cmqf69433066kmk07x03adrhk` | Sample Fe’fe’-TTS-Dataset | `sample-fe-fe-tts-dataset-c0ea3790` | [link](https://mozilladatacollective.com/datasets/cmqf69433066kmk07x03adrhk) | ❌ |
+| `cmqf69mlt066omk07awntfrdn` | Kekem-ALCAM-MultimodalDataset | `kekem-alcam-multimodaldataset-736b8b96` | [link](https://mozilladatacollective.com/datasets/cmqf69mlt066omk07awntfrdn) | ❌ |
+| `cmqf6aecs066smk07udkk7ocn` | Sample Batanga-TTS-Dataset | `sample-batanga-tts-dataset-8d61c764` | [link](https://mozilladatacollective.com/datasets/cmqf6aecs066smk07udkk7ocn) | ❌ |
+| `cmqf6bpns06gal20726pxld9z` | Sample Tupuri-Bango_TTS-Dataset | `sample-tupuri-bango-tts-dataset-37448789` | [link](https://mozilladatacollective.com/datasets/cmqf6bpns06gal20726pxld9z) | ❌ |
+| `cmqf6c04x06gel207o5vjtni7` | Sample Ngiemboon-TTS-Dataset | `sample-ngiemboon-tts-dataset-094984f3` | [link](https://mozilladatacollective.com/datasets/cmqf6c04x06gel207o5vjtni7) | ❌ |
+| `cmqf6c9lc06gil2075rm34xds` | Sample Mbo-TTS-Dataset | `sample-mbo-tts-dataset-121e2846` | [link](https://mozilladatacollective.com/datasets/cmqf6c9lc06gil2075rm34xds) | ❌ |
