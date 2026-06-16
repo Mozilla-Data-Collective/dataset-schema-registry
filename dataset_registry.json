@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-15T07:55:40.257920+00:00",
-  "total": 799,
+  "updated_at": "2026-06-16T06:51:56.746822+00:00",
+  "total": 806,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5594,6 +5594,55 @@
       "lastmod": "2026-06-14T14:13:56.454Z",
       "name": "Tupuri-ASR-Dataset",
       "slug": "tupuri-asr-dataset-d058d59a"
+    },
+    {
+      "id": "cmqf58twx06fdl207ihp2oywl",
+      "url": "https://mozilladatacollective.com/datasets/cmqf58twx06fdl207ihp2oywl",
+      "lastmod": "2026-06-15T13:34:46.335Z",
+      "name": "Sample Medumba-TTS-Dataset",
+      "slug": "sample-medumba-tts-dataset-82159082"
+    },
+    {
+      "id": "cmqf69433066kmk07x03adrhk",
+      "url": "https://mozilladatacollective.com/datasets/cmqf69433066kmk07x03adrhk",
+      "lastmod": "2026-06-15T13:34:31.319Z",
+      "name": "Sample Fe’fe’-TTS-Dataset",
+      "slug": "sample-fe-fe-tts-dataset-c0ea3790"
+    },
+    {
+      "id": "cmqf69mlt066omk07awntfrdn",
+      "url": "https://mozilladatacollective.com/datasets/cmqf69mlt066omk07awntfrdn",
+      "lastmod": "2026-06-15T12:11:10.385Z",
+      "name": "Kekem-ALCAM-MultimodalDataset",
+      "slug": "kekem-alcam-multimodaldataset-736b8b96"
+    },
+    {
+      "id": "cmqf6aecs066smk07udkk7ocn",
+      "url": "https://mozilladatacollective.com/datasets/cmqf6aecs066smk07udkk7ocn",
+      "lastmod": "2026-06-15T13:34:09.577Z",
+      "name": "Sample Batanga-TTS-Dataset",
+      "slug": "sample-batanga-tts-dataset-8d61c764"
+    },
+    {
+      "id": "cmqf6bpns06gal20726pxld9z",
+      "url": "https://mozilladatacollective.com/datasets/cmqf6bpns06gal20726pxld9z",
+      "lastmod": "2026-06-15T13:33:57.171Z",
+      "name": "Sample Tupuri-Bango_TTS-Dataset",
+      "slug": "sample-tupuri-bango-tts-dataset-37448789"
+    },
+    {
+      "id": "cmqf6c04x06gel207o5vjtni7",
+      "url": "https://mozilladatacollective.com/datasets/cmqf6c04x06gel207o5vjtni7",
+      "lastmod": "2026-06-15T13:33:36.314Z",
+      "name": "Sample Ngiemboon-TTS-Dataset",
+      "slug": "sample-ngiemboon-tts-dataset-094984f3"
+    },
+    {
+      "id": "cmqf6c9lc06gil2075rm34xds",
+      "url": "https://mozilladatacollective.com/datasets/cmqf6c9lc06gil2075rm34xds",
+      "lastmod": "2026-06-15T13:33:19.515Z",
+      "name": "Sample Mbo-TTS-Dataset",
+      "slug": "sample-mbo-tts-dataset-121e2846"
     }
   ]
 }
