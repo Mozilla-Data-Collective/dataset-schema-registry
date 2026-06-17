@@ -8,9 +8,9 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-16  
-**Total datasets in sitemap:** 806  
-**Schemas registered:** 398 ✅  
+**Last updated:** 2026-06-17  
+**Total datasets in sitemap:** 734  
+**Schemas registered:** 326 ✅  
 **Schemas missing:** 408 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
@@ -200,78 +200,7 @@ schema in this registry and which ones are still missing.
 | `cmmvykcrs0050ny07vkwww5gi` | Urdu Multi-Speaker TTS Dataset | `urdu-multi-speaker-tts-dataset-d0701b9b` | [link](https://mozilladatacollective.com/datasets/cmmvykcrs0050ny07vkwww5gi) | ❌ |
 | `cmmxhw46c00tqnw07xyr94zjk` | UP - DSP - Philippine Languages Database (UP-DSP-PLD) | `up-dsp-philippine-languages-database-up-d2a7dbb0` | [link](https://mozilladatacollective.com/datasets/cmmxhw46c00tqnw07xyr94zjk) | ❌ |
 | `cmmxib8ic00v6nw07bjrci8vj` | Istorima | `istorima-e0506b6d` | [link](https://mozilladatacollective.com/datasets/cmmxib8ic00v6nw07bjrci8vj) | ❌ |
-| `cmmy33q7l0018mf0721oocrh7` | Common Voice Spontaneous Speech 3.0 - Irish | `common-voice-spontaneous-speech-3-0-iris-e8011d3c` | [link](https://mozilladatacollective.com/datasets/cmmy33q7l0018mf0721oocrh7) | ✅ |
-| `cmmy9n21i0060nz07x66x631h` | Common Voice Spontaneous Speech 3.0 - Ruuli | `common-voice-spontaneous-speech-3-0-ruul-7888b4cf` | [link](https://mozilladatacollective.com/datasets/cmmy9n21i0060nz07x66x631h) | ✅ |
-| `cmmy9neso0067mf07gf9u0rdu` | Common Voice Spontaneous Speech 3.0 - Danish | `common-voice-spontaneous-speech-3-0-dani-fe698d32` | [link](https://mozilladatacollective.com/datasets/cmmy9neso0067mf07gf9u0rdu) | ✅ |
-| `cmmy9phqr0064nz07v3w1pfww` | Common Voice Spontaneous Speech 3.0 - Croatian | `common-voice-spontaneous-speech-3-0-croa-65187910` | [link](https://mozilladatacollective.com/datasets/cmmy9phqr0064nz07v3w1pfww) | ✅ |
-| `cmmys9qyv00f4mf0794yqc63c` | Common Voice Spontaneous Speech 3.0 - Frisian | `common-voice-spontaneous-speech-3-0-fris-5b47db9c` | [link](https://mozilladatacollective.com/datasets/cmmys9qyv00f4mf0794yqc63c) | ✅ |
-| `cmmysas5x00f8mf07lbevjqbb` | Common Voice Spontaneous Speech 3.0 - Thai | `common-voice-spontaneous-speech-3-0-thai-46957076` | [link](https://mozilladatacollective.com/datasets/cmmysas5x00f8mf07lbevjqbb) | ✅ |
-| `cmmysc65y00fcmf075nhrqs9k` | Common Voice Spontaneous Speech 3.0 - Bodo | `common-voice-spontaneous-speech-3-0-bodo-3e3122ba` | [link](https://mozilladatacollective.com/datasets/cmmysc65y00fcmf075nhrqs9k) | ✅ |
-| `cmmysd3sh00fgmf07lioiqs3z` | Common Voice Spontaneous Speech 3.0 - Shona | `common-voice-spontaneous-speech-3-0-shon-68af7943` | [link](https://mozilladatacollective.com/datasets/cmmysd3sh00fgmf07lioiqs3z) | ✅ |
-| `cmmyse72100dsnz07i4e2cijq` | Common Voice Spontaneous Speech 3.0 - Dutch | `common-voice-spontaneous-speech-3-0-dutc-9cf5afa8` | [link](https://mozilladatacollective.com/datasets/cmmyse72100dsnz07i4e2cijq) | ✅ |
-| `cmmysetwg00fkmf07v0akjit6` | Common Voice Spontaneous Speech 3.0 - Sinhala | `common-voice-spontaneous-speech-3-0-sinh-b2f631d6` | [link](https://mozilladatacollective.com/datasets/cmmysetwg00fkmf07v0akjit6) | ✅ |
-| `cmmysfmtu00dwnz078kvqu1gp` | Common Voice Spontaneous Speech 3.0 - Javanese | `common-voice-spontaneous-speech-3-0-java-21b2531d` | [link](https://mozilladatacollective.com/datasets/cmmysfmtu00dwnz078kvqu1gp) | ✅ |
-| `cmmysgpd600fomf07qipsogyg` | Common Voice Spontaneous Speech 3.0 - Bashkir | `common-voice-spontaneous-speech-3-0-bash-efef67c2` | [link](https://mozilladatacollective.com/datasets/cmmysgpd600fomf07qipsogyg) | ✅ |
-| `cmmyslwhj00fsmf07a1iwom0w` | Common Voice Spontaneous Speech 3.0 - Rakhine | `common-voice-spontaneous-speech-3-0-rakh-d56366f9` | [link](https://mozilladatacollective.com/datasets/cmmyslwhj00fsmf07a1iwom0w) | ✅ |
-| `cmmysmqds00fwmf07e72ap8dg` | Common Voice Spontaneous Speech 3.0 - Georgian | `common-voice-spontaneous-speech-3-0-geor-b8875248` | [link](https://mozilladatacollective.com/datasets/cmmysmqds00fwmf07e72ap8dg) | ✅ |
-| `cmmysniwj00g0mf07o2efljbv` | Common Voice Spontaneous Speech 3.0 - Esperanto | `common-voice-spontaneous-speech-3-0-espe-4742d39c` | [link](https://mozilladatacollective.com/datasets/cmmysniwj00g0mf07o2efljbv) | ✅ |
-| `cmmysoeaj00g4mf074e6j5cw5` | Common Voice Spontaneous Speech 3.0 - Spanish | `common-voice-spontaneous-speech-3-0-span-a7ae14cf` | [link](https://mozilladatacollective.com/datasets/cmmysoeaj00g4mf074e6j5cw5) | ✅ |
-| `cmmysp2sf00e0nz0767ofkj4r` | Common Voice Spontaneous Speech 3.0 - Sundanese | `common-voice-spontaneous-speech-3-0-sund-fc733c48` | [link](https://mozilladatacollective.com/datasets/cmmysp2sf00e0nz0767ofkj4r) | ✅ |
-| `cmmysq4af00g8mf07gkpqtwx5` | Common Voice Spontaneous Speech 3.0 - Tudaga | `common-voice-spontaneous-speech-3-0-tuda-9d09c750` | [link](https://mozilladatacollective.com/datasets/cmmysq4af00g8mf07gkpqtwx5) | ✅ |
-| `cmmyss5a200gcmf07e4hffezp` | Common Voice Spontaneous Speech 3.0 - Manx | `common-voice-spontaneous-speech-3-0-manx-c2984810` | [link](https://mozilladatacollective.com/datasets/cmmyss5a200gcmf07e4hffezp) | ✅ |
-| `cmmysvqya00gjmf07wtgzt1nd` | Common Voice Spontaneous Speech 3.0 - Tashlhiyt | `common-voice-spontaneous-speech-3-0-tash-723e8511` | [link](https://mozilladatacollective.com/datasets/cmmysvqya00gjmf07wtgzt1nd) | ✅ |
-| `cmmyswoay00e4nz07d005aacz` | Common Voice Spontaneous Speech 3.0 - Aragonese | `common-voice-spontaneous-speech-3-0-arag-f91ec4a1` | [link](https://mozilladatacollective.com/datasets/cmmyswoay00e4nz07d005aacz) | ✅ |
-| `cmmyt0mhv00e8nz07j2yjk8g7` | Common Voice Spontaneous Speech 3.0 - Kelabit | `common-voice-spontaneous-speech-3-0-kela-53dd7faa` | [link](https://mozilladatacollective.com/datasets/cmmyt0mhv00e8nz07j2yjk8g7) | ✅ |
-| `cmmyt1ceg00gnmf07ynjd0avk` | Common Voice Spontaneous Speech 3.0 - Wixárika | `common-voice-spontaneous-speech-3-0-wix-d87b8cba` | [link](https://mozilladatacollective.com/datasets/cmmyt1ceg00gnmf07ynjd0avk) | ✅ |
-| `cmmyt5c2400ecnz07hk5mn5o7` | Common Voice Spontaneous Speech 3.0 - Melanau | `common-voice-spontaneous-speech-3-0-mela-80f2a439` | [link](https://mozilladatacollective.com/datasets/cmmyt5c2400ecnz07hk5mn5o7) | ✅ |
-| `cmmyt67yw00grmf07uggmsoyk` | Common Voice Spontaneous Speech 3.0 - Kenyah | `common-voice-spontaneous-speech-3-0-keny-2604e55e` | [link](https://mozilladatacollective.com/datasets/cmmyt67yw00grmf07uggmsoyk) | ✅ |
-| `cmmytb9jf00gvmf077g36y3r7` | Common Voice Spontaneous Speech 3.0 - Sa’ban | `common-voice-spontaneous-speech-3-0-sa-b-2f0e2002` | [link](https://mozilladatacollective.com/datasets/cmmytb9jf00gvmf077g36y3r7) | ✅ |
-| `cmmyte4zw00einz07mucw81ok` | Common Voice Spontaneous Speech 3.0 - Chiga | `common-voice-spontaneous-speech-3-0-chig-b3e5c0a3` | [link](https://mozilladatacollective.com/datasets/cmmyte4zw00einz07mucw81ok) | ✅ |
-| `cmmytfqkp00emnz072015yasf` | Common Voice Spontaneous Speech 3.0 - Kuku | `common-voice-spontaneous-speech-3-0-kuku-7db3b0bc` | [link](https://mozilladatacollective.com/datasets/cmmytfqkp00emnz072015yasf) | ✅ |
-| `cmmytftf900eqnz0760kydlnm` | Common Voice Spontaneous Speech 3.0 - Heng Hua | `common-voice-spontaneous-speech-3-0-heng-27d01f4f` | [link](https://mozilladatacollective.com/datasets/cmmytftf900eqnz0760kydlnm) | ✅ |
-| `cmmytfxan00eunz07ormig9ra` | Common Voice Spontaneous Speech 3.0 - Sabah Bisaya | `common-voice-spontaneous-speech-3-0-saba-71fd74bb` | [link](https://mozilladatacollective.com/datasets/cmmytfxan00eunz07ormig9ra) | ✅ |
-| `cmmytg00z00h6mf076gsilniw` | Common Voice Spontaneous Speech 3.0 - Mixteco Yucuhiti | `common-voice-spontaneous-speech-3-0-mixt-012a68b6` | [link](https://mozilladatacollective.com/datasets/cmmytg00z00h6mf076gsilniw) | ✅ |
-| `cmmytg2r000eynz07epeq9u30` | Common Voice Spontaneous Speech 3.0 - Gheg Albanian | `common-voice-spontaneous-speech-3-0-gheg-5956134f` | [link](https://mozilladatacollective.com/datasets/cmmytg2r000eynz07epeq9u30) | ✅ |
-| `cmmytggb100hamf07z06g4iae` | Common Voice Spontaneous Speech 3.0 - German | `common-voice-spontaneous-speech-3-0-germ-a5fe9806` | [link](https://mozilladatacollective.com/datasets/cmmytggb100hamf07z06g4iae) | ✅ |
-| `cmmytgij900f2nz07xm0wyzrd` | Common Voice Spontaneous Speech 3.0 - French | `common-voice-spontaneous-speech-3-0-fren-3c161ef7` | [link](https://mozilladatacollective.com/datasets/cmmytgij900f2nz07xm0wyzrd) | ✅ |
-| `cmmytgkr900f6nz073umxgzk3` | Common Voice Spontaneous Speech 3.0 - Alsatian | `common-voice-spontaneous-speech-3-0-alsa-fc064518` | [link](https://mozilladatacollective.com/datasets/cmmytgkr900f6nz073umxgzk3) | ✅ |
-| `cmmytgn7200fanz071knkp7gb` | Common Voice Spontaneous Speech 3.0 - Bahasa Malay | `common-voice-spontaneous-speech-3-0-baha-5f350738` | [link](https://mozilladatacollective.com/datasets/cmmytgn7200fanz071knkp7gb) | ✅ |
-| `cmmytgpsh00hemf07itahf0oc` | Common Voice Spontaneous Speech 3.0 - Eastern Min | `common-voice-spontaneous-speech-3-0-east-db65c687` | [link](https://mozilladatacollective.com/datasets/cmmytgpsh00hemf07itahf0oc) | ✅ |
-| `cmmythoy000fenz07az97qz0h` | Common Voice Spontaneous Speech 3.0 - Western Penan | `common-voice-spontaneous-speech-3-0-west-2b479054` | [link](https://mozilladatacollective.com/datasets/cmmythoy000fenz07az97qz0h) | ✅ |
-| `cmmytiprz00himf07y1a1qhvu` | Common Voice Spontaneous Speech 3.0 - Kenyi | `common-voice-spontaneous-speech-3-0-keny-131038c8` | [link](https://mozilladatacollective.com/datasets/cmmytiprz00himf07y1a1qhvu) | ✅ |
-| `cmmytjs2c00hmmf07towm00mv` | Common Voice Spontaneous Speech 3.0 - Bukusu | `common-voice-spontaneous-speech-3-0-buku-30db3db0` | [link](https://mozilladatacollective.com/datasets/cmmytjs2c00hmmf07towm00mv) | ✅ |
-| `cmmytkjq600hqmf07m6ychfex` | Common Voice Spontaneous Speech 3.0 - Amba | `common-voice-spontaneous-speech-3-0-amba-edd724d9` | [link](https://mozilladatacollective.com/datasets/cmmytkjq600hqmf07m6ychfex) | ✅ |
-| `cmmytlaj900fpnz074nf5ei09` | Common Voice Spontaneous Speech 3.0 - Lendu | `common-voice-spontaneous-speech-3-0-lend-34a686f9` | [link](https://mozilladatacollective.com/datasets/cmmytlaj900fpnz074nf5ei09) | ✅ |
-| `cmmytm3ip00humf07dmc8r7lo` | Common Voice Spontaneous Speech 3.0 - Rutoro | `common-voice-spontaneous-speech-3-0-ruto-681222d6` | [link](https://mozilladatacollective.com/datasets/cmmytm3ip00humf07dmc8r7lo) | ✅ |
-| `cmmytmz7k00fxnz07yj3lastx` | Common Voice Spontaneous Speech 3.0 - Sabah Malay | `common-voice-spontaneous-speech-3-0-saba-c392d246` | [link](https://mozilladatacollective.com/datasets/cmmytmz7k00fxnz07yj3lastx) | ✅ |
-| `cmmytnyhe00i3mf07l1q1gwx1` | Common Voice Spontaneous Speech 3.0 - Konzo | `common-voice-spontaneous-speech-3-0-konz-2ea3549b` | [link](https://mozilladatacollective.com/datasets/cmmytnyhe00i3mf07l1q1gwx1) | ✅ |
-| `cmmytpom600ibmf07abftw5m0` | Common Voice Spontaneous Speech 3.0 - Thur | `common-voice-spontaneous-speech-3-0-thur-4f37e705` | [link](https://mozilladatacollective.com/datasets/cmmytpom600ibmf07abftw5m0) | ✅ |
-| `cmmytprab00ifmf074pd0bvn3` | Common Voice Spontaneous Speech 3.0 - Nubi | `common-voice-spontaneous-speech-3-0-nubi-b492429c` | [link](https://mozilladatacollective.com/datasets/cmmytprab00ifmf074pd0bvn3) | ✅ |
 | `cmmyyd6jq00k5mf07tjn4xh3j` | Mvele_ALCAM-MultimodalDataset | `mvele-alcam-multimodaldataset-bf6fcd7d` | [link](https://mozilladatacollective.com/datasets/cmmyyd6jq00k5mf07tjn4xh3j) | ❌ |
-| `cmn1pl37b00uvmm07woxp33ef` | Common Voice Spontaneous Speech 3.0 - Welsh | `common-voice-spontaneous-speech-3-0-wels-99af7f12` | [link](https://mozilladatacollective.com/datasets/cmn1pl37b00uvmm07woxp33ef) | ✅ |
-| `cmn1pleap00tho107nvvwnbyj` | Common Voice Spontaneous Speech 3.0 - Turkish | `common-voice-spontaneous-speech-3-0-turk-8a2c4b69` | [link](https://mozilladatacollective.com/datasets/cmn1pleap00tho107nvvwnbyj) | ✅ |
-| `cmn1pllvd00tlo10743ce16nh` | Common Voice Spontaneous Speech 3.0 - Latvian | `common-voice-spontaneous-speech-3-0-latv-20294a06` | [link](https://mozilladatacollective.com/datasets/cmn1pllvd00tlo10743ce16nh) | ✅ |
-| `cmn1plu3z00uzmm07cacsbro3` | Common Voice Spontaneous Speech 3.0 - Catalan | `common-voice-spontaneous-speech-3-0-cata-6f0189d9` | [link](https://mozilladatacollective.com/datasets/cmn1plu3z00uzmm07cacsbro3) | ✅ |
-| `cmn1pm3tk00v7mm07wkhdv5p9` | Common Voice Spontaneous Speech 3.0 - Breton | `common-voice-spontaneous-speech-3-0-bret-ad5ddfc1` | [link](https://mozilladatacollective.com/datasets/cmn1pm3tk00v7mm07wkhdv5p9) | ✅ |
-| `cmn1pmgxb00vbmm07a9dgloq9` | Common Voice Spontaneous Speech 3.0 - Sena | `common-voice-spontaneous-speech-3-0-sena-f446bead` | [link](https://mozilladatacollective.com/datasets/cmn1pmgxb00vbmm07a9dgloq9) | ✅ |
-| `cmn1pmsl400tro107gce75iqt` | Common Voice Spontaneous Speech 3.0 - Arvanitika | `common-voice-spontaneous-speech-3-0-arva-fff4e4ab` | [link](https://mozilladatacollective.com/datasets/cmn1pmsl400tro107gce75iqt) | ✅ |
-| `cmn1pn1qk00tvo1070q0jzudy` | Common Voice Spontaneous Speech 3.0 - Ligurian | `common-voice-spontaneous-speech-3-0-ligu-6ccac00b` | [link](https://mozilladatacollective.com/datasets/cmn1pn1qk00tvo1070q0jzudy) | ✅ |
-| `cmn1pnb4n00vfmm07eqydzilq` | Common Voice Spontaneous Speech 3.0 - Russian | `common-voice-spontaneous-speech-3-0-russ-5ed622b8` | [link](https://mozilladatacollective.com/datasets/cmn1pnb4n00vfmm07eqydzilq) | ✅ |
-| `cmn1pnmci00vjmm07lum8cjfd` | Common Voice Spontaneous Speech 3.0 - Galician | `common-voice-spontaneous-speech-3-0-gali-e325529d` | [link](https://mozilladatacollective.com/datasets/cmn1pnmci00vjmm07lum8cjfd) | ✅ |
-| `cmn1poblg00vnmm075qaox16n` | Common Voice Spontaneous Speech 3.0 - Ushojo | `common-voice-spontaneous-speech-3-0-usho-43a28e13` | [link](https://mozilladatacollective.com/datasets/cmn1poblg00vnmm075qaox16n) | ✅ |
-| `cmn1polzs00u3o1074eqe1d2w` | Common Voice Spontaneous Speech 3.0 - Adyghe | `common-voice-spontaneous-speech-3-0-adyg-2934f678` | [link](https://mozilladatacollective.com/datasets/cmn1polzs00u3o1074eqe1d2w) | ✅ |
-| `cmn1pow3f00vtmm07dre8danl` | Common Voice Spontaneous Speech 3.0 - Basaa | `common-voice-spontaneous-speech-3-0-basa-a8806321` | [link](https://mozilladatacollective.com/datasets/cmn1pow3f00vtmm07dre8danl) | ✅ |
-| `cmn1pp8ln00w1mm07xega82ar` | Common Voice Spontaneous Speech 3.0 - Kabardian | `common-voice-spontaneous-speech-3-0-kaba-5a62e220` | [link](https://mozilladatacollective.com/datasets/cmn1pp8ln00w1mm07xega82ar) | ✅ |
-| `cmn1ppks200u7o1078xxw5izl` | Common Voice Spontaneous Speech 3.0 - Toba Qom | `common-voice-spontaneous-speech-3-0-toba-13ad983b` | [link](https://mozilladatacollective.com/datasets/cmn1ppks200u7o1078xxw5izl) | ✅ |
-| `cmn1ppxp700w5mm079ze83bhb` | Common Voice Spontaneous Speech 3.0 - Pashto | `common-voice-spontaneous-speech-3-0-pash-4d186f89` | [link](https://mozilladatacollective.com/datasets/cmn1ppxp700w5mm079ze83bhb) | ✅ |
-| `cmn1pqa0900w9mm074zrq7tbr` | Common Voice Spontaneous Speech 3.0 - Papantla Totonac | `common-voice-spontaneous-speech-3-0-papa-a1538f5a` | [link](https://mozilladatacollective.com/datasets/cmn1pqa0900w9mm074zrq7tbr) | ✅ |
-| `cmn1prgv200wdmm074tv16ejk` | Common Voice Spontaneous Speech 3.0 - Cypriot Greek | `common-voice-spontaneous-speech-3-0-cypr-ecc49118` | [link](https://mozilladatacollective.com/datasets/cmn1prgv200wdmm074tv16ejk) | ✅ |
-| `cmn1prwpx00wlmm07aq3out8f` | Common Voice Spontaneous Speech 3.0 - Betawi | `common-voice-spontaneous-speech-3-0-beta-c6b03256` | [link](https://mozilladatacollective.com/datasets/cmn1prwpx00wlmm07aq3out8f) | ✅ |
-| `cmn1psdr200ubo107t8sf2ro5` | Common Voice Spontaneous Speech 3.0 - Gorani | `common-voice-spontaneous-speech-3-0-gora-275dd5be` | [link](https://mozilladatacollective.com/datasets/cmn1psdr200ubo107t8sf2ro5) | ✅ |
-| `cmn1ptaru00ufo107w2z6gzub` | Common Voice Spontaneous Speech 3.0 - Michoacán Mazahua | `common-voice-spontaneous-speech-3-0-mich-fb2c5e95` | [link](https://mozilladatacollective.com/datasets/cmn1ptaru00ufo107w2z6gzub) | ✅ |
-| `cmn1ptsol00wsmm070mh2j79o` | Common Voice Spontaneous Speech 3.0 - Scots | `common-voice-spontaneous-speech-3-0-scot-432979ed` | [link](https://mozilladatacollective.com/datasets/cmn1ptsol00wsmm070mh2j79o) | ✅ |
-| `cmn1pujk200uno107g6el5r9y` | Common Voice Spontaneous Speech 3.0 - Puno Quechua | `common-voice-spontaneous-speech-3-0-puno-a25c7f2d` | [link](https://mozilladatacollective.com/datasets/cmn1pujk200uno107g6el5r9y) | ✅ |
-| `cmn1pv5hi00uto1072y1074y7` | Common Voice Spontaneous Speech 3.0 - English | `common-voice-spontaneous-speech-3-0-engl-1af82dd9` | [link](https://mozilladatacollective.com/datasets/cmn1pv5hi00uto1072y1074y7) | ✅ |
 | `cmn1pyaq600uzo1079yby8vs2` | Common Voice Scripted Speech 25.0 - IsiNdebele (South) | `common-voice-scripted-speech-25-0-isinde-075b5110` | [link](https://mozilladatacollective.com/datasets/cmn1pyaq600uzo1079yby8vs2) | ✅ |
 | `cmn1pyucy00x4mm071setoehx` | Common Voice Scripted Speech 25.0 - Xitsonga | `common-voice-scripted-speech-25-0-xitson-c91c0f69` | [link](https://mozilladatacollective.com/datasets/cmn1pyucy00x4mm071setoehx) | ✅ |
 | `cmn1pz91w00v3o107hknri5xy` | Common Voice Scripted Speech 25.0 - Haitian | `common-voice-scripted-speech-25-0-haitia-2c2fa603` | [link](https://mozilladatacollective.com/datasets/cmn1pz91w00v3o107hknri5xy) | ✅ |
@@ -577,7 +506,6 @@ schema in this registry and which ones are still missing.
 | `cmnd4la5a02fwmh074t1fx5y9` | Common Voice Scripted Speech 25.0 - Catalan | `common-voice-scripted-speech-25-0-catala-4707e7c7` | [link](https://mozilladatacollective.com/datasets/cmnd4la5a02fwmh074t1fx5y9) | ✅ |
 | `cmndapwry02jnmh07dyo46mot` | Common Voice Scripted Speech 25.0 - English | `common-voice-scripted-speech-25-0-englis-0c0b9a16` | [link](https://mozilladatacollective.com/datasets/cmndapwry02jnmh07dyo46mot) | ✅ |
 | `cmndf6mgs001lnz07bf9t3skp` | Common Voice Scripted Speech 25.0 - Pashto | `common-voice-scripted-speech-25-0-pashto-fdfd7282` | [link](https://mozilladatacollective.com/datasets/cmndf6mgs001lnz07bf9t3skp) | ✅ |
-| `cmndf7vbn002gma07np6nc35o` | Common Voice Spontaneous Speech 3.0 - Serian Bidayuh | `common-voice-spontaneous-speech-3-0-seri-19b901ab` | [link](https://mozilladatacollective.com/datasets/cmndf7vbn002gma07np6nc35o) | ✅ |
 | `cmndjfw9d000qmj070dece40f` | Yezoum_ALCAM-MultimodalDataset | `yezoum-alcam-multimodaldataset-29a744fa` | [link](https://mozilladatacollective.com/datasets/cmndjfw9d000qmj070dece40f) | ❌ |
 | `cmngbf1tt0050nn07i49aebnk` | Sentence translation difficulty in Spanish - BOUQuET | `sentence-translation-difficulty-in-spani-355c4d15` | [link](https://mozilladatacollective.com/datasets/cmngbf1tt0050nn07i49aebnk) | ❌ |
 | `cmnggocgg007ymh079k30st39` | Kannada Time Aligned Speech Corpus | `kannada-time-aligned-speech-corpus-6c996d55` | [link](https://mozilladatacollective.com/datasets/cmnggocgg007ymh079k30st39) | ❌ |
