@@ -9,9 +9,9 @@ schema in this registry and which ones are still missing.
     [Home](index.md) for details.
 
 **Last updated:** 2026-06-18  
-**Total datasets in sitemap:** 817  
+**Total datasets in sitemap:** 819  
 **Schemas registered:** 36 ✅  
-**Schemas missing:** 781 ❌  
+**Schemas missing:** 783 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -832,3 +832,5 @@ schema in this registry and which ones are still missing.
 | `cmqiohnh000zknq07ai4bec8z` | Common Voice Scripted Speech 26.0 - Svan | `common-voice-scripted-speech-26-0-svan-d502be58` | [link](https://mozilladatacollective.com/datasets/cmqiohnh000zknq07ai4bec8z) | ❌ |
 | `cmqiohrxe0108nr07moskb6pu` | Common Voice Scripted Speech 26.0 - Aragonese | `common-voice-scripted-speech-26-0-aragon-4eac6714` | [link](https://mozilladatacollective.com/datasets/cmqiohrxe0108nr07moskb6pu) | ❌ |
 | `cmqiohwz000zonq07iycu740l` | Common Voice Scripted Speech 26.0 - Balti | `common-voice-scripted-speech-26-0-balti-1bd7af32` | [link](https://mozilladatacollective.com/datasets/cmqiohwz000zonq07iycu740l) | ❌ |
+| `cmqj6g7jw01grnr07mfc2zl6s` | EMAC-Dataset-Burundi | `emac-dataset-burundi-f0b4179a` | [link](https://mozilladatacollective.com/datasets/cmqj6g7jw01grnr07mfc2zl6s) | ❌ |
+| `cmqj6jxj401h9nr0766m4b8p0` | EMAC-Dataset-Cameroon | `emac-dataset-cameroon-5ae19153` | [link](https://mozilladatacollective.com/datasets/cmqj6jxj401h9nr0766m4b8p0) | ❌ |
