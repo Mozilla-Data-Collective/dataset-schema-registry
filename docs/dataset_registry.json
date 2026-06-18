@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-18T06:40:58.839619+00:00",
-  "total": 817,
+  "updated_at": "2026-06-18T07:38:33.893761+00:00",
+  "total": 819,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5720,6 +5720,20 @@
       "lastmod": "2026-06-17T23:04:48.684Z",
       "name": "Common Voice Scripted Speech 26.0 - Balti",
       "slug": "common-voice-scripted-speech-26-0-balti-1bd7af32"
+    },
+    {
+      "id": "cmqj6g7jw01grnr07mfc2zl6s",
+      "url": "https://mozilladatacollective.com/datasets/cmqj6g7jw01grnr07mfc2zl6s",
+      "lastmod": "2026-06-18T07:27:22.173Z",
+      "name": "EMAC-Dataset-Burundi",
+      "slug": "emac-dataset-burundi-f0b4179a"
+    },
+    {
+      "id": "cmqj6jxj401h9nr0766m4b8p0",
+      "url": "https://mozilladatacollective.com/datasets/cmqj6jxj401h9nr0766m4b8p0",
+      "lastmod": "2026-06-18T07:30:15.808Z",
+      "name": "EMAC-Dataset-Cameroon",
+      "slug": "emac-dataset-cameroon-5ae19153"
     }
   ]
 }
