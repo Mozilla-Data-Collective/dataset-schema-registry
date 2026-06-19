@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-18  
-**Total datasets in sitemap:** 819  
+**Last updated:** 2026-06-19  
+**Total datasets in sitemap:** 826  
 **Schemas registered:** 36 ✅  
-**Schemas missing:** 783 ❌  
+**Schemas missing:** 790 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -329,9 +329,9 @@ schema in this registry and which ones are still missing.
 | `cmp2h2som00kzno07n8lwesrr` | VoxForge - Turkish | `voxforge-turkish-788023eb` | [link](https://mozilladatacollective.com/datasets/cmp2h2som00kzno07n8lwesrr) | ❌ |
 | `cmp2hgs2j00nsmp07q9s6g3m0` | Less is More Corpus | `less-is-more-corpus-e6dc1838` | [link](https://mozilladatacollective.com/datasets/cmp2hgs2j00nsmp07q9s6g3m0) | ❌ |
 | `cmp3rmip800ozo30799h7wp6g` | Friulian TTS - female voice | `friulian-tts-female-voice-a39bcd04` | [link](https://mozilladatacollective.com/datasets/cmp3rmip800ozo30799h7wp6g) | ❌ |
-| `cmp4htii700glmp07syfvo010` | Bangladesh Traffic Signs Dataset | `bangladesh-traffic-signs-dataset-ea063219` | [link](https://mozilladatacollective.com/datasets/cmp4htii700glmp07syfvo010) | ❌ |
+| `cmp4htii700glmp07syfvo010` | Bangladesh Traffic Signs Dataset | `bangladesh-traffic-signs-dataset-07c5d6ad` | [link](https://mozilladatacollective.com/datasets/cmp4htii700glmp07syfvo010) | ❌ |
 | `cmp4htkri00hao007kbrbew2h` | India Traffic Signs Dataset | `india-traffic-signs-dataset-b74e4eac` | [link](https://mozilladatacollective.com/datasets/cmp4htkri00hao007kbrbew2h) | ❌ |
-| `cmp4htnf000gpmp07shg6l5v9` | Pakistan Traffic Signs Dataset | `pakistan-traffic-signs-dataset-62e0f6c7` | [link](https://mozilladatacollective.com/datasets/cmp4htnf000gpmp07shg6l5v9) | ❌ |
+| `cmp4htnf000gpmp07shg6l5v9` | Pakistan Traffic Signs Dataset | `pakistan-traffic-signs-dataset-cf8dab14` | [link](https://mozilladatacollective.com/datasets/cmp4htnf000gpmp07shg6l5v9) | ❌ |
 | `cmp4ijosh00h9mp078ggnaatm` | ReRooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants | `rerooted-speech-corpus-of-testimonials-f-fda6d7da` | [link](https://mozilladatacollective.com/datasets/cmp4ijosh00h9mp078ggnaatm) | ❌ |
 | `cmp5b9e10014mo007qkcmck75` | CoVoST 2 English - Arabic | `covost-2-english-arabic-1ee86ec6` | [link](https://mozilladatacollective.com/datasets/cmp5b9e10014mo007qkcmck75) | ❌ |
 | `cmp5c60at015po007bbql6h3s` |  CommonLID | `commonlid-622f6f75` | [link](https://mozilladatacollective.com/datasets/cmp5c60at015po007bbql6h3s) | ✅ |
@@ -353,8 +353,8 @@ schema in this registry and which ones are still missing.
 | `cmp77ufsd02w9mp07q65muzr3` | CoVoST 2 Mongolian - English | `covost-2-mongolian-english-50ef62cd` | [link](https://mozilladatacollective.com/datasets/cmp77ufsd02w9mp07q65muzr3) | ❌ |
 | `cmp77wrdm02wdmp071z00ldk3` | CoVoST 2 Estonian - English | `covost-2-estonian-english-21b7c086` | [link](https://mozilladatacollective.com/datasets/cmp77wrdm02wdmp071z00ldk3) | ❌ |
 | `cmp787jb102whmp07hbogpvaw` | CoVoST 2 Russian - English | `covost-2-russian-english-46e2d400` | [link](https://mozilladatacollective.com/datasets/cmp787jb102whmp07hbogpvaw) | ❌ |
-| `cmp8vqj5h03m0o007qu438s4a` | Gujarati News and Blogs Corpus | `gujarati-news-and-blogs-corpus-12ca4558` | [link](https://mozilladatacollective.com/datasets/cmp8vqj5h03m0o007qu438s4a) | ❌ |
-| `cmp8w3owe03phmp076hciar56` | Multispeaker Hindi ASR Dataset | `multispeaker-hindi-asr-dataset-5450a717` | [link](https://mozilladatacollective.com/datasets/cmp8w3owe03phmp076hciar56) | ❌ |
+| `cmp8vqj5h03m0o007qu438s4a` | Gujarati News and Blogs Corpus | `gujarati-news-and-blogs-corpus-9d36389a` | [link](https://mozilladatacollective.com/datasets/cmp8vqj5h03m0o007qu438s4a) | ❌ |
+| `cmp8w3owe03phmp076hciar56` | Multispeaker Hindi ASR Dataset | `multispeaker-hindi-asr-dataset-fc507596` | [link](https://mozilladatacollective.com/datasets/cmp8w3owe03phmp076hciar56) | ❌ |
 | `cmpbfyxlc002nmj07k67e3ok2` | CoVoST 2 French - English | `covost-2-french-english-d459549b` | [link](https://mozilladatacollective.com/datasets/cmpbfyxlc002nmj07k67e3ok2) | ❌ |
 | `cmpbmhj4i0067nw07tk46v2jp` | Synthetic Ladino Parallel Corpus | `synthetic-ladino-parallel-corpus-c1dbf629` | [link](https://mozilladatacollective.com/datasets/cmpbmhj4i0067nw07tk46v2jp) | ❌ |
 | `cmpcp7cl800ydmg077wte52mv` | LegendNER-ID (Javanese) | `legendner-id-javanese-62d5a93d` | [link](https://mozilladatacollective.com/datasets/cmpcp7cl800ydmg077wte52mv) | ❌ |
@@ -430,7 +430,7 @@ schema in this registry and which ones are still missing.
 | `cmpwi0ac200zbo007hebmkzqy` | TTS Javanese-Gresik Dialect | `tts-javanese-gresik-dialect-ec043023` | [link](https://mozilladatacollective.com/datasets/cmpwi0ac200zbo007hebmkzqy) | ❌ |
 | `cmpwi2f8y00y5nv06lptoxf6n` | Mandar Balanipa Speech Corpus | `mandar-balanipa-speech-corpus-d4da2913` | [link](https://mozilladatacollective.com/datasets/cmpwi2f8y00y5nv06lptoxf6n) | ❌ |
 | `cmpwidn0500zpo0079wsj1phv` | Gbaya-Lay_ALCAM-MultimodalDataset | `gbaya-lay-alcam-multimodaldataset-5ed5cc2e` | [link](https://mozilladatacollective.com/datasets/cmpwidn0500zpo0079wsj1phv) | ❌ |
-| `cmpwkd15w013snv06tb5z0ydr` | Marathi Blog & Literature Corpus | `marathi-blog-literature-corpus-968cfe8b` | [link](https://mozilladatacollective.com/datasets/cmpwkd15w013snv06tb5z0ydr) | ❌ |
+| `cmpwkd15w013snv06tb5z0ydr` | Marathi Blog & Literature Corpus | `marathi-blog-literature-corpus-8651940f` | [link](https://mozilladatacollective.com/datasets/cmpwkd15w013snv06tb5z0ydr) | ❌ |
 | `cmpzgijrk001cnx0732jcpyc9` | OSHA Severe Injuries by Employer 2015-2025  | `osha-severe-injuries-by-employer-2015-20-d890e565` | [link](https://mozilladatacollective.com/datasets/cmpzgijrk001cnx0732jcpyc9) | ❌ |
 | `cmpzgm29a001hnx07px74x658` | Buscadores Temáticos de la Plataforma Nacional de Transparencia (PNT) de México  | `buscadores-tem-ticos-de-la-plataforma-na-f9a77536` | [link](https://mozilladatacollective.com/datasets/cmpzgm29a001hnx07px74x658) | ❌ |
 | `cmpzkqaqu0065nv070bdv5hfj` | TermOfis terminology database Breton-French | `termofis-terminology-database-breton-fre-bef3c0e5` | [link](https://mozilladatacollective.com/datasets/cmpzkqaqu0065nv070bdv5hfj) | ❌ |
@@ -438,9 +438,9 @@ schema in this registry and which ones are still missing.
 | `cmq5ga41w007xmg07i73vv0j0` | CoVoST 2 English - Mongolian | `covost-2-english-mongolian-ae5954b4` | [link](https://mozilladatacollective.com/datasets/cmq5ga41w007xmg07i73vv0j0) | ❌ |
 | `cmq6q6tjz0195o3078oodsoeu` | AIRI AI4TALK Meadow Mari-Russian Translation | `airi-ai4talk-meadow-mari-russian-transla-c20ca463` | [link](https://mozilladatacollective.com/datasets/cmq6q6tjz0195o3078oodsoeu) | ❌ |
 | `cmq80dcwp00xrl20740m9o1k5` | Public Company Federal Compliance Records — Q3 2026 | `public-company-federal-compliance-record-e28404f3` | [link](https://mozilladatacollective.com/datasets/cmq80dcwp00xrl20740m9o1k5) | ❌ |
-| `cmq820k3b010cl2074kdxjsj3` | Hindi Literature & News Corpus | `hindi-literature-news-corpus-fa201bff` | [link](https://mozilladatacollective.com/datasets/cmq820k3b010cl2074kdxjsj3) | ❌ |
-| `cmq822h8z011mmk075b4mxi6t` | Tamil Literature Corpus | `tamil-literature-corpus-ecde168c` | [link](https://mozilladatacollective.com/datasets/cmq822h8z011mmk075b4mxi6t) | ❌ |
-| `cmq82aqqv0110l207drh50nw4` | Telugu Text Corpus | `telugu-text-corpus-86a938c0` | [link](https://mozilladatacollective.com/datasets/cmq82aqqv0110l207drh50nw4) | ❌ |
+| `cmq820k3b010cl2074kdxjsj3` | Hindi Literature & News Corpus | `hindi-literature-news-corpus-f98b1374` | [link](https://mozilladatacollective.com/datasets/cmq820k3b010cl2074kdxjsj3) | ❌ |
+| `cmq822h8z011mmk075b4mxi6t` | Tamil Literature Corpus | `tamil-literature-corpus-8aa31bc7` | [link](https://mozilladatacollective.com/datasets/cmq822h8z011mmk075b4mxi6t) | ❌ |
+| `cmq82aqqv0110l207drh50nw4` | Telugu Text Corpus | `telugu-text-corpus-0e0e69ae` | [link](https://mozilladatacollective.com/datasets/cmq82aqqv0110l207drh50nw4) | ❌ |
 | `cmq82rl5i012ymk07yii2lzya` | Afaan Oromoo-TTS-Dataset | `afaan-oromoo-tts-dataset-b47c9c48` | [link](https://mozilladatacollective.com/datasets/cmq82rl5i012ymk07yii2lzya) | ❌ |
 | `cmq83jqac0141mk07gpu4vit2` | Ghomala-MultimodalDataset | `ghomala-multimodaldataset-41aae2c7` | [link](https://mozilladatacollective.com/datasets/cmq83jqac0141mk07gpu4vit2) | ❌ |
 | `cmq83m9h00145mk07g2kanq2s` | Dagbani-TTS-Dataset | `dagbani-tts-dataset-808aa535` | [link](https://mozilladatacollective.com/datasets/cmq83m9h00145mk07g2kanq2s) | ❌ |
@@ -834,3 +834,10 @@ schema in this registry and which ones are still missing.
 | `cmqiohwz000zonq07iycu740l` | Common Voice Scripted Speech 26.0 - Balti | `common-voice-scripted-speech-26-0-balti-1bd7af32` | [link](https://mozilladatacollective.com/datasets/cmqiohwz000zonq07iycu740l) | ❌ |
 | `cmqj6g7jw01grnr07mfc2zl6s` | EMAC-Dataset-Burundi | `emac-dataset-burundi-f0b4179a` | [link](https://mozilladatacollective.com/datasets/cmqj6g7jw01grnr07mfc2zl6s) | ❌ |
 | `cmqj6jxj401h9nr0766m4b8p0` | EMAC-Dataset-Cameroon | `emac-dataset-cameroon-5ae19153` | [link](https://mozilladatacollective.com/datasets/cmqj6jxj401h9nr0766m4b8p0) | ❌ |
+| `cmqj75zev01i8nq07v1qzjctb` | EMAC-Dataset-CAR | `emac-dataset-car-a7c6754b` | [link](https://mozilladatacollective.com/datasets/cmqj75zev01i8nq07v1qzjctb) | ❌ |
+| `cmqj77tl801khnr07y04ds10p` | EMAC-Dataset-Congo | `emac-dataset-congo-7e13857a` | [link](https://mozilladatacollective.com/datasets/cmqj77tl801khnr07y04ds10p) | ❌ |
+| `cmqj784dc01klnr07nz7msurn` | EMAC-Dataset-DRC | `emac-dataset-drc-f83dc23e` | [link](https://mozilladatacollective.com/datasets/cmqj784dc01klnr07nz7msurn) | ❌ |
+| `cmqj78cue01ktnr07x7nkz6cp` | Sample-Ngomba-TTS-Dataset | `sample-ngomba-tts-dataset-5dfeb9d4` | [link](https://mozilladatacollective.com/datasets/cmqj78cue01ktnr07x7nkz6cp) | ❌ |
+| `cmqj78kw201iknq07ceu0unhv` | EMAC-Dataset-Gabon | `emac-dataset-gabon-2dcc198d` | [link](https://mozilladatacollective.com/datasets/cmqj78kw201iknq07ceu0unhv) | ❌ |
+| `cmqj78wl301kxnr07sjbgvr24` | EMAC-Dataset-Rwanda | `emac-dataset-rwanda-b6481b6c` | [link](https://mozilladatacollective.com/datasets/cmqj78wl301kxnr07sjbgvr24) | ❌ |
+| `cmqj8pki201kgnq074r5teseq` | Sample Ghomala-TTS-Dataset | `sample-ghomala-tts-dataset-d156e68d` | [link](https://mozilladatacollective.com/datasets/cmqj8pki201kgnq074r5teseq) | ❌ |
