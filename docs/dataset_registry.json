@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-18T07:38:33.893761+00:00",
-  "total": 819,
+  "updated_at": "2026-06-19T06:48:04.809616+00:00",
+  "total": 826,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -2203,9 +2203,9 @@
     {
       "id": "cmp4htii700glmp07syfvo010",
       "url": "https://mozilladatacollective.com/datasets/cmp4htii700glmp07syfvo010",
-      "lastmod": "2026-05-14T09:11:59.102Z",
+      "lastmod": "2026-06-18T16:57:51.649Z",
       "name": "Bangladesh Traffic Signs Dataset",
-      "slug": "bangladesh-traffic-signs-dataset-ea063219"
+      "slug": "bangladesh-traffic-signs-dataset-07c5d6ad"
     },
     {
       "id": "cmp4htkri00hao007kbrbew2h",
@@ -2217,9 +2217,9 @@
     {
       "id": "cmp4htnf000gpmp07shg6l5v9",
       "url": "https://mozilladatacollective.com/datasets/cmp4htnf000gpmp07shg6l5v9",
-      "lastmod": "2026-05-14T08:08:25.874Z",
+      "lastmod": "2026-06-18T16:57:58.774Z",
       "name": "Pakistan Traffic Signs Dataset",
-      "slug": "pakistan-traffic-signs-dataset-62e0f6c7"
+      "slug": "pakistan-traffic-signs-dataset-cf8dab14"
     },
     {
       "id": "cmp4ijosh00h9mp078ggnaatm",
@@ -2371,16 +2371,16 @@
     {
       "id": "cmp8vqj5h03m0o007qu438s4a",
       "url": "https://mozilladatacollective.com/datasets/cmp8vqj5h03m0o007qu438s4a",
-      "lastmod": "2026-05-16T21:50:03.893Z",
+      "lastmod": "2026-06-18T16:57:33.498Z",
       "name": "Gujarati News and Blogs Corpus",
-      "slug": "gujarati-news-and-blogs-corpus-12ca4558"
+      "slug": "gujarati-news-and-blogs-corpus-9d36389a"
     },
     {
       "id": "cmp8w3owe03phmp076hciar56",
       "url": "https://mozilladatacollective.com/datasets/cmp8w3owe03phmp076hciar56",
-      "lastmod": "2026-05-16T22:00:17.870Z",
+      "lastmod": "2026-06-18T16:57:13.895Z",
       "name": "Multispeaker Hindi ASR Dataset",
-      "slug": "multispeaker-hindi-asr-dataset-5450a717"
+      "slug": "multispeaker-hindi-asr-dataset-fc507596"
     },
     {
       "id": "cmpbfyxlc002nmj07k67e3ok2",
@@ -2910,9 +2910,9 @@
     {
       "id": "cmpwkd15w013snv06tb5z0ydr",
       "url": "https://mozilladatacollective.com/datasets/cmpwkd15w013snv06tb5z0ydr",
-      "lastmod": "2026-06-02T11:38:06.500Z",
+      "lastmod": "2026-06-18T16:58:13.017Z",
       "name": "Marathi Blog & Literature Corpus",
-      "slug": "marathi-blog-literature-corpus-968cfe8b"
+      "slug": "marathi-blog-literature-corpus-8651940f"
     },
     {
       "id": "cmpzgijrk001cnx0732jcpyc9",
@@ -2966,23 +2966,23 @@
     {
       "id": "cmq820k3b010cl2074kdxjsj3",
       "url": "https://mozilladatacollective.com/datasets/cmq820k3b010cl2074kdxjsj3",
-      "lastmod": "2026-06-10T12:37:45.527Z",
+      "lastmod": "2026-06-18T16:58:08.166Z",
       "name": "Hindi Literature & News Corpus",
-      "slug": "hindi-literature-news-corpus-fa201bff"
+      "slug": "hindi-literature-news-corpus-f98b1374"
     },
     {
       "id": "cmq822h8z011mmk075b4mxi6t",
       "url": "https://mozilladatacollective.com/datasets/cmq822h8z011mmk075b4mxi6t",
-      "lastmod": "2026-06-10T12:39:15.155Z",
+      "lastmod": "2026-06-18T16:57:28.072Z",
       "name": "Tamil Literature Corpus",
-      "slug": "tamil-literature-corpus-ecde168c"
+      "slug": "tamil-literature-corpus-8aa31bc7"
     },
     {
       "id": "cmq82aqqv0110l207drh50nw4",
       "url": "https://mozilladatacollective.com/datasets/cmq82aqqv0110l207drh50nw4",
-      "lastmod": "2026-06-10T12:45:40.711Z",
+      "lastmod": "2026-06-18T16:57:18.709Z",
       "name": "Telugu Text Corpus",
-      "slug": "telugu-text-corpus-86a938c0"
+      "slug": "telugu-text-corpus-0e0e69ae"
     },
     {
       "id": "cmq82rl5i012ymk07yii2lzya",
@@ -5734,6 +5734,55 @@
       "lastmod": "2026-06-18T07:30:15.808Z",
       "name": "EMAC-Dataset-Cameroon",
       "slug": "emac-dataset-cameroon-5ae19153"
+    },
+    {
+      "id": "cmqj75zev01i8nq07v1qzjctb",
+      "url": "https://mozilladatacollective.com/datasets/cmqj75zev01i8nq07v1qzjctb",
+      "lastmod": "2026-06-18T07:47:24.679Z",
+      "name": "EMAC-Dataset-CAR",
+      "slug": "emac-dataset-car-a7c6754b"
+    },
+    {
+      "id": "cmqj77tl801khnr07y04ds10p",
+      "url": "https://mozilladatacollective.com/datasets/cmqj77tl801khnr07y04ds10p",
+      "lastmod": "2026-06-18T07:48:50.445Z",
+      "name": "EMAC-Dataset-Congo",
+      "slug": "emac-dataset-congo-7e13857a"
+    },
+    {
+      "id": "cmqj784dc01klnr07nz7msurn",
+      "url": "https://mozilladatacollective.com/datasets/cmqj784dc01klnr07nz7msurn",
+      "lastmod": "2026-06-18T07:49:04.416Z",
+      "name": "EMAC-Dataset-DRC",
+      "slug": "emac-dataset-drc-f83dc23e"
+    },
+    {
+      "id": "cmqj78cue01ktnr07x7nkz6cp",
+      "url": "https://mozilladatacollective.com/datasets/cmqj78cue01ktnr07x7nkz6cp",
+      "lastmod": "2026-06-18T07:49:15.398Z",
+      "name": "Sample-Ngomba-TTS-Dataset",
+      "slug": "sample-ngomba-tts-dataset-5dfeb9d4"
+    },
+    {
+      "id": "cmqj78kw201iknq07ceu0unhv",
+      "url": "https://mozilladatacollective.com/datasets/cmqj78kw201iknq07ceu0unhv",
+      "lastmod": "2026-06-18T07:49:25.826Z",
+      "name": "EMAC-Dataset-Gabon",
+      "slug": "emac-dataset-gabon-2dcc198d"
+    },
+    {
+      "id": "cmqj78wl301kxnr07sjbgvr24",
+      "url": "https://mozilladatacollective.com/datasets/cmqj78wl301kxnr07sjbgvr24",
+      "lastmod": "2026-06-18T07:49:40.984Z",
+      "name": "EMAC-Dataset-Rwanda",
+      "slug": "emac-dataset-rwanda-b6481b6c"
+    },
+    {
+      "id": "cmqj8pki201kgnq074r5teseq",
+      "url": "https://mozilladatacollective.com/datasets/cmqj8pki201kgnq074r5teseq",
+      "lastmod": "2026-06-18T08:30:38.090Z",
+      "name": "Sample Ghomala-TTS-Dataset",
+      "slug": "sample-ghomala-tts-dataset-d156e68d"
     }
   ]
 }
