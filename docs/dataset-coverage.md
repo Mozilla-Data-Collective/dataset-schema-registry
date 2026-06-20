@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-19  
-**Total datasets in sitemap:** 826  
+**Last updated:** 2026-06-20  
+**Total datasets in sitemap:** 828  
 **Schemas registered:** 36 ✅  
-**Schemas missing:** 790 ❌  
+**Schemas missing:** 792 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -841,3 +841,5 @@ schema in this registry and which ones are still missing.
 | `cmqj78kw201iknq07ceu0unhv` | EMAC-Dataset-Gabon | `emac-dataset-gabon-2dcc198d` | [link](https://mozilladatacollective.com/datasets/cmqj78kw201iknq07ceu0unhv) | ❌ |
 | `cmqj78wl301kxnr07sjbgvr24` | EMAC-Dataset-Rwanda | `emac-dataset-rwanda-b6481b6c` | [link](https://mozilladatacollective.com/datasets/cmqj78wl301kxnr07sjbgvr24) | ❌ |
 | `cmqj8pki201kgnq074r5teseq` | Sample Ghomala-TTS-Dataset | `sample-ghomala-tts-dataset-d156e68d` | [link](https://mozilladatacollective.com/datasets/cmqj8pki201kgnq074r5teseq) | ❌ |
+| `cmql0hm5f01xcnr07b6gsl9bd` | Burushaski-English Speech Translation Corpus | `burushaski-english-speech-translation-co-5210260b` | [link](https://mozilladatacollective.com/datasets/cmql0hm5f01xcnr07b6gsl9bd) | ❌ |
+| `cmqlfovw202l7mm07fiwxwa9e` | Sindhi Named Entity Recognition-SiNER Dataset | `sindhi-named-entity-recognition-siner-da-819c084f` | [link](https://mozilladatacollective.com/datasets/cmqlfovw202l7mm07fiwxwa9e) | ❌ |
