@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-19T07:49:38.200679+00:00",
-  "total": 826,
+  "updated_at": "2026-06-20T06:33:34.459872+00:00",
+  "total": 828,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5783,6 +5783,20 @@
       "lastmod": "2026-06-18T08:30:38.090Z",
       "name": "Sample Ghomala-TTS-Dataset",
       "slug": "sample-ghomala-tts-dataset-d156e68d"
+    },
+    {
+      "id": "cmql0hm5f01xcnr07b6gsl9bd",
+      "url": "https://mozilladatacollective.com/datasets/cmql0hm5f01xcnr07b6gsl9bd",
+      "lastmod": "2026-06-19T14:16:02.403Z",
+      "name": "Burushaski-English Speech Translation Corpus",
+      "slug": "burushaski-english-speech-translation-co-5210260b"
+    },
+    {
+      "id": "cmqlfovw202l7mm07fiwxwa9e",
+      "url": "https://mozilladatacollective.com/datasets/cmqlfovw202l7mm07fiwxwa9e",
+      "lastmod": "2026-06-20T04:05:40.889Z",
+      "name": "Sindhi Named Entity Recognition-SiNER Dataset",
+      "slug": "sindhi-named-entity-recognition-siner-da-819c084f"
     }
   ]
 }
