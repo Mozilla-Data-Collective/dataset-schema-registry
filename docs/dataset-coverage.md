@@ -9,9 +9,9 @@ schema in this registry and which ones are still missing.
     [Home](index.md) for details.
 
 **Last updated:** 2026-06-22  
-**Total datasets in sitemap:** 837  
+**Total datasets in sitemap:** 854  
 **Schemas registered:** 36 ✅  
-**Schemas missing:** 801 ❌  
+**Schemas missing:** 818 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -852,3 +852,20 @@ schema in this registry and which ones are still missing.
 | `cmqors3dy04bjmm07sha0nug2` | StackOverflow Vector Dataset - Typescript | `stackoverflow-vector-dataset-typescript-3cc99c0a` | [link](https://mozilladatacollective.com/datasets/cmqors3dy04bjmm07sha0nug2) | ❌ |
 | `cmqorss9a041anr07r06xlutv` | StackOverflow Vector Dataset - Swift | `stackoverflow-vector-dataset-swift-04c7290a` | [link](https://mozilladatacollective.com/datasets/cmqorss9a041anr07r06xlutv) | ❌ |
 | `cmqort3bz041enr07jt5ko8tf` | StackOverflow Vector Dataset - SQL | `stackoverflow-vector-dataset-sql-fbcd72e2` | [link](https://mozilladatacollective.com/datasets/cmqort3bz041enr07jt5ko8tf) | ❌ |
+| `cmqow5ozf0456nr07aoed2rgz` | StackOverflow Vector Dataset - Shell | `stackoverflow-vector-dataset-shell-c00ebe45` | [link](https://mozilladatacollective.com/datasets/cmqow5ozf0456nr07aoed2rgz) | ❌ |
+| `cmqow63hi04fxmm0738oysre7` | StackOverflow Vector Dataset - Abap | `stackoverflow-vector-dataset-abap-2ca4ff79` | [link](https://mozilladatacollective.com/datasets/cmqow63hi04fxmm0738oysre7) | ❌ |
+| `cmqow70ai04g1mm077r6pkfe0` | StackOverflow Vector Dataset - Erlang | `stackoverflow-vector-dataset-erlang-f10afc2c` | [link](https://mozilladatacollective.com/datasets/cmqow70ai04g1mm077r6pkfe0) | ❌ |
+| `cmqow7du304g5mm07bx3blas4` | StackOverflow Vector Dataset - Fortran | `stackoverflow-vector-dataset-fortran-da8c41b5` | [link](https://mozilladatacollective.com/datasets/cmqow7du304g5mm07bx3blas4) | ❌ |
+| `cmqow7mfh04g9mm07fennsvgt` | StackOverflow Vector Dataset - F# | `stackoverflow-vector-dataset-f-244120c0` | [link](https://mozilladatacollective.com/datasets/cmqow7mfh04g9mm07fennsvgt) | ❌ |
+| `cmqow7w6i04gdmm07u142hmbr` | StackOverflow Vector Dataset - .Net | `stackoverflow-vector-dataset-net-97282729` | [link](https://mozilladatacollective.com/datasets/cmqow7w6i04gdmm07u142hmbr) | ❌ |
+| `cmqow86pk045enr07tiz71bqc` | StackOverflow Vector Dataset - GO | `stackoverflow-vector-dataset-go-c9ae3720` | [link](https://mozilladatacollective.com/datasets/cmqow86pk045enr07tiz71bqc) | ❌ |
+| `cmqow8e87045inr07b6pmk5ct` | StackOverflow Vector Dataset - Haskell | `stackoverflow-vector-dataset-haskell-a7e9ec6b` | [link](https://mozilladatacollective.com/datasets/cmqow8e87045inr07b6pmk5ct) | ❌ |
+| `cmqow8lrd045mnr07cuzqet8x` | StackOverflow Vector Dataset - Html | `stackoverflow-vector-dataset-html-a7f6cc41` | [link](https://mozilladatacollective.com/datasets/cmqow8lrd045mnr07cuzqet8x) | ❌ |
+| `cmqow8u0q045qnr07lfv6w12m` | StackOverflow Vector Dataset - Javascript | `stackoverflow-vector-dataset-javascript-a9d9bbb8` | [link](https://mozilladatacollective.com/datasets/cmqow8u0q045qnr07lfv6w12m) | ❌ |
+| `cmqow92ft045unr07xwtjbmv7` | StackOverflow Vector Dataset - Julia | `stackoverflow-vector-dataset-julia-35a995c3` | [link](https://mozilladatacollective.com/datasets/cmqow92ft045unr07xwtjbmv7) | ❌ |
+| `cmqow9ckh04gjmm07oxedr358` | StackOverflow Vector Dataset - Kotlin | `stackoverflow-vector-dataset-kotlin-61b95ba2` | [link](https://mozilladatacollective.com/datasets/cmqow9ckh04gjmm07oxedr358) | ❌ |
+| `cmqowa5rz04gnmm078l3hr2by` | StackOverflow Vector Dataset - Lisp | `stackoverflow-vector-dataset-lisp-caca34a9` | [link](https://mozilladatacollective.com/datasets/cmqowa5rz04gnmm078l3hr2by) | ❌ |
+| `cmqowaied04grmm07l7ozbrmo` | StackOverflow Vector Dataset - LUA | `stackoverflow-vector-dataset-lua-5ec4c9f5` | [link](https://mozilladatacollective.com/datasets/cmqowaied04grmm07l7ozbrmo) | ❌ |
+| `cmqox0usf046anr07fykkjdtm` | StackOverflow Vector Dataset - Objective-C | `stackoverflow-vector-dataset-objective-c-b0f2fac9` | [link](https://mozilladatacollective.com/datasets/cmqox0usf046anr07fykkjdtm) | ❌ |
+| `cmqox12j904h5mm07wldoslw8` | StackOverflow Vector Dataset - Matlab | `stackoverflow-vector-dataset-matlab-69eeff46` | [link](https://mozilladatacollective.com/datasets/cmqox12j904h5mm07wldoslw8) | ❌ |
+| `cmqox1aeq046enr07b53hg6gm` | StackOverflow Vector Dataset - Perl | `stackoverflow-vector-dataset-perl-08502b08` | [link](https://mozilladatacollective.com/datasets/cmqox1aeq046enr07b53hg6gm) | ❌ |
