@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T06:51:35.574150+00:00",
-  "total": 837,
+  "updated_at": "2026-06-22T07:57:17.971753+00:00",
+  "total": 854,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5860,6 +5860,125 @@
       "lastmod": "2026-06-22T05:24:06.048Z",
       "name": "StackOverflow Vector Dataset - SQL",
       "slug": "stackoverflow-vector-dataset-sql-fbcd72e2"
+    },
+    {
+      "id": "cmqow5ozf0456nr07aoed2rgz",
+      "url": "https://mozilladatacollective.com/datasets/cmqow5ozf0456nr07aoed2rgz",
+      "lastmod": "2026-06-22T07:25:52.443Z",
+      "name": "StackOverflow Vector Dataset - Shell",
+      "slug": "stackoverflow-vector-dataset-shell-c00ebe45"
+    },
+    {
+      "id": "cmqow63hi04fxmm0738oysre7",
+      "url": "https://mozilladatacollective.com/datasets/cmqow63hi04fxmm0738oysre7",
+      "lastmod": "2026-06-22T07:26:11.238Z",
+      "name": "StackOverflow Vector Dataset - Abap",
+      "slug": "stackoverflow-vector-dataset-abap-2ca4ff79"
+    },
+    {
+      "id": "cmqow70ai04g1mm077r6pkfe0",
+      "url": "https://mozilladatacollective.com/datasets/cmqow70ai04g1mm077r6pkfe0",
+      "lastmod": "2026-06-22T07:26:53.755Z",
+      "name": "StackOverflow Vector Dataset - Erlang",
+      "slug": "stackoverflow-vector-dataset-erlang-f10afc2c"
+    },
+    {
+      "id": "cmqow7du304g5mm07bx3blas4",
+      "url": "https://mozilladatacollective.com/datasets/cmqow7du304g5mm07bx3blas4",
+      "lastmod": "2026-06-22T07:27:11.307Z",
+      "name": "StackOverflow Vector Dataset - Fortran",
+      "slug": "stackoverflow-vector-dataset-fortran-da8c41b5"
+    },
+    {
+      "id": "cmqow7mfh04g9mm07fennsvgt",
+      "url": "https://mozilladatacollective.com/datasets/cmqow7mfh04g9mm07fennsvgt",
+      "lastmod": "2026-06-22T07:27:22.446Z",
+      "name": "StackOverflow Vector Dataset - F#",
+      "slug": "stackoverflow-vector-dataset-f-244120c0"
+    },
+    {
+      "id": "cmqow7w6i04gdmm07u142hmbr",
+      "url": "https://mozilladatacollective.com/datasets/cmqow7w6i04gdmm07u142hmbr",
+      "lastmod": "2026-06-22T07:27:35.082Z",
+      "name": "StackOverflow Vector Dataset - .Net",
+      "slug": "stackoverflow-vector-dataset-net-97282729"
+    },
+    {
+      "id": "cmqow86pk045enr07tiz71bqc",
+      "url": "https://mozilladatacollective.com/datasets/cmqow86pk045enr07tiz71bqc",
+      "lastmod": "2026-06-22T07:27:48.729Z",
+      "name": "StackOverflow Vector Dataset - GO",
+      "slug": "stackoverflow-vector-dataset-go-c9ae3720"
+    },
+    {
+      "id": "cmqow8e87045inr07b6pmk5ct",
+      "url": "https://mozilladatacollective.com/datasets/cmqow8e87045inr07b6pmk5ct",
+      "lastmod": "2026-06-22T07:27:58.472Z",
+      "name": "StackOverflow Vector Dataset - Haskell",
+      "slug": "stackoverflow-vector-dataset-haskell-a7e9ec6b"
+    },
+    {
+      "id": "cmqow8lrd045mnr07cuzqet8x",
+      "url": "https://mozilladatacollective.com/datasets/cmqow8lrd045mnr07cuzqet8x",
+      "lastmod": "2026-06-22T07:28:08.233Z",
+      "name": "StackOverflow Vector Dataset - Html",
+      "slug": "stackoverflow-vector-dataset-html-a7f6cc41"
+    },
+    {
+      "id": "cmqow8u0q045qnr07lfv6w12m",
+      "url": "https://mozilladatacollective.com/datasets/cmqow8u0q045qnr07lfv6w12m",
+      "lastmod": "2026-06-22T07:28:18.938Z",
+      "name": "StackOverflow Vector Dataset - Javascript",
+      "slug": "stackoverflow-vector-dataset-javascript-a9d9bbb8"
+    },
+    {
+      "id": "cmqow92ft045unr07xwtjbmv7",
+      "url": "https://mozilladatacollective.com/datasets/cmqow92ft045unr07xwtjbmv7",
+      "lastmod": "2026-06-22T07:28:29.849Z",
+      "name": "StackOverflow Vector Dataset - Julia",
+      "slug": "stackoverflow-vector-dataset-julia-35a995c3"
+    },
+    {
+      "id": "cmqow9ckh04gjmm07oxedr358",
+      "url": "https://mozilladatacollective.com/datasets/cmqow9ckh04gjmm07oxedr358",
+      "lastmod": "2026-06-22T07:28:42.977Z",
+      "name": "StackOverflow Vector Dataset - Kotlin",
+      "slug": "stackoverflow-vector-dataset-kotlin-61b95ba2"
+    },
+    {
+      "id": "cmqowa5rz04gnmm078l3hr2by",
+      "url": "https://mozilladatacollective.com/datasets/cmqowa5rz04gnmm078l3hr2by",
+      "lastmod": "2026-06-22T07:29:20.831Z",
+      "name": "StackOverflow Vector Dataset - Lisp",
+      "slug": "stackoverflow-vector-dataset-lisp-caca34a9"
+    },
+    {
+      "id": "cmqowaied04grmm07l7ozbrmo",
+      "url": "https://mozilladatacollective.com/datasets/cmqowaied04grmm07l7ozbrmo",
+      "lastmod": "2026-06-22T07:29:37.189Z",
+      "name": "StackOverflow Vector Dataset - LUA",
+      "slug": "stackoverflow-vector-dataset-lua-5ec4c9f5"
+    },
+    {
+      "id": "cmqox0usf046anr07fykkjdtm",
+      "url": "https://mozilladatacollective.com/datasets/cmqox0usf046anr07fykkjdtm",
+      "lastmod": "2026-06-22T07:50:06.303Z",
+      "name": "StackOverflow Vector Dataset - Objective-C",
+      "slug": "stackoverflow-vector-dataset-objective-c-b0f2fac9"
+    },
+    {
+      "id": "cmqox12j904h5mm07wldoslw8",
+      "url": "https://mozilladatacollective.com/datasets/cmqox12j904h5mm07wldoslw8",
+      "lastmod": "2026-06-22T07:50:16.341Z",
+      "name": "StackOverflow Vector Dataset - Matlab",
+      "slug": "stackoverflow-vector-dataset-matlab-69eeff46"
+    },
+    {
+      "id": "cmqox1aeq046enr07b53hg6gm",
+      "url": "https://mozilladatacollective.com/datasets/cmqox1aeq046enr07b53hg6gm",
+      "lastmod": "2026-06-22T07:50:26.546Z",
+      "name": "StackOverflow Vector Dataset - Perl",
+      "slug": "stackoverflow-vector-dataset-perl-08502b08"
     }
   ]
 }
