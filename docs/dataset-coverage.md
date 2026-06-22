@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-21  
-**Total datasets in sitemap:** 828  
+**Last updated:** 2026-06-22  
+**Total datasets in sitemap:** 837  
 **Schemas registered:** 36 ✅  
-**Schemas missing:** 792 ❌  
+**Schemas missing:** 801 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -836,10 +836,19 @@ schema in this registry and which ones are still missing.
 | `cmqj6jxj401h9nr0766m4b8p0` | EMAC-Dataset-Cameroon | `emac-dataset-cameroon-5ae19153` | [link](https://mozilladatacollective.com/datasets/cmqj6jxj401h9nr0766m4b8p0) | ❌ |
 | `cmqj75zev01i8nq07v1qzjctb` | EMAC-Dataset-CAR | `emac-dataset-car-a7c6754b` | [link](https://mozilladatacollective.com/datasets/cmqj75zev01i8nq07v1qzjctb) | ❌ |
 | `cmqj77tl801khnr07y04ds10p` | EMAC-Dataset-Congo | `emac-dataset-congo-7e13857a` | [link](https://mozilladatacollective.com/datasets/cmqj77tl801khnr07y04ds10p) | ❌ |
-| `cmqj784dc01klnr07nz7msurn` | EMAC-Dataset-DRC | `emac-dataset-drc-f83dc23e` | [link](https://mozilladatacollective.com/datasets/cmqj784dc01klnr07nz7msurn) | ❌ |
+| `cmqj784dc01klnr07nz7msurn` | EMAC-Dataset-DRC | `emac-dataset-drc-6d5a60ad` | [link](https://mozilladatacollective.com/datasets/cmqj784dc01klnr07nz7msurn) | ❌ |
 | `cmqj78cue01ktnr07x7nkz6cp` | Sample-Ngomba-TTS-Dataset | `sample-ngomba-tts-dataset-5dfeb9d4` | [link](https://mozilladatacollective.com/datasets/cmqj78cue01ktnr07x7nkz6cp) | ❌ |
 | `cmqj78kw201iknq07ceu0unhv` | EMAC-Dataset-Gabon | `emac-dataset-gabon-2dcc198d` | [link](https://mozilladatacollective.com/datasets/cmqj78kw201iknq07ceu0unhv) | ❌ |
 | `cmqj78wl301kxnr07sjbgvr24` | EMAC-Dataset-Rwanda | `emac-dataset-rwanda-b6481b6c` | [link](https://mozilladatacollective.com/datasets/cmqj78wl301kxnr07sjbgvr24) | ❌ |
-| `cmqj8pki201kgnq074r5teseq` | Sample Ghomala-TTS-Dataset | `sample-ghomala-tts-dataset-d156e68d` | [link](https://mozilladatacollective.com/datasets/cmqj8pki201kgnq074r5teseq) | ❌ |
+| `cmqj8pki201kgnq074r5teseq` | Sample Ghomala-TTS-Dataset | `sample-ghomala-tts-dataset-c34fb9b9` | [link](https://mozilladatacollective.com/datasets/cmqj8pki201kgnq074r5teseq) | ❌ |
 | `cmql0hm5f01xcnr07b6gsl9bd` | Burushaski-English Speech Translation Corpus | `burushaski-english-speech-translation-co-5210260b` | [link](https://mozilladatacollective.com/datasets/cmql0hm5f01xcnr07b6gsl9bd) | ❌ |
 | `cmqlfovw202l7mm07fiwxwa9e` | Sindhi Named Entity Recognition-SiNER Dataset | `sindhi-named-entity-recognition-siner-da-91079d03` | [link](https://mozilladatacollective.com/datasets/cmqlfovw202l7mm07fiwxwa9e) | ❌ |
+| `cmqnyezls0403mm07q1uxjb51` | Sindhi Question-Answering Dataset (SdQuAD) | `sindhi-question-answering-dataset-sdquad-c2d4c4f0` | [link](https://mozilladatacollective.com/datasets/cmqnyezls0403mm07q1uxjb51) | ❌ |
+| `cmqnyh34j03qynr07nhstiajm` | Sindhi Figurative Language Dataset (SiNFluD) | `sindhi-figurative-language-dataset-sinfl-07c2498f` | [link](https://mozilladatacollective.com/datasets/cmqnyh34j03qynr07nhstiajm) | ❌ |
+| `cmqnyiefo03r2nr07t906b7fg` | Sindhi Parts Of Speech (SiPOS) | `sindhi-parts-of-speech-sipos-78f03aa2` | [link](https://mozilladatacollective.com/datasets/cmqnyiefo03r2nr07t906b7fg) | ❌ |
+| `cmqnyjp9j0407mm07nolj3h4h` | Biomedical Urdu Named Entity Recognition (BioUNER) | `biomedical-urdu-named-entity-recognition-64967abc` | [link](https://mozilladatacollective.com/datasets/cmqnyjp9j0407mm07nolj3h4h) | ❌ |
+| `cmqorqzbc0416nr076ph6688d` | StackOverflow Vector Dataset - Elixir | `stackoverflow-vector-dataset-elixir-cd61fbc5` | [link](https://mozilladatacollective.com/datasets/cmqorqzbc0416nr076ph6688d) | ❌ |
+| `cmqorrbkw04bfmm07jewd4c1b` | StackOverflow Vector Dataset - Vb.Net | `stackoverflow-vector-dataset-vb-net-5812d01a` | [link](https://mozilladatacollective.com/datasets/cmqorrbkw04bfmm07jewd4c1b) | ❌ |
+| `cmqors3dy04bjmm07sha0nug2` | StackOverflow Vector Dataset - Typescript | `stackoverflow-vector-dataset-typescript-3cc99c0a` | [link](https://mozilladatacollective.com/datasets/cmqors3dy04bjmm07sha0nug2) | ❌ |
+| `cmqorss9a041anr07r06xlutv` | StackOverflow Vector Dataset - Swift | `stackoverflow-vector-dataset-swift-04c7290a` | [link](https://mozilladatacollective.com/datasets/cmqorss9a041anr07r06xlutv) | ❌ |
+| `cmqort3bz041enr07jt5ko8tf` | StackOverflow Vector Dataset - SQL | `stackoverflow-vector-dataset-sql-fbcd72e2` | [link](https://mozilladatacollective.com/datasets/cmqort3bz041enr07jt5ko8tf) | ❌ |
