@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T07:36:25.616993+00:00",
-  "total": 828,
+  "updated_at": "2026-06-22T06:51:35.574150+00:00",
+  "total": 837,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -5752,9 +5752,9 @@
     {
       "id": "cmqj784dc01klnr07nz7msurn",
       "url": "https://mozilladatacollective.com/datasets/cmqj784dc01klnr07nz7msurn",
-      "lastmod": "2026-06-18T07:49:04.416Z",
+      "lastmod": "2026-06-21T14:51:58.975Z",
       "name": "EMAC-Dataset-DRC",
-      "slug": "emac-dataset-drc-f83dc23e"
+      "slug": "emac-dataset-drc-6d5a60ad"
     },
     {
       "id": "cmqj78cue01ktnr07x7nkz6cp",
@@ -5780,9 +5780,9 @@
     {
       "id": "cmqj8pki201kgnq074r5teseq",
       "url": "https://mozilladatacollective.com/datasets/cmqj8pki201kgnq074r5teseq",
-      "lastmod": "2026-06-18T08:30:38.090Z",
+      "lastmod": "2026-06-21T14:51:20.114Z",
       "name": "Sample Ghomala-TTS-Dataset",
-      "slug": "sample-ghomala-tts-dataset-d156e68d"
+      "slug": "sample-ghomala-tts-dataset-c34fb9b9"
     },
     {
       "id": "cmql0hm5f01xcnr07b6gsl9bd",
@@ -5797,6 +5797,69 @@
       "lastmod": "2026-06-20T06:33:39.598Z",
       "name": "Sindhi Named Entity Recognition-SiNER Dataset",
       "slug": "sindhi-named-entity-recognition-siner-da-91079d03"
+    },
+    {
+      "id": "cmqnyezls0403mm07q1uxjb51",
+      "url": "https://mozilladatacollective.com/datasets/cmqnyezls0403mm07q1uxjb51",
+      "lastmod": "2026-06-21T15:41:19.168Z",
+      "name": "Sindhi Question-Answering Dataset (SdQuAD)",
+      "slug": "sindhi-question-answering-dataset-sdquad-c2d4c4f0"
+    },
+    {
+      "id": "cmqnyh34j03qynr07nhstiajm",
+      "url": "https://mozilladatacollective.com/datasets/cmqnyh34j03qynr07nhstiajm",
+      "lastmod": "2026-06-21T15:42:57.043Z",
+      "name": "Sindhi Figurative Language Dataset (SiNFluD)",
+      "slug": "sindhi-figurative-language-dataset-sinfl-07c2498f"
+    },
+    {
+      "id": "cmqnyiefo03r2nr07t906b7fg",
+      "url": "https://mozilladatacollective.com/datasets/cmqnyiefo03r2nr07t906b7fg",
+      "lastmod": "2026-06-21T15:43:58.357Z",
+      "name": "Sindhi Parts Of Speech (SiPOS)",
+      "slug": "sindhi-parts-of-speech-sipos-78f03aa2"
+    },
+    {
+      "id": "cmqnyjp9j0407mm07nolj3h4h",
+      "url": "https://mozilladatacollective.com/datasets/cmqnyjp9j0407mm07nolj3h4h",
+      "lastmod": "2026-06-21T15:44:59.048Z",
+      "name": "Biomedical Urdu Named Entity Recognition (BioUNER)",
+      "slug": "biomedical-urdu-named-entity-recognition-64967abc"
+    },
+    {
+      "id": "cmqorqzbc0416nr076ph6688d",
+      "url": "https://mozilladatacollective.com/datasets/cmqorqzbc0416nr076ph6688d",
+      "lastmod": "2026-06-22T05:22:27.529Z",
+      "name": "StackOverflow Vector Dataset - Elixir",
+      "slug": "stackoverflow-vector-dataset-elixir-cd61fbc5"
+    },
+    {
+      "id": "cmqorrbkw04bfmm07jewd4c1b",
+      "url": "https://mozilladatacollective.com/datasets/cmqorrbkw04bfmm07jewd4c1b",
+      "lastmod": "2026-06-22T05:22:43.424Z",
+      "name": "StackOverflow Vector Dataset - Vb.Net",
+      "slug": "stackoverflow-vector-dataset-vb-net-5812d01a"
+    },
+    {
+      "id": "cmqors3dy04bjmm07sha0nug2",
+      "url": "https://mozilladatacollective.com/datasets/cmqors3dy04bjmm07sha0nug2",
+      "lastmod": "2026-06-22T05:23:19.462Z",
+      "name": "StackOverflow Vector Dataset - Typescript",
+      "slug": "stackoverflow-vector-dataset-typescript-3cc99c0a"
+    },
+    {
+      "id": "cmqorss9a041anr07r06xlutv",
+      "url": "https://mozilladatacollective.com/datasets/cmqorss9a041anr07r06xlutv",
+      "lastmod": "2026-06-22T05:23:51.695Z",
+      "name": "StackOverflow Vector Dataset - Swift",
+      "slug": "stackoverflow-vector-dataset-swift-04c7290a"
+    },
+    {
+      "id": "cmqort3bz041enr07jt5ko8tf",
+      "url": "https://mozilladatacollective.com/datasets/cmqort3bz041enr07jt5ko8tf",
+      "lastmod": "2026-06-22T05:24:06.048Z",
+      "name": "StackOverflow Vector Dataset - SQL",
+      "slug": "stackoverflow-vector-dataset-sql-fbcd72e2"
     }
   ]
 }
