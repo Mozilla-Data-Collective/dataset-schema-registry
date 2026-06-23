@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-22  
-**Total datasets in sitemap:** 854  
+**Last updated:** 2026-06-23  
+**Total datasets in sitemap:** 862  
 **Schemas registered:** 36 ✅  
-**Schemas missing:** 818 ❌  
+**Schemas missing:** 826 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -405,7 +405,7 @@ schema in this registry and which ones are still missing.
 | `cmpdyoaa300ovnu07ruxpomwb` | StackOverflow Knowledge Graph - C | `stackoverflow-knowledge-graph-c-8eae0fa1` | [link](https://mozilladatacollective.com/datasets/cmpdyoaa300ovnu07ruxpomwb) | ❌ |
 | `cmpdyogk700ohnv07aasx1q4f` | StackOverflow Knowledge Graph - Bash | `stackoverflow-knowledge-graph-bash-cf03ef97` | [link](https://mozilladatacollective.com/datasets/cmpdyogk700ohnv07aasx1q4f) | ❌ |
 | `cmpdyqe6u00oznu07c3scvwz0` | AmaWar | `amawar-ab58fcd1` | [link](https://mozilladatacollective.com/datasets/cmpdyqe6u00oznu07c3scvwz0) | ❌ |
-| `cmpe4rs9800r2nv07qpq8972c` | Multilingual Audio Visual Speech (Lip-Reading) Dataset | `multilingual-audio-visual-speech-lip-rea-a0a8ae34` | [link](https://mozilladatacollective.com/datasets/cmpe4rs9800r2nv07qpq8972c) | ❌ |
+| `cmpe4rs9800r2nv07qpq8972c` | Multilingual Audio Visual Speech (Lip-Reading) Dataset | `multilingual-audio-visual-speech-lip-rea-e67a11c9` | [link](https://mozilladatacollective.com/datasets/cmpe4rs9800r2nv07qpq8972c) | ❌ |
 | `cmpe4sp6100rznu07p61gmppd` | Diboum-ALCAM-MultimodalDataset | `diboum-alcam-multimodaldataset-ed5ca36e` | [link](https://mozilladatacollective.com/datasets/cmpe4sp6100rznu07p61gmppd) | ❌ |
 | `cmpedjr9y00wqnv07styloz0d` | Ewondo-French Parallel Corpus | `ewondo-french-parallel-corpus-4c300545` | [link](https://mozilladatacollective.com/datasets/cmpedjr9y00wqnv07styloz0d) | ❌ |
 | `cmpfmnia3000dnx0776qa5xp6` | Buscador de Obligaciones de Transparencia de la Plataforma Nacional de Transparencia | `buscador-de-obligaciones-de-transparenci-b74de5e7` | [link](https://mozilladatacollective.com/datasets/cmpfmnia3000dnx0776qa5xp6) | ❌ |
@@ -443,7 +443,7 @@ schema in this registry and which ones are still missing.
 | `cmq82aqqv0110l207drh50nw4` | Telugu Text Corpus | `telugu-text-corpus-0e0e69ae` | [link](https://mozilladatacollective.com/datasets/cmq82aqqv0110l207drh50nw4) | ❌ |
 | `cmq82rl5i012ymk07yii2lzya` | Afaan Oromoo-TTS-Dataset | `afaan-oromoo-tts-dataset-b47c9c48` | [link](https://mozilladatacollective.com/datasets/cmq82rl5i012ymk07yii2lzya) | ❌ |
 | `cmq83jqac0141mk07gpu4vit2` | Ghomala-MultimodalDataset | `ghomala-multimodaldataset-41aae2c7` | [link](https://mozilladatacollective.com/datasets/cmq83jqac0141mk07gpu4vit2) | ❌ |
-| `cmq83m9h00145mk07g2kanq2s` | Dagbani-TTS-Dataset | `dagbani-tts-dataset-808aa535` | [link](https://mozilladatacollective.com/datasets/cmq83m9h00145mk07g2kanq2s) | ❌ |
+| `cmq83m9h00145mk07g2kanq2s` | Sample Dagbani-TTS-Dataset | `sample-dagbani-tts-dataset-50430a6a` | [link](https://mozilladatacollective.com/datasets/cmq83m9h00145mk07g2kanq2s) | ❌ |
 | `cmq8fbsco01i5l207zvaorg0m` | AIRI AI4TALK Khakas-Russian Translation | `airi-ai4talk-khakas-russian-translation-1be0c384` | [link](https://mozilladatacollective.com/datasets/cmq8fbsco01i5l207zvaorg0m) | ❌ |
 | `cmq9hfevy02j3l207h80wyon8` | AIRI AI4TALK Meadow Mari ASR | `airi-ai4talk-meadow-mari-asr-b00cb00d` | [link](https://mozilladatacollective.com/datasets/cmq9hfevy02j3l207h80wyon8) | ❌ |
 | `cmq9hqu3k02jbl2074u0yvk2i` | Bulu-ASR-Dataset | `bulu-asr-dataset-3dd205aa` | [link](https://mozilladatacollective.com/datasets/cmq9hqu3k02jbl2074u0yvk2i) | ❌ |
@@ -869,3 +869,11 @@ schema in this registry and which ones are still missing.
 | `cmqox0usf046anr07fykkjdtm` | StackOverflow Vector Dataset - Objective-C | `stackoverflow-vector-dataset-objective-c-b0f2fac9` | [link](https://mozilladatacollective.com/datasets/cmqox0usf046anr07fykkjdtm) | ❌ |
 | `cmqox12j904h5mm07wldoslw8` | StackOverflow Vector Dataset - Matlab | `stackoverflow-vector-dataset-matlab-69eeff46` | [link](https://mozilladatacollective.com/datasets/cmqox12j904h5mm07wldoslw8) | ❌ |
 | `cmqox1aeq046enr07b53hg6gm` | StackOverflow Vector Dataset - Perl | `stackoverflow-vector-dataset-perl-08502b08` | [link](https://mozilladatacollective.com/datasets/cmqox1aeq046enr07b53hg6gm) | ❌ |
+| `cmqoxdl3h04htmm07ykko1b14` | StackOverflow Vector Dataset - Scala | `stackoverflow-vector-dataset-scala-c67f1c1c` | [link](https://mozilladatacollective.com/datasets/cmqoxdl3h04htmm07ykko1b14) | ❌ |
+| `cmqoxdu6p046wnr07coxxm2az` | StackOverflow Vector Dataset - PHP | `stackoverflow-vector-dataset-php-5e91d16b` | [link](https://mozilladatacollective.com/datasets/cmqoxdu6p046wnr07coxxm2az) | ❌ |
+| `cmqoxe60x04i1mm07n42p8u9g` | StackOverflow Vector Dataset - Rust | `stackoverflow-vector-dataset-rust-61130717` | [link](https://mozilladatacollective.com/datasets/cmqoxe60x04i1mm07n42p8u9g) | ❌ |
+| `cmqoxees004i5mm07ldikrbx8` | StackOverflow Vector Dataset - R | `stackoverflow-vector-dataset-r-32f9b57a` | [link](https://mozilladatacollective.com/datasets/cmqoxees004i5mm07ldikrbx8) | ❌ |
+| `cmqoxeo1304i9mm0786tci05c` | StackOverflow Vector Dataset - Ruby | `stackoverflow-vector-dataset-ruby-dfadc032` | [link](https://mozilladatacollective.com/datasets/cmqoxeo1304i9mm0786tci05c) | ❌ |
+| `cmqoxh2ej0470nr07fd8ndmnu` | StackOverflow Vector Dataset - Python | `stackoverflow-vector-dataset-python-b15132a5` | [link](https://mozilladatacollective.com/datasets/cmqoxh2ej0470nr07fd8ndmnu) | ❌ |
+| `cmqoxhgnj04ilmm07zo4l05g4` | StackOverflow Vector Dataset - Prolog | `stackoverflow-vector-dataset-prolog-524e12c2` | [link](https://mozilladatacollective.com/datasets/cmqoxhgnj04ilmm07zo4l05g4) | ❌ |
+| `cmqoxho3d0474nr073c9xzind` | StackOverflow Vector Dataset - Powershell | `stackoverflow-vector-dataset-powershell-7a3afb48` | [link](https://mozilladatacollective.com/datasets/cmqoxho3d0474nr073c9xzind) | ❌ |
