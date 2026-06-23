@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T07:57:17.971753+00:00",
-  "total": 854,
+  "updated_at": "2026-06-23T06:27:26.080821+00:00",
+  "total": 862,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -2735,9 +2735,9 @@
     {
       "id": "cmpe4rs9800r2nv07qpq8972c",
       "url": "https://mozilladatacollective.com/datasets/cmpe4rs9800r2nv07qpq8972c",
-      "lastmod": "2026-05-20T14:01:49.772Z",
+      "lastmod": "2026-06-22T15:20:39.854Z",
       "name": "Multilingual Audio Visual Speech (Lip-Reading) Dataset",
-      "slug": "multilingual-audio-visual-speech-lip-rea-a0a8ae34"
+      "slug": "multilingual-audio-visual-speech-lip-rea-e67a11c9"
     },
     {
       "id": "cmpe4sp6100rznu07p61gmppd",
@@ -3001,9 +3001,9 @@
     {
       "id": "cmq83m9h00145mk07g2kanq2s",
       "url": "https://mozilladatacollective.com/datasets/cmq83m9h00145mk07g2kanq2s",
-      "lastmod": "2026-06-10T13:22:37.812Z",
-      "name": "Dagbani-TTS-Dataset",
-      "slug": "dagbani-tts-dataset-808aa535"
+      "lastmod": "2026-06-22T19:17:24.775Z",
+      "name": "Sample Dagbani-TTS-Dataset",
+      "slug": "sample-dagbani-tts-dataset-50430a6a"
     },
     {
       "id": "cmq8fbsco01i5l207zvaorg0m",
@@ -5979,6 +5979,62 @@
       "lastmod": "2026-06-22T07:50:26.546Z",
       "name": "StackOverflow Vector Dataset - Perl",
       "slug": "stackoverflow-vector-dataset-perl-08502b08"
+    },
+    {
+      "id": "cmqoxdl3h04htmm07ykko1b14",
+      "url": "https://mozilladatacollective.com/datasets/cmqoxdl3h04htmm07ykko1b14",
+      "lastmod": "2026-06-22T08:00:00.269Z",
+      "name": "StackOverflow Vector Dataset - Scala",
+      "slug": "stackoverflow-vector-dataset-scala-c67f1c1c"
+    },
+    {
+      "id": "cmqoxdu6p046wnr07coxxm2az",
+      "url": "https://mozilladatacollective.com/datasets/cmqoxdu6p046wnr07coxxm2az",
+      "lastmod": "2026-06-22T08:00:12.049Z",
+      "name": "StackOverflow Vector Dataset - PHP",
+      "slug": "stackoverflow-vector-dataset-php-5e91d16b"
+    },
+    {
+      "id": "cmqoxe60x04i1mm07n42p8u9g",
+      "url": "https://mozilladatacollective.com/datasets/cmqoxe60x04i1mm07n42p8u9g",
+      "lastmod": "2026-06-22T08:00:27.393Z",
+      "name": "StackOverflow Vector Dataset - Rust",
+      "slug": "stackoverflow-vector-dataset-rust-61130717"
+    },
+    {
+      "id": "cmqoxees004i5mm07ldikrbx8",
+      "url": "https://mozilladatacollective.com/datasets/cmqoxees004i5mm07ldikrbx8",
+      "lastmod": "2026-06-22T08:00:38.736Z",
+      "name": "StackOverflow Vector Dataset - R",
+      "slug": "stackoverflow-vector-dataset-r-32f9b57a"
+    },
+    {
+      "id": "cmqoxeo1304i9mm0786tci05c",
+      "url": "https://mozilladatacollective.com/datasets/cmqoxeo1304i9mm0786tci05c",
+      "lastmod": "2026-06-22T08:00:50.727Z",
+      "name": "StackOverflow Vector Dataset - Ruby",
+      "slug": "stackoverflow-vector-dataset-ruby-dfadc032"
+    },
+    {
+      "id": "cmqoxh2ej0470nr07fd8ndmnu",
+      "url": "https://mozilladatacollective.com/datasets/cmqoxh2ej0470nr07fd8ndmnu",
+      "lastmod": "2026-06-22T08:02:42.668Z",
+      "name": "StackOverflow Vector Dataset - Python",
+      "slug": "stackoverflow-vector-dataset-python-b15132a5"
+    },
+    {
+      "id": "cmqoxhgnj04ilmm07zo4l05g4",
+      "url": "https://mozilladatacollective.com/datasets/cmqoxhgnj04ilmm07zo4l05g4",
+      "lastmod": "2026-06-22T08:03:01.135Z",
+      "name": "StackOverflow Vector Dataset - Prolog",
+      "slug": "stackoverflow-vector-dataset-prolog-524e12c2"
+    },
+    {
+      "id": "cmqoxho3d0474nr073c9xzind",
+      "url": "https://mozilladatacollective.com/datasets/cmqoxho3d0474nr073c9xzind",
+      "lastmod": "2026-06-22T08:03:10.777Z",
+      "name": "StackOverflow Vector Dataset - Powershell",
+      "slug": "stackoverflow-vector-dataset-powershell-7a3afb48"
     }
   ]
 }
