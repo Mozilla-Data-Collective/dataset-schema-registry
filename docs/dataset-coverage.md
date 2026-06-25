@@ -9,9 +9,9 @@ schema in this registry and which ones are still missing.
     [Home](index.md) for details.
 
 **Last updated:** 2026-06-25  
-**Total datasets in sitemap:** 873  
+**Total datasets in sitemap:** 874  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 464 ❌  
+**Schemas missing:** 465 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -888,3 +888,4 @@ schema in this registry and which ones are still missing.
 | `cmqqtbdf306irmm07ngpfy4pw` | StackOverflow Vector Dataset - Assembly | `stackoverflow-vector-dataset-assembly-d4065ac2` | [link](https://mozilladatacollective.com/datasets/cmqqtbdf306irmm07ngpfy4pw) | ❌ |
 | `cmqqtblr70657nr074im9aheh` | StackOverflow Vector Dataset - Bash | `stackoverflow-vector-dataset-bash-ad146072` | [link](https://mozilladatacollective.com/datasets/cmqqtblr70657nr074im9aheh) | ❌ |
 | `cmqs1irj8075snr07i69uvzo3` | Tequila Zongolica Nahuatl Transcriptions | `tequila-zongolica-nahuatl-transcriptions-153a9acf` | [link](https://mozilladatacollective.com/datasets/cmqs1irj8075snr07i69uvzo3) | ❌ |
+| `cmqt5v7bp0886mm07qd5mdxta` | RAPNIC - Catalan Impaired Speech (Example Set) | `rapnic-catalan-impaired-speech-example-s-8b8ddf8b` | [link](https://mozilladatacollective.com/datasets/cmqt5v7bp0886mm07qd5mdxta) | ❌ |
