@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-24  
-**Total datasets in sitemap:** 872  
+**Last updated:** 2026-06-25  
+**Total datasets in sitemap:** 873  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 463 ❌  
+**Schemas missing:** 464 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -887,3 +887,4 @@ schema in this registry and which ones are still missing.
 | `cmqqtaums064znr07pyj776r3` | StackOverflow Vector Dataset - C | `stackoverflow-vector-dataset-c-b279001a` | [link](https://mozilladatacollective.com/datasets/cmqqtaums064znr07pyj776r3) | ❌ |
 | `cmqqtbdf306irmm07ngpfy4pw` | StackOverflow Vector Dataset - Assembly | `stackoverflow-vector-dataset-assembly-d4065ac2` | [link](https://mozilladatacollective.com/datasets/cmqqtbdf306irmm07ngpfy4pw) | ❌ |
 | `cmqqtblr70657nr074im9aheh` | StackOverflow Vector Dataset - Bash | `stackoverflow-vector-dataset-bash-ad146072` | [link](https://mozilladatacollective.com/datasets/cmqqtblr70657nr074im9aheh) | ❌ |
+| `cmqs1irj8075snr07i69uvzo3` | Tequila Zongolica Nahuatl Transcriptions | `tequila-zongolica-nahuatl-transcriptions-153a9acf` | [link](https://mozilladatacollective.com/datasets/cmqs1irj8075snr07i69uvzo3) | ❌ |
