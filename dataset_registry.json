@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-25T06:26:51.704752+00:00",
-  "total": 873,
+  "updated_at": "2026-06-25T07:09:40.448693+00:00",
+  "total": 874,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -6112,6 +6112,13 @@
       "lastmod": "2026-06-24T12:19:18.885Z",
       "name": "Tequila Zongolica Nahuatl Transcriptions",
       "slug": "tequila-zongolica-nahuatl-transcriptions-153a9acf"
+    },
+    {
+      "id": "cmqt5v7bp0886mm07qd5mdxta",
+      "url": "https://mozilladatacollective.com/datasets/cmqt5v7bp0886mm07qd5mdxta",
+      "lastmod": "2026-06-25T07:08:43.862Z",
+      "name": "RAPNIC - Catalan Impaired Speech (Example Set)",
+      "slug": "rapnic-catalan-impaired-speech-example-s-8b8ddf8b"
     }
   ]
 }
