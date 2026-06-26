@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-25  
-**Total datasets in sitemap:** 874  
+**Last updated:** 2026-06-26  
+**Total datasets in sitemap:** 877  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 465 ❌  
+**Schemas missing:** 468 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -267,7 +267,7 @@ schema in this registry and which ones are still missing.
 | `cmo1hv2fm001xmk07ity2g0xw` | Kanuri Books Corpus | `kanuri-books-corpus-27351a9f` | [link](https://mozilladatacollective.com/datasets/cmo1hv2fm001xmk07ity2g0xw) | ❌ |
 | `cmo1kqs2a004anr07sxn2mtf5` | Imágenes de Señalamientos en México | `im-genes-de-se-alamientos-en-m-xico-f9d07506` | [link](https://mozilladatacollective.com/datasets/cmo1kqs2a004anr07sxn2mtf5) | ❌ |
 | `cmo1krloc004zmk07fon30uqs` | Ladino: Una Fraza al Diya | `ladino-una-fraza-al-diya-c1b24af5` | [link](https://mozilladatacollective.com/datasets/cmo1krloc004zmk07fon30uqs) | ❌ |
-| `cmo1ks4zv004enr07la1rkr9x` | Şalom Ladino Corpus | `alom-ladino-corpus-f409a2bb` | [link](https://mozilladatacollective.com/datasets/cmo1ks4zv004enr07la1rkr9x) | ❌ |
+| `cmo1ks4zv004enr07la1rkr9x` | Şalom Ladino Corpus | `alom-ladino-corpus-23a4cf1b` | [link](https://mozilladatacollective.com/datasets/cmo1ks4zv004enr07la1rkr9x) | ❌ |
 | `cmo1nlaah0071mk077mw0qhpv` | Yoruba-TTS-Dataset | `yoruba-tts-dataset-8d7b6ad2` | [link](https://mozilladatacollective.com/datasets/cmo1nlaah0071mk077mw0qhpv) | ❌ |
 | `cmo1qb62200anmk07ls9feuh5` | Ladino-Spanish Lexical Resources | `ladino-spanish-lexical-resources-d2a84a2a` | [link](https://mozilladatacollective.com/datasets/cmo1qb62200anmk07ls9feuh5) | ❌ |
 | `cmo1sg74a00cwmk07q6nin2of` | ERT Press | `ert-press-e9625bc3` | [link](https://mozilladatacollective.com/datasets/cmo1sg74a00cwmk07q6nin2of) | ❌ |
@@ -889,3 +889,6 @@ schema in this registry and which ones are still missing.
 | `cmqqtblr70657nr074im9aheh` | StackOverflow Vector Dataset - Bash | `stackoverflow-vector-dataset-bash-ad146072` | [link](https://mozilladatacollective.com/datasets/cmqqtblr70657nr074im9aheh) | ❌ |
 | `cmqs1irj8075snr07i69uvzo3` | Tequila Zongolica Nahuatl Transcriptions | `tequila-zongolica-nahuatl-transcriptions-153a9acf` | [link](https://mozilladatacollective.com/datasets/cmqs1irj8075snr07i69uvzo3) | ❌ |
 | `cmqt5v7bp0886mm07qd5mdxta` | RAPNIC - Catalan Impaired Speech (Example Set) | `rapnic-catalan-impaired-speech-example-s-8b8ddf8b` | [link](https://mozilladatacollective.com/datasets/cmqt5v7bp0886mm07qd5mdxta) | ❌ |
+| `cmqt5xc4l07xwnr07l227et8j` | Corpus paralelo multimodal Lengua de Señas Mexicana – Español MX | `corpus-paralelo-multimodal-lengua-de-se-314fd89f` | [link](https://mozilladatacollective.com/datasets/cmqt5xc4l07xwnr07l227et8j) | ❌ |
+| `cmqtketrh08dqnr07c30po7zb` | Burushaski-English Speech Translation Corpus | `burushaski-english-speech-translation-co-831896e3` | [link](https://mozilladatacollective.com/datasets/cmqtketrh08dqnr07c30po7zb) | ❌ |
+| `cmqtkf6or08dunr07swj2r555` | AIRI AI4TALK Evenki ASR | `airi-ai4talk-evenki-asr-0cdc6f35` | [link](https://mozilladatacollective.com/datasets/cmqtkf6or08dunr07swj2r555) | ❌ |
