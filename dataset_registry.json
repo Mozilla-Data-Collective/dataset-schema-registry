@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-25T07:09:40.448693+00:00",
-  "total": 874,
+  "updated_at": "2026-06-26T06:27:30.175985+00:00",
+  "total": 877,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -1769,9 +1769,9 @@
     {
       "id": "cmo1ks4zv004enr07la1rkr9x",
       "url": "https://mozilladatacollective.com/datasets/cmo1ks4zv004enr07la1rkr9x",
-      "lastmod": "2026-04-16T14:29:17.515Z",
+      "lastmod": "2026-06-25T14:29:26.995Z",
       "name": "Şalom Ladino Corpus",
-      "slug": "alom-ladino-corpus-f409a2bb"
+      "slug": "alom-ladino-corpus-23a4cf1b"
     },
     {
       "id": "cmo1nlaah0071mk077mw0qhpv",
@@ -6119,6 +6119,27 @@
       "lastmod": "2026-06-25T07:08:43.862Z",
       "name": "RAPNIC - Catalan Impaired Speech (Example Set)",
       "slug": "rapnic-catalan-impaired-speech-example-s-8b8ddf8b"
+    },
+    {
+      "id": "cmqt5xc4l07xwnr07l227et8j",
+      "url": "https://mozilladatacollective.com/datasets/cmqt5xc4l07xwnr07l227et8j",
+      "lastmod": "2026-06-25T11:23:59.390Z",
+      "name": "Corpus paralelo multimodal Lengua de Señas Mexicana – Español MX",
+      "slug": "corpus-paralelo-multimodal-lengua-de-se-314fd89f"
+    },
+    {
+      "id": "cmqtketrh08dqnr07c30po7zb",
+      "url": "https://mozilladatacollective.com/datasets/cmqtketrh08dqnr07c30po7zb",
+      "lastmod": "2026-06-25T13:55:54.029Z",
+      "name": "Burushaski-English Speech Translation Corpus",
+      "slug": "burushaski-english-speech-translation-co-831896e3"
+    },
+    {
+      "id": "cmqtkf6or08dunr07swj2r555",
+      "url": "https://mozilladatacollective.com/datasets/cmqtkf6or08dunr07swj2r555",
+      "lastmod": "2026-06-25T13:56:10.780Z",
+      "name": "AIRI AI4TALK Evenki ASR",
+      "slug": "airi-ai4talk-evenki-asr-0cdc6f35"
     }
   ]
 }
