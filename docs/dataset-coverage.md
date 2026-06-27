@@ -8,7 +8,7 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-26  
+**Last updated:** 2026-06-27  
 **Total datasets in sitemap:** 877  
 **Schemas registered:** 409 ✅  
 **Schemas missing:** 468 ❌  
@@ -332,7 +332,7 @@ schema in this registry and which ones are still missing.
 | `cmp4htii700glmp07syfvo010` | Bangladesh Traffic Signs Dataset | `bangladesh-traffic-signs-dataset-07c5d6ad` | [link](https://mozilladatacollective.com/datasets/cmp4htii700glmp07syfvo010) | ❌ |
 | `cmp4htkri00hao007kbrbew2h` | India Traffic Signs Dataset | `india-traffic-signs-dataset-b74e4eac` | [link](https://mozilladatacollective.com/datasets/cmp4htkri00hao007kbrbew2h) | ❌ |
 | `cmp4htnf000gpmp07shg6l5v9` | Pakistan Traffic Signs Dataset | `pakistan-traffic-signs-dataset-cf8dab14` | [link](https://mozilladatacollective.com/datasets/cmp4htnf000gpmp07shg6l5v9) | ❌ |
-| `cmp4ijosh00h9mp078ggnaatm` | ReRooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants | `rerooted-speech-corpus-of-testimonials-f-fda6d7da` | [link](https://mozilladatacollective.com/datasets/cmp4ijosh00h9mp078ggnaatm) | ❌ |
+| `cmp4ijosh00h9mp078ggnaatm` | ReRooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants | `rerooted-speech-corpus-of-testimonials-f-c20c3d85` | [link](https://mozilladatacollective.com/datasets/cmp4ijosh00h9mp078ggnaatm) | ❌ |
 | `cmp5b9e10014mo007qkcmck75` | CoVoST 2 English - Arabic | `covost-2-english-arabic-1ee86ec6` | [link](https://mozilladatacollective.com/datasets/cmp5b9e10014mo007qkcmck75) | ❌ |
 | `cmp5c60at015po007bbql6h3s` |  CommonLID | `commonlid-622f6f75` | [link](https://mozilladatacollective.com/datasets/cmp5c60at015po007bbql6h3s) | ✅ |
 | `cmp5hjood01comp07fxt1fb74` | CoVoST 2 Indonesian - English | `covost-2-indonesian-english-f070340a` | [link](https://mozilladatacollective.com/datasets/cmp5hjood01comp07fxt1fb74) | ❌ |
