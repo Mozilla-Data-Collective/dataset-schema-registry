@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T07:39:32.425696+00:00",
-  "total": 877,
+  "updated_at": "2026-06-30T06:30:25.069128+00:00",
+  "total": 880,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -1013,9 +1013,9 @@
     {
       "id": "cmls27zfd0043ma07mxvsz8zg",
       "url": "https://mozilladatacollective.com/datasets/cmls27zfd0043ma07mxvsz8zg",
-      "lastmod": "2026-04-16T13:59:04.628Z",
+      "lastmod": "2026-06-29T18:06:08.545Z",
       "name": "Zacatlán Tepetzintla Nahuatl ASR Dataset",
-      "slug": "zacatl-n-tepetzintla-nahuatl-asr-dataset-f5e3fc35"
+      "slug": "zacatl-n-tepetzintla-nahuatl-asr-dataset-2e46ee49"
     },
     {
       "id": "cmlth9lrp000ams07yjdscjgu",
@@ -6140,6 +6140,27 @@
       "lastmod": "2026-06-25T13:56:10.780Z",
       "name": "AIRI AI4TALK Evenki ASR",
       "slug": "airi-ai4talk-evenki-asr-0cdc6f35"
+    },
+    {
+      "id": "cmqz8qad200hzmp070fvxru9n",
+      "url": "https://mozilladatacollective.com/datasets/cmqz8qad200hzmp070fvxru9n",
+      "lastmod": "2026-06-29T13:21:29.475Z",
+      "name": "Ladino TTS Corpus",
+      "slug": "ladino-tts-corpus-6f8cbd72"
+    },
+    {
+      "id": "cmqzgucgt009vmk070046obup",
+      "url": "https://mozilladatacollective.com/datasets/cmqzgucgt009vmk070046obup",
+      "lastmod": "2026-06-29T17:02:36.700Z",
+      "name": "LezizNet - Turkish food images",
+      "slug": "leziznet-turkish-food-images-9e450f4d"
+    },
+    {
+      "id": "cmqzs3yig00eens07hehnewvf",
+      "url": "https://mozilladatacollective.com/datasets/cmqzs3yig00eens07hehnewvf",
+      "lastmod": "2026-06-29T22:18:00.952Z",
+      "name": "Tequila Zongolica Nahuatl ASR Dataset",
+      "slug": "tequila-zongolica-nahuatl-asr-dataset-4b014750"
     }
   ]
 }
