@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-29  
-**Total datasets in sitemap:** 877  
+**Last updated:** 2026-06-30  
+**Total datasets in sitemap:** 880  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 468 ❌  
+**Schemas missing:** 471 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -159,7 +159,7 @@ schema in this registry and which ones are still missing.
 | `cmll54ryz00ljl60764ivc60m` | Manggarai Language for NLP | `manggarai-language-for-nlp-b1afdc85` | [link](https://mozilladatacollective.com/datasets/cmll54ryz00ljl60764ivc60m) | ❌ |
 | `cmlqmsm0d00pinx072m0mm3aw` | Finweb-Edu-Chinese-v2.2 | `finweb-edu-chinese-v2-2-17f2368a` | [link](https://mozilladatacollective.com/datasets/cmlqmsm0d00pinx072m0mm3aw) | ❌ |
 | `cmlqoukmi000hnr07cprdmxsc` | Kyrgyz Folklore Text Corpus | `kyrgyz-folklore-text-corpus-de2f27ff` | [link](https://mozilladatacollective.com/datasets/cmlqoukmi000hnr07cprdmxsc) | ❌ |
-| `cmls27zfd0043ma07mxvsz8zg` | Zacatlán Tepetzintla Nahuatl ASR Dataset | `zacatl-n-tepetzintla-nahuatl-asr-dataset-f5e3fc35` | [link](https://mozilladatacollective.com/datasets/cmls27zfd0043ma07mxvsz8zg) | ❌ |
+| `cmls27zfd0043ma07mxvsz8zg` | Zacatlán Tepetzintla Nahuatl ASR Dataset | `zacatl-n-tepetzintla-nahuatl-asr-dataset-2e46ee49` | [link](https://mozilladatacollective.com/datasets/cmls27zfd0043ma07mxvsz8zg) | ❌ |
 | `cmlth9lrp000ams07yjdscjgu` | ATLAS Cross-Lingual Transfer Matrix | `atlas-cross-lingual-transfer-matrix-b3661347` | [link](https://mozilladatacollective.com/datasets/cmlth9lrp000ams07yjdscjgu) | ❌ |
 | `cmltnzkug0012mh07k1obic7v` | Bojonegoro Javanese TTS  | `bojonegoro-javanese-tts-c4d23090` | [link](https://mozilladatacollective.com/datasets/cmltnzkug0012mh07k1obic7v) | ❌ |
 | `cmm0n37lm000dnq07vpctdtc9` | GeoLogicQA: An LLM Benchmark for Logical Reasoning in Georgian | `geologicqa-an-llm-benchmark-for-logical-612b08b2` | [link](https://mozilladatacollective.com/datasets/cmm0n37lm000dnq07vpctdtc9) | ❌ |
@@ -892,3 +892,6 @@ schema in this registry and which ones are still missing.
 | `cmqt5xc4l07xwnr07l227et8j` | Corpus paralelo multimodal Lengua de Señas Mexicana – Español MX | `corpus-paralelo-multimodal-lengua-de-se-314fd89f` | [link](https://mozilladatacollective.com/datasets/cmqt5xc4l07xwnr07l227et8j) | ❌ |
 | `cmqtketrh08dqnr07c30po7zb` | Burushaski-English Speech Translation Corpus | `burushaski-english-speech-translation-co-831896e3` | [link](https://mozilladatacollective.com/datasets/cmqtketrh08dqnr07c30po7zb) | ❌ |
 | `cmqtkf6or08dunr07swj2r555` | AIRI AI4TALK Evenki ASR | `airi-ai4talk-evenki-asr-0cdc6f35` | [link](https://mozilladatacollective.com/datasets/cmqtkf6or08dunr07swj2r555) | ❌ |
+| `cmqz8qad200hzmp070fvxru9n` | Ladino TTS Corpus | `ladino-tts-corpus-6f8cbd72` | [link](https://mozilladatacollective.com/datasets/cmqz8qad200hzmp070fvxru9n) | ❌ |
+| `cmqzgucgt009vmk070046obup` | LezizNet - Turkish food images | `leziznet-turkish-food-images-9e450f4d` | [link](https://mozilladatacollective.com/datasets/cmqzgucgt009vmk070046obup) | ❌ |
+| `cmqzs3yig00eens07hehnewvf` | Tequila Zongolica Nahuatl ASR Dataset | `tequila-zongolica-nahuatl-asr-dataset-4b014750` | [link](https://mozilladatacollective.com/datasets/cmqzs3yig00eens07hehnewvf) | ❌ |
