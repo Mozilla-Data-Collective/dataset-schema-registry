@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-06-30  
-**Total datasets in sitemap:** 880  
+**Last updated:** 2026-07-01  
+**Total datasets in sitemap:** 887  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 471 ❌  
+**Schemas missing:** 478 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -895,3 +895,10 @@ schema in this registry and which ones are still missing.
 | `cmqz8qad200hzmp070fvxru9n` | Ladino TTS Corpus | `ladino-tts-corpus-6f8cbd72` | [link](https://mozilladatacollective.com/datasets/cmqz8qad200hzmp070fvxru9n) | ❌ |
 | `cmqzgucgt009vmk070046obup` | LezizNet - Turkish food images | `leziznet-turkish-food-images-9e450f4d` | [link](https://mozilladatacollective.com/datasets/cmqzgucgt009vmk070046obup) | ❌ |
 | `cmqzs3yig00eens07hehnewvf` | Tequila Zongolica Nahuatl ASR Dataset | `tequila-zongolica-nahuatl-asr-dataset-4b014750` | [link](https://mozilladatacollective.com/datasets/cmqzs3yig00eens07hehnewvf) | ❌ |
+| `cmr0mhm4l01agns077lq6a5hf` | Ligurian TTS - female voice | `ligurian-tts-female-voice-88090858` | [link](https://mozilladatacollective.com/datasets/cmr0mhm4l01agns077lq6a5hf) | ❌ |
+| `cmr0mlgjp01bimk07xkdw256s` | Neapolitan TTS - male voice | `neapolitan-tts-male-voice-ecd8c97e` | [link](https://mozilladatacollective.com/datasets/cmr0mlgjp01bimk07xkdw256s) | ❌ |
+| `cmr0mng9z01bsmk07cuqltz81` | Prompsit D1 - Inline Asset Integrity | `prompsit-d1-inline-asset-integrity-9f282b10` | [link](https://mozilladatacollective.com/datasets/cmr0mng9z01bsmk07cuqltz81) | ❌ |
+| `cmr0mnoo201bwmk07nh4yc04u` | Prompsit D2 - Locale-data Integrity | `prompsit-d2-locale-data-integrity-e6ab4ffb` | [link](https://mozilladatacollective.com/datasets/cmr0mnoo201bwmk07nh4yc04u) | ❌ |
+| `cmr0mny2b01asns073985z0va` | Prompsit D3 - Structured-resource Integrity | `prompsit-d3-structured-resource-integrit-a252ae04` | [link](https://mozilladatacollective.com/datasets/cmr0mny2b01asns073985z0va) | ❌ |
+| `cmr0moi2k01c0mk07eocv137z` | Prompsit D4 - Document-structure Integrity | `prompsit-d4-document-structure-integrity-c0c761a7` | [link](https://mozilladatacollective.com/datasets/cmr0moi2k01c0mk07eocv137z) | ❌ |
+| `cmr0motgu01awns07eeeyiv6m` | Prompsit D5 - Linguistic-resource Adherence | `prompsit-d5-linguistic-resource-adherenc-2af77982` | [link](https://mozilladatacollective.com/datasets/cmr0motgu01awns07eeeyiv6m) | ❌ |
