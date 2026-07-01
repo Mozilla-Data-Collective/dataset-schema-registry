@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T07:16:04.149586+00:00",
-  "total": 880,
+  "updated_at": "2026-07-01T06:34:02.075766+00:00",
+  "total": 887,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -6161,6 +6161,55 @@
       "lastmod": "2026-06-29T22:18:00.952Z",
       "name": "Tequila Zongolica Nahuatl ASR Dataset",
       "slug": "tequila-zongolica-nahuatl-asr-dataset-4b014750"
+    },
+    {
+      "id": "cmr0mhm4l01agns077lq6a5hf",
+      "url": "https://mozilladatacollective.com/datasets/cmr0mhm4l01agns077lq6a5hf",
+      "lastmod": "2026-06-30T12:28:26.566Z",
+      "name": "Ligurian TTS - female voice",
+      "slug": "ligurian-tts-female-voice-88090858"
+    },
+    {
+      "id": "cmr0mlgjp01bimk07xkdw256s",
+      "url": "https://mozilladatacollective.com/datasets/cmr0mlgjp01bimk07xkdw256s",
+      "lastmod": "2026-06-30T12:31:25.957Z",
+      "name": "Neapolitan TTS - male voice",
+      "slug": "neapolitan-tts-male-voice-ecd8c97e"
+    },
+    {
+      "id": "cmr0mng9z01bsmk07cuqltz81",
+      "url": "https://mozilladatacollective.com/datasets/cmr0mng9z01bsmk07cuqltz81",
+      "lastmod": "2026-06-30T12:32:58.919Z",
+      "name": "Prompsit D1 - Inline Asset Integrity",
+      "slug": "prompsit-d1-inline-asset-integrity-9f282b10"
+    },
+    {
+      "id": "cmr0mnoo201bwmk07nh4yc04u",
+      "url": "https://mozilladatacollective.com/datasets/cmr0mnoo201bwmk07nh4yc04u",
+      "lastmod": "2026-06-30T12:33:09.794Z",
+      "name": "Prompsit D2 - Locale-data Integrity",
+      "slug": "prompsit-d2-locale-data-integrity-e6ab4ffb"
+    },
+    {
+      "id": "cmr0mny2b01asns073985z0va",
+      "url": "https://mozilladatacollective.com/datasets/cmr0mny2b01asns073985z0va",
+      "lastmod": "2026-06-30T12:33:21.971Z",
+      "name": "Prompsit D3 - Structured-resource Integrity",
+      "slug": "prompsit-d3-structured-resource-integrit-a252ae04"
+    },
+    {
+      "id": "cmr0moi2k01c0mk07eocv137z",
+      "url": "https://mozilladatacollective.com/datasets/cmr0moi2k01c0mk07eocv137z",
+      "lastmod": "2026-06-30T12:33:47.900Z",
+      "name": "Prompsit D4 - Document-structure Integrity",
+      "slug": "prompsit-d4-document-structure-integrity-c0c761a7"
+    },
+    {
+      "id": "cmr0motgu01awns07eeeyiv6m",
+      "url": "https://mozilladatacollective.com/datasets/cmr0motgu01awns07eeeyiv6m",
+      "lastmod": "2026-06-30T12:34:02.671Z",
+      "name": "Prompsit D5 - Linguistic-resource Adherence",
+      "slug": "prompsit-d5-linguistic-resource-adherenc-2af77982"
     }
   ]
 }
