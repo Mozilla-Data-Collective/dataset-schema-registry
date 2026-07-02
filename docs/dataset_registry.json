@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T07:28:00.255919+00:00",
-  "total": 887,
+  "updated_at": "2026-07-02T06:20:15.109836+00:00",
+  "total": 890,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -3029,9 +3029,9 @@
     {
       "id": "cmq9htcx402gbmk07g00d1u67",
       "url": "https://mozilladatacollective.com/datasets/cmq9htcx402gbmk07g00d1u67",
-      "lastmod": "2026-06-12T07:34:47.521Z",
+      "lastmod": "2026-07-01T13:26:59.532Z",
       "name": "Batanga-ALCAM-MultimodalDataset",
-      "slug": "batanga-alcam-multimodaldataset-13c101d6"
+      "slug": "batanga-alcam-multimodaldataset-ed1009ee"
     },
     {
       "id": "cmq9hwfbr02gfmk07m1jgvwje",
@@ -6179,37 +6179,58 @@
     {
       "id": "cmr0mng9z01bsmk07cuqltz81",
       "url": "https://mozilladatacollective.com/datasets/cmr0mng9z01bsmk07cuqltz81",
-      "lastmod": "2026-06-30T12:32:58.919Z",
+      "lastmod": "2026-07-01T19:22:25.137Z",
       "name": "Prompsit D1 - Inline Asset Integrity",
       "slug": "prompsit-d1-inline-asset-integrity-9f282b10"
     },
     {
       "id": "cmr0mnoo201bwmk07nh4yc04u",
       "url": "https://mozilladatacollective.com/datasets/cmr0mnoo201bwmk07nh4yc04u",
-      "lastmod": "2026-06-30T12:33:09.794Z",
+      "lastmod": "2026-07-01T19:41:01.864Z",
       "name": "Prompsit D2 - Locale-data Integrity",
       "slug": "prompsit-d2-locale-data-integrity-e6ab4ffb"
     },
     {
       "id": "cmr0mny2b01asns073985z0va",
       "url": "https://mozilladatacollective.com/datasets/cmr0mny2b01asns073985z0va",
-      "lastmod": "2026-06-30T12:33:21.971Z",
+      "lastmod": "2026-07-01T19:41:02.926Z",
       "name": "Prompsit D3 - Structured-resource Integrity",
       "slug": "prompsit-d3-structured-resource-integrit-a252ae04"
     },
     {
       "id": "cmr0moi2k01c0mk07eocv137z",
       "url": "https://mozilladatacollective.com/datasets/cmr0moi2k01c0mk07eocv137z",
-      "lastmod": "2026-06-30T12:33:47.900Z",
+      "lastmod": "2026-07-01T19:41:03.939Z",
       "name": "Prompsit D4 - Document-structure Integrity",
       "slug": "prompsit-d4-document-structure-integrity-c0c761a7"
     },
     {
       "id": "cmr0motgu01awns07eeeyiv6m",
       "url": "https://mozilladatacollective.com/datasets/cmr0motgu01awns07eeeyiv6m",
-      "lastmod": "2026-06-30T12:34:02.671Z",
+      "lastmod": "2026-07-01T19:41:04.997Z",
       "name": "Prompsit D5 - Linguistic-resource Adherence",
       "slug": "prompsit-d5-linguistic-resource-adherenc-2af77982"
+    },
+    {
+      "id": "cmr29jici02trmk07l5xlcsak",
+      "url": "https://mozilladatacollective.com/datasets/cmr29jici02trmk07l5xlcsak",
+      "lastmod": "2026-07-01T16:01:32.322Z",
+      "name": "Sindhi to English Parallel Corpus",
+      "slug": "sindhi-to-english-parallel-corpus-27d6f468"
+    },
+    {
+      "id": "cmr29k8m002tvmk07chd382j5",
+      "url": "https://mozilladatacollective.com/datasets/cmr29k8m002tvmk07chd382j5",
+      "lastmod": "2026-07-01T16:02:06.361Z",
+      "name": "Sindhi Word Segmentation (SdSEG)",
+      "slug": "sindhi-word-segmentation-sdseg-40c82b06"
+    },
+    {
+      "id": "cmr2cf2x202uins07a4pe7m66",
+      "url": "https://mozilladatacollective.com/datasets/cmr2cf2x202uins07a4pe7m66",
+      "lastmod": "2026-07-01T17:22:04.550Z",
+      "name": "Common Voice Scripted Speech 26.0 - Caribbean Spanish",
+      "slug": "common-voice-scripted-speech-26-0-caribb-6be83cea"
     }
   ]
 }
