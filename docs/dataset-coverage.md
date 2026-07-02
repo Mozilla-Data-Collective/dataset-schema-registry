@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-01  
-**Total datasets in sitemap:** 887  
+**Last updated:** 2026-07-02  
+**Total datasets in sitemap:** 890  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 478 ❌  
+**Schemas missing:** 481 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -447,7 +447,7 @@ schema in this registry and which ones are still missing.
 | `cmq8fbsco01i5l207zvaorg0m` | AIRI AI4TALK Khakas-Russian Translation | `airi-ai4talk-khakas-russian-translation-1be0c384` | [link](https://mozilladatacollective.com/datasets/cmq8fbsco01i5l207zvaorg0m) | ❌ |
 | `cmq9hfevy02j3l207h80wyon8` | AIRI AI4TALK Meadow Mari ASR | `airi-ai4talk-meadow-mari-asr-b00cb00d` | [link](https://mozilladatacollective.com/datasets/cmq9hfevy02j3l207h80wyon8) | ❌ |
 | `cmq9hqu3k02jbl2074u0yvk2i` | Bulu-ASR-Dataset | `bulu-asr-dataset-3dd205aa` | [link](https://mozilladatacollective.com/datasets/cmq9hqu3k02jbl2074u0yvk2i) | ❌ |
-| `cmq9htcx402gbmk07g00d1u67` | Batanga-ALCAM-MultimodalDataset | `batanga-alcam-multimodaldataset-13c101d6` | [link](https://mozilladatacollective.com/datasets/cmq9htcx402gbmk07g00d1u67) | ❌ |
+| `cmq9htcx402gbmk07g00d1u67` | Batanga-ALCAM-MultimodalDataset | `batanga-alcam-multimodaldataset-ed1009ee` | [link](https://mozilladatacollective.com/datasets/cmq9htcx402gbmk07g00d1u67) | ❌ |
 | `cmq9hwfbr02gfmk07m1jgvwje` | Basaa-ASR-Dataset | `basaa-asr-dataset-dd3e2174` | [link](https://mozilladatacollective.com/datasets/cmq9hwfbr02gfmk07m1jgvwje) | ❌ |
 | `cmq9hxeod02gjmk07d9pq7jau` | Ewondo-ASR-Dataset | `ewondo-asr-dataset-a2d44d9f` | [link](https://mozilladatacollective.com/datasets/cmq9hxeod02gjmk07d9pq7jau) | ❌ |
 | `cmq9hxttl02jll207dw9krgw7` | Eton-ASR-Dataset | `eton-asr-dataset-0c68aa5d` | [link](https://mozilladatacollective.com/datasets/cmq9hxttl02jll207dw9krgw7) | ❌ |
@@ -902,3 +902,6 @@ schema in this registry and which ones are still missing.
 | `cmr0mny2b01asns073985z0va` | Prompsit D3 - Structured-resource Integrity | `prompsit-d3-structured-resource-integrit-a252ae04` | [link](https://mozilladatacollective.com/datasets/cmr0mny2b01asns073985z0va) | ❌ |
 | `cmr0moi2k01c0mk07eocv137z` | Prompsit D4 - Document-structure Integrity | `prompsit-d4-document-structure-integrity-c0c761a7` | [link](https://mozilladatacollective.com/datasets/cmr0moi2k01c0mk07eocv137z) | ❌ |
 | `cmr0motgu01awns07eeeyiv6m` | Prompsit D5 - Linguistic-resource Adherence | `prompsit-d5-linguistic-resource-adherenc-2af77982` | [link](https://mozilladatacollective.com/datasets/cmr0motgu01awns07eeeyiv6m) | ❌ |
+| `cmr29jici02trmk07l5xlcsak` | Sindhi to English Parallel Corpus | `sindhi-to-english-parallel-corpus-27d6f468` | [link](https://mozilladatacollective.com/datasets/cmr29jici02trmk07l5xlcsak) | ❌ |
+| `cmr29k8m002tvmk07chd382j5` | Sindhi Word Segmentation (SdSEG) | `sindhi-word-segmentation-sdseg-40c82b06` | [link](https://mozilladatacollective.com/datasets/cmr29k8m002tvmk07chd382j5) | ❌ |
+| `cmr2cf2x202uins07a4pe7m66` | Common Voice Scripted Speech 26.0 - Caribbean Spanish | `common-voice-scripted-speech-26-0-caribb-6be83cea` | [link](https://mozilladatacollective.com/datasets/cmr2cf2x202uins07a4pe7m66) | ❌ |
