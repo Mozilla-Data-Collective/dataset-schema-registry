@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T06:15:11.885437+00:00",
+  "updated_at": "2026-07-03T07:04:09.053316+00:00",
   "total": 893,
   "datasets": [
     {
@@ -6179,35 +6179,35 @@
     {
       "id": "cmr0mng9z01bsmk07cuqltz81",
       "url": "https://mozilladatacollective.com/datasets/cmr0mng9z01bsmk07cuqltz81",
-      "lastmod": "2026-07-02T11:01:24.528Z",
+      "lastmod": "2026-07-03T06:56:57.947Z",
       "name": "Prompsit D1 - Inline Asset Integrity",
       "slug": "prompsit-d1-inline-asset-integrity-9f282b10"
     },
     {
       "id": "cmr0mnoo201bwmk07nh4yc04u",
       "url": "https://mozilladatacollective.com/datasets/cmr0mnoo201bwmk07nh4yc04u",
-      "lastmod": "2026-07-02T11:01:25.007Z",
+      "lastmod": "2026-07-03T06:56:58.538Z",
       "name": "Prompsit D2 - Locale-data Integrity",
       "slug": "prompsit-d2-locale-data-integrity-e6ab4ffb"
     },
     {
       "id": "cmr0mny2b01asns073985z0va",
       "url": "https://mozilladatacollective.com/datasets/cmr0mny2b01asns073985z0va",
-      "lastmod": "2026-07-02T11:01:25.507Z",
+      "lastmod": "2026-07-03T06:56:59.037Z",
       "name": "Prompsit D3 - Structured-resource Integrity",
       "slug": "prompsit-d3-structured-resource-integrit-a252ae04"
     },
     {
       "id": "cmr0moi2k01c0mk07eocv137z",
       "url": "https://mozilladatacollective.com/datasets/cmr0moi2k01c0mk07eocv137z",
-      "lastmod": "2026-07-02T11:01:26.021Z",
+      "lastmod": "2026-07-03T06:56:59.554Z",
       "name": "Prompsit D4 - Document-structure Integrity",
       "slug": "prompsit-d4-document-structure-integrity-c0c761a7"
     },
     {
       "id": "cmr0motgu01awns07eeeyiv6m",
       "url": "https://mozilladatacollective.com/datasets/cmr0motgu01awns07eeeyiv6m",
-      "lastmod": "2026-07-02T11:01:26.485Z",
+      "lastmod": "2026-07-03T06:57:00.086Z",
       "name": "Prompsit D5 - Linguistic-resource Adherence",
       "slug": "prompsit-d5-linguistic-resource-adherenc-2af77982"
     },
