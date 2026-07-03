@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-02  
-**Total datasets in sitemap:** 890  
+**Last updated:** 2026-07-03  
+**Total datasets in sitemap:** 893  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 481 ❌  
+**Schemas missing:** 484 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -905,3 +905,6 @@ schema in this registry and which ones are still missing.
 | `cmr29jici02trmk07l5xlcsak` | Sindhi to English Parallel Corpus | `sindhi-to-english-parallel-corpus-27d6f468` | [link](https://mozilladatacollective.com/datasets/cmr29jici02trmk07l5xlcsak) | ❌ |
 | `cmr29k8m002tvmk07chd382j5` | Sindhi Word Segmentation (SdSEG) | `sindhi-word-segmentation-sdseg-40c82b06` | [link](https://mozilladatacollective.com/datasets/cmr29k8m002tvmk07chd382j5) | ❌ |
 | `cmr2cf2x202uins07a4pe7m66` | Common Voice Scripted Speech 26.0 - Caribbean Spanish | `common-voice-scripted-speech-26-0-caribb-6be83cea` | [link](https://mozilladatacollective.com/datasets/cmr2cf2x202uins07a4pe7m66) | ❌ |
+| `cmr3jjevj0041nt07vb3sm35d` | Common Voice Scripted Speech 26.0 - Mexican Spanish (Male) | `common-voice-scripted-speech-26-0-mexica-de38d052` | [link](https://mozilladatacollective.com/datasets/cmr3jjevj0041nt07vb3sm35d) | ❌ |
+| `cmr3zunmk00flnt07p7ai9p43` | Common Voice Scripted Speech 26.0 - Mexican Spanish (Female) | `common-voice-scripted-speech-26-0-mexica-6e26de66` | [link](https://mozilladatacollective.com/datasets/cmr3zunmk00flnt07p7ai9p43) | ❌ |
+| `cmr468dhn00lvmm07a22jwgh5` | Common Voice Scripted Speech 26.0 - Rioplatense Spanish | `common-voice-scripted-speech-26-0-riopla-1ce0279e` | [link](https://mozilladatacollective.com/datasets/cmr468dhn00lvmm07a22jwgh5) | ❌ |
