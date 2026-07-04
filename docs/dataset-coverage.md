@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-03  
-**Total datasets in sitemap:** 893  
+**Last updated:** 2026-07-04  
+**Total datasets in sitemap:** 895  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 484 ❌  
+**Schemas missing:** 486 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -908,3 +908,5 @@ schema in this registry and which ones are still missing.
 | `cmr3jjevj0041nt07vb3sm35d` | Common Voice Scripted Speech 26.0 - Mexican Spanish (Male) | `common-voice-scripted-speech-26-0-mexica-de38d052` | [link](https://mozilladatacollective.com/datasets/cmr3jjevj0041nt07vb3sm35d) | ❌ |
 | `cmr3zunmk00flnt07p7ai9p43` | Common Voice Scripted Speech 26.0 - Mexican Spanish (Female) | `common-voice-scripted-speech-26-0-mexica-6e26de66` | [link](https://mozilladatacollective.com/datasets/cmr3zunmk00flnt07p7ai9p43) | ❌ |
 | `cmr468dhn00lvmm07a22jwgh5` | Common Voice Scripted Speech 26.0 - Rioplatense Spanish | `common-voice-scripted-speech-26-0-riopla-1ce0279e` | [link](https://mozilladatacollective.com/datasets/cmr468dhn00lvmm07a22jwgh5) | ❌ |
+| `cmr4tclcu01anmm075pvvntbz` | BOUQuET | `bouquet-bad7fc0e` | [link](https://mozilladatacollective.com/datasets/cmr4tclcu01anmm075pvvntbz) | ❌ |
+| `cmr54pbgw01omnt07h9vzqrlb` | Sindhi Corpus | `sindhi-corpus-2bbb4804` | [link](https://mozilladatacollective.com/datasets/cmr54pbgw01omnt07h9vzqrlb) | ❌ |
