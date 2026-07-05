@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-04T06:58:58.801488+00:00",
-  "total": 895,
+  "updated_at": "2026-07-05T06:20:55.302074+00:00",
+  "total": 896,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -6263,9 +6263,16 @@
     {
       "id": "cmr54pbgw01omnt07h9vzqrlb",
       "url": "https://mozilladatacollective.com/datasets/cmr54pbgw01omnt07h9vzqrlb",
-      "lastmod": "2026-07-03T16:09:23.793Z",
+      "lastmod": "2026-07-04T14:31:00.523Z",
       "name": "Sindhi Corpus",
-      "slug": "sindhi-corpus-2bbb4804"
+      "slug": "sindhi-corpus-78685d68"
+    },
+    {
+      "id": "cmr6i7wxv034imm07yf2up2hd",
+      "url": "https://mozilladatacollective.com/datasets/cmr6i7wxv034imm07yf2up2hd",
+      "lastmod": "2026-07-04T15:15:32.611Z",
+      "name": "TTS Sundanese - Sunda Priangan Timur (SPRINT)",
+      "slug": "tts-sundanese-sunda-priangan-timur-sprin-1b121fbd"
     }
   ]
 }
