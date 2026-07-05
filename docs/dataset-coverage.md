@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-04  
-**Total datasets in sitemap:** 895  
+**Last updated:** 2026-07-05  
+**Total datasets in sitemap:** 896  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 486 ❌  
+**Schemas missing:** 487 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -909,4 +909,5 @@ schema in this registry and which ones are still missing.
 | `cmr3zunmk00flnt07p7ai9p43` | Common Voice Scripted Speech 26.0 - Mexican Spanish (Female) | `common-voice-scripted-speech-26-0-mexica-6e26de66` | [link](https://mozilladatacollective.com/datasets/cmr3zunmk00flnt07p7ai9p43) | ❌ |
 | `cmr468dhn00lvmm07a22jwgh5` | Common Voice Scripted Speech 26.0 - Rioplatense Spanish | `common-voice-scripted-speech-26-0-riopla-1ce0279e` | [link](https://mozilladatacollective.com/datasets/cmr468dhn00lvmm07a22jwgh5) | ❌ |
 | `cmr4tclcu01anmm075pvvntbz` | BOUQuET | `bouquet-bad7fc0e` | [link](https://mozilladatacollective.com/datasets/cmr4tclcu01anmm075pvvntbz) | ❌ |
-| `cmr54pbgw01omnt07h9vzqrlb` | Sindhi Corpus | `sindhi-corpus-2bbb4804` | [link](https://mozilladatacollective.com/datasets/cmr54pbgw01omnt07h9vzqrlb) | ❌ |
+| `cmr54pbgw01omnt07h9vzqrlb` | Sindhi Corpus | `sindhi-corpus-78685d68` | [link](https://mozilladatacollective.com/datasets/cmr54pbgw01omnt07h9vzqrlb) | ❌ |
+| `cmr6i7wxv034imm07yf2up2hd` | TTS Sundanese - Sunda Priangan Timur (SPRINT) | `tts-sundanese-sunda-priangan-timur-sprin-1b121fbd` | [link](https://mozilladatacollective.com/datasets/cmr6i7wxv034imm07yf2up2hd) | ❌ |
