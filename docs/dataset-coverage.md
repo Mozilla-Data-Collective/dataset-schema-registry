@@ -8,7 +8,7 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-05  
+**Last updated:** 2026-07-06  
 **Total datasets in sitemap:** 896  
 **Schemas registered:** 409 ✅  
 **Schemas missing:** 487 ❌  
