@@ -8,7 +8,7 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-06  
+**Last updated:** 2026-07-07  
 **Total datasets in sitemap:** 896  
 **Schemas registered:** 409 ✅  
 **Schemas missing:** 487 ❌  
@@ -112,7 +112,7 @@ schema in this registry and which ones are still missing.
 | `cmkh3nwms0052nv07997y38zx` | RFE/RL Tatar-Bashkir News Text Corpus | `rfe-rl-tatar-bashkir-news-text-corpus-81671cd4` | [link](https://mozilladatacollective.com/datasets/cmkh3nwms0052nv07997y38zx) | ❌ |
 | `cmkh3vrob005pmj07vgm55iha` | HESEIA Sentence Bias Dataset | `heseia-sentence-bias-dataset-9caa8462` | [link](https://mozilladatacollective.com/datasets/cmkh3vrob005pmj07vgm55iha) | ❌ |
 | `cmkh9rso90076nv076jwxgjv3` | English–Punjabi (Shahmukhi) Parallel Sentences Corpus (Mediamen Archives) | `english-punjabi-shahmukhi-parallel-sente-b370d74f` | [link](https://mozilladatacollective.com/datasets/cmkh9rso90076nv076jwxgjv3) | ❌ |
-| `cmklbq9qt006mnw077t9lqh89` | Compar:IA conversations | `compar-ia-conversations-739ba6d7` | [link](https://mozilladatacollective.com/datasets/cmklbq9qt006mnw077t9lqh89) | ❌ |
+| `cmklbq9qt006mnw077t9lqh89` | Compar:IA conversations | `compar-ia-conversations-3810993e` | [link](https://mozilladatacollective.com/datasets/cmklbq9qt006mnw077t9lqh89) | ❌ |
 | `cmkmn6o6e0165mg07s9h542vt` | Ficha de Documentación de Datos: Resoluciones InfoNL (Ponencia F. Guajardo) | `ficha-de-documentaci-n-de-datos-resoluci-ff4a3e4c` | [link](https://mozilladatacollective.com/datasets/cmkmn6o6e0165mg07s9h542vt) | ❌ |
 | `cmkmnb80w0177nw07iswxo3re` | Informes de Actividades InfoCDMX (Ponencia Laura Enríquez) | `informes-de-actividades-infocdmx-ponenci-75e4bb75` | [link](https://mozilladatacollective.com/datasets/cmkmnb80w0177nw07iswxo3re) | ❌ |
 | `cmkmoepzx018wnw07cnkupls3` | Ewondo_Fong_ALCAM-MultimodalDataset | `ewondo-fong-alcam-multimodaldataset-e1c15f9f` | [link](https://mozilladatacollective.com/datasets/cmkmoepzx018wnw07cnkupls3) | ❌ |
