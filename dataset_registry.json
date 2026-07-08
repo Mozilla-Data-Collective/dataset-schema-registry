@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T07:09:43.138411+00:00",
-  "total": 896,
+  "updated_at": "2026-07-08T06:02:14.239515+00:00",
+  "total": 900,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -3092,9 +3092,9 @@
     {
       "id": "cmqf6bpns06gal20726pxld9z",
       "url": "https://mozilladatacollective.com/datasets/cmqf6bpns06gal20726pxld9z",
-      "lastmod": "2026-06-15T13:33:57.171Z",
-      "name": "Sample Tupuri-Bango_TTS-Dataset",
-      "slug": "sample-tupuri-bango-tts-dataset-37448789"
+      "lastmod": "2026-07-07T12:42:23.435Z",
+      "name": "Sample Tupuri-Bango_TTS-Dataset (male voice)",
+      "slug": "sample-tupuri-bango-tts-dataset-male-voi-259b9597"
     },
     {
       "id": "cmqf6c04x06gel207o5vjtni7",
@@ -6273,6 +6273,34 @@
       "lastmod": "2026-07-04T15:15:32.611Z",
       "name": "TTS Sundanese - Sunda Priangan Timur (SPRINT)",
       "slug": "tts-sundanese-sunda-priangan-timur-sprin-1b121fbd"
+    },
+    {
+      "id": "cmrba9nhb00nznz07ovtop2h6",
+      "url": "https://mozilladatacollective.com/datasets/cmrba9nhb00nznz07ovtop2h6",
+      "lastmod": "2026-07-07T23:31:47.615Z",
+      "name": "Baka-ALCAM-MultimodalDataset",
+      "slug": "baka-alcam-multimodaldataset-1375e81c"
+    },
+    {
+      "id": "cmrbac56k00lbmm070txylq42",
+      "url": "https://mozilladatacollective.com/datasets/cmrbac56k00lbmm070txylq42",
+      "lastmod": "2026-07-07T23:33:43.868Z",
+      "name": "Eton-TTS-Dataset",
+      "slug": "eton-tts-dataset-511d7dbe"
+    },
+    {
+      "id": "cmrbacjej00lfmm07miqrz23s",
+      "url": "https://mozilladatacollective.com/datasets/cmrbacjej00lfmm07miqrz23s",
+      "lastmod": "2026-07-07T23:34:02.299Z",
+      "name": "Tupuri-Bango_TTS-Dataset (female voice)",
+      "slug": "tupuri-bango-tts-dataset-female-voice-1f09dd2c"
+    },
+    {
+      "id": "cmrbad2ho00o5nz07t3vjmdnd",
+      "url": "https://mozilladatacollective.com/datasets/cmrbad2ho00o5nz07t3vjmdnd",
+      "lastmod": "2026-07-07T23:34:27.036Z",
+      "name": "Adjuntos Solicitudes Información — Aguascalientes",
+      "slug": "adjuntos-solicitudes-informaci-n-aguasca-fa5dc9c0"
     }
   ]
 }
