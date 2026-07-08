@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-07  
-**Total datasets in sitemap:** 896  
+**Last updated:** 2026-07-08  
+**Total datasets in sitemap:** 900  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 487 ❌  
+**Schemas missing:** 491 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -456,7 +456,7 @@ schema in this registry and which ones are still missing.
 | `cmqf69433066kmk07x03adrhk` | Sample Fe’fe’-TTS-Dataset | `sample-fe-fe-tts-dataset-c0ea3790` | [link](https://mozilladatacollective.com/datasets/cmqf69433066kmk07x03adrhk) | ❌ |
 | `cmqf69mlt066omk07awntfrdn` | Kekem-ALCAM-MultimodalDataset | `kekem-alcam-multimodaldataset-736b8b96` | [link](https://mozilladatacollective.com/datasets/cmqf69mlt066omk07awntfrdn) | ❌ |
 | `cmqf6aecs066smk07udkk7ocn` | Sample Batanga-TTS-Dataset | `sample-batanga-tts-dataset-8d61c764` | [link](https://mozilladatacollective.com/datasets/cmqf6aecs066smk07udkk7ocn) | ❌ |
-| `cmqf6bpns06gal20726pxld9z` | Sample Tupuri-Bango_TTS-Dataset | `sample-tupuri-bango-tts-dataset-37448789` | [link](https://mozilladatacollective.com/datasets/cmqf6bpns06gal20726pxld9z) | ❌ |
+| `cmqf6bpns06gal20726pxld9z` | Sample Tupuri-Bango_TTS-Dataset (male voice) | `sample-tupuri-bango-tts-dataset-male-voi-259b9597` | [link](https://mozilladatacollective.com/datasets/cmqf6bpns06gal20726pxld9z) | ❌ |
 | `cmqf6c04x06gel207o5vjtni7` | Sample Ngiemboon-TTS-Dataset | `sample-ngiemboon-tts-dataset-094984f3` | [link](https://mozilladatacollective.com/datasets/cmqf6c04x06gel207o5vjtni7) | ❌ |
 | `cmqf6c9lc06gil2075rm34xds` | Sample Mbo-TTS-Dataset | `sample-mbo-tts-dataset-121e2846` | [link](https://mozilladatacollective.com/datasets/cmqf6c9lc06gil2075rm34xds) | ❌ |
 | `cmqi1odot003emf07g3xz66g7` | Common Voice Spontaneous Speech 4.0 - Amharic | `common-voice-spontaneous-speech-4-0-amha-2dc4f018` | [link](https://mozilladatacollective.com/datasets/cmqi1odot003emf07g3xz66g7) | ✅ |
@@ -911,3 +911,7 @@ schema in this registry and which ones are still missing.
 | `cmr4tclcu01anmm075pvvntbz` | BOUQuET | `bouquet-bad7fc0e` | [link](https://mozilladatacollective.com/datasets/cmr4tclcu01anmm075pvvntbz) | ❌ |
 | `cmr54pbgw01omnt07h9vzqrlb` | Sindhi Corpus | `sindhi-corpus-78685d68` | [link](https://mozilladatacollective.com/datasets/cmr54pbgw01omnt07h9vzqrlb) | ❌ |
 | `cmr6i7wxv034imm07yf2up2hd` | TTS Sundanese - Sunda Priangan Timur (SPRINT) | `tts-sundanese-sunda-priangan-timur-sprin-1b121fbd` | [link](https://mozilladatacollective.com/datasets/cmr6i7wxv034imm07yf2up2hd) | ❌ |
+| `cmrba9nhb00nznz07ovtop2h6` | Baka-ALCAM-MultimodalDataset | `baka-alcam-multimodaldataset-1375e81c` | [link](https://mozilladatacollective.com/datasets/cmrba9nhb00nznz07ovtop2h6) | ❌ |
+| `cmrbac56k00lbmm070txylq42` | Eton-TTS-Dataset | `eton-tts-dataset-511d7dbe` | [link](https://mozilladatacollective.com/datasets/cmrbac56k00lbmm070txylq42) | ❌ |
+| `cmrbacjej00lfmm07miqrz23s` | Tupuri-Bango_TTS-Dataset (female voice) | `tupuri-bango-tts-dataset-female-voice-1f09dd2c` | [link](https://mozilladatacollective.com/datasets/cmrbacjej00lfmm07miqrz23s) | ❌ |
+| `cmrbad2ho00o5nz07t3vjmdnd` | Adjuntos Solicitudes Información — Aguascalientes | `adjuntos-solicitudes-informaci-n-aguasca-fa5dc9c0` | [link](https://mozilladatacollective.com/datasets/cmrbad2ho00o5nz07t3vjmdnd) | ❌ |
