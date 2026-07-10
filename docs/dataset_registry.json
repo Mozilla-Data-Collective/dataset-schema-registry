@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-09T07:10:09.001228+00:00",
-  "total": 900,
+  "updated_at": "2026-07-10T06:21:56.897389+00:00",
+  "total": 903,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -2938,9 +2938,9 @@
     {
       "id": "cmq16k8qa01bvnr07i2x92yry",
       "url": "https://mozilladatacollective.com/datasets/cmq16k8qa01bvnr07i2x92yry",
-      "lastmod": "2026-06-05T17:22:57.532Z",
-      "name": "Brazilian Sign Language (Libras) Healthcare Corpus",
-      "slug": "brazilian-sign-language-libras-healthcar-039a22e3"
+      "lastmod": "2026-07-09T13:56:18.078Z",
+      "name": "Brazilian Sign Language (Libras) Healthcare Corpus (Non Commercial License)",
+      "slug": "brazilian-sign-language-libras-healthcar-1be1f262"
     },
     {
       "id": "cmq5ga41w007xmg07i73vv0j0",
@@ -6301,6 +6301,27 @@
       "lastmod": "2026-07-07T23:34:27.036Z",
       "name": "Adjuntos Solicitudes Información — Aguascalientes",
       "slug": "adjuntos-solicitudes-informaci-n-aguasca-fa5dc9c0"
+    },
+    {
+      "id": "cmrdfjave008uo307ett7d4km",
+      "url": "https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km",
+      "lastmod": "2026-07-09T16:18:08.439Z",
+      "name": "Medical Domain Mexican Spanish Speech Corpus (MEDMEX)",
+      "slug": "medical-domain-mexican-spanish-speech-co-b4770c2e"
+    },
+    {
+      "id": "cmrdfk4ao007po1070z5f4kem",
+      "url": "https://mozilladatacollective.com/datasets/cmrdfk4ao007po1070z5f4kem",
+      "lastmod": "2026-07-09T11:35:26.400Z",
+      "name": "Conversational Speech in Gujarati in the Medical Domain",
+      "slug": "conversational-speech-in-gujarati-in-the-f75484ee"
+    },
+    {
+      "id": "cmrdfks7v007to1076cj9gnn4",
+      "url": "https://mozilladatacollective.com/datasets/cmrdfks7v007to1076cj9gnn4",
+      "lastmod": "2026-07-09T11:35:57.404Z",
+      "name": "Brazilian Sign Language (Libras) Healthcare Corpus",
+      "slug": "brazilian-sign-language-libras-healthcar-653371da"
     }
   ]
 }
