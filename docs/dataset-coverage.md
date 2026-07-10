@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-09  
-**Total datasets in sitemap:** 900  
+**Last updated:** 2026-07-10  
+**Total datasets in sitemap:** 903  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 491 ❌  
+**Schemas missing:** 494 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -434,7 +434,7 @@ schema in this registry and which ones are still missing.
 | `cmpzgijrk001cnx0732jcpyc9` | OSHA Severe Injuries by Employer 2015-2025  | `osha-severe-injuries-by-employer-2015-20-d890e565` | [link](https://mozilladatacollective.com/datasets/cmpzgijrk001cnx0732jcpyc9) | ❌ |
 | `cmpzgm29a001hnx07px74x658` | Buscadores Temáticos de la Plataforma Nacional de Transparencia (PNT) de México  | `buscadores-tem-ticos-de-la-plataforma-na-f9a77536` | [link](https://mozilladatacollective.com/datasets/cmpzgm29a001hnx07px74x658) | ❌ |
 | `cmpzkqaqu0065nv070bdv5hfj` | TermOfis terminology database Breton-French | `termofis-terminology-database-breton-fre-bef3c0e5` | [link](https://mozilladatacollective.com/datasets/cmpzkqaqu0065nv070bdv5hfj) | ❌ |
-| `cmq16k8qa01bvnr07i2x92yry` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-039a22e3` | [link](https://mozilladatacollective.com/datasets/cmq16k8qa01bvnr07i2x92yry) | ❌ |
+| `cmq16k8qa01bvnr07i2x92yry` | Brazilian Sign Language (Libras) Healthcare Corpus (Non Commercial License) | `brazilian-sign-language-libras-healthcar-1be1f262` | [link](https://mozilladatacollective.com/datasets/cmq16k8qa01bvnr07i2x92yry) | ❌ |
 | `cmq5ga41w007xmg07i73vv0j0` | CoVoST 2 English - Mongolian | `covost-2-english-mongolian-ae5954b4` | [link](https://mozilladatacollective.com/datasets/cmq5ga41w007xmg07i73vv0j0) | ❌ |
 | `cmq6q6tjz0195o3078oodsoeu` | AIRI AI4TALK Meadow Mari-Russian Translation | `airi-ai4talk-meadow-mari-russian-transla-c20ca463` | [link](https://mozilladatacollective.com/datasets/cmq6q6tjz0195o3078oodsoeu) | ❌ |
 | `cmq80dcwp00xrl20740m9o1k5` | Public Company Federal Compliance Records — Q3 2026 | `public-company-federal-compliance-record-e28404f3` | [link](https://mozilladatacollective.com/datasets/cmq80dcwp00xrl20740m9o1k5) | ❌ |
@@ -915,3 +915,6 @@ schema in this registry and which ones are still missing.
 | `cmrbac56k00lbmm070txylq42` | Eton-TTS-Dataset | `eton-tts-dataset-511d7dbe` | [link](https://mozilladatacollective.com/datasets/cmrbac56k00lbmm070txylq42) | ❌ |
 | `cmrbacjej00lfmm07miqrz23s` | Tupuri-Bango_TTS-Dataset (female voice) | `tupuri-bango-tts-dataset-female-voice-1f09dd2c` | [link](https://mozilladatacollective.com/datasets/cmrbacjej00lfmm07miqrz23s) | ❌ |
 | `cmrbad2ho00o5nz07t3vjmdnd` | Adjuntos Solicitudes Información — Aguascalientes | `adjuntos-solicitudes-informaci-n-aguasca-fa5dc9c0` | [link](https://mozilladatacollective.com/datasets/cmrbad2ho00o5nz07t3vjmdnd) | ❌ |
+| `cmrdfjave008uo307ett7d4km` | Medical Domain Mexican Spanish Speech Corpus (MEDMEX) | `medical-domain-mexican-spanish-speech-co-b4770c2e` | [link](https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km) | ❌ |
+| `cmrdfk4ao007po1070z5f4kem` | Conversational Speech in Gujarati in the Medical Domain | `conversational-speech-in-gujarati-in-the-f75484ee` | [link](https://mozilladatacollective.com/datasets/cmrdfk4ao007po1070z5f4kem) | ❌ |
+| `cmrdfks7v007to1076cj9gnn4` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-653371da` | [link](https://mozilladatacollective.com/datasets/cmrdfks7v007to1076cj9gnn4) | ❌ |
