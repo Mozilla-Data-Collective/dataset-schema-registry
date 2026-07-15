@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T06:43:06.802510+00:00",
-  "total": 903,
+  "updated_at": "2026-07-15T05:49:45.803655+00:00",
+  "total": 921,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -2224,9 +2224,9 @@
     {
       "id": "cmp4ijosh00h9mp078ggnaatm",
       "url": "https://mozilladatacollective.com/datasets/cmp4ijosh00h9mp078ggnaatm",
-      "lastmod": "2026-06-26T14:11:22.114Z",
-      "name": "ReRooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants",
-      "slug": "rerooted-speech-corpus-of-testimonials-f-c20c3d85"
+      "lastmod": "2026-07-14T13:13:24.686Z",
+      "name": "Rerooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants",
+      "slug": "rerooted-speech-corpus-of-testimonials-f-58af1de5"
     },
     {
       "id": "cmp5b9e10014mo007qkcmck75",
@@ -6322,6 +6322,132 @@
       "lastmod": "2026-07-11T03:43:52.636Z",
       "name": "Brazilian Sign Language (Libras) Healthcare Corpus",
       "slug": "brazilian-sign-language-libras-healthcar-56485668"
+    },
+    {
+      "id": "cmrkqrlfg006emm077v40m686",
+      "url": "https://mozilladatacollective.com/datasets/cmrkqrlfg006emm077v40m686",
+      "lastmod": "2026-07-14T14:23:34.204Z",
+      "name": "Common Voice Scripted Speech 26.0 - American English (Female)",
+      "slug": "common-voice-scripted-speech-26-0-americ-471d8a1a"
+    },
+    {
+      "id": "cmrkqy18t006imm074waw5jbg",
+      "url": "https://mozilladatacollective.com/datasets/cmrkqy18t006imm074waw5jbg",
+      "lastmod": "2026-07-14T14:28:34.637Z",
+      "name": "Kannada Text Corpus",
+      "slug": "kannada-text-corpus-b95eb8c6"
+    },
+    {
+      "id": "cmrkr1d73006umm073mrirtvn",
+      "url": "https://mozilladatacollective.com/datasets/cmrkr1d73006umm073mrirtvn",
+      "lastmod": "2026-07-14T14:31:10.095Z",
+      "name": "Common Voice Scripted Speech 26.0 - American English (Male)",
+      "slug": "common-voice-scripted-speech-26-0-americ-7305d7f7"
+    },
+    {
+      "id": "cmrkr30z90074mm070k8upuil",
+      "url": "https://mozilladatacollective.com/datasets/cmrkr30z90074mm070k8upuil",
+      "lastmod": "2026-07-14T14:32:27.573Z",
+      "name": "Common Voice Scripted Speech 26.0 - Scottish English",
+      "slug": "common-voice-scripted-speech-26-0-scotti-f6ca6a15"
+    },
+    {
+      "id": "cmrkra27o0085mm0760i7i80o",
+      "url": "https://mozilladatacollective.com/datasets/cmrkra27o0085mm0760i7i80o",
+      "lastmod": "2026-07-14T14:37:55.765Z",
+      "name": "Common Voice Scripted Speech 26.0 - British English",
+      "slug": "common-voice-scripted-speech-26-0-britis-53f72d17"
+    },
+    {
+      "id": "cmrkuhnzh0001mp07xtyjzld0",
+      "url": "https://mozilladatacollective.com/datasets/cmrkuhnzh0001mp07xtyjzld0",
+      "lastmod": "2026-07-14T16:07:49.422Z",
+      "name": "Adjuntos Solicitudes Información — Estado de México",
+      "slug": "adjuntos-solicitudes-informaci-n-estado-197b55d6"
+    },
+    {
+      "id": "cmrl1mofx005qnu07sa7jeue5",
+      "url": "https://mozilladatacollective.com/datasets/cmrl1mofx005qnu07sa7jeue5",
+      "lastmod": "2026-07-14T19:27:40.606Z",
+      "name": "Adjuntos Solicitudes Información — Oaxaca",
+      "slug": "adjuntos-solicitudes-informaci-n-oaxaca-11734e88"
+    },
+    {
+      "id": "cmrl1n2fe005lmp07zgruu5u0",
+      "url": "https://mozilladatacollective.com/datasets/cmrl1n2fe005lmp07zgruu5u0",
+      "lastmod": "2026-07-14T19:27:58.730Z",
+      "name": "Adjuntos Solicitudes Información — Puebla",
+      "slug": "adjuntos-solicitudes-informaci-n-puebla-0f8f60ef"
+    },
+    {
+      "id": "cmrl1ndqi005unu07aue3qjke",
+      "url": "https://mozilladatacollective.com/datasets/cmrl1ndqi005unu07aue3qjke",
+      "lastmod": "2026-07-14T19:28:13.386Z",
+      "name": "Adjuntos Solicitudes Información — Querétaro",
+      "slug": "adjuntos-solicitudes-informaci-n-quer-ta-d5da74cf"
+    },
+    {
+      "id": "cmrl1np4j005pmp07813hzbu6",
+      "url": "https://mozilladatacollective.com/datasets/cmrl1np4j005pmp07813hzbu6",
+      "lastmod": "2026-07-14T19:28:28.147Z",
+      "name": "Adjuntos Solicitudes Información — Quintana Roo",
+      "slug": "adjuntos-solicitudes-informaci-n-quintan-82a62633"
+    },
+    {
+      "id": "cmrl1o315005tmp07209h7it1",
+      "url": "https://mozilladatacollective.com/datasets/cmrl1o315005tmp07209h7it1",
+      "lastmod": "2026-07-14T19:28:46.169Z",
+      "name": "Adjuntos Solicitudes Información — San Luis Potosí",
+      "slug": "adjuntos-solicitudes-informaci-n-san-lui-1bd1102f"
+    },
+    {
+      "id": "cmrl1oe86005xmp07fuydkmkm",
+      "url": "https://mozilladatacollective.com/datasets/cmrl1oe86005xmp07fuydkmkm",
+      "lastmod": "2026-07-14T19:29:00.679Z",
+      "name": "Adjuntos Solicitudes Información — Sinaloa",
+      "slug": "adjuntos-solicitudes-informaci-n-sinaloa-745670b4"
+    },
+    {
+      "id": "cmrl1opl4005ynu07auuoh82r",
+      "url": "https://mozilladatacollective.com/datasets/cmrl1opl4005ynu07auuoh82r",
+      "lastmod": "2026-07-14T19:29:15.400Z",
+      "name": "Adjuntos Solicitudes Información — Sonora",
+      "slug": "adjuntos-solicitudes-informaci-n-sonora-da8c5da9"
+    },
+    {
+      "id": "cmrl1p0s70061mp07brbnytyl",
+      "url": "https://mozilladatacollective.com/datasets/cmrl1p0s70061mp07brbnytyl",
+      "lastmod": "2026-07-14T19:29:29.912Z",
+      "name": "Adjuntos Solicitudes Información — Tabasco",
+      "slug": "adjuntos-solicitudes-informaci-n-tabasco-2d31c80c"
+    },
+    {
+      "id": "cmrl1pc5b0065mp07zfkngmef",
+      "url": "https://mozilladatacollective.com/datasets/cmrl1pc5b0065mp07zfkngmef",
+      "lastmod": "2026-07-14T19:29:44.640Z",
+      "name": "Adjuntos Solicitudes Información — Tamaulipas",
+      "slug": "adjuntos-solicitudes-informaci-n-tamauli-3f5ba572"
+    },
+    {
+      "id": "cmrl1q7rn0062nu0742j509e0",
+      "url": "https://mozilladatacollective.com/datasets/cmrl1q7rn0062nu0742j509e0",
+      "lastmod": "2026-07-14T19:30:25.619Z",
+      "name": "Adjuntos Solicitudes Información — Tlaxcala",
+      "slug": "adjuntos-solicitudes-informaci-n-tlaxcal-ea5c8f90"
+    },
+    {
+      "id": "cmrl1qlzu0066nu07lat8evl9",
+      "url": "https://mozilladatacollective.com/datasets/cmrl1qlzu0066nu07lat8evl9",
+      "lastmod": "2026-07-14T19:30:44.058Z",
+      "name": "Adjuntos Solicitudes Información — Veracruz",
+      "slug": "adjuntos-solicitudes-informaci-n-veracru-d7bf5fd6"
+    },
+    {
+      "id": "cmrl1rkex0069mp07dxu54q52",
+      "url": "https://mozilladatacollective.com/datasets/cmrl1rkex0069mp07dxu54q52",
+      "lastmod": "2026-07-14T19:31:28.666Z",
+      "name": "Adjuntos Solicitudes Información — Nayarit",
+      "slug": "adjuntos-solicitudes-informaci-n-nayarit-c77ad552"
     }
   ]
 }
