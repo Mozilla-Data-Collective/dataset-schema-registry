@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-15  
-**Total datasets in sitemap:** 922  
+**Last updated:** 2026-07-16  
+**Total datasets in sitemap:** 942  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 513 ❌  
+**Schemas missing:** 533 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -332,7 +332,7 @@ schema in this registry and which ones are still missing.
 | `cmp4htii700glmp07syfvo010` | Bangladesh Traffic Signs Dataset | `bangladesh-traffic-signs-dataset-07c5d6ad` | [link](https://mozilladatacollective.com/datasets/cmp4htii700glmp07syfvo010) | ❌ |
 | `cmp4htkri00hao007kbrbew2h` | India Traffic Signs Dataset | `india-traffic-signs-dataset-b74e4eac` | [link](https://mozilladatacollective.com/datasets/cmp4htkri00hao007kbrbew2h) | ❌ |
 | `cmp4htnf000gpmp07shg6l5v9` | Pakistan Traffic Signs Dataset | `pakistan-traffic-signs-dataset-cf8dab14` | [link](https://mozilladatacollective.com/datasets/cmp4htnf000gpmp07shg6l5v9) | ❌ |
-| `cmp4ijosh00h9mp078ggnaatm` | Rerooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants | `rerooted-speech-corpus-of-testimonials-f-58af1de5` | [link](https://mozilladatacollective.com/datasets/cmp4ijosh00h9mp078ggnaatm) | ❌ |
+| `cmp4ijosh00h9mp078ggnaatm` | Rerooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants | `rerooted-speech-corpus-of-testimonials-f-f21bcf48` | [link](https://mozilladatacollective.com/datasets/cmp4ijosh00h9mp078ggnaatm) | ❌ |
 | `cmp5b9e10014mo007qkcmck75` | CoVoST 2 English - Arabic | `covost-2-english-arabic-1ee86ec6` | [link](https://mozilladatacollective.com/datasets/cmp5b9e10014mo007qkcmck75) | ❌ |
 | `cmp5c60at015po007bbql6h3s` |  CommonLID | `commonlid-622f6f75` | [link](https://mozilladatacollective.com/datasets/cmp5c60at015po007bbql6h3s) | ✅ |
 | `cmp5hjood01comp07fxt1fb74` | CoVoST 2 Indonesian - English | `covost-2-indonesian-english-f070340a` | [link](https://mozilladatacollective.com/datasets/cmp5hjood01comp07fxt1fb74) | ❌ |
@@ -936,4 +936,24 @@ schema in this registry and which ones are still missing.
 | `cmrl1q7rn0062nu0742j509e0` | Adjuntos Solicitudes Información — Tlaxcala | `adjuntos-solicitudes-informaci-n-tlaxcal-ea5c8f90` | [link](https://mozilladatacollective.com/datasets/cmrl1q7rn0062nu0742j509e0) | ❌ |
 | `cmrl1qlzu0066nu07lat8evl9` | Adjuntos Solicitudes Información — Veracruz | `adjuntos-solicitudes-informaci-n-veracru-d7bf5fd6` | [link](https://mozilladatacollective.com/datasets/cmrl1qlzu0066nu07lat8evl9) | ❌ |
 | `cmrl1rkex0069mp07dxu54q52` | Adjuntos Solicitudes Información — Nayarit | `adjuntos-solicitudes-informaci-n-nayarit-c77ad552` | [link](https://mozilladatacollective.com/datasets/cmrl1rkex0069mp07dxu54q52) | ❌ |
-| `cmrlpqhr500j6nu07012wvakw` | Burmese_4Hours_TTS | `burmese-4hours-tts-bf4d9753` | [link](https://mozilladatacollective.com/datasets/cmrlpqhr500j6nu07012wvakw) | ❌ |
+| `cmrlqkecf00jynu07k7fb90iv` | Sindhi Sentiment Analysis Dataset | `sindhi-sentiment-analysis-dataset-d9db89b8` | [link](https://mozilladatacollective.com/datasets/cmrlqkecf00jynu07k7fb90iv) | ❌ |
+| `cmrm0n0j900w7mp07pszsip3c` | Adjuntos Solicitudes Información — Yucatán | `adjuntos-solicitudes-informaci-n-yucat-n-b5f55355` | [link](https://mozilladatacollective.com/datasets/cmrm0n0j900w7mp07pszsip3c) | ❌ |
+| `cmrm0r3ec00xanu07umjyhn5x` | Adjuntos Solicitudes Información — Zacatecas | `adjuntos-solicitudes-informaci-n-zacatec-88df0571` | [link](https://mozilladatacollective.com/datasets/cmrm0r3ec00xanu07umjyhn5x) | ❌ |
+| `cmrm0rdjc00xenu07ojnq9r3t` | Adjuntos Solicitudes Información — Baja California | `adjuntos-solicitudes-informaci-n-baja-ca-80f5233c` | [link](https://mozilladatacollective.com/datasets/cmrm0rdjc00xenu07ojnq9r3t) | ❌ |
+| `cmrm0rnk700xinu07fmt7ed21` | Adjuntos Solicitudes Información — Baja California Sur | `adjuntos-solicitudes-informaci-n-baja-ca-1bc1d4af` | [link](https://mozilladatacollective.com/datasets/cmrm0rnk700xinu07fmt7ed21) | ❌ |
+| `cmrm0rw2400xmnu07w6mylipv` | Adjuntos Solicitudes Información — Campeche | `adjuntos-solicitudes-informaci-n-campech-513b98d8` | [link](https://mozilladatacollective.com/datasets/cmrm0rw2400xmnu07w6mylipv) | ❌ |
+| `cmrm0s4w300xqnu076zty9gy5` | Adjuntos Solicitudes Información — Colima | `adjuntos-solicitudes-informaci-n-colima-20698655` | [link](https://mozilladatacollective.com/datasets/cmrm0s4w300xqnu076zty9gy5) | ❌ |
+| `cmrm0se7g00xunu07nzt693w9` | Adjuntos Solicitudes Información — Coahuila | `adjuntos-solicitudes-informaci-n-coahuil-7852427e` | [link](https://mozilladatacollective.com/datasets/cmrm0se7g00xunu07nzt693w9) | ❌ |
+| `cmrm0snmh00xynu075g8y0llx` | Adjuntos Solicitudes Información — Chihuahua | `adjuntos-solicitudes-informaci-n-chihuah-cc9c08bd` | [link](https://mozilladatacollective.com/datasets/cmrm0snmh00xynu075g8y0llx) | ❌ |
+| `cmrm0swdy00y2nu07zt9wkbvk` | Adjuntos Solicitudes Información — Durango | `adjuntos-solicitudes-informaci-n-durango-c49956ed` | [link](https://mozilladatacollective.com/datasets/cmrm0swdy00y2nu07zt9wkbvk) | ❌ |
+| `cmrm0t4s100y6nu076r3i1pjp` | Adjuntos Solicitudes Información — Guerrero | `adjuntos-solicitudes-informaci-n-guerrer-480fbb38` | [link](https://mozilladatacollective.com/datasets/cmrm0t4s100y6nu076r3i1pjp) | ❌ |
+| `cmrm12ner00yenu07kgi4o8b1` | Adjuntos Solicitudes Información — Chiapas | `adjuntos-solicitudes-informaci-n-chiapas-3dd83c2b` | [link](https://mozilladatacollective.com/datasets/cmrm12ner00yenu07kgi4o8b1) | ❌ |
+| `cmrm142k700wlmp07gprd59q9` | Adjuntos Solicitudes Información — Hidalgo | `adjuntos-solicitudes-informaci-n-hidalgo-545b3858` | [link](https://mozilladatacollective.com/datasets/cmrm142k700wlmp07gprd59q9) | ❌ |
+| `cmrm1gl0t00x9mp075i3giasa` | Adjuntos Solicitudes Información — Michoacán | `adjuntos-solicitudes-informaci-n-michoac-b4edcb79` | [link](https://mozilladatacollective.com/datasets/cmrm1gl0t00x9mp075i3giasa) | ❌ |
+| `cmrm1gtso00xdmp074tkb66n0` | Adjuntos Solicitudes Información — Morelos | `adjuntos-solicitudes-informaci-n-morelos-2dbe7e51` | [link](https://mozilladatacollective.com/datasets/cmrm1gtso00xdmp074tkb66n0) | ❌ |
+| `cmrm1h4kl00xhmp07cx25h9r2` | Adjuntos Solicitudes Información — Federación — EPN | `adjuntos-solicitudes-informaci-n-federac-5d004e69` | [link](https://mozilladatacollective.com/datasets/cmrm1h4kl00xhmp07cx25h9r2) | ❌ |
+| `cmrm237q100yfmp07v9kl91i5` | Conversational Speech in Manipuri in the Medical Domain | `conversational-speech-in-manipuri-in-the-b6df6f16` | [link](https://mozilladatacollective.com/datasets/cmrm237q100yfmp07v9kl91i5) | ❌ |
+| `cmrm59m4o010fmp07mm8uzfye` | Adjuntos Solicitudes Información — Federación — AMLO 2023–2025 | `adjuntos-solicitudes-informaci-n-federac-147768de` | [link](https://mozilladatacollective.com/datasets/cmrm59m4o010fmp07mm8uzfye) | ❌ |
+| `cmrm9cjx0015fmp07nxs2ad35` | Adjuntos Solicitudes Información — Federación — AMLO 2019–2022 | `adjuntos-solicitudes-informaci-n-federac-c5a10587` | [link](https://mozilladatacollective.com/datasets/cmrm9cjx0015fmp07nxs2ad35) | ❌ |
+| `cmrmkmodd01h0nu07rkbq6yu9` | Conversational Speech in Manipuri in the Finance Domain | `conversational-speech-in-manipuri-in-the-1824c217` | [link](https://mozilladatacollective.com/datasets/cmrmkmodd01h0nu07rkbq6yu9) | ❌ |
+| `cmrmkr3nh01h4nu07gqsvfckc` | Conversational Speech in Gujarati in the Finance Domain | `conversational-speech-in-gujarati-in-the-97e4d522` | [link](https://mozilladatacollective.com/datasets/cmrmkr3nh01h4nu07gqsvfckc) | ❌ |
