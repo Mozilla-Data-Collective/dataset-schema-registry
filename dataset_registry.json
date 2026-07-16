@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T06:43:42.810355+00:00",
-  "total": 922,
+  "updated_at": "2026-07-16T05:54:55.847108+00:00",
+  "total": 942,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -2224,9 +2224,9 @@
     {
       "id": "cmp4ijosh00h9mp078ggnaatm",
       "url": "https://mozilladatacollective.com/datasets/cmp4ijosh00h9mp078ggnaatm",
-      "lastmod": "2026-07-14T13:13:24.686Z",
+      "lastmod": "2026-07-15T17:10:40.053Z",
       "name": "Rerooted: Speech Corpus of Testimonials from Armenian Refugees and Immigrants",
-      "slug": "rerooted-speech-corpus-of-testimonials-f-58af1de5"
+      "slug": "rerooted-speech-corpus-of-testimonials-f-f21bcf48"
     },
     {
       "id": "cmp5b9e10014mo007qkcmck75",
@@ -6450,11 +6450,151 @@
       "slug": "adjuntos-solicitudes-informaci-n-nayarit-c77ad552"
     },
     {
-      "id": "cmrlpqhr500j6nu07012wvakw",
-      "url": "https://mozilladatacollective.com/datasets/cmrlpqhr500j6nu07012wvakw",
-      "lastmod": "2026-07-15T06:42:29.345Z",
-      "name": "Burmese_4Hours_TTS",
-      "slug": "burmese-4hours-tts-bf4d9753"
+      "id": "cmrlqkecf00jynu07k7fb90iv",
+      "url": "https://mozilladatacollective.com/datasets/cmrlqkecf00jynu07k7fb90iv",
+      "lastmod": "2026-07-15T07:05:44.607Z",
+      "name": "Sindhi Sentiment Analysis Dataset",
+      "slug": "sindhi-sentiment-analysis-dataset-d9db89b8"
+    },
+    {
+      "id": "cmrm0n0j900w7mp07pszsip3c",
+      "url": "https://mozilladatacollective.com/datasets/cmrm0n0j900w7mp07pszsip3c",
+      "lastmod": "2026-07-15T11:47:42.837Z",
+      "name": "Adjuntos Solicitudes Información — Yucatán",
+      "slug": "adjuntos-solicitudes-informaci-n-yucat-n-b5f55355"
+    },
+    {
+      "id": "cmrm0r3ec00xanu07umjyhn5x",
+      "url": "https://mozilladatacollective.com/datasets/cmrm0r3ec00xanu07umjyhn5x",
+      "lastmod": "2026-07-15T11:50:53.173Z",
+      "name": "Adjuntos Solicitudes Información — Zacatecas",
+      "slug": "adjuntos-solicitudes-informaci-n-zacatec-88df0571"
+    },
+    {
+      "id": "cmrm0rdjc00xenu07ojnq9r3t",
+      "url": "https://mozilladatacollective.com/datasets/cmrm0rdjc00xenu07ojnq9r3t",
+      "lastmod": "2026-07-15T11:51:06.313Z",
+      "name": "Adjuntos Solicitudes Información — Baja California",
+      "slug": "adjuntos-solicitudes-informaci-n-baja-ca-80f5233c"
+    },
+    {
+      "id": "cmrm0rnk700xinu07fmt7ed21",
+      "url": "https://mozilladatacollective.com/datasets/cmrm0rnk700xinu07fmt7ed21",
+      "lastmod": "2026-07-15T11:51:19.304Z",
+      "name": "Adjuntos Solicitudes Información — Baja California Sur",
+      "slug": "adjuntos-solicitudes-informaci-n-baja-ca-1bc1d4af"
+    },
+    {
+      "id": "cmrm0rw2400xmnu07w6mylipv",
+      "url": "https://mozilladatacollective.com/datasets/cmrm0rw2400xmnu07w6mylipv",
+      "lastmod": "2026-07-15T11:51:30.316Z",
+      "name": "Adjuntos Solicitudes Información — Campeche",
+      "slug": "adjuntos-solicitudes-informaci-n-campech-513b98d8"
+    },
+    {
+      "id": "cmrm0s4w300xqnu076zty9gy5",
+      "url": "https://mozilladatacollective.com/datasets/cmrm0s4w300xqnu076zty9gy5",
+      "lastmod": "2026-07-15T11:51:41.763Z",
+      "name": "Adjuntos Solicitudes Información — Colima",
+      "slug": "adjuntos-solicitudes-informaci-n-colima-20698655"
+    },
+    {
+      "id": "cmrm0se7g00xunu07nzt693w9",
+      "url": "https://mozilladatacollective.com/datasets/cmrm0se7g00xunu07nzt693w9",
+      "lastmod": "2026-07-15T11:51:53.836Z",
+      "name": "Adjuntos Solicitudes Información — Coahuila",
+      "slug": "adjuntos-solicitudes-informaci-n-coahuil-7852427e"
+    },
+    {
+      "id": "cmrm0snmh00xynu075g8y0llx",
+      "url": "https://mozilladatacollective.com/datasets/cmrm0snmh00xynu075g8y0llx",
+      "lastmod": "2026-07-15T11:52:06.041Z",
+      "name": "Adjuntos Solicitudes Información — Chihuahua",
+      "slug": "adjuntos-solicitudes-informaci-n-chihuah-cc9c08bd"
+    },
+    {
+      "id": "cmrm0swdy00y2nu07zt9wkbvk",
+      "url": "https://mozilladatacollective.com/datasets/cmrm0swdy00y2nu07zt9wkbvk",
+      "lastmod": "2026-07-15T11:52:17.398Z",
+      "name": "Adjuntos Solicitudes Información — Durango",
+      "slug": "adjuntos-solicitudes-informaci-n-durango-c49956ed"
+    },
+    {
+      "id": "cmrm0t4s100y6nu076r3i1pjp",
+      "url": "https://mozilladatacollective.com/datasets/cmrm0t4s100y6nu076r3i1pjp",
+      "lastmod": "2026-07-15T11:52:28.273Z",
+      "name": "Adjuntos Solicitudes Información — Guerrero",
+      "slug": "adjuntos-solicitudes-informaci-n-guerrer-480fbb38"
+    },
+    {
+      "id": "cmrm12ner00yenu07kgi4o8b1",
+      "url": "https://mozilladatacollective.com/datasets/cmrm12ner00yenu07kgi4o8b1",
+      "lastmod": "2026-07-15T11:59:52.323Z",
+      "name": "Adjuntos Solicitudes Información — Chiapas",
+      "slug": "adjuntos-solicitudes-informaci-n-chiapas-3dd83c2b"
+    },
+    {
+      "id": "cmrm142k700wlmp07gprd59q9",
+      "url": "https://mozilladatacollective.com/datasets/cmrm142k700wlmp07gprd59q9",
+      "lastmod": "2026-07-15T12:00:58.615Z",
+      "name": "Adjuntos Solicitudes Información — Hidalgo",
+      "slug": "adjuntos-solicitudes-informaci-n-hidalgo-545b3858"
+    },
+    {
+      "id": "cmrm1gl0t00x9mp075i3giasa",
+      "url": "https://mozilladatacollective.com/datasets/cmrm1gl0t00x9mp075i3giasa",
+      "lastmod": "2026-07-15T12:10:42.413Z",
+      "name": "Adjuntos Solicitudes Información — Michoacán",
+      "slug": "adjuntos-solicitudes-informaci-n-michoac-b4edcb79"
+    },
+    {
+      "id": "cmrm1gtso00xdmp074tkb66n0",
+      "url": "https://mozilladatacollective.com/datasets/cmrm1gtso00xdmp074tkb66n0",
+      "lastmod": "2026-07-15T12:10:53.784Z",
+      "name": "Adjuntos Solicitudes Información — Morelos",
+      "slug": "adjuntos-solicitudes-informaci-n-morelos-2dbe7e51"
+    },
+    {
+      "id": "cmrm1h4kl00xhmp07cx25h9r2",
+      "url": "https://mozilladatacollective.com/datasets/cmrm1h4kl00xhmp07cx25h9r2",
+      "lastmod": "2026-07-15T12:11:07.749Z",
+      "name": "Adjuntos Solicitudes Información — Federación — EPN",
+      "slug": "adjuntos-solicitudes-informaci-n-federac-5d004e69"
+    },
+    {
+      "id": "cmrm237q100yfmp07v9kl91i5",
+      "url": "https://mozilladatacollective.com/datasets/cmrm237q100yfmp07v9kl91i5",
+      "lastmod": "2026-07-15T12:28:18.265Z",
+      "name": "Conversational Speech in Manipuri in the Medical Domain",
+      "slug": "conversational-speech-in-manipuri-in-the-b6df6f16"
+    },
+    {
+      "id": "cmrm59m4o010fmp07mm8uzfye",
+      "url": "https://mozilladatacollective.com/datasets/cmrm59m4o010fmp07mm8uzfye",
+      "lastmod": "2026-07-15T13:57:15.720Z",
+      "name": "Adjuntos Solicitudes Información — Federación — AMLO 2023–2025",
+      "slug": "adjuntos-solicitudes-informaci-n-federac-147768de"
+    },
+    {
+      "id": "cmrm9cjx0015fmp07nxs2ad35",
+      "url": "https://mozilladatacollective.com/datasets/cmrm9cjx0015fmp07nxs2ad35",
+      "lastmod": "2026-07-15T15:51:31.284Z",
+      "name": "Adjuntos Solicitudes Información — Federación — AMLO 2019–2022",
+      "slug": "adjuntos-solicitudes-informaci-n-federac-c5a10587"
+    },
+    {
+      "id": "cmrmkmodd01h0nu07rkbq6yu9",
+      "url": "https://mozilladatacollective.com/datasets/cmrmkmodd01h0nu07rkbq6yu9",
+      "lastmod": "2026-07-15T21:07:19.393Z",
+      "name": "Conversational Speech in Manipuri in the Finance Domain",
+      "slug": "conversational-speech-in-manipuri-in-the-1824c217"
+    },
+    {
+      "id": "cmrmkr3nh01h4nu07gqsvfckc",
+      "url": "https://mozilladatacollective.com/datasets/cmrmkr3nh01h4nu07gqsvfckc",
+      "lastmod": "2026-07-15T21:10:45.821Z",
+      "name": "Conversational Speech in Gujarati in the Finance Domain",
+      "slug": "conversational-speech-in-gujarati-in-the-97e4d522"
     }
   ]
 }
