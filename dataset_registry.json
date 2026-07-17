@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-16T06:48:09.644593+00:00",
-  "total": 942,
+  "updated_at": "2026-07-17T05:55:07.271671+00:00",
+  "total": 940,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -1223,9 +1223,9 @@
     {
       "id": "cmmknsho4014wmf087kvq5rc6",
       "url": "https://mozilladatacollective.com/datasets/cmmknsho4014wmf087kvq5rc6",
-      "lastmod": "2026-03-10T13:41:45.461Z",
+      "lastmod": "2026-07-16T21:56:27.242Z",
       "name": "Kokoro Speech Dataset",
-      "slug": "kokoro-speech-dataset-d8bfaab0"
+      "slug": "kokoro-speech-dataset-74e9c24b"
     },
     {
       "id": "cmmm2ru5r003nmd07p53h9wdw",
@@ -6165,9 +6165,9 @@
     {
       "id": "cmr0mhm4l01agns077lq6a5hf",
       "url": "https://mozilladatacollective.com/datasets/cmr0mhm4l01agns077lq6a5hf",
-      "lastmod": "2026-06-30T12:28:26.566Z",
+      "lastmod": "2026-07-16T07:26:12.045Z",
       "name": "Ligurian TTS - female voice",
-      "slug": "ligurian-tts-female-voice-88090858"
+      "slug": "ligurian-tts-female-voice-4d2caa0c"
     },
     {
       "id": "cmr0mlgjp01bimk07xkdw256s",
@@ -6324,39 +6324,11 @@
       "slug": "brazilian-sign-language-libras-healthcar-56485668"
     },
     {
-      "id": "cmrkqrlfg006emm077v40m686",
-      "url": "https://mozilladatacollective.com/datasets/cmrkqrlfg006emm077v40m686",
-      "lastmod": "2026-07-14T14:23:34.204Z",
-      "name": "Common Voice Scripted Speech 26.0 - American English (Female)",
-      "slug": "common-voice-scripted-speech-26-0-americ-471d8a1a"
-    },
-    {
       "id": "cmrkqy18t006imm074waw5jbg",
       "url": "https://mozilladatacollective.com/datasets/cmrkqy18t006imm074waw5jbg",
       "lastmod": "2026-07-14T14:28:34.637Z",
       "name": "Kannada Text Corpus",
       "slug": "kannada-text-corpus-b95eb8c6"
-    },
-    {
-      "id": "cmrkr1d73006umm073mrirtvn",
-      "url": "https://mozilladatacollective.com/datasets/cmrkr1d73006umm073mrirtvn",
-      "lastmod": "2026-07-14T14:31:10.095Z",
-      "name": "Common Voice Scripted Speech 26.0 - American English (Male)",
-      "slug": "common-voice-scripted-speech-26-0-americ-7305d7f7"
-    },
-    {
-      "id": "cmrkr30z90074mm070k8upuil",
-      "url": "https://mozilladatacollective.com/datasets/cmrkr30z90074mm070k8upuil",
-      "lastmod": "2026-07-14T14:32:27.573Z",
-      "name": "Common Voice Scripted Speech 26.0 - Scottish English",
-      "slug": "common-voice-scripted-speech-26-0-scotti-f6ca6a15"
-    },
-    {
-      "id": "cmrkra27o0085mm0760i7i80o",
-      "url": "https://mozilladatacollective.com/datasets/cmrkra27o0085mm0760i7i80o",
-      "lastmod": "2026-07-14T14:37:55.765Z",
-      "name": "Common Voice Scripted Speech 26.0 - British English",
-      "slug": "common-voice-scripted-speech-26-0-britis-53f72d17"
     },
     {
       "id": "cmrkuhnzh0001mp07xtyjzld0",
@@ -6595,6 +6567,20 @@
       "lastmod": "2026-07-15T21:10:45.821Z",
       "name": "Conversational Speech in Gujarati in the Finance Domain",
       "slug": "conversational-speech-in-gujarati-in-the-97e4d522"
+    },
+    {
+      "id": "cmrnlqf8e006pnp07dtcmpk9e",
+      "url": "https://mozilladatacollective.com/datasets/cmrnlqf8e006pnp07dtcmpk9e",
+      "lastmod": "2026-07-16T14:25:59.966Z",
+      "name": "Common Voice Scripted Speech 26.0 - Australian English",
+      "slug": "common-voice-scripted-speech-26-0-austra-3847747d"
+    },
+    {
+      "id": "cmrnmk9ux000hmc07llq1targ",
+      "url": "https://mozilladatacollective.com/datasets/cmrnmk9ux000hmc07llq1targ",
+      "lastmod": "2026-07-16T14:49:12.681Z",
+      "name": "Adjuntos Solicitudes Información — Federación — VFQ",
+      "slug": "adjuntos-solicitudes-informaci-n-federac-966df728"
     }
   ]
 }
