@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-16  
-**Total datasets in sitemap:** 942  
+**Last updated:** 2026-07-17  
+**Total datasets in sitemap:** 940  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 533 ❌  
+**Schemas missing:** 531 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -189,7 +189,7 @@ schema in this registry and which ones are still missing.
 | `cmmdtenxt0050mh0792d10knv` | Elkhani Hazargi Literature Corpus  | `elkhani-hazargi-literature-corpus-85c403db` | [link](https://mozilladatacollective.com/datasets/cmmdtenxt0050mh0792d10knv) | ❌ |
 | `cmmfulo4r018bnz07py4q9t09` | Bangor Miami Spanish-English Corpus | `bangor-miami-spanish-english-corpus-36d9f971` | [link](https://mozilladatacollective.com/datasets/cmmfulo4r018bnz07py4q9t09) | ❌ |
 | `cmmj6vyb902ownz07j4k7cunj` | Sundanese TTS | `sundanese-tts-2ee99d3c` | [link](https://mozilladatacollective.com/datasets/cmmj6vyb902ownz07j4k7cunj) | ❌ |
-| `cmmknsho4014wmf087kvq5rc6` | Kokoro Speech Dataset | `kokoro-speech-dataset-d8bfaab0` | [link](https://mozilladatacollective.com/datasets/cmmknsho4014wmf087kvq5rc6) | ✅ |
+| `cmmknsho4014wmf087kvq5rc6` | Kokoro Speech Dataset | `kokoro-speech-dataset-74e9c24b` | [link](https://mozilladatacollective.com/datasets/cmmknsho4014wmf087kvq5rc6) | ✅ |
 | `cmmm2ru5r003nmd07p53h9wdw` | TTS Balinese Language | `tts-balinese-language-884fa798` | [link](https://mozilladatacollective.com/datasets/cmmm2ru5r003nmd07p53h9wdw) | ❌ |
 | `cmmm7rvm200b9md07h3pv8uae` | TODa: Tamazight Open Dataset | `toda-tamazight-open-dataset-3eef2658` | [link](https://mozilladatacollective.com/datasets/cmmm7rvm200b9md07h3pv8uae) | ❌ |
 | `cmmng8btl000yl807k8qtx891` | ddd-kenya-somali-68hrs-asr-part1 | `ddd-kenya-somali-68hrs-asr-part1-41a99fae` | [link](https://mozilladatacollective.com/datasets/cmmng8btl000yl807k8qtx891) | ❌ |
@@ -895,7 +895,7 @@ schema in this registry and which ones are still missing.
 | `cmqz8qad200hzmp070fvxru9n` | Ladino TTS Corpus | `ladino-tts-corpus-6f8cbd72` | [link](https://mozilladatacollective.com/datasets/cmqz8qad200hzmp070fvxru9n) | ❌ |
 | `cmqzgucgt009vmk070046obup` | LezizNet - Turkish food images | `leziznet-turkish-food-images-9e450f4d` | [link](https://mozilladatacollective.com/datasets/cmqzgucgt009vmk070046obup) | ❌ |
 | `cmqzs3yig00eens07hehnewvf` | Tequila Zongolica Nahuatl ASR Dataset | `tequila-zongolica-nahuatl-asr-dataset-4b014750` | [link](https://mozilladatacollective.com/datasets/cmqzs3yig00eens07hehnewvf) | ❌ |
-| `cmr0mhm4l01agns077lq6a5hf` | Ligurian TTS - female voice | `ligurian-tts-female-voice-88090858` | [link](https://mozilladatacollective.com/datasets/cmr0mhm4l01agns077lq6a5hf) | ❌ |
+| `cmr0mhm4l01agns077lq6a5hf` | Ligurian TTS - female voice | `ligurian-tts-female-voice-4d2caa0c` | [link](https://mozilladatacollective.com/datasets/cmr0mhm4l01agns077lq6a5hf) | ❌ |
 | `cmr0mlgjp01bimk07xkdw256s` | Neapolitan TTS - male voice | `neapolitan-tts-male-voice-ecd8c97e` | [link](https://mozilladatacollective.com/datasets/cmr0mlgjp01bimk07xkdw256s) | ❌ |
 | `cmr0mng9z01bsmk07cuqltz81` | Prompsit D1 - Inline Asset Integrity | `prompsit-d1-inline-asset-integrity-9f282b10` | [link](https://mozilladatacollective.com/datasets/cmr0mng9z01bsmk07cuqltz81) | ❌ |
 | `cmr0mnoo201bwmk07nh4yc04u` | Prompsit D2 - Locale-data Integrity | `prompsit-d2-locale-data-integrity-e6ab4ffb` | [link](https://mozilladatacollective.com/datasets/cmr0mnoo201bwmk07nh4yc04u) | ❌ |
@@ -918,11 +918,7 @@ schema in this registry and which ones are still missing.
 | `cmrdfjave008uo307ett7d4km` | Medical Domain Mexican Spanish Speech Corpus (MEDMEX) | `medical-domain-mexican-spanish-speech-co-b4770c2e` | [link](https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km) | ❌ |
 | `cmrdfk4ao007po1070z5f4kem` | Conversational Speech in Gujarati in the Medical Domain | `conversational-speech-in-gujarati-in-the-f75484ee` | [link](https://mozilladatacollective.com/datasets/cmrdfk4ao007po1070z5f4kem) | ❌ |
 | `cmrftle0s01fsnv0755jw602i` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-56485668` | [link](https://mozilladatacollective.com/datasets/cmrftle0s01fsnv0755jw602i) | ❌ |
-| `cmrkqrlfg006emm077v40m686` | Common Voice Scripted Speech 26.0 - American English (Female) | `common-voice-scripted-speech-26-0-americ-471d8a1a` | [link](https://mozilladatacollective.com/datasets/cmrkqrlfg006emm077v40m686) | ❌ |
 | `cmrkqy18t006imm074waw5jbg` | Kannada Text Corpus | `kannada-text-corpus-b95eb8c6` | [link](https://mozilladatacollective.com/datasets/cmrkqy18t006imm074waw5jbg) | ❌ |
-| `cmrkr1d73006umm073mrirtvn` | Common Voice Scripted Speech 26.0 - American English (Male) | `common-voice-scripted-speech-26-0-americ-7305d7f7` | [link](https://mozilladatacollective.com/datasets/cmrkr1d73006umm073mrirtvn) | ❌ |
-| `cmrkr30z90074mm070k8upuil` | Common Voice Scripted Speech 26.0 - Scottish English | `common-voice-scripted-speech-26-0-scotti-f6ca6a15` | [link](https://mozilladatacollective.com/datasets/cmrkr30z90074mm070k8upuil) | ❌ |
-| `cmrkra27o0085mm0760i7i80o` | Common Voice Scripted Speech 26.0 - British English | `common-voice-scripted-speech-26-0-britis-53f72d17` | [link](https://mozilladatacollective.com/datasets/cmrkra27o0085mm0760i7i80o) | ❌ |
 | `cmrkuhnzh0001mp07xtyjzld0` | Adjuntos Solicitudes Información — Estado de México | `adjuntos-solicitudes-informaci-n-estado-197b55d6` | [link](https://mozilladatacollective.com/datasets/cmrkuhnzh0001mp07xtyjzld0) | ❌ |
 | `cmrl1mofx005qnu07sa7jeue5` | Adjuntos Solicitudes Información — Oaxaca | `adjuntos-solicitudes-informaci-n-oaxaca-11734e88` | [link](https://mozilladatacollective.com/datasets/cmrl1mofx005qnu07sa7jeue5) | ❌ |
 | `cmrl1n2fe005lmp07zgruu5u0` | Adjuntos Solicitudes Información — Puebla | `adjuntos-solicitudes-informaci-n-puebla-0f8f60ef` | [link](https://mozilladatacollective.com/datasets/cmrl1n2fe005lmp07zgruu5u0) | ❌ |
@@ -957,3 +953,5 @@ schema in this registry and which ones are still missing.
 | `cmrm9cjx0015fmp07nxs2ad35` | Adjuntos Solicitudes Información — Federación — AMLO 2019–2022 | `adjuntos-solicitudes-informaci-n-federac-c5a10587` | [link](https://mozilladatacollective.com/datasets/cmrm9cjx0015fmp07nxs2ad35) | ❌ |
 | `cmrmkmodd01h0nu07rkbq6yu9` | Conversational Speech in Manipuri in the Finance Domain | `conversational-speech-in-manipuri-in-the-1824c217` | [link](https://mozilladatacollective.com/datasets/cmrmkmodd01h0nu07rkbq6yu9) | ❌ |
 | `cmrmkr3nh01h4nu07gqsvfckc` | Conversational Speech in Gujarati in the Finance Domain | `conversational-speech-in-gujarati-in-the-97e4d522` | [link](https://mozilladatacollective.com/datasets/cmrmkr3nh01h4nu07gqsvfckc) | ❌ |
+| `cmrnlqf8e006pnp07dtcmpk9e` | Common Voice Scripted Speech 26.0 - Australian English | `common-voice-scripted-speech-26-0-austra-3847747d` | [link](https://mozilladatacollective.com/datasets/cmrnlqf8e006pnp07dtcmpk9e) | ❌ |
+| `cmrnmk9ux000hmc07llq1targ` | Adjuntos Solicitudes Información — Federación — VFQ | `adjuntos-solicitudes-informaci-n-federac-966df728` | [link](https://mozilladatacollective.com/datasets/cmrnmk9ux000hmc07llq1targ) | ❌ |
