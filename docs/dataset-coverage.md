@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-17  
-**Total datasets in sitemap:** 940  
+**Last updated:** 2026-07-18  
+**Total datasets in sitemap:** 943  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 531 ❌  
+**Schemas missing:** 534 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -953,5 +953,8 @@ schema in this registry and which ones are still missing.
 | `cmrm9cjx0015fmp07nxs2ad35` | Adjuntos Solicitudes Información — Federación — AMLO 2019–2022 | `adjuntos-solicitudes-informaci-n-federac-c5a10587` | [link](https://mozilladatacollective.com/datasets/cmrm9cjx0015fmp07nxs2ad35) | ❌ |
 | `cmrmkmodd01h0nu07rkbq6yu9` | Conversational Speech in Manipuri in the Finance Domain | `conversational-speech-in-manipuri-in-the-1824c217` | [link](https://mozilladatacollective.com/datasets/cmrmkmodd01h0nu07rkbq6yu9) | ❌ |
 | `cmrmkr3nh01h4nu07gqsvfckc` | Conversational Speech in Gujarati in the Finance Domain | `conversational-speech-in-gujarati-in-the-97e4d522` | [link](https://mozilladatacollective.com/datasets/cmrmkr3nh01h4nu07gqsvfckc) | ❌ |
-| `cmrnlqf8e006pnp07dtcmpk9e` | Common Voice Scripted Speech 26.0 - Australian English | `common-voice-scripted-speech-26-0-austra-3847747d` | [link](https://mozilladatacollective.com/datasets/cmrnlqf8e006pnp07dtcmpk9e) | ❌ |
 | `cmrnmk9ux000hmc07llq1targ` | Adjuntos Solicitudes Información — Federación — VFQ | `adjuntos-solicitudes-informaci-n-federac-966df728` | [link](https://mozilladatacollective.com/datasets/cmrnmk9ux000hmc07llq1targ) | ❌ |
+| `cmroyatmb00wko007rt1g1hr2` | SKAD Ladino Parallel Corpus | `skad-ladino-parallel-corpus-dafb16b2` | [link](https://mozilladatacollective.com/datasets/cmroyatmb00wko007rt1g1hr2) | ❌ |
+| `cmroyc7m900wqo007okjs2jp3` | 🚧 Multi-Subject Human Pose & Facial Expression Dataset (Studio, 4K) 🚧 | `multi-subject-human-pose-facial-expressi-a86a7482` | [link](https://mozilladatacollective.com/datasets/cmroyc7m900wqo007okjs2jp3) | ❌ |
+| `cmrp1sdsj00zemm0822j75968` | 🚧 Singaporean Tamil Speech Collection 🚧 | `singaporean-tamil-speech-collection-a514ae3b` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ❌ |
+| `cmrp30fdp0120o007a69s3nfc` | 🚧 Burmese Speech Collection 🚧 | `burmese-speech-collection-ca9bd804` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ❌ |
