@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T06:46:25.906652+00:00",
-  "total": 940,
+  "updated_at": "2026-07-18T05:46:59.058009+00:00",
+  "total": 943,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -6564,16 +6564,9 @@
     {
       "id": "cmrmkr3nh01h4nu07gqsvfckc",
       "url": "https://mozilladatacollective.com/datasets/cmrmkr3nh01h4nu07gqsvfckc",
-      "lastmod": "2026-07-15T21:10:45.821Z",
+      "lastmod": "2026-07-17T16:17:29.129Z",
       "name": "Conversational Speech in Gujarati in the Finance Domain",
       "slug": "conversational-speech-in-gujarati-in-the-97e4d522"
-    },
-    {
-      "id": "cmrnlqf8e006pnp07dtcmpk9e",
-      "url": "https://mozilladatacollective.com/datasets/cmrnlqf8e006pnp07dtcmpk9e",
-      "lastmod": "2026-07-16T14:25:59.966Z",
-      "name": "Common Voice Scripted Speech 26.0 - Australian English",
-      "slug": "common-voice-scripted-speech-26-0-austra-3847747d"
     },
     {
       "id": "cmrnmk9ux000hmc07llq1targ",
@@ -6581,6 +6574,34 @@
       "lastmod": "2026-07-16T14:49:12.681Z",
       "name": "Adjuntos Solicitudes Información — Federación — VFQ",
       "slug": "adjuntos-solicitudes-informaci-n-federac-966df728"
+    },
+    {
+      "id": "cmroyatmb00wko007rt1g1hr2",
+      "url": "https://mozilladatacollective.com/datasets/cmroyatmb00wko007rt1g1hr2",
+      "lastmod": "2026-07-17T13:05:33.299Z",
+      "name": "SKAD Ladino Parallel Corpus",
+      "slug": "skad-ladino-parallel-corpus-dafb16b2"
+    },
+    {
+      "id": "cmroyc7m900wqo007okjs2jp3",
+      "url": "https://mozilladatacollective.com/datasets/cmroyc7m900wqo007okjs2jp3",
+      "lastmod": "2026-07-17T15:03:05.360Z",
+      "name": "🚧 Multi-Subject Human Pose & Facial Expression Dataset (Studio, 4K) 🚧",
+      "slug": "multi-subject-human-pose-facial-expressi-a86a7482"
+    },
+    {
+      "id": "cmrp1sdsj00zemm0822j75968",
+      "url": "https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968",
+      "lastmod": "2026-07-17T15:02:54.804Z",
+      "name": "🚧 Singaporean Tamil Speech Collection 🚧",
+      "slug": "singaporean-tamil-speech-collection-a514ae3b"
+    },
+    {
+      "id": "cmrp30fdp0120o007a69s3nfc",
+      "url": "https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc",
+      "lastmod": "2026-07-17T15:17:26.365Z",
+      "name": "🚧 Burmese Speech Collection 🚧",
+      "slug": "burmese-speech-collection-ca9bd804"
     }
   ]
 }
