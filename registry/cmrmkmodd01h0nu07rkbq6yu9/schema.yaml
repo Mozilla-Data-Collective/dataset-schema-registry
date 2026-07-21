@@ -1,0 +1,54 @@
+dataset_id: "cmrmkmodd01h0nu07rkbq6yu9"
+task: "ASR"
+root_strategy: "paired_glob"
+format: "json"
+
+file_pattern: "**/*.merged.json"
+audio_extension: ".wav"
+
+record_path: "transcriptions"
+
+columns:
+  audio_path:
+    source_column: "audio.filename"
+    dtype: "file_path"
+    path_match_strategy: "exact"
+  transcription:
+    source_column: "text"
+    dtype: "string"
+  utterance_id:
+    source_column: "utt_id"
+    dtype: "string"
+    optional: true
+  speaker_id:
+    source_column: "speaker"
+    dtype: "category"
+    optional: true
+  start_time:
+    source_column: "start_time"
+    dtype: "float"
+    optional: true
+  end_time:
+    source_column: "end_time"
+    dtype: "float"
+    optional: true
+  audio_duration_sec:
+    source_column: "audio.duration_sec"
+    dtype: "float"
+    optional: true
+  sample_rate_hz:
+    source_column: "audio.sample_rate_hz"
+    dtype: "int"
+    optional: true
+  gender:
+    source_column: "metadata.speaker2_gender"
+    dtype: "category"
+    optional: true
+  topic:
+    source_column: "metadata.user_topic"
+    dtype: "string"
+    optional: true
+  validation_id:
+    source_column: "metadata.val_id"
+    dtype: "string"
+    optional: true
