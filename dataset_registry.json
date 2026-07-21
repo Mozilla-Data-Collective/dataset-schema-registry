@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T07:02:20.571751+00:00",
-  "total": 943,
+  "updated_at": "2026-07-21T06:02:17.182995+00:00",
+  "total": 957,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -6249,9 +6249,9 @@
     {
       "id": "cmr468dhn00lvmm07a22jwgh5",
       "url": "https://mozilladatacollective.com/datasets/cmr468dhn00lvmm07a22jwgh5",
-      "lastmod": "2026-07-03T00:04:26.316Z",
+      "lastmod": "2026-07-20T23:51:22.815Z",
       "name": "Common Voice Scripted Speech 26.0 - Rioplatense Spanish",
-      "slug": "common-voice-scripted-speech-26-0-riopla-1ce0279e"
+      "slug": "common-voice-scripted-speech-26-0-riopla-0a258d97"
     },
     {
       "id": "cmr4tclcu01anmm075pvvntbz",
@@ -6602,6 +6602,104 @@
       "lastmod": "2026-07-17T15:17:26.365Z",
       "name": "🚧 Burmese Speech Collection 🚧",
       "slug": "burmese-speech-collection-ca9bd804"
+    },
+    {
+      "id": "cmrt6zbgx000vmm07hfuefigk",
+      "url": "https://mozilladatacollective.com/datasets/cmrt6zbgx000vmm07hfuefigk",
+      "lastmod": "2026-07-20T12:19:37.809Z",
+      "name": "Common Voice Scripted Speech 26.0 - American English (Male)",
+      "slug": "common-voice-scripted-speech-26-0-americ-34c3c133"
+    },
+    {
+      "id": "cmrt6zrob000zmm07yqwjlpwi",
+      "url": "https://mozilladatacollective.com/datasets/cmrt6zrob000zmm07yqwjlpwi",
+      "lastmod": "2026-07-20T12:19:58.812Z",
+      "name": "Common Voice Scripted Speech 26.0 - British English",
+      "slug": "common-voice-scripted-speech-26-0-britis-0fe481c3"
+    },
+    {
+      "id": "cmrt70j4z001qmm07nvfsmgmr",
+      "url": "https://mozilladatacollective.com/datasets/cmrt70j4z001qmm07nvfsmgmr",
+      "lastmod": "2026-07-20T12:20:34.403Z",
+      "name": "Common Voice Scripted Speech 26.0 - American English (Female)",
+      "slug": "common-voice-scripted-speech-26-0-americ-079c33be"
+    },
+    {
+      "id": "cmrt70sar001umm07jwxzhw89",
+      "url": "https://mozilladatacollective.com/datasets/cmrt70sar001umm07jwxzhw89",
+      "lastmod": "2026-07-20T12:20:46.275Z",
+      "name": "Common Voice Scripted Speech 26.0 - South Asian English (India, Pakistan, Sri Lanka)",
+      "slug": "common-voice-scripted-speech-26-0-south-9d6029b6"
+    },
+    {
+      "id": "cmrt710620013mm071t45y6wb",
+      "url": "https://mozilladatacollective.com/datasets/cmrt710620013mm071t45y6wb",
+      "lastmod": "2026-07-20T12:20:56.474Z",
+      "name": "Common Voice Scripted Speech 26.0 - Australian English",
+      "slug": "common-voice-scripted-speech-26-0-austra-c6a1c1a1"
+    },
+    {
+      "id": "cmrt717ci0017mm075ewqaw6v",
+      "url": "https://mozilladatacollective.com/datasets/cmrt717ci0017mm075ewqaw6v",
+      "lastmod": "2026-07-20T12:21:05.778Z",
+      "name": "Common Voice Scripted Speech 26.0 - Scottish English",
+      "slug": "common-voice-scripted-speech-26-0-scotti-2e8071cc"
+    },
+    {
+      "id": "cmrt71fck001bmm07cj9h312i",
+      "url": "https://mozilladatacollective.com/datasets/cmrt71fck001bmm07cj9h312i",
+      "lastmod": "2026-07-20T12:21:16.148Z",
+      "name": "Common Voice Scripted Speech 26.0 - Irish English",
+      "slug": "common-voice-scripted-speech-26-0-irish-857fe3eb"
+    },
+    {
+      "id": "cmrt71n6q001fmm07u64adwuv",
+      "url": "https://mozilladatacollective.com/datasets/cmrt71n6q001fmm07u64adwuv",
+      "lastmod": "2026-07-20T12:21:26.306Z",
+      "name": "Common Voice Scripted Speech 26.0 - Malaysian English",
+      "slug": "common-voice-scripted-speech-26-0-malays-80cb1833"
+    },
+    {
+      "id": "cmrtageft004nmm07ch3xg8up",
+      "url": "https://mozilladatacollective.com/datasets/cmrtageft004nmm07ch3xg8up",
+      "lastmod": "2026-07-20T13:56:53.657Z",
+      "name": "Uzbek Proverbs Text Corpus",
+      "slug": "uzbek-proverbs-text-corpus-ee50bb3c"
+    },
+    {
+      "id": "cmrtddnr3007mmm07hkyqfvjs",
+      "url": "https://mozilladatacollective.com/datasets/cmrtddnr3007mmm07hkyqfvjs",
+      "lastmod": "2026-07-20T15:18:44.607Z",
+      "name": "Adjuntos Solicitudes Información — Ciudad de México",
+      "slug": "adjuntos-solicitudes-informaci-n-ciudad-e4df6fff"
+    },
+    {
+      "id": "cmrtddqrp007umm07wt2d8dxo",
+      "url": "https://mozilladatacollective.com/datasets/cmrtddqrp007umm07wt2d8dxo",
+      "lastmod": "2026-07-20T15:18:48.518Z",
+      "name": "Adjuntos Solicitudes Información — Guanajuato",
+      "slug": "adjuntos-solicitudes-informaci-n-guanaju-dc0bbdf1"
+    },
+    {
+      "id": "cmrtddtl1007ymm07miqkb7wh",
+      "url": "https://mozilladatacollective.com/datasets/cmrtddtl1007ymm07miqkb7wh",
+      "lastmod": "2026-07-20T15:18:52.166Z",
+      "name": "Adjuntos Solicitudes Información — Jalisco",
+      "slug": "adjuntos-solicitudes-informaci-n-jalisco-04715813"
+    },
+    {
+      "id": "cmrtddwco0082mm07blij2hgp",
+      "url": "https://mozilladatacollective.com/datasets/cmrtddwco0082mm07blij2hgp",
+      "lastmod": "2026-07-20T15:18:55.752Z",
+      "name": "Adjuntos Solicitudes Información — Nuevo León",
+      "slug": "adjuntos-solicitudes-informaci-n-nuevo-l-77eadde5"
+    },
+    {
+      "id": "cmrtehynr008qmm07wfw4q0ec",
+      "url": "https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec",
+      "lastmod": "2026-07-20T15:50:04.984Z",
+      "name": "🚧 Hazargi Corpus for Speech Recognition 🚧",
+      "slug": "hazargi-corpus-for-speech-recognition-c5f30551"
     }
   ]
 }
