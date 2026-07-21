@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-20  
-**Total datasets in sitemap:** 943  
+**Last updated:** 2026-07-21  
+**Total datasets in sitemap:** 957  
 **Schemas registered:** 409 ✅  
-**Schemas missing:** 534 ❌  
+**Schemas missing:** 548 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -907,7 +907,7 @@ schema in this registry and which ones are still missing.
 | `cmr2cf2x202uins07a4pe7m66` | Common Voice Scripted Speech 26.0 - Caribbean Spanish | `common-voice-scripted-speech-26-0-caribb-6be83cea` | [link](https://mozilladatacollective.com/datasets/cmr2cf2x202uins07a4pe7m66) | ❌ |
 | `cmr3jjevj0041nt07vb3sm35d` | Common Voice Scripted Speech 26.0 - Mexican Spanish (Male) | `common-voice-scripted-speech-26-0-mexica-de38d052` | [link](https://mozilladatacollective.com/datasets/cmr3jjevj0041nt07vb3sm35d) | ❌ |
 | `cmr3zunmk00flnt07p7ai9p43` | Common Voice Scripted Speech 26.0 - Mexican Spanish (Female) | `common-voice-scripted-speech-26-0-mexica-6e26de66` | [link](https://mozilladatacollective.com/datasets/cmr3zunmk00flnt07p7ai9p43) | ❌ |
-| `cmr468dhn00lvmm07a22jwgh5` | Common Voice Scripted Speech 26.0 - Rioplatense Spanish | `common-voice-scripted-speech-26-0-riopla-1ce0279e` | [link](https://mozilladatacollective.com/datasets/cmr468dhn00lvmm07a22jwgh5) | ❌ |
+| `cmr468dhn00lvmm07a22jwgh5` | Common Voice Scripted Speech 26.0 - Rioplatense Spanish | `common-voice-scripted-speech-26-0-riopla-0a258d97` | [link](https://mozilladatacollective.com/datasets/cmr468dhn00lvmm07a22jwgh5) | ❌ |
 | `cmr4tclcu01anmm075pvvntbz` | BOUQuET | `bouquet-bad7fc0e` | [link](https://mozilladatacollective.com/datasets/cmr4tclcu01anmm075pvvntbz) | ❌ |
 | `cmr54pbgw01omnt07h9vzqrlb` | Sindhi Corpus | `sindhi-corpus-78685d68` | [link](https://mozilladatacollective.com/datasets/cmr54pbgw01omnt07h9vzqrlb) | ❌ |
 | `cmr6i7wxv034imm07yf2up2hd` | TTS Sundanese - Sunda Priangan Timur (SPRINT) | `tts-sundanese-sunda-priangan-timur-sprin-1b121fbd` | [link](https://mozilladatacollective.com/datasets/cmr6i7wxv034imm07yf2up2hd) | ❌ |
@@ -958,3 +958,17 @@ schema in this registry and which ones are still missing.
 | `cmroyc7m900wqo007okjs2jp3` | 🚧 Multi-Subject Human Pose & Facial Expression Dataset (Studio, 4K) 🚧 | `multi-subject-human-pose-facial-expressi-a86a7482` | [link](https://mozilladatacollective.com/datasets/cmroyc7m900wqo007okjs2jp3) | ❌ |
 | `cmrp1sdsj00zemm0822j75968` | 🚧 Singaporean Tamil Speech Collection 🚧 | `singaporean-tamil-speech-collection-a514ae3b` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ❌ |
 | `cmrp30fdp0120o007a69s3nfc` | 🚧 Burmese Speech Collection 🚧 | `burmese-speech-collection-ca9bd804` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ❌ |
+| `cmrt6zbgx000vmm07hfuefigk` | Common Voice Scripted Speech 26.0 - American English (Male) | `common-voice-scripted-speech-26-0-americ-34c3c133` | [link](https://mozilladatacollective.com/datasets/cmrt6zbgx000vmm07hfuefigk) | ❌ |
+| `cmrt6zrob000zmm07yqwjlpwi` | Common Voice Scripted Speech 26.0 - British English | `common-voice-scripted-speech-26-0-britis-0fe481c3` | [link](https://mozilladatacollective.com/datasets/cmrt6zrob000zmm07yqwjlpwi) | ❌ |
+| `cmrt70j4z001qmm07nvfsmgmr` | Common Voice Scripted Speech 26.0 - American English (Female) | `common-voice-scripted-speech-26-0-americ-079c33be` | [link](https://mozilladatacollective.com/datasets/cmrt70j4z001qmm07nvfsmgmr) | ❌ |
+| `cmrt70sar001umm07jwxzhw89` | Common Voice Scripted Speech 26.0 - South Asian English (India, Pakistan, Sri Lanka) | `common-voice-scripted-speech-26-0-south-9d6029b6` | [link](https://mozilladatacollective.com/datasets/cmrt70sar001umm07jwxzhw89) | ❌ |
+| `cmrt710620013mm071t45y6wb` | Common Voice Scripted Speech 26.0 - Australian English | `common-voice-scripted-speech-26-0-austra-c6a1c1a1` | [link](https://mozilladatacollective.com/datasets/cmrt710620013mm071t45y6wb) | ❌ |
+| `cmrt717ci0017mm075ewqaw6v` | Common Voice Scripted Speech 26.0 - Scottish English | `common-voice-scripted-speech-26-0-scotti-2e8071cc` | [link](https://mozilladatacollective.com/datasets/cmrt717ci0017mm075ewqaw6v) | ❌ |
+| `cmrt71fck001bmm07cj9h312i` | Common Voice Scripted Speech 26.0 - Irish English | `common-voice-scripted-speech-26-0-irish-857fe3eb` | [link](https://mozilladatacollective.com/datasets/cmrt71fck001bmm07cj9h312i) | ❌ |
+| `cmrt71n6q001fmm07u64adwuv` | Common Voice Scripted Speech 26.0 - Malaysian English | `common-voice-scripted-speech-26-0-malays-80cb1833` | [link](https://mozilladatacollective.com/datasets/cmrt71n6q001fmm07u64adwuv) | ❌ |
+| `cmrtageft004nmm07ch3xg8up` | Uzbek Proverbs Text Corpus | `uzbek-proverbs-text-corpus-ee50bb3c` | [link](https://mozilladatacollective.com/datasets/cmrtageft004nmm07ch3xg8up) | ❌ |
+| `cmrtddnr3007mmm07hkyqfvjs` | Adjuntos Solicitudes Información — Ciudad de México | `adjuntos-solicitudes-informaci-n-ciudad-e4df6fff` | [link](https://mozilladatacollective.com/datasets/cmrtddnr3007mmm07hkyqfvjs) | ❌ |
+| `cmrtddqrp007umm07wt2d8dxo` | Adjuntos Solicitudes Información — Guanajuato | `adjuntos-solicitudes-informaci-n-guanaju-dc0bbdf1` | [link](https://mozilladatacollective.com/datasets/cmrtddqrp007umm07wt2d8dxo) | ❌ |
+| `cmrtddtl1007ymm07miqkb7wh` | Adjuntos Solicitudes Información — Jalisco | `adjuntos-solicitudes-informaci-n-jalisco-04715813` | [link](https://mozilladatacollective.com/datasets/cmrtddtl1007ymm07miqkb7wh) | ❌ |
+| `cmrtddwco0082mm07blij2hgp` | Adjuntos Solicitudes Información — Nuevo León | `adjuntos-solicitudes-informaci-n-nuevo-l-77eadde5` | [link](https://mozilladatacollective.com/datasets/cmrtddwco0082mm07blij2hgp) | ❌ |
+| `cmrtehynr008qmm07wfw4q0ec` | 🚧 Hazargi Corpus for Speech Recognition 🚧 | `hazargi-corpus-for-speech-recognition-c5f30551` | [link](https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec) | ❌ |
