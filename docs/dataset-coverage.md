@@ -10,8 +10,8 @@ schema in this registry and which ones are still missing.
 
 **Last updated:** 2026-07-21  
 **Total datasets in sitemap:** 957  
-**Schemas registered:** 409 ✅  
-**Schemas missing:** 548 ❌  
+**Schemas registered:** 413 ✅  
+**Schemas missing:** 544 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -916,7 +916,7 @@ schema in this registry and which ones are still missing.
 | `cmrbacjej00lfmm07miqrz23s` | Tupuri-Bango_TTS-Dataset (female voice) | `tupuri-bango-tts-dataset-female-voice-1f09dd2c` | [link](https://mozilladatacollective.com/datasets/cmrbacjej00lfmm07miqrz23s) | ❌ |
 | `cmrbad2ho00o5nz07t3vjmdnd` | Adjuntos Solicitudes Información — Aguascalientes | `adjuntos-solicitudes-informaci-n-aguasca-fa5dc9c0` | [link](https://mozilladatacollective.com/datasets/cmrbad2ho00o5nz07t3vjmdnd) | ❌ |
 | `cmrdfjave008uo307ett7d4km` | Medical Domain Mexican Spanish Speech Corpus (MEDMEX) | `medical-domain-mexican-spanish-speech-co-b4770c2e` | [link](https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km) | ❌ |
-| `cmrdfk4ao007po1070z5f4kem` | Conversational Speech in Gujarati in the Medical Domain | `conversational-speech-in-gujarati-in-the-f75484ee` | [link](https://mozilladatacollective.com/datasets/cmrdfk4ao007po1070z5f4kem) | ❌ |
+| `cmrdfk4ao007po1070z5f4kem` | Conversational Speech in Gujarati in the Medical Domain | `conversational-speech-in-gujarati-in-the-f75484ee` | [link](https://mozilladatacollective.com/datasets/cmrdfk4ao007po1070z5f4kem) | ✅ |
 | `cmrftle0s01fsnv0755jw602i` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-56485668` | [link](https://mozilladatacollective.com/datasets/cmrftle0s01fsnv0755jw602i) | ❌ |
 | `cmrkqy18t006imm074waw5jbg` | Kannada Text Corpus | `kannada-text-corpus-b95eb8c6` | [link](https://mozilladatacollective.com/datasets/cmrkqy18t006imm074waw5jbg) | ❌ |
 | `cmrkuhnzh0001mp07xtyjzld0` | Adjuntos Solicitudes Información — Estado de México | `adjuntos-solicitudes-informaci-n-estado-197b55d6` | [link](https://mozilladatacollective.com/datasets/cmrkuhnzh0001mp07xtyjzld0) | ❌ |
@@ -948,11 +948,11 @@ schema in this registry and which ones are still missing.
 | `cmrm1gl0t00x9mp075i3giasa` | Adjuntos Solicitudes Información — Michoacán | `adjuntos-solicitudes-informaci-n-michoac-b4edcb79` | [link](https://mozilladatacollective.com/datasets/cmrm1gl0t00x9mp075i3giasa) | ❌ |
 | `cmrm1gtso00xdmp074tkb66n0` | Adjuntos Solicitudes Información — Morelos | `adjuntos-solicitudes-informaci-n-morelos-2dbe7e51` | [link](https://mozilladatacollective.com/datasets/cmrm1gtso00xdmp074tkb66n0) | ❌ |
 | `cmrm1h4kl00xhmp07cx25h9r2` | Adjuntos Solicitudes Información — Federación — EPN | `adjuntos-solicitudes-informaci-n-federac-5d004e69` | [link](https://mozilladatacollective.com/datasets/cmrm1h4kl00xhmp07cx25h9r2) | ❌ |
-| `cmrm237q100yfmp07v9kl91i5` | Conversational Speech in Manipuri in the Medical Domain | `conversational-speech-in-manipuri-in-the-b6df6f16` | [link](https://mozilladatacollective.com/datasets/cmrm237q100yfmp07v9kl91i5) | ❌ |
+| `cmrm237q100yfmp07v9kl91i5` | Conversational Speech in Manipuri in the Medical Domain | `conversational-speech-in-manipuri-in-the-b6df6f16` | [link](https://mozilladatacollective.com/datasets/cmrm237q100yfmp07v9kl91i5) | ✅ |
 | `cmrm59m4o010fmp07mm8uzfye` | Adjuntos Solicitudes Información — Federación — AMLO 2023–2025 | `adjuntos-solicitudes-informaci-n-federac-147768de` | [link](https://mozilladatacollective.com/datasets/cmrm59m4o010fmp07mm8uzfye) | ❌ |
 | `cmrm9cjx0015fmp07nxs2ad35` | Adjuntos Solicitudes Información — Federación — AMLO 2019–2022 | `adjuntos-solicitudes-informaci-n-federac-c5a10587` | [link](https://mozilladatacollective.com/datasets/cmrm9cjx0015fmp07nxs2ad35) | ❌ |
-| `cmrmkmodd01h0nu07rkbq6yu9` | Conversational Speech in Manipuri in the Finance Domain | `conversational-speech-in-manipuri-in-the-1824c217` | [link](https://mozilladatacollective.com/datasets/cmrmkmodd01h0nu07rkbq6yu9) | ❌ |
-| `cmrmkr3nh01h4nu07gqsvfckc` | Conversational Speech in Gujarati in the Finance Domain | `conversational-speech-in-gujarati-in-the-97e4d522` | [link](https://mozilladatacollective.com/datasets/cmrmkr3nh01h4nu07gqsvfckc) | ❌ |
+| `cmrmkmodd01h0nu07rkbq6yu9` | Conversational Speech in Manipuri in the Finance Domain | `conversational-speech-in-manipuri-in-the-1824c217` | [link](https://mozilladatacollective.com/datasets/cmrmkmodd01h0nu07rkbq6yu9) | ✅ |
+| `cmrmkr3nh01h4nu07gqsvfckc` | Conversational Speech in Gujarati in the Finance Domain | `conversational-speech-in-gujarati-in-the-97e4d522` | [link](https://mozilladatacollective.com/datasets/cmrmkr3nh01h4nu07gqsvfckc) | ✅ |
 | `cmrnmk9ux000hmc07llq1targ` | Adjuntos Solicitudes Información — Federación — VFQ | `adjuntos-solicitudes-informaci-n-federac-966df728` | [link](https://mozilladatacollective.com/datasets/cmrnmk9ux000hmc07llq1targ) | ❌ |
 | `cmroyatmb00wko007rt1g1hr2` | SKAD Ladino Parallel Corpus | `skad-ladino-parallel-corpus-dafb16b2` | [link](https://mozilladatacollective.com/datasets/cmroyatmb00wko007rt1g1hr2) | ❌ |
 | `cmroyc7m900wqo007okjs2jp3` | 🚧 Multi-Subject Human Pose & Facial Expression Dataset (Studio, 4K) 🚧 | `multi-subject-human-pose-facial-expressi-a86a7482` | [link](https://mozilladatacollective.com/datasets/cmroyc7m900wqo007okjs2jp3) | ❌ |
