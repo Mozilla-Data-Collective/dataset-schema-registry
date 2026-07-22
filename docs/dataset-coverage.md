@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-21  
-**Total datasets in sitemap:** 957  
+**Last updated:** 2026-07-22  
+**Total datasets in sitemap:** 974  
 **Schemas registered:** 413 ✅  
-**Schemas missing:** 544 ❌  
+**Schemas missing:** 561 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -138,7 +138,7 @@ schema in this registry and which ones are still missing.
 | `cml9h5vgc01bxmn075sjeftek` | Khmer ASR Cultural Dataset (V2) | `khmer-asr-cultural-dataset-v2-a5bd8176` | [link](https://mozilladatacollective.com/datasets/cml9h5vgc01bxmn075sjeftek) | ❌ |
 | `cml9hmuis017yo407k0p4i0t4` | Betawi TTS of Cultural Language (BEKAL) | `betawi-tts-of-cultural-language-bekal-1e3ae3f6` | [link](https://mozilladatacollective.com/datasets/cml9hmuis017yo407k0p4i0t4) | ❌ |
 | `cml9i39tx018so40750re64v6` | TTS Sasak Language | `tts-sasak-language-cee7a620` | [link](https://mozilladatacollective.com/datasets/cml9i39tx018so40750re64v6) | ❌ |
-| `cml9iik7d01efmn07miuf8yof` | Bulu-TTS-Dataset 1.0 | `bulu-tts-dataset-1-0-0aed953e` | [link](https://mozilladatacollective.com/datasets/cml9iik7d01efmn07miuf8yof) | ❌ |
+| `cml9iik7d01efmn07miuf8yof` | Bulu-TTS-Dataset 1.0 | `bulu-tts-dataset-1-0-6b9ee29d` | [link](https://mozilladatacollective.com/datasets/cml9iik7d01efmn07miuf8yof) | ❌ |
 | `cmlcqxjwl01t8mm07wz7c08bz` | Zacatlán Tepetzintla Nahuatl Audio | `zacatl-n-tepetzintla-nahuatl-audio-f7c7ae62` | [link](https://mozilladatacollective.com/datasets/cmlcqxjwl01t8mm07wz7c08bz) | ❌ |
 | `cmlct0jzu01s4nv07023lv3m3` | Zacatlán Tepetzintla Nahuatl Transcriptions | `zacatl-n-tepetzintla-nahuatl-transcripti-6fdb6e0a` | [link](https://mozilladatacollective.com/datasets/cmlct0jzu01s4nv07023lv3m3) | ❌ |
 | `cmlgm5a94008kny07nz2intus` | Jember Javanese Spontaneous Speech Corpus | `jember-javanese-spontaneous-speech-corpu-d43a201a` | [link](https://mozilladatacollective.com/datasets/cmlgm5a94008kny07nz2intus) | ❌ |
@@ -223,7 +223,7 @@ schema in this registry and which ones are still missing.
 | `cmnhgmkgg00wimh07wc0v3s49` | RFE/RL Persian News Text Corpus | `rfe-rl-persian-news-text-corpus-c5838e9b` | [link](https://mozilladatacollective.com/datasets/cmnhgmkgg00wimh07wc0v3s49) | ❌ |
 | `cmnhhi0by00zknn07edrnd82e` | Chuvash TTS | `chuvash-tts-c8d599ba` | [link](https://mozilladatacollective.com/datasets/cmnhhi0by00zknn07edrnd82e) | ❌ |
 | `cmnhi28fc00xpmh07fwall3wn` | Territórios Digitais | `territ-rios-digitais-ee5b55d2` | [link](https://mozilladatacollective.com/datasets/cmnhi28fc00xpmh07fwall3wn) | ❌ |
-| `cmnhjbnjp0115mh07kiha0rei` | Bamun-TTS-Dataset | `bamun-tts-dataset-858de881` | [link](https://mozilladatacollective.com/datasets/cmnhjbnjp0115mh07kiha0rei) | ❌ |
+| `cmnhjbnjp0115mh07kiha0rei` | Bamun-TTS-Dataset (male voice) | `bamun-tts-dataset-male-voice-ec8d8b52` | [link](https://mozilladatacollective.com/datasets/cmnhjbnjp0115mh07kiha0rei) | ❌ |
 | `cmnmy7tmf02k6ml07m7vvcxzr` | ViQua² — Visual Question-answering about Quantities | `viqua-visual-question-answering-about-qu-3e8deb4e` | [link](https://mozilladatacollective.com/datasets/cmnmy7tmf02k6ml07m7vvcxzr) | ❌ |
 | `cmnmyptri02glo107p5cx5por` | Tamil Time Aligned Speech Dataset | `tamil-time-aligned-speech-dataset-7d228a5b` | [link](https://mozilladatacollective.com/datasets/cmnmyptri02glo107p5cx5por) | ❌ |
 | `cmnopto3q00t0mf07v2dtc0ej` | Hausa-TTS-Dataset | `hausa-tts-dataset-b69efbb0` | [link](https://mozilladatacollective.com/datasets/cmnopto3q00t0mf07v2dtc0ej) | ❌ |
@@ -446,7 +446,7 @@ schema in this registry and which ones are still missing.
 | `cmq83m9h00145mk07g2kanq2s` | Sample Dagbani-TTS-Dataset | `sample-dagbani-tts-dataset-50430a6a` | [link](https://mozilladatacollective.com/datasets/cmq83m9h00145mk07g2kanq2s) | ❌ |
 | `cmq8fbsco01i5l207zvaorg0m` | AIRI AI4TALK Khakas-Russian Translation | `airi-ai4talk-khakas-russian-translation-1be0c384` | [link](https://mozilladatacollective.com/datasets/cmq8fbsco01i5l207zvaorg0m) | ❌ |
 | `cmq9hfevy02j3l207h80wyon8` | AIRI AI4TALK Meadow Mari ASR | `airi-ai4talk-meadow-mari-asr-b00cb00d` | [link](https://mozilladatacollective.com/datasets/cmq9hfevy02j3l207h80wyon8) | ❌ |
-| `cmq9hqu3k02jbl2074u0yvk2i` | Bulu-ASR-Dataset | `bulu-asr-dataset-3dd205aa` | [link](https://mozilladatacollective.com/datasets/cmq9hqu3k02jbl2074u0yvk2i) | ❌ |
+| `cmq9hqu3k02jbl2074u0yvk2i` | Bulu-ASR-Dataset | `bulu-asr-dataset-8aff566d` | [link](https://mozilladatacollective.com/datasets/cmq9hqu3k02jbl2074u0yvk2i) | ❌ |
 | `cmq9htcx402gbmk07g00d1u67` | Batanga-ALCAM-MultimodalDataset | `batanga-alcam-multimodaldataset-ed1009ee` | [link](https://mozilladatacollective.com/datasets/cmq9htcx402gbmk07g00d1u67) | ❌ |
 | `cmq9hwfbr02gfmk07m1jgvwje` | Basaa-ASR-Dataset | `basaa-asr-dataset-dd3e2174` | [link](https://mozilladatacollective.com/datasets/cmq9hwfbr02gfmk07m1jgvwje) | ❌ |
 | `cmq9hxeod02gjmk07d9pq7jau` | Ewondo-ASR-Dataset | `ewondo-asr-dataset-a2d44d9f` | [link](https://mozilladatacollective.com/datasets/cmq9hxeod02gjmk07d9pq7jau) | ❌ |
@@ -972,3 +972,20 @@ schema in this registry and which ones are still missing.
 | `cmrtddtl1007ymm07miqkb7wh` | Adjuntos Solicitudes Información — Jalisco | `adjuntos-solicitudes-informaci-n-jalisco-04715813` | [link](https://mozilladatacollective.com/datasets/cmrtddtl1007ymm07miqkb7wh) | ❌ |
 | `cmrtddwco0082mm07blij2hgp` | Adjuntos Solicitudes Información — Nuevo León | `adjuntos-solicitudes-informaci-n-nuevo-l-77eadde5` | [link](https://mozilladatacollective.com/datasets/cmrtddwco0082mm07blij2hgp) | ❌ |
 | `cmrtehynr008qmm07wfw4q0ec` | 🚧 Hazargi Corpus for Speech Recognition 🚧 | `hazargi-corpus-for-speech-recognition-c5f30551` | [link](https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec) | ❌ |
+| `cmrumhinj0001md07y3huuhs5` | Common Voice Scripted Speech 26.0 - French of France | `common-voice-scripted-speech-26-0-french-33ae1060` | [link](https://mozilladatacollective.com/datasets/cmrumhinj0001md07y3huuhs5) | ❌ |
+| `cmrumhr9h0005md07ph5dkxpp` | Common Voice Scripted Speech 26.0 - Canadian French | `common-voice-scripted-speech-26-0-canadi-9e8b10de` | [link](https://mozilladatacollective.com/datasets/cmrumhr9h0005md07ph5dkxpp) | ❌ |
+| `cmrumxiu5000nmd07vuz5knqq` | 🚧 Hazargi-English Speech Translation Corpus 🚧 | `hazargi-english-speech-translation-corpu-749ccf56` | [link](https://mozilladatacollective.com/datasets/cmrumxiu5000nmd07vuz5knqq) | ❌ |
+| `cmruosers003emd075jlpfzqd` | Kazakh Proverbs Text Corpus | `kazakh-proverbs-text-corpus-764725e4` | [link](https://mozilladatacollective.com/datasets/cmruosers003emd075jlpfzqd) | ❌ |
+| `cmruvj2p300adnx073x7weuyo` | Common Voice Scripted Speech 26.0 -  Netherlands Dutch | `common-voice-scripted-speech-26-0-nether-5bc08724` | [link](https://mozilladatacollective.com/datasets/cmruvj2p300adnx073x7weuyo) | ❌ |
+| `cmruvk68500awmd07sd3l6lqe` | Common Voice Scripted Speech 26.0 -  Flemish Dutch | `common-voice-scripted-speech-26-0-flemis-5c0dea50` | [link](https://mozilladatacollective.com/datasets/cmruvk68500awmd07sd3l6lqe) | ❌ |
+| `cmruvkf8p00ajnx07rfn0ecv9` | Common Voice Scripted Speech 26.0 -  Netherlands Dutch (Male) | `common-voice-scripted-speech-26-0-nether-223995ee` | [link](https://mozilladatacollective.com/datasets/cmruvkf8p00ajnx07rfn0ecv9) | ❌ |
+| `cmruvkoaj00b0md07fjxzw6x5` | Common Voice Scripted Speech 26.0 -  Netherlands Dutch (Female) | `common-voice-scripted-speech-26-0-nether-9580427b` | [link](https://mozilladatacollective.com/datasets/cmruvkoaj00b0md07fjxzw6x5) | ❌ |
+| `cmruvl28e00b4md078sjgbjo9` | Babute-Njore_ALCAM-MultimodalDataset | `babute-njore-alcam-multimodaldataset-d7a6d794` | [link](https://mozilladatacollective.com/datasets/cmruvl28e00b4md078sjgbjo9) | ❌ |
+| `cmruwsbag00c8md07lk1n7i1e` | Common Voice Scripted Speech 26.0 -  Beijing Chinese | `common-voice-scripted-speech-26-0-beijin-cb15d5ff` | [link](https://mozilladatacollective.com/datasets/cmruwsbag00c8md07lk1n7i1e) | ❌ |
+| `cmruwsjti00ccmd07d0jmdzyh` | Common Voice Scripted Speech 26.0 -  Wu Chinese | `common-voice-scripted-speech-26-0-wu-chi-b4976380` | [link](https://mozilladatacollective.com/datasets/cmruwsjti00ccmd07d0jmdzyh) | ❌ |
+| `cmruxo9ew00d3md07veethj6k` | Common Voice Scripted Speech 26.0 -  Brazilian Portuguese | `common-voice-scripted-speech-26-0-brazil-2e99282f` | [link](https://mozilladatacollective.com/datasets/cmruxo9ew00d3md07veethj6k) | ❌ |
+| `cmrv0f62m001wnu077iwrjbbo` | Common Voice Scripted Speech 26.0 -  Arabic (Male) | `common-voice-scripted-speech-26-0-arabic-c6f8bb40` | [link](https://mozilladatacollective.com/datasets/cmrv0f62m001wnu077iwrjbbo) | ❌ |
+| `cmrv0fgp00022nu077cdkkcny` | Common Voice Scripted Speech 26.0 -  Arabic (Female) | `common-voice-scripted-speech-26-0-arabic-780893c9` | [link](https://mozilladatacollective.com/datasets/cmrv0fgp00022nu077cdkkcny) | ❌ |
+| `cmrv275t1004lnu07vtchcapw` | Badjia-ALCAM-MultimodalDataset | `badjia-alcam-multimodaldataset-b8af71ca` | [link](https://mozilladatacollective.com/datasets/cmrv275t1004lnu07vtchcapw) | ❌ |
+| `cmrv27qeq004pnu07w5uzvy6l` | 🚧 Hazargi-English Parallel Text Corpus 🚧  | `hazargi-english-parallel-text-corpus-e0dfb7fb` | [link](https://mozilladatacollective.com/datasets/cmrv27qeq004pnu07w5uzvy6l) | ❌ |
+| `cmrv27zhy004xnu07lirnoi3g` | 🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧 | `single-speaker-urdu-tts-dataset-female-s-909a5049` | [link](https://mozilladatacollective.com/datasets/cmrv27zhy004xnu07lirnoi3g) | ❌ |
