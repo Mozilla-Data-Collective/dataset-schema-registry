@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T06:50:05.757196+00:00",
-  "total": 957,
+  "updated_at": "2026-07-22T06:01:10.775358+00:00",
+  "total": 974,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -866,9 +866,9 @@
     {
       "id": "cml9iik7d01efmn07miuf8yof",
       "url": "https://mozilladatacollective.com/datasets/cml9iik7d01efmn07miuf8yof",
-      "lastmod": "2026-04-16T14:01:59.748Z",
+      "lastmod": "2026-07-21T17:50:53.734Z",
       "name": "Bulu-TTS-Dataset 1.0",
-      "slug": "bulu-tts-dataset-1-0-0aed953e"
+      "slug": "bulu-tts-dataset-1-0-6b9ee29d"
     },
     {
       "id": "cmlcqxjwl01t8mm07wz7c08bz",
@@ -1461,9 +1461,9 @@
     {
       "id": "cmnhjbnjp0115mh07kiha0rei",
       "url": "https://mozilladatacollective.com/datasets/cmnhjbnjp0115mh07kiha0rei",
-      "lastmod": "2026-05-10T16:38:37.546Z",
-      "name": "Bamun-TTS-Dataset",
-      "slug": "bamun-tts-dataset-858de881"
+      "lastmod": "2026-07-21T22:32:13.649Z",
+      "name": "Bamun-TTS-Dataset (male voice)",
+      "slug": "bamun-tts-dataset-male-voice-ec8d8b52"
     },
     {
       "id": "cmnmy7tmf02k6ml07m7vvcxzr",
@@ -3022,9 +3022,9 @@
     {
       "id": "cmq9hqu3k02jbl2074u0yvk2i",
       "url": "https://mozilladatacollective.com/datasets/cmq9hqu3k02jbl2074u0yvk2i",
-      "lastmod": "2026-06-11T12:45:51.968Z",
+      "lastmod": "2026-07-21T17:50:27.992Z",
       "name": "Bulu-ASR-Dataset",
-      "slug": "bulu-asr-dataset-3dd205aa"
+      "slug": "bulu-asr-dataset-8aff566d"
     },
     {
       "id": "cmq9htcx402gbmk07g00d1u67",
@@ -6700,6 +6700,125 @@
       "lastmod": "2026-07-20T15:50:04.984Z",
       "name": "🚧 Hazargi Corpus for Speech Recognition 🚧",
       "slug": "hazargi-corpus-for-speech-recognition-c5f30551"
+    },
+    {
+      "id": "cmrumhinj0001md07y3huuhs5",
+      "url": "https://mozilladatacollective.com/datasets/cmrumhinj0001md07y3huuhs5",
+      "lastmod": "2026-07-21T12:21:27.343Z",
+      "name": "Common Voice Scripted Speech 26.0 - French of France",
+      "slug": "common-voice-scripted-speech-26-0-french-33ae1060"
+    },
+    {
+      "id": "cmrumhr9h0005md07ph5dkxpp",
+      "url": "https://mozilladatacollective.com/datasets/cmrumhr9h0005md07ph5dkxpp",
+      "lastmod": "2026-07-21T12:21:38.501Z",
+      "name": "Common Voice Scripted Speech 26.0 - Canadian French",
+      "slug": "common-voice-scripted-speech-26-0-canadi-9e8b10de"
+    },
+    {
+      "id": "cmrumxiu5000nmd07vuz5knqq",
+      "url": "https://mozilladatacollective.com/datasets/cmrumxiu5000nmd07vuz5knqq",
+      "lastmod": "2026-07-21T12:34:39.449Z",
+      "name": "🚧 Hazargi-English Speech Translation Corpus 🚧",
+      "slug": "hazargi-english-speech-translation-corpu-749ccf56"
+    },
+    {
+      "id": "cmruosers003emd075jlpfzqd",
+      "url": "https://mozilladatacollective.com/datasets/cmruosers003emd075jlpfzqd",
+      "lastmod": "2026-07-21T13:25:54.760Z",
+      "name": "Kazakh Proverbs Text Corpus",
+      "slug": "kazakh-proverbs-text-corpus-764725e4"
+    },
+    {
+      "id": "cmruvj2p300adnx073x7weuyo",
+      "url": "https://mozilladatacollective.com/datasets/cmruvj2p300adnx073x7weuyo",
+      "lastmod": "2026-07-21T16:34:36.520Z",
+      "name": "Common Voice Scripted Speech 26.0 -  Netherlands Dutch",
+      "slug": "common-voice-scripted-speech-26-0-nether-5bc08724"
+    },
+    {
+      "id": "cmruvk68500awmd07sd3l6lqe",
+      "url": "https://mozilladatacollective.com/datasets/cmruvk68500awmd07sd3l6lqe",
+      "lastmod": "2026-07-21T16:35:27.749Z",
+      "name": "Common Voice Scripted Speech 26.0 -  Flemish Dutch",
+      "slug": "common-voice-scripted-speech-26-0-flemis-5c0dea50"
+    },
+    {
+      "id": "cmruvkf8p00ajnx07rfn0ecv9",
+      "url": "https://mozilladatacollective.com/datasets/cmruvkf8p00ajnx07rfn0ecv9",
+      "lastmod": "2026-07-21T18:47:14.088Z",
+      "name": "Common Voice Scripted Speech 26.0 -  Netherlands Dutch (Male)",
+      "slug": "common-voice-scripted-speech-26-0-nether-223995ee"
+    },
+    {
+      "id": "cmruvkoaj00b0md07fjxzw6x5",
+      "url": "https://mozilladatacollective.com/datasets/cmruvkoaj00b0md07fjxzw6x5",
+      "lastmod": "2026-07-21T18:46:40.884Z",
+      "name": "Common Voice Scripted Speech 26.0 -  Netherlands Dutch (Female)",
+      "slug": "common-voice-scripted-speech-26-0-nether-9580427b"
+    },
+    {
+      "id": "cmruvl28e00b4md078sjgbjo9",
+      "url": "https://mozilladatacollective.com/datasets/cmruvl28e00b4md078sjgbjo9",
+      "lastmod": "2026-07-21T16:36:09.230Z",
+      "name": "Babute-Njore_ALCAM-MultimodalDataset",
+      "slug": "babute-njore-alcam-multimodaldataset-d7a6d794"
+    },
+    {
+      "id": "cmruwsbag00c8md07lk1n7i1e",
+      "url": "https://mozilladatacollective.com/datasets/cmruwsbag00c8md07lk1n7i1e",
+      "lastmod": "2026-07-21T17:09:47.176Z",
+      "name": "Common Voice Scripted Speech 26.0 -  Beijing Chinese",
+      "slug": "common-voice-scripted-speech-26-0-beijin-cb15d5ff"
+    },
+    {
+      "id": "cmruwsjti00ccmd07d0jmdzyh",
+      "url": "https://mozilladatacollective.com/datasets/cmruwsjti00ccmd07d0jmdzyh",
+      "lastmod": "2026-07-21T17:09:58.230Z",
+      "name": "Common Voice Scripted Speech 26.0 -  Wu Chinese",
+      "slug": "common-voice-scripted-speech-26-0-wu-chi-b4976380"
+    },
+    {
+      "id": "cmruxo9ew00d3md07veethj6k",
+      "url": "https://mozilladatacollective.com/datasets/cmruxo9ew00d3md07veethj6k",
+      "lastmod": "2026-07-21T17:34:37.736Z",
+      "name": "Common Voice Scripted Speech 26.0 -  Brazilian Portuguese",
+      "slug": "common-voice-scripted-speech-26-0-brazil-2e99282f"
+    },
+    {
+      "id": "cmrv0f62m001wnu077iwrjbbo",
+      "url": "https://mozilladatacollective.com/datasets/cmrv0f62m001wnu077iwrjbbo",
+      "lastmod": "2026-07-21T18:51:32.350Z",
+      "name": "Common Voice Scripted Speech 26.0 -  Arabic (Male)",
+      "slug": "common-voice-scripted-speech-26-0-arabic-c6f8bb40"
+    },
+    {
+      "id": "cmrv0fgp00022nu077cdkkcny",
+      "url": "https://mozilladatacollective.com/datasets/cmrv0fgp00022nu077cdkkcny",
+      "lastmod": "2026-07-21T18:51:46.116Z",
+      "name": "Common Voice Scripted Speech 26.0 -  Arabic (Female)",
+      "slug": "common-voice-scripted-speech-26-0-arabic-780893c9"
+    },
+    {
+      "id": "cmrv275t1004lnu07vtchcapw",
+      "url": "https://mozilladatacollective.com/datasets/cmrv275t1004lnu07vtchcapw",
+      "lastmod": "2026-07-21T19:41:17.990Z",
+      "name": "Badjia-ALCAM-MultimodalDataset",
+      "slug": "badjia-alcam-multimodaldataset-b8af71ca"
+    },
+    {
+      "id": "cmrv27qeq004pnu07w5uzvy6l",
+      "url": "https://mozilladatacollective.com/datasets/cmrv27qeq004pnu07w5uzvy6l",
+      "lastmod": "2026-07-21T19:41:44.690Z",
+      "name": "🚧 Hazargi-English Parallel Text Corpus 🚧 ",
+      "slug": "hazargi-english-parallel-text-corpus-e0dfb7fb"
+    },
+    {
+      "id": "cmrv27zhy004xnu07lirnoi3g",
+      "url": "https://mozilladatacollective.com/datasets/cmrv27zhy004xnu07lirnoi3g",
+      "lastmod": "2026-07-21T19:41:56.471Z",
+      "name": "🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧",
+      "slug": "single-speaker-urdu-tts-dataset-female-s-909a5049"
     }
   ]
 }
