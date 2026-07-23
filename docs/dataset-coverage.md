@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-22  
-**Total datasets in sitemap:** 974  
+**Last updated:** 2026-07-23  
+**Total datasets in sitemap:** 981  
 **Schemas registered:** 413 ✅  
-**Schemas missing:** 561 ❌  
+**Schemas missing:** 568 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -259,7 +259,7 @@ schema in this registry and which ones are still missing.
 | `cmnz26xn200hgnr07m1x2po5v` | RFE/RL Bulgarian News Text Corpus | `rfe-rl-bulgarian-news-text-corpus-a5900a72` | [link](https://mozilladatacollective.com/datasets/cmnz26xn200hgnr07m1x2po5v) | ❌ |
 | `cmo06ikpt00chnx07xmaj8rxe` | RFE/RL Serbian, Bosnian, and Montenegrin (Balkan) News Text Corpus | `rfe-rl-serbian-bosnian-and-montenegrin-b-0a5c7977` | [link](https://mozilladatacollective.com/datasets/cmo06ikpt00chnx07xmaj8rxe) | ❌ |
 | `cmo07ixww00ddmr07enqrrpfw` | Awal Tamazight Dataset | `awal-tamazight-dataset-acc51046` | [link](https://mozilladatacollective.com/datasets/cmo07ixww00ddmr07enqrrpfw) | ❌ |
-| `cmo09pqp300gbnx07xcl42los` | Yoruba-English Code-Switching (YECS) Corpus | `yoruba-english-code-switching-yecs-corpu-9ad16ce4` | [link](https://mozilladatacollective.com/datasets/cmo09pqp300gbnx07xcl42los) | ❌ |
+| `cmo09pqp300gbnx07xcl42los` | Yoruba-English Code-Switching (YECS) Corpus | `yoruba-english-code-switching-yecs-corpu-bf62f691` | [link](https://mozilladatacollective.com/datasets/cmo09pqp300gbnx07xcl42los) | ❌ |
 | `cmo0cro1g00hlmr07oichasyk` | Otomí (Hñähñu) TTS Voz Masculina | `otom-h-h-u-tts-voz-masculina-e36eadde` | [link](https://mozilladatacollective.com/datasets/cmo0cro1g00hlmr07oichasyk) | ❌ |
 | `cmo0h34b600n8nx07khjct4iy` | UK Sort Codes - ASR Evaluation | `uk-sort-codes-asr-evaluation-3a75316e` | [link](https://mozilladatacollective.com/datasets/cmo0h34b600n8nx07khjct4iy) | ❌ |
 | `cmo0jfvnw00p1nx070preklt5` | LibriVox Czech TTS Female Voice | `librivox-czech-tts-female-voice-dacc0fd3` | [link](https://mozilladatacollective.com/datasets/cmo0jfvnw00p1nx070preklt5) | ❌ |
@@ -989,3 +989,10 @@ schema in this registry and which ones are still missing.
 | `cmrv275t1004lnu07vtchcapw` | Badjia-ALCAM-MultimodalDataset | `badjia-alcam-multimodaldataset-b8af71ca` | [link](https://mozilladatacollective.com/datasets/cmrv275t1004lnu07vtchcapw) | ❌ |
 | `cmrv27qeq004pnu07w5uzvy6l` | 🚧 Hazargi-English Parallel Text Corpus 🚧  | `hazargi-english-parallel-text-corpus-e0dfb7fb` | [link](https://mozilladatacollective.com/datasets/cmrv27qeq004pnu07w5uzvy6l) | ❌ |
 | `cmrv27zhy004xnu07lirnoi3g` | 🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧 | `single-speaker-urdu-tts-dataset-female-s-909a5049` | [link](https://mozilladatacollective.com/datasets/cmrv27zhy004xnu07lirnoi3g) | ❌ |
+| `cmrw1urb2001nnu07i6vv0vea` | Bamun-TTS-Dataset (female voice) | `bamun-tts-dataset-female-voice-d415a546` | [link](https://mozilladatacollective.com/datasets/cmrw1urb2001nnu07i6vv0vea) | ❌ |
+| `cmrw4y41y003jnv07zbe99p27` | Urdu Medical SFT | `urdu-medical-sft-5c0a6fe9` | [link](https://mozilladatacollective.com/datasets/cmrw4y41y003jnv07zbe99p27) | ❌ |
+| `cmrw51wse003tnv07gf6njlzk` | A Gbaya Sociocultural Dataset | `a-gbaya-sociocultural-dataset-c3a073db` | [link](https://mozilladatacollective.com/datasets/cmrw51wse003tnv07gf6njlzk) | ❌ |
+| `cmrw52bhb003xnv07ial77067` | A Foulbe / Pular Sociocultural Dataset | `a-foulbe-pular-sociocultural-dataset-f0c6daf3` | [link](https://mozilladatacollective.com/datasets/cmrw52bhb003xnv07ial77067) | ❌ |
+| `cmrw5311c0046nu0747csrilw` | A Bum Sociocultural Dataset | `a-bum-sociocultural-dataset-99513198` | [link](https://mozilladatacollective.com/datasets/cmrw5311c0046nu0747csrilw) | ❌ |
+| `cmrw6gnqc005pnv073f87ulq7` | Syntheic Urdu Audios | `syntheic-urdu-audios-37580e10` | [link](https://mozilladatacollective.com/datasets/cmrw6gnqc005pnv073f87ulq7) | ❌ |
+| `cmrwm2vcy00hhnu07p3z8lshx` | Kumyk Proverbs and Sayings Text Corpus | `kumyk-proverbs-and-sayings-text-corpus-2f2de21e` | [link](https://mozilladatacollective.com/datasets/cmrwm2vcy00hhnu07p3z8lshx) | ❌ |
