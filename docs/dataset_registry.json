@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T06:50:35.300121+00:00",
-  "total": 974,
+  "updated_at": "2026-07-23T06:03:08.656734+00:00",
+  "total": 981,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -1713,9 +1713,9 @@
     {
       "id": "cmo09pqp300gbnx07xcl42los",
       "url": "https://mozilladatacollective.com/datasets/cmo09pqp300gbnx07xcl42los",
-      "lastmod": "2026-06-12T13:57:43.305Z",
+      "lastmod": "2026-07-22T12:22:57.881Z",
       "name": "Yoruba-English Code-Switching (YECS) Corpus",
-      "slug": "yoruba-english-code-switching-yecs-corpu-9ad16ce4"
+      "slug": "yoruba-english-code-switching-yecs-corpu-bf62f691"
     },
     {
       "id": "cmo0cro1g00hlmr07oichasyk",
@@ -6819,6 +6819,55 @@
       "lastmod": "2026-07-21T19:41:56.471Z",
       "name": "🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧",
       "slug": "single-speaker-urdu-tts-dataset-female-s-909a5049"
+    },
+    {
+      "id": "cmrw1urb2001nnu07i6vv0vea",
+      "url": "https://mozilladatacollective.com/datasets/cmrw1urb2001nnu07i6vv0vea",
+      "lastmod": "2026-07-22T13:53:57.151Z",
+      "name": "Bamun-TTS-Dataset (female voice)",
+      "slug": "bamun-tts-dataset-female-voice-d415a546"
+    },
+    {
+      "id": "cmrw4y41y003jnv07zbe99p27",
+      "url": "https://mozilladatacollective.com/datasets/cmrw4y41y003jnv07zbe99p27",
+      "lastmod": "2026-07-22T13:46:00.838Z",
+      "name": "Urdu Medical SFT",
+      "slug": "urdu-medical-sft-5c0a6fe9"
+    },
+    {
+      "id": "cmrw51wse003tnv07gf6njlzk",
+      "url": "https://mozilladatacollective.com/datasets/cmrw51wse003tnv07gf6njlzk",
+      "lastmod": "2026-07-22T14:33:50.514Z",
+      "name": "A Gbaya Sociocultural Dataset",
+      "slug": "a-gbaya-sociocultural-dataset-c3a073db"
+    },
+    {
+      "id": "cmrw52bhb003xnv07ial77067",
+      "url": "https://mozilladatacollective.com/datasets/cmrw52bhb003xnv07ial77067",
+      "lastmod": "2026-07-22T14:32:29.043Z",
+      "name": "A Foulbe / Pular Sociocultural Dataset",
+      "slug": "a-foulbe-pular-sociocultural-dataset-f0c6daf3"
+    },
+    {
+      "id": "cmrw5311c0046nu0747csrilw",
+      "url": "https://mozilladatacollective.com/datasets/cmrw5311c0046nu0747csrilw",
+      "lastmod": "2026-07-22T14:29:43.734Z",
+      "name": "A Bum Sociocultural Dataset",
+      "slug": "a-bum-sociocultural-dataset-99513198"
+    },
+    {
+      "id": "cmrw6gnqc005pnv073f87ulq7",
+      "url": "https://mozilladatacollective.com/datasets/cmrw6gnqc005pnv073f87ulq7",
+      "lastmod": "2026-07-22T14:28:25.764Z",
+      "name": "Syntheic Urdu Audios",
+      "slug": "syntheic-urdu-audios-37580e10"
+    },
+    {
+      "id": "cmrwm2vcy00hhnu07p3z8lshx",
+      "url": "https://mozilladatacollective.com/datasets/cmrwm2vcy00hhnu07p3z8lshx",
+      "lastmod": "2026-07-22T21:45:36.322Z",
+      "name": "Kumyk Proverbs and Sayings Text Corpus",
+      "slug": "kumyk-proverbs-and-sayings-text-corpus-2f2de21e"
     }
   ]
 }
