@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-23  
-**Total datasets in sitemap:** 981  
+**Last updated:** 2026-07-24  
+**Total datasets in sitemap:** 992  
 **Schemas registered:** 413 ✅  
-**Schemas missing:** 568 ❌  
+**Schemas missing:** 579 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -302,7 +302,6 @@ schema in this registry and which ones are still missing.
 | `cmoskwsac00w3nu07b1nydlfb` | TWB Parallel Sentence kits - Rohingya (5k) | `twb-parallel-sentence-kits-rohingya-5k-8fb312c7` | [link](https://mozilladatacollective.com/datasets/cmoskwsac00w3nu07b1nydlfb) | ❌ |
 | `cmoskxn8k00vtmj07ubxtu0f2` | TWB Parallel Sentence kits - Swahili (5k) | `twb-parallel-sentence-kits-swahili-5k-c7a7d116` | [link](https://mozilladatacollective.com/datasets/cmoskxn8k00vtmj07ubxtu0f2) | ❌ |
 | `cmosl07v400w9nu07g3puif2t` | TWB Parallel Sentence kits - Congo Swahili (25k) | `twb-parallel-sentence-kits-congo-swahili-a57afa4e` | [link](https://mozilladatacollective.com/datasets/cmosl07v400w9nu07g3puif2t) | ❌ |
-| `cmosu28090085ny07x7d8ezoq` | CoVoST 2 English-Slovenian | `covost-2-english-slovenian-90922cfa` | [link](https://mozilladatacollective.com/datasets/cmosu28090085ny07x7d8ezoq) | ❌ |
 | `cmou2fdyx015fl307bux4c4gi` | CoVoST 2 German-English | `covost-2-german-english-73346f8c` | [link](https://mozilladatacollective.com/datasets/cmou2fdyx015fl307bux4c4gi) | ❌ |
 | `cmovv4qrj00hcmk07yuaxyvzv` | VoxForge - Bulgarian | `voxforge-bulgarian-ec0c027c` | [link](https://mozilladatacollective.com/datasets/cmovv4qrj00hcmk07yuaxyvzv) | ❌ |
 | `cmowvw8oq011hnn07re4l1vi3` | Public GenAI Vulnerability Disclosures | `public-genai-vulnerability-disclosures-191f8631` | [link](https://mozilladatacollective.com/datasets/cmowvw8oq011hnn07re4l1vi3) | ❌ |
@@ -996,3 +995,15 @@ schema in this registry and which ones are still missing.
 | `cmrw5311c0046nu0747csrilw` | A Bum Sociocultural Dataset | `a-bum-sociocultural-dataset-99513198` | [link](https://mozilladatacollective.com/datasets/cmrw5311c0046nu0747csrilw) | ❌ |
 | `cmrw6gnqc005pnv073f87ulq7` | Syntheic Urdu Audios | `syntheic-urdu-audios-37580e10` | [link](https://mozilladatacollective.com/datasets/cmrw6gnqc005pnv073f87ulq7) | ❌ |
 | `cmrwm2vcy00hhnu07p3z8lshx` | Kumyk Proverbs and Sayings Text Corpus | `kumyk-proverbs-and-sayings-text-corpus-2f2de21e` | [link](https://mozilladatacollective.com/datasets/cmrwm2vcy00hhnu07p3z8lshx) | ❌ |
+| `cmrxfn05r014znu07ub3muel9` | BAHANA-Speech Corpus of English Learners from Indonesia | `bahana-speech-corpus-of-english-learners-73f9997f` | [link](https://mozilladatacollective.com/datasets/cmrxfn05r014znu07ub3muel9) | ❌ |
+| `cmrxgok02015onu07fk8qxx8v` | Urdu Financial Phrasebank | `urdu-financial-phrasebank-25d32275` | [link](https://mozilladatacollective.com/datasets/cmrxgok02015onu07fk8qxx8v) | ❌ |
+| `cmrxgplej014vnv07xy4zob5l` | Helpful and Harmless RLHF Urdu | `helpful-and-harmless-rlhf-urdu-4b48d539` | [link](https://mozilladatacollective.com/datasets/cmrxgplej014vnv07xy4zob5l) | ❌ |
+| `cmrxgqrj8014znv07t3j3psj3` | Urdu Legal Instruct | `urdu-legal-instruct-1659d377` | [link](https://mozilladatacollective.com/datasets/cmrxgqrj8014znv07t3j3psj3) | ❌ |
+| `cmrxhfzxn0168nu07koc4okl3` | Synthetic Urdu 2 | `synthetic-urdu-2-436b38c4` | [link](https://mozilladatacollective.com/datasets/cmrxhfzxn0168nu07koc4okl3) | ❌ |
+| `cmrxix9a7001rl407d629khq8` | English Medical Speech Dataset | `english-medical-speech-dataset-a967f7ef` | [link](https://mozilladatacollective.com/datasets/cmrxix9a7001rl407d629khq8) | ❌ |
+| `cmrxj0h4i001xo9079xnlw8fx` | Sindhi Names by Proxima AI | `sindhi-names-by-proxima-ai-267b4fd9` | [link](https://mozilladatacollective.com/datasets/cmrxj0h4i001xo9079xnlw8fx) | ❌ |
+| `cmrxj3dus002fl407nbjb6lmc` |  Sindhi Alpaca | `sindhi-alpaca-f1d75d66` | [link](https://mozilladatacollective.com/datasets/cmrxj3dus002fl407nbjb6lmc) | ❌ |
+| `cmrxj3m5q0021o907tnm6c9jp` | A Kanuri Sociocultural Dataset | `a-kanuri-sociocultural-dataset-716f9a4b` | [link](https://mozilladatacollective.com/datasets/cmrxj3m5q0021o907tnm6c9jp) | ❌ |
+| `cmrxo0ayv008vl40743ndzpbr` | MMLU ProX Sndhi | `mmlu-prox-sndhi-72fb2abf` | [link](https://mozilladatacollective.com/datasets/cmrxo0ayv008vl40743ndzpbr) | ❌ |
+| `cmrxokivf009bl4076o9i6wx0` | 🚧 African Actions Annotated Videos for AI (Health Domain) 🚧 | `african-actions-annotated-videos-for-ai-a28d1fbf` | [link](https://mozilladatacollective.com/datasets/cmrxokivf009bl4076o9i6wx0) | ❌ |
+| `cmrxrbueb00bll407nsqplz8t` | A Bakoko Sociocultural Dataset | `a-bakoko-sociocultural-dataset-bff2bde8` | [link](https://mozilladatacollective.com/datasets/cmrxrbueb00bll407nsqplz8t) | ❌ |
