@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T06:49:06.518133+00:00",
-  "total": 981,
+  "updated_at": "2026-07-24T06:00:50.384575+00:00",
+  "total": 992,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -2010,13 +2010,6 @@
       "lastmod": "2026-05-05T12:05:21.232Z",
       "name": "TWB Parallel Sentence kits - Congo Swahili (25k)",
       "slug": "twb-parallel-sentence-kits-congo-swahili-a57afa4e"
-    },
-    {
-      "id": "cmosu28090085ny07x7d8ezoq",
-      "url": "https://mozilladatacollective.com/datasets/cmosu28090085ny07x7d8ezoq",
-      "lastmod": "2026-05-05T16:18:51.273Z",
-      "name": "CoVoST 2 English-Slovenian",
-      "slug": "covost-2-english-slovenian-90922cfa"
     },
     {
       "id": "cmou2fdyx015fl307bux4c4gi",
@@ -6868,6 +6861,90 @@
       "lastmod": "2026-07-22T21:45:36.322Z",
       "name": "Kumyk Proverbs and Sayings Text Corpus",
       "slug": "kumyk-proverbs-and-sayings-text-corpus-2f2de21e"
+    },
+    {
+      "id": "cmrxfn05r014znu07ub3muel9",
+      "url": "https://mozilladatacollective.com/datasets/cmrxfn05r014znu07ub3muel9",
+      "lastmod": "2026-07-23T11:33:04.527Z",
+      "name": "BAHANA-Speech Corpus of English Learners from Indonesia",
+      "slug": "bahana-speech-corpus-of-english-learners-73f9997f"
+    },
+    {
+      "id": "cmrxgok02015onu07fk8qxx8v",
+      "url": "https://mozilladatacollective.com/datasets/cmrxgok02015onu07fk8qxx8v",
+      "lastmod": "2026-07-23T12:02:16.515Z",
+      "name": "Urdu Financial Phrasebank",
+      "slug": "urdu-financial-phrasebank-25d32275"
+    },
+    {
+      "id": "cmrxgplej014vnv07xy4zob5l",
+      "url": "https://mozilladatacollective.com/datasets/cmrxgplej014vnv07xy4zob5l",
+      "lastmod": "2026-07-23T12:03:04.987Z",
+      "name": "Helpful and Harmless RLHF Urdu",
+      "slug": "helpful-and-harmless-rlhf-urdu-4b48d539"
+    },
+    {
+      "id": "cmrxgqrj8014znv07t3j3psj3",
+      "url": "https://mozilladatacollective.com/datasets/cmrxgqrj8014znv07t3j3psj3",
+      "lastmod": "2026-07-23T12:03:59.589Z",
+      "name": "Urdu Legal Instruct",
+      "slug": "urdu-legal-instruct-1659d377"
+    },
+    {
+      "id": "cmrxhfzxn0168nu07koc4okl3",
+      "url": "https://mozilladatacollective.com/datasets/cmrxhfzxn0168nu07koc4okl3",
+      "lastmod": "2026-07-23T12:23:36.875Z",
+      "name": "Synthetic Urdu 2",
+      "slug": "synthetic-urdu-2-436b38c4"
+    },
+    {
+      "id": "cmrxix9a7001rl407d629khq8",
+      "url": "https://mozilladatacollective.com/datasets/cmrxix9a7001rl407d629khq8",
+      "lastmod": "2026-07-23T13:05:01.760Z",
+      "name": "English Medical Speech Dataset",
+      "slug": "english-medical-speech-dataset-a967f7ef"
+    },
+    {
+      "id": "cmrxj0h4i001xo9079xnlw8fx",
+      "url": "https://mozilladatacollective.com/datasets/cmrxj0h4i001xo9079xnlw8fx",
+      "lastmod": "2026-07-23T13:07:31.889Z",
+      "name": "Sindhi Names by Proxima AI",
+      "slug": "sindhi-names-by-proxima-ai-267b4fd9"
+    },
+    {
+      "id": "cmrxj3dus002fl407nbjb6lmc",
+      "url": "https://mozilladatacollective.com/datasets/cmrxj3dus002fl407nbjb6lmc",
+      "lastmod": "2026-07-23T13:09:47.620Z",
+      "name": " Sindhi Alpaca",
+      "slug": "sindhi-alpaca-f1d75d66"
+    },
+    {
+      "id": "cmrxj3m5q0021o907tnm6c9jp",
+      "url": "https://mozilladatacollective.com/datasets/cmrxj3m5q0021o907tnm6c9jp",
+      "lastmod": "2026-07-23T13:09:58.382Z",
+      "name": "A Kanuri Sociocultural Dataset",
+      "slug": "a-kanuri-sociocultural-dataset-716f9a4b"
+    },
+    {
+      "id": "cmrxo0ayv008vl40743ndzpbr",
+      "url": "https://mozilladatacollective.com/datasets/cmrxo0ayv008vl40743ndzpbr",
+      "lastmod": "2026-07-23T15:27:21.991Z",
+      "name": "MMLU ProX Sndhi",
+      "slug": "mmlu-prox-sndhi-72fb2abf"
+    },
+    {
+      "id": "cmrxokivf009bl4076o9i6wx0",
+      "url": "https://mozilladatacollective.com/datasets/cmrxokivf009bl4076o9i6wx0",
+      "lastmod": "2026-07-23T15:43:05.355Z",
+      "name": "🚧 African Actions Annotated Videos for AI (Health Domain) 🚧",
+      "slug": "african-actions-annotated-videos-for-ai-a28d1fbf"
+    },
+    {
+      "id": "cmrxrbueb00bll407nsqplz8t",
+      "url": "https://mozilladatacollective.com/datasets/cmrxrbueb00bll407nsqplz8t",
+      "lastmod": "2026-07-23T17:00:19.235Z",
+      "name": "A Bakoko Sociocultural Dataset",
+      "slug": "a-bakoko-sociocultural-dataset-bff2bde8"
     }
   ]
 }
