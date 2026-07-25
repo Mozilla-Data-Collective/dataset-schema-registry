@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-24  
-**Total datasets in sitemap:** 992  
+**Last updated:** 2026-07-25  
+**Total datasets in sitemap:** 998  
 **Schemas registered:** 413 ✅  
-**Schemas missing:** 579 ❌  
+**Schemas missing:** 585 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1007,3 +1007,9 @@ schema in this registry and which ones are still missing.
 | `cmrxo0ayv008vl40743ndzpbr` | MMLU ProX Sndhi | `mmlu-prox-sndhi-72fb2abf` | [link](https://mozilladatacollective.com/datasets/cmrxo0ayv008vl40743ndzpbr) | ❌ |
 | `cmrxokivf009bl4076o9i6wx0` | 🚧 African Actions Annotated Videos for AI (Health Domain) 🚧 | `african-actions-annotated-videos-for-ai-a28d1fbf` | [link](https://mozilladatacollective.com/datasets/cmrxokivf009bl4076o9i6wx0) | ❌ |
 | `cmrxrbueb00bll407nsqplz8t` | A Bakoko Sociocultural Dataset | `a-bakoko-sociocultural-dataset-bff2bde8` | [link](https://mozilladatacollective.com/datasets/cmrxrbueb00bll407nsqplz8t) | ❌ |
+| `cmryvqp3v014ro907pnnrblm6` | Priangan Dialect-Sundanese Parallel Corpus | `priangan-dialect-sundanese-parallel-corp-33c53fb4` | [link](https://mozilladatacollective.com/datasets/cmryvqp3v014ro907pnnrblm6) | ❌ |
+| `cmryvrc6i014vo90786kriix5` | Common Voice Scripted Speech 26.0 - Southern American English | `common-voice-scripted-speech-26-0-southe-d50b474b` | [link](https://mozilladatacollective.com/datasets/cmryvrc6i014vo90786kriix5) | ❌ |
+| `cmrywapqg015ho907f9q9hvka` | Sindhi OCR by Proxima AI | `sindhi-ocr-by-proxima-ai-ecf74ff8` | [link](https://mozilladatacollective.com/datasets/cmrywapqg015ho907f9q9hvka) | ❌ |
+| `cmrywn053015xo907gomtlkp8` | Urdu Alpaca | `urdu-alpaca-37fadf0d` | [link](https://mozilladatacollective.com/datasets/cmrywn053015xo907gomtlkp8) | ❌ |
+| `cmrywzoyv014il40712wgvypf` | CoVoST 2 English - Swedish | `covost-2-english-swedish-a2d3ed39` | [link](https://mozilladatacollective.com/datasets/cmrywzoyv014il40712wgvypf) | ❌ |
+| `cmryx3uvp016ro907e97sfa4i` | Ralámuli Ra’icháala TTS | `ral-muli-ra-ich-ala-tts-d2ae00d5` | [link](https://mozilladatacollective.com/datasets/cmryx3uvp016ro907e97sfa4i) | ❌ |
