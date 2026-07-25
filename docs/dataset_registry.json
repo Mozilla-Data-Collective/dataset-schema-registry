@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T06:49:29.660358+00:00",
-  "total": 992,
+  "updated_at": "2026-07-25T05:55:31.836828+00:00",
+  "total": 998,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -6945,6 +6945,48 @@
       "lastmod": "2026-07-23T17:00:19.235Z",
       "name": "A Bakoko Sociocultural Dataset",
       "slug": "a-bakoko-sociocultural-dataset-bff2bde8"
+    },
+    {
+      "id": "cmryvqp3v014ro907pnnrblm6",
+      "url": "https://mozilladatacollective.com/datasets/cmryvqp3v014ro907pnnrblm6",
+      "lastmod": "2026-07-24T11:51:36.859Z",
+      "name": "Priangan Dialect-Sundanese Parallel Corpus",
+      "slug": "priangan-dialect-sundanese-parallel-corp-33c53fb4"
+    },
+    {
+      "id": "cmryvrc6i014vo90786kriix5",
+      "url": "https://mozilladatacollective.com/datasets/cmryvrc6i014vo90786kriix5",
+      "lastmod": "2026-07-24T11:52:06.763Z",
+      "name": "Common Voice Scripted Speech 26.0 - Southern American English",
+      "slug": "common-voice-scripted-speech-26-0-southe-d50b474b"
+    },
+    {
+      "id": "cmrywapqg015ho907f9q9hvka",
+      "url": "https://mozilladatacollective.com/datasets/cmrywapqg015ho907f9q9hvka",
+      "lastmod": "2026-07-24T12:07:10.792Z",
+      "name": "Sindhi OCR by Proxima AI",
+      "slug": "sindhi-ocr-by-proxima-ai-ecf74ff8"
+    },
+    {
+      "id": "cmrywn053015xo907gomtlkp8",
+      "url": "https://mozilladatacollective.com/datasets/cmrywn053015xo907gomtlkp8",
+      "lastmod": "2026-07-24T12:16:44.151Z",
+      "name": "Urdu Alpaca",
+      "slug": "urdu-alpaca-37fadf0d"
+    },
+    {
+      "id": "cmrywzoyv014il40712wgvypf",
+      "url": "https://mozilladatacollective.com/datasets/cmrywzoyv014il40712wgvypf",
+      "lastmod": "2026-07-24T12:26:36.199Z",
+      "name": "CoVoST 2 English - Swedish",
+      "slug": "covost-2-english-swedish-a2d3ed39"
+    },
+    {
+      "id": "cmryx3uvp016ro907e97sfa4i",
+      "url": "https://mozilladatacollective.com/datasets/cmryx3uvp016ro907e97sfa4i",
+      "lastmod": "2026-07-24T12:29:50.486Z",
+      "name": "Ralámuli Ra’icháala TTS",
+      "slug": "ral-muli-ra-ich-ala-tts-d2ae00d5"
     }
   ]
 }
