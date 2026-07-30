@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-28  
-**Total datasets in sitemap:** 998  
+**Last updated:** 2026-07-30  
+**Total datasets in sitemap:** 1000  
 **Schemas registered:** 413 ✅  
-**Schemas missing:** 585 ❌  
+**Schemas missing:** 587 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -975,7 +975,7 @@ schema in this registry and which ones are still missing.
 | `cmrumhr9h0005md07ph5dkxpp` | Common Voice Scripted Speech 26.0 - Canadian French | `common-voice-scripted-speech-26-0-canadi-9e8b10de` | [link](https://mozilladatacollective.com/datasets/cmrumhr9h0005md07ph5dkxpp) | ❌ |
 | `cmrumxiu5000nmd07vuz5knqq` | 🚧 Hazargi-English Speech Translation Corpus 🚧 | `hazargi-english-speech-translation-corpu-749ccf56` | [link](https://mozilladatacollective.com/datasets/cmrumxiu5000nmd07vuz5knqq) | ❌ |
 | `cmruosers003emd075jlpfzqd` | Kazakh Proverbs Text Corpus | `kazakh-proverbs-text-corpus-764725e4` | [link](https://mozilladatacollective.com/datasets/cmruosers003emd075jlpfzqd) | ❌ |
-| `cmruvj2p300adnx073x7weuyo` | Common Voice Scripted Speech 26.0 -  Netherlands Dutch | `common-voice-scripted-speech-26-0-nether-5bc08724` | [link](https://mozilladatacollective.com/datasets/cmruvj2p300adnx073x7weuyo) | ❌ |
+| `cmruvj2p300adnx073x7weuyo` | Common Voice Scripted Speech 26.0 -  Netherlands Dutch | `common-voice-scripted-speech-26-0-nether-86df7999` | [link](https://mozilladatacollective.com/datasets/cmruvj2p300adnx073x7weuyo) | ❌ |
 | `cmruvk68500awmd07sd3l6lqe` | Common Voice Scripted Speech 26.0 -  Flemish Dutch | `common-voice-scripted-speech-26-0-flemis-5c0dea50` | [link](https://mozilladatacollective.com/datasets/cmruvk68500awmd07sd3l6lqe) | ❌ |
 | `cmruvkf8p00ajnx07rfn0ecv9` | Common Voice Scripted Speech 26.0 -  Netherlands Dutch (Male) | `common-voice-scripted-speech-26-0-nether-223995ee` | [link](https://mozilladatacollective.com/datasets/cmruvkf8p00ajnx07rfn0ecv9) | ❌ |
 | `cmruvkoaj00b0md07fjxzw6x5` | Common Voice Scripted Speech 26.0 -  Netherlands Dutch (Female) | `common-voice-scripted-speech-26-0-nether-9580427b` | [link](https://mozilladatacollective.com/datasets/cmruvkoaj00b0md07fjxzw6x5) | ❌ |
@@ -1013,3 +1013,5 @@ schema in this registry and which ones are still missing.
 | `cmrywn053015xo907gomtlkp8` | Urdu Alpaca | `urdu-alpaca-37fadf0d` | [link](https://mozilladatacollective.com/datasets/cmrywn053015xo907gomtlkp8) | ❌ |
 | `cmrywzoyv014il40712wgvypf` | CoVoST 2 English - Swedish | `covost-2-english-swedish-a2d3ed39` | [link](https://mozilladatacollective.com/datasets/cmrywzoyv014il40712wgvypf) | ❌ |
 | `cmryx3uvp016ro907e97sfa4i` | Ralámuli Ra’icháala TTS | `ral-muli-ra-ich-ala-tts-d2ae00d5` | [link](https://mozilladatacollective.com/datasets/cmryx3uvp016ro907e97sfa4i) | ❌ |
+| `cms4tcf7s01luo207u7bzbqul` | Mandarin Stuttered Speech (StammerTalk) | `mandarin-stuttered-speech-stammertalk-535763c5` | [link](https://mozilladatacollective.com/datasets/cms4tcf7s01luo207u7bzbqul) | ❌ |
+| `cms4tcqvl01lyo207p6j1ykng` | English Stuttered Speech | `english-stuttered-speech-59da8b2c` | [link](https://mozilladatacollective.com/datasets/cms4tcqvl01lyo207p6j1ykng) | ❌ |
