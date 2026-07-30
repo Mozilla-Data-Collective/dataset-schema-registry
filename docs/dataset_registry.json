@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T06:51:27.236603+00:00",
-  "total": 998,
+  "updated_at": "2026-07-30T07:36:31.930178+00:00",
+  "total": 1000,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -6725,9 +6725,9 @@
     {
       "id": "cmruvj2p300adnx073x7weuyo",
       "url": "https://mozilladatacollective.com/datasets/cmruvj2p300adnx073x7weuyo",
-      "lastmod": "2026-07-21T16:34:36.520Z",
+      "lastmod": "2026-07-29T14:40:40.599Z",
       "name": "Common Voice Scripted Speech 26.0 -  Netherlands Dutch",
-      "slug": "common-voice-scripted-speech-26-0-nether-5bc08724"
+      "slug": "common-voice-scripted-speech-26-0-nether-86df7999"
     },
     {
       "id": "cmruvk68500awmd07sd3l6lqe",
@@ -6987,6 +6987,20 @@
       "lastmod": "2026-07-24T12:29:50.486Z",
       "name": "Ralámuli Ra’icháala TTS",
       "slug": "ral-muli-ra-ich-ala-tts-d2ae00d5"
+    },
+    {
+      "id": "cms4tcf7s01luo207u7bzbqul",
+      "url": "https://mozilladatacollective.com/datasets/cms4tcf7s01luo207u7bzbqul",
+      "lastmod": "2026-07-29T06:00:06.777Z",
+      "name": "Mandarin Stuttered Speech (StammerTalk)",
+      "slug": "mandarin-stuttered-speech-stammertalk-535763c5"
+    },
+    {
+      "id": "cms4tcqvl01lyo207p6j1ykng",
+      "url": "https://mozilladatacollective.com/datasets/cms4tcqvl01lyo207p6j1ykng",
+      "lastmod": "2026-07-28T15:31:23.794Z",
+      "name": "English Stuttered Speech",
+      "slug": "english-stuttered-speech-59da8b2c"
     }
   ]
 }
