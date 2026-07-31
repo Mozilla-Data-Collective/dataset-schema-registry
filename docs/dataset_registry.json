@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-30T08:11:27.980475+00:00",
-  "total": 1000,
+  "updated_at": "2026-07-31T06:04:50.018285+00:00",
+  "total": 1001,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -6585,16 +6585,16 @@
     {
       "id": "cmrp1sdsj00zemm0822j75968",
       "url": "https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968",
-      "lastmod": "2026-07-17T15:02:54.804Z",
+      "lastmod": "2026-07-30T16:03:45.110Z",
       "name": "🚧 Singaporean Tamil Speech Collection 🚧",
-      "slug": "singaporean-tamil-speech-collection-a514ae3b"
+      "slug": "singaporean-tamil-speech-collection-d67f8800"
     },
     {
       "id": "cmrp30fdp0120o007a69s3nfc",
       "url": "https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc",
-      "lastmod": "2026-07-17T15:17:26.365Z",
+      "lastmod": "2026-07-30T12:55:50.060Z",
       "name": "🚧 Burmese Speech Collection 🚧",
-      "slug": "burmese-speech-collection-ca9bd804"
+      "slug": "burmese-speech-collection-246a811b"
     },
     {
       "id": "cmrt6zbgx000vmm07hfuefigk",
@@ -7001,6 +7001,13 @@
       "lastmod": "2026-07-28T15:31:23.794Z",
       "name": "English Stuttered Speech",
       "slug": "english-stuttered-speech-59da8b2c"
+    },
+    {
+      "id": "cms7gsjz700owny077q9emzsa",
+      "url": "https://mozilladatacollective.com/datasets/cms7gsjz700owny077q9emzsa",
+      "lastmod": "2026-07-30T12:03:04.868Z",
+      "name": "CoVoST 2 Swedish - English",
+      "slug": "covost-2-swedish-english-3f735eb3"
     }
   ]
 }
