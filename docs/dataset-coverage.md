@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-07-30  
-**Total datasets in sitemap:** 1000  
+**Last updated:** 2026-07-31  
+**Total datasets in sitemap:** 1001  
 **Schemas registered:** 413 ✅  
-**Schemas missing:** 587 ❌  
+**Schemas missing:** 588 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -955,8 +955,8 @@ schema in this registry and which ones are still missing.
 | `cmrnmk9ux000hmc07llq1targ` | Adjuntos Solicitudes Información — Federación — VFQ | `adjuntos-solicitudes-informaci-n-federac-966df728` | [link](https://mozilladatacollective.com/datasets/cmrnmk9ux000hmc07llq1targ) | ❌ |
 | `cmroyatmb00wko007rt1g1hr2` | SKAD Ladino Parallel Corpus | `skad-ladino-parallel-corpus-dafb16b2` | [link](https://mozilladatacollective.com/datasets/cmroyatmb00wko007rt1g1hr2) | ❌ |
 | `cmroyc7m900wqo007okjs2jp3` | 🚧 Multi-Subject Human Pose & Facial Expression Dataset (Studio, 4K) 🚧 | `multi-subject-human-pose-facial-expressi-a86a7482` | [link](https://mozilladatacollective.com/datasets/cmroyc7m900wqo007okjs2jp3) | ❌ |
-| `cmrp1sdsj00zemm0822j75968` | 🚧 Singaporean Tamil Speech Collection 🚧 | `singaporean-tamil-speech-collection-a514ae3b` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ❌ |
-| `cmrp30fdp0120o007a69s3nfc` | 🚧 Burmese Speech Collection 🚧 | `burmese-speech-collection-ca9bd804` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ❌ |
+| `cmrp1sdsj00zemm0822j75968` | 🚧 Singaporean Tamil Speech Collection 🚧 | `singaporean-tamil-speech-collection-d67f8800` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ❌ |
+| `cmrp30fdp0120o007a69s3nfc` | 🚧 Burmese Speech Collection 🚧 | `burmese-speech-collection-246a811b` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ❌ |
 | `cmrt6zbgx000vmm07hfuefigk` | Common Voice Scripted Speech 26.0 - American English (Male) | `common-voice-scripted-speech-26-0-americ-34c3c133` | [link](https://mozilladatacollective.com/datasets/cmrt6zbgx000vmm07hfuefigk) | ❌ |
 | `cmrt6zrob000zmm07yqwjlpwi` | Common Voice Scripted Speech 26.0 - British English | `common-voice-scripted-speech-26-0-britis-0fe481c3` | [link](https://mozilladatacollective.com/datasets/cmrt6zrob000zmm07yqwjlpwi) | ❌ |
 | `cmrt70j4z001qmm07nvfsmgmr` | Common Voice Scripted Speech 26.0 - American English (Female) | `common-voice-scripted-speech-26-0-americ-079c33be` | [link](https://mozilladatacollective.com/datasets/cmrt70j4z001qmm07nvfsmgmr) | ❌ |
@@ -1015,3 +1015,4 @@ schema in this registry and which ones are still missing.
 | `cmryx3uvp016ro907e97sfa4i` | Ralámuli Ra’icháala TTS | `ral-muli-ra-ich-ala-tts-d2ae00d5` | [link](https://mozilladatacollective.com/datasets/cmryx3uvp016ro907e97sfa4i) | ❌ |
 | `cms4tcf7s01luo207u7bzbqul` | Mandarin Stuttered Speech (StammerTalk) | `mandarin-stuttered-speech-stammertalk-535763c5` | [link](https://mozilladatacollective.com/datasets/cms4tcf7s01luo207u7bzbqul) | ❌ |
 | `cms4tcqvl01lyo207p6j1ykng` | English Stuttered Speech | `english-stuttered-speech-59da8b2c` | [link](https://mozilladatacollective.com/datasets/cms4tcqvl01lyo207p6j1ykng) | ❌ |
+| `cms7gsjz700owny077q9emzsa` | CoVoST 2 Swedish - English | `covost-2-swedish-english-3f735eb3` | [link](https://mozilladatacollective.com/datasets/cms7gsjz700owny077q9emzsa) | ❌ |
