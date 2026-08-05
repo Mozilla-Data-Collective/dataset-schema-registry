@@ -10,8 +10,8 @@ schema in this registry and which ones are still missing.
 
 **Last updated:** 2026-08-05  
 **Total datasets in sitemap:** 1001  
-**Schemas registered:** 413 ✅  
-**Schemas missing:** 588 ❌  
+**Schemas registered:** 414 ✅  
+**Schemas missing:** 587 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -914,7 +914,7 @@ schema in this registry and which ones are still missing.
 | `cmrbac56k00lbmm070txylq42` | Eton-TTS-Dataset | `eton-tts-dataset-511d7dbe` | [link](https://mozilladatacollective.com/datasets/cmrbac56k00lbmm070txylq42) | ❌ |
 | `cmrbacjej00lfmm07miqrz23s` | Tupuri-Bango_TTS-Dataset (female voice) | `tupuri-bango-tts-dataset-female-voice-1f09dd2c` | [link](https://mozilladatacollective.com/datasets/cmrbacjej00lfmm07miqrz23s) | ❌ |
 | `cmrbad2ho00o5nz07t3vjmdnd` | Adjuntos Solicitudes Información — Aguascalientes | `adjuntos-solicitudes-informaci-n-aguasca-fa5dc9c0` | [link](https://mozilladatacollective.com/datasets/cmrbad2ho00o5nz07t3vjmdnd) | ❌ |
-| `cmrdfjave008uo307ett7d4km` | Medical Domain Mexican Spanish Speech Corpus (MEDMEX) | `medical-domain-mexican-spanish-speech-co-b4770c2e` | [link](https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km) | ❌ |
+| `cmrdfjave008uo307ett7d4km` | Medical Domain Mexican Spanish Speech Corpus (MEDMEX) | `medical-domain-mexican-spanish-speech-co-b4770c2e` | [link](https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km) | ✅ |
 | `cmrdfk4ao007po1070z5f4kem` | Conversational Speech in Gujarati in the Medical Domain | `conversational-speech-in-gujarati-in-the-f75484ee` | [link](https://mozilladatacollective.com/datasets/cmrdfk4ao007po1070z5f4kem) | ✅ |
 | `cmrftle0s01fsnv0755jw602i` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-56485668` | [link](https://mozilladatacollective.com/datasets/cmrftle0s01fsnv0755jw602i) | ❌ |
 | `cmrkqy18t006imm074waw5jbg` | Kannada Text Corpus | `kannada-text-corpus-b95eb8c6` | [link](https://mozilladatacollective.com/datasets/cmrkqy18t006imm074waw5jbg) | ❌ |
