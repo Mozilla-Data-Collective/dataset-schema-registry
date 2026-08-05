@@ -1,0 +1,27 @@
+dataset_id: "cmrdfjave008uo307ett7d4km"
+task: "ASR"
+format: "tsv"
+index_file: "metadata.tsv"
+base_audio_path: "mp3"
+
+columns:
+  audio_path:
+    source_column: "key"
+    dtype: "file_path"
+    file_extension: ".mp3"
+    path_match_strategy: "contains"
+  transcription:
+    source_column: "sentence"
+    dtype: "string"
+  speaker_id:
+    source_column: "speaker_id"
+    dtype: "category"
+    optional: true
+  audio_duration_sec:
+    source_column: "duration"
+    dtype: "float"
+    optional: true
+  gender:
+    source_column: "speaker_sex"
+    dtype: "category"
+    optional: true
