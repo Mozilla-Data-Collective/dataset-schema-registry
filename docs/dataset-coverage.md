@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-05  
-**Total datasets in sitemap:** 1001  
+**Last updated:** 2026-08-06  
+**Total datasets in sitemap:** 1008  
 **Schemas registered:** 414 ✅  
-**Schemas missing:** 587 ❌  
+**Schemas missing:** 594 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1016,3 +1016,10 @@ schema in this registry and which ones are still missing.
 | `cms4tcf7s01luo207u7bzbqul` | Mandarin Stuttered Speech (StammerTalk) | `mandarin-stuttered-speech-stammertalk-535763c5` | [link](https://mozilladatacollective.com/datasets/cms4tcf7s01luo207u7bzbqul) | ❌ |
 | `cms4tcqvl01lyo207p6j1ykng` | English Stuttered Speech | `english-stuttered-speech-59da8b2c` | [link](https://mozilladatacollective.com/datasets/cms4tcqvl01lyo207p6j1ykng) | ❌ |
 | `cms7gsjz700owny077q9emzsa` | CoVoST 2 Swedish - English | `covost-2-swedish-english-3f735eb3` | [link](https://mozilladatacollective.com/datasets/cms7gsjz700owny077q9emzsa) | ❌ |
+| `cmsgbzj8d00nlnq08a90220nd` | Urdu OCR Multi Source Dataset (Proxima AI) | `urdu-ocr-multi-source-dataset-proxima-ai-dd14393d` | [link](https://mozilladatacollective.com/datasets/cmsgbzj8d00nlnq08a90220nd) | ❌ |
+| `cmsgc343n00opnu07ozx4087d` | Urdu AI Generated Quotes & Aphorisms | `urdu-ai-generated-quotes-aphorisms-b776b17c` | [link](https://mozilladatacollective.com/datasets/cmsgc343n00opnu07ozx4087d) | ❌ |
+| `cmsgcn6n80003nx07asu09o11` | Urdu Grammatical Error Correction Dataset | `urdu-grammatical-error-correction-datase-6d5e7215` | [link](https://mozilladatacollective.com/datasets/cmsgcn6n80003nx07asu09o11) | ❌ |
+| `cmsgcs1do000tmg0730rtdcud` | Bulgarian Proverbs and Sayings Text Corpus | `bulgarian-proverbs-and-sayings-text-corp-6476e51c` | [link](https://mozilladatacollective.com/datasets/cmsgcs1do000tmg0730rtdcud) | ❌ |
+| `cmsgcu1pq000xmg07h0sx9rj8` | Chechen Proverbs and Sayings Text Corpus | `chechen-proverbs-and-sayings-text-corpus-c27ef9f5` | [link](https://mozilladatacollective.com/datasets/cmsgcu1pq000xmg07h0sx9rj8) | ❌ |
+| `cmsgcyf2z001hnx07b8auxxpj` | Sindhi Transliteration Dataset by Proxima AI | `sindhi-transliteration-dataset-by-proxim-b268be12` | [link](https://mozilladatacollective.com/datasets/cmsgcyf2z001hnx07b8auxxpj) | ❌ |
+| `cmsgdht31001lmg072o4evjfl` | A Chadian Arabic Sociocultural Dataset | `a-chadian-arabic-sociocultural-dataset-b96dfb0d` | [link](https://mozilladatacollective.com/datasets/cmsgdht31001lmg072o4evjfl) | ❌ |
