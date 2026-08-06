@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T06:52:14.039792+00:00",
-  "total": 1001,
+  "updated_at": "2026-08-06T06:00:58.865589+00:00",
+  "total": 1008,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -7008,6 +7008,55 @@
       "lastmod": "2026-07-30T12:03:04.868Z",
       "name": "CoVoST 2 Swedish - English",
       "slug": "covost-2-swedish-english-3f735eb3"
+    },
+    {
+      "id": "cmsgbzj8d00nlnq08a90220nd",
+      "url": "https://mozilladatacollective.com/datasets/cmsgbzj8d00nlnq08a90220nd",
+      "lastmod": "2026-08-05T16:58:27.997Z",
+      "name": "Urdu OCR Multi Source Dataset (Proxima AI)",
+      "slug": "urdu-ocr-multi-source-dataset-proxima-ai-dd14393d"
+    },
+    {
+      "id": "cmsgc343n00opnu07ozx4087d",
+      "url": "https://mozilladatacollective.com/datasets/cmsgc343n00opnu07ozx4087d",
+      "lastmod": "2026-08-05T17:01:15.011Z",
+      "name": "Urdu AI Generated Quotes & Aphorisms",
+      "slug": "urdu-ai-generated-quotes-aphorisms-b776b17c"
+    },
+    {
+      "id": "cmsgcn6n80003nx07asu09o11",
+      "url": "https://mozilladatacollective.com/datasets/cmsgcn6n80003nx07asu09o11",
+      "lastmod": "2026-08-05T17:16:51.428Z",
+      "name": "Urdu Grammatical Error Correction Dataset",
+      "slug": "urdu-grammatical-error-correction-datase-6d5e7215"
+    },
+    {
+      "id": "cmsgcs1do000tmg0730rtdcud",
+      "url": "https://mozilladatacollective.com/datasets/cmsgcs1do000tmg0730rtdcud",
+      "lastmod": "2026-08-05T17:20:37.884Z",
+      "name": "Bulgarian Proverbs and Sayings Text Corpus",
+      "slug": "bulgarian-proverbs-and-sayings-text-corp-6476e51c"
+    },
+    {
+      "id": "cmsgcu1pq000xmg07h0sx9rj8",
+      "url": "https://mozilladatacollective.com/datasets/cmsgcu1pq000xmg07h0sx9rj8",
+      "lastmod": "2026-08-05T17:22:11.630Z",
+      "name": "Chechen Proverbs and Sayings Text Corpus",
+      "slug": "chechen-proverbs-and-sayings-text-corpus-c27ef9f5"
+    },
+    {
+      "id": "cmsgcyf2z001hnx07b8auxxpj",
+      "url": "https://mozilladatacollective.com/datasets/cmsgcyf2z001hnx07b8auxxpj",
+      "lastmod": "2026-08-05T17:25:35.579Z",
+      "name": "Sindhi Transliteration Dataset by Proxima AI",
+      "slug": "sindhi-transliteration-dataset-by-proxim-b268be12"
+    },
+    {
+      "id": "cmsgdht31001lmg072o4evjfl",
+      "url": "https://mozilladatacollective.com/datasets/cmsgdht31001lmg072o4evjfl",
+      "lastmod": "2026-08-05T17:40:40.190Z",
+      "name": "A Chadian Arabic Sociocultural Dataset",
+      "slug": "a-chadian-arabic-sociocultural-dataset-b96dfb0d"
     }
   ]
 }
