@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T06:52:54.146316+00:00",
-  "total": 1008,
+  "updated_at": "2026-08-07T05:34:20.303017+00:00",
+  "total": 1011,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -7057,6 +7057,27 @@
       "lastmod": "2026-08-05T17:40:40.190Z",
       "name": "A Chadian Arabic Sociocultural Dataset",
       "slug": "a-chadian-arabic-sociocultural-dataset-b96dfb0d"
+    },
+    {
+      "id": "cmshk8mia004rnv0724nwy021",
+      "url": "https://mozilladatacollective.com/datasets/cmshk8mia004rnv0724nwy021",
+      "lastmod": "2026-08-06T13:37:15.250Z",
+      "name": "A Ghomala Sociocultural Dataset",
+      "slug": "a-ghomala-sociocultural-dataset-2b6c63ac"
+    },
+    {
+      "id": "cmshk9kme0038o607xcmh7pk6",
+      "url": "https://mozilladatacollective.com/datasets/cmshk9kme0038o607xcmh7pk6",
+      "lastmod": "2026-08-06T13:37:59.462Z",
+      "name": "An Eton Sociocultural Dataset",
+      "slug": "an-eton-sociocultural-dataset-139911c5"
+    },
+    {
+      "id": "cmshzn02s00j1ml07fvxqooq9",
+      "url": "https://mozilladatacollective.com/datasets/cmshzn02s00j1ml07fvxqooq9",
+      "lastmod": "2026-08-06T20:48:20.260Z",
+      "name": "An Ewondo Sociocultural Dataset",
+      "slug": "an-ewondo-sociocultural-dataset-bcb70080"
     }
   ]
 }
