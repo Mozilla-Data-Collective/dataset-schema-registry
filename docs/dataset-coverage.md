@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-06  
-**Total datasets in sitemap:** 1008  
+**Last updated:** 2026-08-07  
+**Total datasets in sitemap:** 1011  
 **Schemas registered:** 415 ✅  
-**Schemas missing:** 593 ❌  
+**Schemas missing:** 596 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1023,3 +1023,6 @@ schema in this registry and which ones are still missing.
 | `cmsgcu1pq000xmg07h0sx9rj8` | Chechen Proverbs and Sayings Text Corpus | `chechen-proverbs-and-sayings-text-corpus-c27ef9f5` | [link](https://mozilladatacollective.com/datasets/cmsgcu1pq000xmg07h0sx9rj8) | ❌ |
 | `cmsgcyf2z001hnx07b8auxxpj` | Sindhi Transliteration Dataset by Proxima AI | `sindhi-transliteration-dataset-by-proxim-b268be12` | [link](https://mozilladatacollective.com/datasets/cmsgcyf2z001hnx07b8auxxpj) | ❌ |
 | `cmsgdht31001lmg072o4evjfl` | A Chadian Arabic Sociocultural Dataset | `a-chadian-arabic-sociocultural-dataset-b96dfb0d` | [link](https://mozilladatacollective.com/datasets/cmsgdht31001lmg072o4evjfl) | ❌ |
+| `cmshk8mia004rnv0724nwy021` | A Ghomala Sociocultural Dataset | `a-ghomala-sociocultural-dataset-2b6c63ac` | [link](https://mozilladatacollective.com/datasets/cmshk8mia004rnv0724nwy021) | ❌ |
+| `cmshk9kme0038o607xcmh7pk6` | An Eton Sociocultural Dataset | `an-eton-sociocultural-dataset-139911c5` | [link](https://mozilladatacollective.com/datasets/cmshk9kme0038o607xcmh7pk6) | ❌ |
+| `cmshzn02s00j1ml07fvxqooq9` | An Ewondo Sociocultural Dataset | `an-ewondo-sociocultural-dataset-bcb70080` | [link](https://mozilladatacollective.com/datasets/cmshzn02s00j1ml07fvxqooq9) | ❌ |
