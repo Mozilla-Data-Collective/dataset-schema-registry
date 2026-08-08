@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T06:23:24.117654+00:00",
-  "total": 1011,
+  "updated_at": "2026-08-08T05:18:47.718797+00:00",
+  "total": 1013,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -7078,6 +7078,20 @@
       "lastmod": "2026-08-06T20:48:20.260Z",
       "name": "An Ewondo Sociocultural Dataset",
       "slug": "an-ewondo-sociocultural-dataset-bcb70080"
+    },
+    {
+      "id": "cmsj5sayf01qdmi07mo2bphx0",
+      "url": "https://mozilladatacollective.com/datasets/cmsj5sayf01qdmi07mo2bphx0",
+      "lastmod": "2026-08-07T16:28:11.511Z",
+      "name": "🚧 Hazargi Multimodal Dataset 🚧",
+      "slug": "hazargi-multimodal-dataset-6dd88b19"
+    },
+    {
+      "id": "cmsja4wtp01t3mi07ug56oto9",
+      "url": "https://mozilladatacollective.com/datasets/cmsja4wtp01t3mi07ug56oto9",
+      "lastmod": "2026-08-07T18:29:58.189Z",
+      "name": "SKAD Ladino Speech Database (subset)",
+      "slug": "skad-ladino-speech-database-subset-bced4996"
     }
   ]
 }
