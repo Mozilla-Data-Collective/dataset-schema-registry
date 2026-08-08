@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-07  
-**Total datasets in sitemap:** 1011  
+**Last updated:** 2026-08-08  
+**Total datasets in sitemap:** 1013  
 **Schemas registered:** 415 ✅  
-**Schemas missing:** 596 ❌  
+**Schemas missing:** 598 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1026,3 +1026,5 @@ schema in this registry and which ones are still missing.
 | `cmshk8mia004rnv0724nwy021` | A Ghomala Sociocultural Dataset | `a-ghomala-sociocultural-dataset-2b6c63ac` | [link](https://mozilladatacollective.com/datasets/cmshk8mia004rnv0724nwy021) | ❌ |
 | `cmshk9kme0038o607xcmh7pk6` | An Eton Sociocultural Dataset | `an-eton-sociocultural-dataset-139911c5` | [link](https://mozilladatacollective.com/datasets/cmshk9kme0038o607xcmh7pk6) | ❌ |
 | `cmshzn02s00j1ml07fvxqooq9` | An Ewondo Sociocultural Dataset | `an-ewondo-sociocultural-dataset-bcb70080` | [link](https://mozilladatacollective.com/datasets/cmshzn02s00j1ml07fvxqooq9) | ❌ |
+| `cmsj5sayf01qdmi07mo2bphx0` | 🚧 Hazargi Multimodal Dataset 🚧 | `hazargi-multimodal-dataset-6dd88b19` | [link](https://mozilladatacollective.com/datasets/cmsj5sayf01qdmi07mo2bphx0) | ❌ |
+| `cmsja4wtp01t3mi07ug56oto9` | SKAD Ladino Speech Database (subset) | `skad-ladino-speech-database-subset-bced4996` | [link](https://mozilladatacollective.com/datasets/cmsja4wtp01t3mi07ug56oto9) | ❌ |
