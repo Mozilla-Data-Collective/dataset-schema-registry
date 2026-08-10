@@ -8,7 +8,7 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-09  
+**Last updated:** 2026-08-10  
 **Total datasets in sitemap:** 1013  
 **Schemas registered:** 415 ✅  
 **Schemas missing:** 598 ❌  
@@ -997,10 +997,10 @@ schema in this registry and which ones are still missing.
 | `cmrwm2vcy00hhnu07p3z8lshx` | Kumyk Proverbs and Sayings Text Corpus | `kumyk-proverbs-and-sayings-text-corpus-2f2de21e` | [link](https://mozilladatacollective.com/datasets/cmrwm2vcy00hhnu07p3z8lshx) | ❌ |
 | `cmrxfn05r014znu07ub3muel9` | BAHANA-Speech Corpus of English Learners from Indonesia | `bahana-speech-corpus-of-english-learners-73f9997f` | [link](https://mozilladatacollective.com/datasets/cmrxfn05r014znu07ub3muel9) | ❌ |
 | `cmrxgok02015onu07fk8qxx8v` | Urdu Financial Phrasebank | `urdu-financial-phrasebank-25d32275` | [link](https://mozilladatacollective.com/datasets/cmrxgok02015onu07fk8qxx8v) | ❌ |
-| `cmrxgplej014vnv07xy4zob5l` | Helpful and Harmless RLHF Urdu | `helpful-and-harmless-rlhf-urdu-4b48d539` | [link](https://mozilladatacollective.com/datasets/cmrxgplej014vnv07xy4zob5l) | ❌ |
+| `cmrxgplej014vnv07xy4zob5l` | Helpful and Harmless RLHF Urdu | `helpful-and-harmless-rlhf-urdu-bca741f5` | [link](https://mozilladatacollective.com/datasets/cmrxgplej014vnv07xy4zob5l) | ❌ |
 | `cmrxgqrj8014znv07t3j3psj3` | Urdu Legal Instruct | `urdu-legal-instruct-1659d377` | [link](https://mozilladatacollective.com/datasets/cmrxgqrj8014znv07t3j3psj3) | ❌ |
-| `cmrxhfzxn0168nu07koc4okl3` | Synthetic Urdu 2 | `synthetic-urdu-2-436b38c4` | [link](https://mozilladatacollective.com/datasets/cmrxhfzxn0168nu07koc4okl3) | ❌ |
-| `cmrxix9a7001rl407d629khq8` | English Medical Speech Dataset | `english-medical-speech-dataset-a967f7ef` | [link](https://mozilladatacollective.com/datasets/cmrxix9a7001rl407d629khq8) | ❌ |
+| `cmrxhfzxn0168nu07koc4okl3` | Synthetic Urdu 2 | `synthetic-urdu-2-429496ad` | [link](https://mozilladatacollective.com/datasets/cmrxhfzxn0168nu07koc4okl3) | ❌ |
+| `cmrxix9a7001rl407d629khq8` | English Medical Speech Dataset | `english-medical-speech-dataset-cb8e2ad9` | [link](https://mozilladatacollective.com/datasets/cmrxix9a7001rl407d629khq8) | ❌ |
 | `cmrxj0h4i001xo9079xnlw8fx` | Sindhi Names by Proxima AI | `sindhi-names-by-proxima-ai-267b4fd9` | [link](https://mozilladatacollective.com/datasets/cmrxj0h4i001xo9079xnlw8fx) | ❌ |
 | `cmrxj3dus002fl407nbjb6lmc` |  Sindhi Alpaca | `sindhi-alpaca-f1d75d66` | [link](https://mozilladatacollective.com/datasets/cmrxj3dus002fl407nbjb6lmc) | ❌ |
 | `cmrxj3m5q0021o907tnm6c9jp` | A Kanuri Sociocultural Dataset | `a-kanuri-sociocultural-dataset-716f9a4b` | [link](https://mozilladatacollective.com/datasets/cmrxj3m5q0021o907tnm6c9jp) | ❌ |
