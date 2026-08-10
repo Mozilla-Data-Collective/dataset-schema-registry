@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T06:14:24.346459+00:00",
+  "updated_at": "2026-08-10T05:33:32.162250+00:00",
   "total": 1013,
   "datasets": [
     {
@@ -6879,9 +6879,9 @@
     {
       "id": "cmrxgplej014vnv07xy4zob5l",
       "url": "https://mozilladatacollective.com/datasets/cmrxgplej014vnv07xy4zob5l",
-      "lastmod": "2026-07-23T12:03:04.987Z",
+      "lastmod": "2026-08-09T10:38:09.036Z",
       "name": "Helpful and Harmless RLHF Urdu",
-      "slug": "helpful-and-harmless-rlhf-urdu-4b48d539"
+      "slug": "helpful-and-harmless-rlhf-urdu-bca741f5"
     },
     {
       "id": "cmrxgqrj8014znv07t3j3psj3",
@@ -6893,16 +6893,16 @@
     {
       "id": "cmrxhfzxn0168nu07koc4okl3",
       "url": "https://mozilladatacollective.com/datasets/cmrxhfzxn0168nu07koc4okl3",
-      "lastmod": "2026-07-23T12:23:36.875Z",
+      "lastmod": "2026-08-09T10:37:51.939Z",
       "name": "Synthetic Urdu 2",
-      "slug": "synthetic-urdu-2-436b38c4"
+      "slug": "synthetic-urdu-2-429496ad"
     },
     {
       "id": "cmrxix9a7001rl407d629khq8",
       "url": "https://mozilladatacollective.com/datasets/cmrxix9a7001rl407d629khq8",
-      "lastmod": "2026-07-23T13:05:01.760Z",
+      "lastmod": "2026-08-09T10:37:27.923Z",
       "name": "English Medical Speech Dataset",
-      "slug": "english-medical-speech-dataset-a967f7ef"
+      "slug": "english-medical-speech-dataset-cb8e2ad9"
     },
     {
       "id": "cmrxj0h4i001xo9079xnlw8fx",
