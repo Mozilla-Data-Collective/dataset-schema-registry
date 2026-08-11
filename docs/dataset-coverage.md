@@ -8,10 +8,10 @@ schema in this registry and which ones are still missing.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-10  
-**Total datasets in sitemap:** 1013  
+**Last updated:** 2026-08-11  
+**Total datasets in sitemap:** 1021  
 **Schemas registered:** 415 ✅  
-**Schemas missing:** 598 ❌  
+**Schemas missing:** 606 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1028,3 +1028,11 @@ schema in this registry and which ones are still missing.
 | `cmshzn02s00j1ml07fvxqooq9` | An Ewondo Sociocultural Dataset | `an-ewondo-sociocultural-dataset-bcb70080` | [link](https://mozilladatacollective.com/datasets/cmshzn02s00j1ml07fvxqooq9) | ❌ |
 | `cmsj5sayf01qdmi07mo2bphx0` | 🚧 Hazargi Multimodal Dataset 🚧 | `hazargi-multimodal-dataset-6dd88b19` | [link](https://mozilladatacollective.com/datasets/cmsj5sayf01qdmi07mo2bphx0) | ❌ |
 | `cmsja4wtp01t3mi07ug56oto9` | SKAD Ladino Speech Database (subset) | `skad-ladino-speech-database-subset-bced4996` | [link](https://mozilladatacollective.com/datasets/cmsja4wtp01t3mi07ug56oto9) | ❌ |
+| `cmsn74qwe04abmi078jayq3en` | PII Redact Urdu UOPF | `pii-redact-urdu-uopf-6c001cc9` | [link](https://mozilladatacollective.com/datasets/cmsn74qwe04abmi078jayq3en) | ❌ |
+| `cmsn7jexn04almi07mj46jkpu` | Advanced Geometrical Optics and Magnetism Problems and Solutions | `advanced-geometrical-optics-and-magnetis-b65f3586` | [link](https://mozilladatacollective.com/datasets/cmsn7jexn04almi07mj46jkpu) | ❌ |
+| `cmsn7nr5f04armi07di2fasn5` | Urdu-Sindhi Grapheme-to-Phoneme Dataset | `urdu-sindhi-grapheme-to-phoneme-dataset-753370e5` | [link](https://mozilladatacollective.com/datasets/cmsn7nr5f04armi07di2fasn5) | ❌ |
+| `cmsn89093000pl307fvts4byt` | Pakistan HSSC-I Mathematics Dataset | `pakistan-hssc-i-mathematics-dataset-e6ee8259` | [link](https://mozilladatacollective.com/datasets/cmsn89093000pl307fvts4byt) | ❌ |
+| `cmsn89f3u000tl3070jlokskm` | A Ngemba Sociocultural Dataset | `a-ngemba-sociocultural-dataset-1f3f9ce2` | [link](https://mozilladatacollective.com/datasets/cmsn89f3u000tl3070jlokskm) | ❌ |
+| `cmsn89yfd000xl307kucamt0m` | A Bulu Sociocultural Dataset | `a-bulu-sociocultural-dataset-a4cc6b32` | [link](https://mozilladatacollective.com/datasets/cmsn89yfd000xl307kucamt0m) | ❌ |
+| `cmsn8ao8t0011l307hquossmi` |  A Bamvele Sociocultural Dataset | `a-bamvele-sociocultural-dataset-48832038` | [link](https://mozilladatacollective.com/datasets/cmsn8ao8t0011l307hquossmi) | ❌ |
+| `cmsnteixi00gfmf07til46ayk` | 🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧 | `noakhali-10-hours-tts-male-speaker-300f426a` | [link](https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk) | ❌ |
