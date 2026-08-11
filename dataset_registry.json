@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T06:26:28.790942+00:00",
-  "total": 1013,
+  "updated_at": "2026-08-11T05:27:12.315177+00:00",
+  "total": 1021,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -7092,6 +7092,62 @@
       "lastmod": "2026-08-07T18:29:58.189Z",
       "name": "SKAD Ladino Speech Database (subset)",
       "slug": "skad-ladino-speech-database-subset-bced4996"
+    },
+    {
+      "id": "cmsn74qwe04abmi078jayq3en",
+      "url": "https://mozilladatacollective.com/datasets/cmsn74qwe04abmi078jayq3en",
+      "lastmod": "2026-08-10T12:16:56.366Z",
+      "name": "PII Redact Urdu UOPF",
+      "slug": "pii-redact-urdu-uopf-6c001cc9"
+    },
+    {
+      "id": "cmsn7jexn04almi07mj46jkpu",
+      "url": "https://mozilladatacollective.com/datasets/cmsn7jexn04almi07mj46jkpu",
+      "lastmod": "2026-08-10T12:28:20.700Z",
+      "name": "Advanced Geometrical Optics and Magnetism Problems and Solutions",
+      "slug": "advanced-geometrical-optics-and-magnetis-b65f3586"
+    },
+    {
+      "id": "cmsn7nr5f04armi07di2fasn5",
+      "url": "https://mozilladatacollective.com/datasets/cmsn7nr5f04armi07di2fasn5",
+      "lastmod": "2026-08-10T12:31:43.155Z",
+      "name": "Urdu-Sindhi Grapheme-to-Phoneme Dataset",
+      "slug": "urdu-sindhi-grapheme-to-phoneme-dataset-753370e5"
+    },
+    {
+      "id": "cmsn89093000pl307fvts4byt",
+      "url": "https://mozilladatacollective.com/datasets/cmsn89093000pl307fvts4byt",
+      "lastmod": "2026-08-10T12:48:14.727Z",
+      "name": "Pakistan HSSC-I Mathematics Dataset",
+      "slug": "pakistan-hssc-i-mathematics-dataset-e6ee8259"
+    },
+    {
+      "id": "cmsn89f3u000tl3070jlokskm",
+      "url": "https://mozilladatacollective.com/datasets/cmsn89f3u000tl3070jlokskm",
+      "lastmod": "2026-08-10T12:48:33.978Z",
+      "name": "A Ngemba Sociocultural Dataset",
+      "slug": "a-ngemba-sociocultural-dataset-1f3f9ce2"
+    },
+    {
+      "id": "cmsn89yfd000xl307kucamt0m",
+      "url": "https://mozilladatacollective.com/datasets/cmsn89yfd000xl307kucamt0m",
+      "lastmod": "2026-08-10T12:48:59.017Z",
+      "name": "A Bulu Sociocultural Dataset",
+      "slug": "a-bulu-sociocultural-dataset-a4cc6b32"
+    },
+    {
+      "id": "cmsn8ao8t0011l307hquossmi",
+      "url": "https://mozilladatacollective.com/datasets/cmsn8ao8t0011l307hquossmi",
+      "lastmod": "2026-08-10T12:49:32.477Z",
+      "name": " A Bamvele Sociocultural Dataset",
+      "slug": "a-bamvele-sociocultural-dataset-48832038"
+    },
+    {
+      "id": "cmsnteixi00gfmf07til46ayk",
+      "url": "https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk",
+      "lastmod": "2026-08-10T22:40:24.150Z",
+      "name": "🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧",
+      "slug": "noakhali-10-hours-tts-male-speaker-300f426a"
     }
   ]
 }
