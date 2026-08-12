@@ -6,10 +6,14 @@ on:
     paths:
       - mkdocs.yaml
       - registry/**
+      - docs/**
+      - src/dataset_schema_registry/**
   pull_request:
     paths:
       - mkdocs.yaml
       - registry/**
+      - docs/**
+      - src/dataset_schema_registry/**
   schedule:
     - cron: '0 5 * * *'   # sync registry every day at 05:00 UTC
     - cron: '0 6 * * *'   # build docs every day at 06:00 UTC
@@ -61,7 +65,11 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update dataset registry [skip ci]"
           git push
 
-  docs:
+  # Regenerates registry/index.json (the machine-readable index of which dataset
+  # IDs have a schema) and the coverage page derived from it, then publishes the
+  # docs.  Runs on every merge to main, so the index is current the moment a new
+  # schema lands.
+  index-and-docs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -98,14 +106,17 @@ jobs:
       - name: Pull latest commits (registry JSON may have just been pushed)
         run: git pull --rebase origin main
 
+      - name: Generate registry index
+        run: uv run python src/dataset_schema_registry/generate_index.py
+
       - name: Generate dataset coverage page
         run: uv run python src/dataset_schema_registry/generate_coverage.py
 
-      - name: Commit updated coverage page (push / schedule / dispatch only)
+      - name: Commit updated index and coverage page (push / schedule / dispatch only)
         if: ${{ github.event_name != 'pull_request' }}
         run: |
-          git add docs/dataset-coverage.md
-          git diff --cached --quiet || git commit -m "chore: update dataset coverage [skip ci]"
+          git add registry/index.json docs/dataset-coverage.md
+          git diff --cached --quiet || git commit -m "chore: update registry index and dataset coverage [skip ci]"
           git push
 
       - name: Build docs

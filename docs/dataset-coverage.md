@@ -3,6 +3,10 @@
 This page shows which datasets listed in the MDC platform have a registered
 schema in this registry and which ones are still missing.
 
+It is generated from [`registry/index.json`](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/index.json), the
+machine-readable index of the registry — use that file if you need this
+data programmatically.
+
 !!! info "How to add a schema"
     If your dataset is missing, open a pull-request and add a
     `registry/<dataset_id>/schema.yaml` file.  See the
@@ -1036,3 +1040,13 @@ schema in this registry and which ones are still missing.
 | `cmsn89yfd000xl307kucamt0m` | A Bulu Sociocultural Dataset | `a-bulu-sociocultural-dataset-a4cc6b32` | [link](https://mozilladatacollective.com/datasets/cmsn89yfd000xl307kucamt0m) | ❌ |
 | `cmsn8ao8t0011l307hquossmi` |  A Bamvele Sociocultural Dataset | `a-bamvele-sociocultural-dataset-48832038` | [link](https://mozilladatacollective.com/datasets/cmsn8ao8t0011l307hquossmi) | ❌ |
 | `cmsnteixi00gfmf07til46ayk` | 🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧 | `noakhali-10-hours-tts-male-speaker-300f426a` | [link](https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk) | ❌ |
+
+## Schemas without a platform dataset
+
+These schemas live in the registry but their dataset ID is not listed on
+the MDC platform — usually a dataset that is unpublished, renamed or used
+for testing.
+
+| ID | Schema |
+|----|--------|
+| `cmiq2s3q5000fo207k9g6g7ou` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmiq2s3q5000fo207k9g6g7ou/schema.yaml) |

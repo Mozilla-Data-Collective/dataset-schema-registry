@@ -8,6 +8,7 @@ dataset IDs to their `schema.yaml` files.
 
 ```text
 registry/
+├── index.json           # generated: which dataset IDs have a schema
 └── <dataset_id>/
     └── schema.yaml
 ```
@@ -61,6 +62,69 @@ https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registr
 |---|---|
 | `main` | Latest schema |
 | `abc1234` | Exact commit SHA |
+
+## Registry index
+
+To discover which dataset IDs have a schema — without crawling the repository —
+read the index at its stable path:
+
+```
+https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/index.json
+```
+
+It is regenerated and committed by this repository's CI on every merge to
+`main`, so it always matches the schemas on `main`. The
+[Dataset Coverage](dataset-coverage.md) page is rendered from it.
+
+```json
+{
+  "index_schema_version": 1,
+  "generated_at": "2026-08-12T16:46:58.594999+00:00",
+  "repository": "Mozilla-Data-Collective/dataset-schema-registry",
+  "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
+  "counts": {
+    "listed_datasets": 1021,
+    "with_schema": 415,
+    "without_schema": 606,
+    "schemas_total": 416,
+    "unlisted_schemas": 1
+  },
+  "datasets": [
+    {
+      "id": "cmhkl8z2a007rnr07p9bm5kmz",
+      "has_schema": true,
+      "listed": true,
+      "name": "Tetelancingo Nahuatl",
+      "slug": "tetelancingo-nahuatl-4dd81077",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmhkl8z2a007rnr07p9bm5kmz",
+      "lastmod": "2026-01-08T18:54:46.535Z",
+      "schema_path": "registry/cmhkl8z2a007rnr07p9bm5kmz/schema.yaml",
+      "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmhkl8z2a007rnr07p9bm5kmz/schema.yaml"
+    }
+  ]
+}
+```
+
+| Field | Meaning |
+|---|---|
+| `has_schema` | Whether `registry/<id>/schema.yaml` exists on `main` |
+| `listed` | Whether the MDC platform lists this dataset (`false` for a schema whose dataset is unpublished or removed) |
+| `schema_path` / `schema_url` | Repository path and raw URL of the schema, `null` when `has_schema` is `false` |
+
+```python
+import json
+import urllib.request
+
+INDEX_URL = (
+    "https://raw.githubusercontent.com/Mozilla-Data-Collective"
+    "/dataset-schema-registry/main/registry/index.json"
+)
+
+with urllib.request.urlopen(INDEX_URL) as r:
+    index = json.load(r)
+
+with_schema = {d["id"] for d in index["datasets"] if d["has_schema"]}
+```
 
 ## Fetching a schema
 
