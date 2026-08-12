@@ -290,6 +290,24 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dataset Coverage
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -306,6 +324,36 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#schemas-without-a-platform-dataset" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Schemas without a platform dataset
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -331,6 +379,25 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#schemas-without-a-platform-dataset" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Schemas without a platform dataset
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -352,6 +419,9 @@
 <h1 id="dataset-schema-coverage">Dataset Schema Coverage</h1>
 <p>This page shows which datasets listed in the MDC platform have a registered
 schema in this registry and which ones are still missing.</p>
+<p>It is generated from <a href="https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/index.json"><code>registry/index.json</code></a>, the
+machine-readable index of the registry — use that file if you need this
+data programmatically.</p>
 <div class="admonition info">
 <p class="admonition-title">How to add a schema</p>
 <p>If your dataset is missing, open a pull-request and add a
@@ -7519,6 +7589,24 @@ schema in this registry and which ones are still missing.</p>
 <td><code>noakhali-10-hours-tts-male-speaker-300f426a</code></td>
 <td><a href="https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk">link</a></td>
 <td style="text-align: center;">❌</td>
+</tr>
+</tbody>
+</table>
+<h2 id="schemas-without-a-platform-dataset">Schemas without a platform dataset</h2>
+<p>These schemas live in the registry but their dataset ID is not listed on
+the MDC platform — usually a dataset that is unpublished, renamed or used
+for testing.</p>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Schema</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>cmiq2s3q5000fo207k9g6g7ou</code></td>
+<td><a href="https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmiq2s3q5000fo207k9g6g7ou/schema.yaml">schema.yaml</a></td>
 </tr>
 </tbody>
 </table>
