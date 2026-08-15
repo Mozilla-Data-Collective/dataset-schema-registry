@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-12  
-**Total datasets in sitemap:** 1021  
+**Last updated:** 2026-08-15  
+**Total datasets in sitemap:** 1022  
 **Schemas registered:** 415 ✅  
-**Schemas missing:** 606 ❌  
+**Schemas missing:** 607 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -222,14 +222,14 @@ data programmatically.
 | `cmn6ay1xg016jnv07drtmw7qo` | Bamun-French Parallel Corpus 2.0 | `bamun-french-parallel-corpus-2-0-2637e53d` | [link](https://mozilladatacollective.com/datasets/cmn6ay1xg016jnv07drtmw7qo) | ❌ |
 | `cmndjfw9d000qmj070dece40f` | Yezoum_ALCAM-MultimodalDataset | `yezoum-alcam-multimodaldataset-29a744fa` | [link](https://mozilladatacollective.com/datasets/cmndjfw9d000qmj070dece40f) | ❌ |
 | `cmngbf1tt0050nn07i49aebnk` | Sentence translation difficulty in Spanish - BOUQuET | `sentence-translation-difficulty-in-spani-355c4d15` | [link](https://mozilladatacollective.com/datasets/cmngbf1tt0050nn07i49aebnk) | ❌ |
-| `cmnggocgg007ymh079k30st39` | Kannada Time Aligned Speech Corpus | `kannada-time-aligned-speech-corpus-6c996d55` | [link](https://mozilladatacollective.com/datasets/cmnggocgg007ymh079k30st39) | ❌ |
-| `cmnggqr8z0082mh07vbsbm6t5` | Saraiki 10 Hours  TTS Dataset | `saraiki-10-hours-tts-dataset-8774ddeb` | [link](https://mozilladatacollective.com/datasets/cmnggqr8z0082mh07vbsbm6t5) | ❌ |
+| `cmnggocgg007ymh079k30st39` | Kannada Time Aligned Speech Corpus | `kannada-time-aligned-speech-corpus-29edce10` | [link](https://mozilladatacollective.com/datasets/cmnggocgg007ymh079k30st39) | ❌ |
+| `cmnggqr8z0082mh07vbsbm6t5` | Saraiki 10 Hours  TTS Dataset | `saraiki-10-hours-tts-dataset-db3de0d4` | [link](https://mozilladatacollective.com/datasets/cmnggqr8z0082mh07vbsbm6t5) | ❌ |
 | `cmnhgmkgg00wimh07wc0v3s49` | RFE/RL Persian News Text Corpus | `rfe-rl-persian-news-text-corpus-c5838e9b` | [link](https://mozilladatacollective.com/datasets/cmnhgmkgg00wimh07wc0v3s49) | ❌ |
 | `cmnhhi0by00zknn07edrnd82e` | Chuvash TTS | `chuvash-tts-c8d599ba` | [link](https://mozilladatacollective.com/datasets/cmnhhi0by00zknn07edrnd82e) | ❌ |
 | `cmnhi28fc00xpmh07fwall3wn` | Territórios Digitais | `territ-rios-digitais-ee5b55d2` | [link](https://mozilladatacollective.com/datasets/cmnhi28fc00xpmh07fwall3wn) | ❌ |
 | `cmnhjbnjp0115mh07kiha0rei` | Bamun-TTS-Dataset (male voice) | `bamun-tts-dataset-male-voice-ec8d8b52` | [link](https://mozilladatacollective.com/datasets/cmnhjbnjp0115mh07kiha0rei) | ❌ |
 | `cmnmy7tmf02k6ml07m7vvcxzr` | ViQua² — Visual Question-answering about Quantities | `viqua-visual-question-answering-about-qu-3e8deb4e` | [link](https://mozilladatacollective.com/datasets/cmnmy7tmf02k6ml07m7vvcxzr) | ❌ |
-| `cmnmyptri02glo107p5cx5por` | Tamil Time Aligned Speech Dataset | `tamil-time-aligned-speech-dataset-7d228a5b` | [link](https://mozilladatacollective.com/datasets/cmnmyptri02glo107p5cx5por) | ❌ |
+| `cmnmyptri02glo107p5cx5por` | Tamil Time Aligned Speech Dataset | `tamil-time-aligned-speech-dataset-ded4b0ab` | [link](https://mozilladatacollective.com/datasets/cmnmyptri02glo107p5cx5por) | ❌ |
 | `cmnopto3q00t0mf07v2dtc0ej` | Hausa-TTS-Dataset | `hausa-tts-dataset-b69efbb0` | [link](https://mozilladatacollective.com/datasets/cmnopto3q00t0mf07v2dtc0ej) | ❌ |
 | `cmnopvxxr00t6mf07nm4cp4qs` | Bulu_ALCAM-MultimodalDataset | `bulu-alcam-multimodaldataset-7d63bbe5` | [link](https://mozilladatacollective.com/datasets/cmnopvxxr00t6mf07nm4cp4qs) | ❌ |
 | `cmnoqtoq900ugmf077kiuny8y` | IBT Torwali Literature Corpus | `ibt-torwali-literature-corpus-7bb922e0` | [link](https://mozilladatacollective.com/datasets/cmnoqtoq900ugmf077kiuny8y) | ❌ |
@@ -253,7 +253,7 @@ data programmatically.
 | `cmnyln0rl0012nx07wd8cnyis` | RFE/RL Georgian News Text Corpus | `rfe-rl-georgian-news-text-corpus-f1a6c2aa` | [link](https://mozilladatacollective.com/datasets/cmnyln0rl0012nx07wd8cnyis) | ❌ |
 | `cmnylnboa001gnr076jrr8vhp` | RFE/RL Kyrgyz News Text Corpus | `rfe-rl-kyrgyz-news-text-corpus-5c030f3b` | [link](https://mozilladatacollective.com/datasets/cmnylnboa001gnr076jrr8vhp) | ❌ |
 | `cmnym5gkr0033nx07oz0gg63f` | RFE/RL Turkmen News Text Corpus | `rfe-rl-turkmen-news-text-corpus-96b0913c` | [link](https://mozilladatacollective.com/datasets/cmnym5gkr0033nx07oz0gg63f) | ❌ |
-| `cmnypcx5p004jnr07k6ptxwcq` | Punjabi 10 Hours TTS  | `punjabi-10-hours-tts-cfde03ed` | [link](https://mozilladatacollective.com/datasets/cmnypcx5p004jnr07k6ptxwcq) | ❌ |
+| `cmnypcx5p004jnr07k6ptxwcq` | Punjabi 10 Hours TTS  | `punjabi-10-hours-tts-73c6d9d5` | [link](https://mozilladatacollective.com/datasets/cmnypcx5p004jnr07k6ptxwcq) | ❌ |
 | `cmnypmsyf005enx07bc7nr16l` | RFE/RL Tajik News Text Corpus | `rfe-rl-tajik-news-text-corpus-13dde764` | [link](https://mozilladatacollective.com/datasets/cmnypmsyf005enx07bc7nr16l) | ❌ |
 | `cmnyq2hwx005qnx07lakjchhb` | RFE/RL Romanian (Moldova) News Text Corpus | `rfe-rl-romanian-moldova-news-text-corpus-53fd1330` | [link](https://mozilladatacollective.com/datasets/cmnyq2hwx005qnx07lakjchhb) | ❌ |
 | `cmnyx788r00d3nr07u04smvap` | LibriVox Croatian TTS Male Voice | `librivox-croatian-tts-male-voice-52ba2e48` | [link](https://mozilladatacollective.com/datasets/cmnyx788r00d3nr07u04smvap) | ❌ |
@@ -1040,6 +1040,7 @@ data programmatically.
 | `cmsn89yfd000xl307kucamt0m` | A Bulu Sociocultural Dataset | `a-bulu-sociocultural-dataset-a4cc6b32` | [link](https://mozilladatacollective.com/datasets/cmsn89yfd000xl307kucamt0m) | ❌ |
 | `cmsn8ao8t0011l307hquossmi` |  A Bamvele Sociocultural Dataset | `a-bamvele-sociocultural-dataset-48832038` | [link](https://mozilladatacollective.com/datasets/cmsn8ao8t0011l307hquossmi) | ❌ |
 | `cmsnteixi00gfmf07til46ayk` | 🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧 | `noakhali-10-hours-tts-male-speaker-300f426a` | [link](https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk) | ❌ |
+| `cmssxpm5q02ylmf07ro4vzrls` | Nwāchā Munā | `nw-ch-mun-15ca8dad` | [link](https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls) | ❌ |
 
 ## Schemas without a platform dataset
 

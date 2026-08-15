@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-08-12T16:46:58.594999+00:00",
+  "generated_at": "2026-08-15T05:09:06.862577+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1021,
+    "listed_datasets": 1022,
     "with_schema": 415,
-    "without_schema": 606,
+    "without_schema": 607,
     "schemas_total": 416,
     "unlisted_schemas": 1
   },
@@ -2260,9 +2260,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Kannada Time Aligned Speech Corpus",
-      "slug": "kannada-time-aligned-speech-corpus-6c996d55",
+      "slug": "kannada-time-aligned-speech-corpus-29edce10",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmnggocgg007ymh079k30st39",
-      "lastmod": "2026-04-01T19:51:12.400Z",
+      "lastmod": "2026-08-14T15:48:58.850Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -2271,9 +2271,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Saraiki 10 Hours  TTS Dataset",
-      "slug": "saraiki-10-hours-tts-dataset-8774ddeb",
+      "slug": "saraiki-10-hours-tts-dataset-db3de0d4",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmnggqr8z0082mh07vbsbm6t5",
-      "lastmod": "2026-04-02T16:12:38.525Z",
+      "lastmod": "2026-08-14T15:48:15.267Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -2337,9 +2337,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Tamil Time Aligned Speech Dataset",
-      "slug": "tamil-time-aligned-speech-dataset-7d228a5b",
+      "slug": "tamil-time-aligned-speech-dataset-ded4b0ab",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmnmyptri02glo107p5cx5por",
-      "lastmod": "2026-04-06T09:02:51.630Z",
+      "lastmod": "2026-08-14T15:49:16.314Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -2601,9 +2601,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Punjabi 10 Hours TTS ",
-      "slug": "punjabi-10-hours-tts-cfde03ed",
+      "slug": "punjabi-10-hours-tts-73c6d9d5",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmnypcx5p004jnr07k6ptxwcq",
-      "lastmod": "2026-04-14T14:14:07.069Z",
+      "lastmod": "2026-08-14T15:48:30.648Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -11250,6 +11250,17 @@
       "slug": "noakhali-10-hours-tts-male-speaker-300f426a",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk",
       "lastmod": "2026-08-10T22:40:24.150Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmssxpm5q02ylmf07ro4vzrls",
+      "has_schema": false,
+      "listed": true,
+      "name": "Nwāchā Munā",
+      "slug": "nw-ch-mun-15ca8dad",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls",
+      "lastmod": "2026-08-14T13:19:56.287Z",
       "schema_path": null,
       "schema_url": null
     }
