@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T06:27:38.447678+00:00",
-  "total": 1021,
+  "updated_at": "2026-08-15T05:08:49.458887+00:00",
+  "total": 1022,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -1426,16 +1426,16 @@
     {
       "id": "cmnggocgg007ymh079k30st39",
       "url": "https://mozilladatacollective.com/datasets/cmnggocgg007ymh079k30st39",
-      "lastmod": "2026-04-01T19:51:12.400Z",
+      "lastmod": "2026-08-14T15:48:58.850Z",
       "name": "Kannada Time Aligned Speech Corpus",
-      "slug": "kannada-time-aligned-speech-corpus-6c996d55"
+      "slug": "kannada-time-aligned-speech-corpus-29edce10"
     },
     {
       "id": "cmnggqr8z0082mh07vbsbm6t5",
       "url": "https://mozilladatacollective.com/datasets/cmnggqr8z0082mh07vbsbm6t5",
-      "lastmod": "2026-04-02T16:12:38.525Z",
+      "lastmod": "2026-08-14T15:48:15.267Z",
       "name": "Saraiki 10 Hours  TTS Dataset",
-      "slug": "saraiki-10-hours-tts-dataset-8774ddeb"
+      "slug": "saraiki-10-hours-tts-dataset-db3de0d4"
     },
     {
       "id": "cmnhgmkgg00wimh07wc0v3s49",
@@ -1475,9 +1475,9 @@
     {
       "id": "cmnmyptri02glo107p5cx5por",
       "url": "https://mozilladatacollective.com/datasets/cmnmyptri02glo107p5cx5por",
-      "lastmod": "2026-04-06T09:02:51.630Z",
+      "lastmod": "2026-08-14T15:49:16.314Z",
       "name": "Tamil Time Aligned Speech Dataset",
-      "slug": "tamil-time-aligned-speech-dataset-7d228a5b"
+      "slug": "tamil-time-aligned-speech-dataset-ded4b0ab"
     },
     {
       "id": "cmnopto3q00t0mf07v2dtc0ej",
@@ -1643,9 +1643,9 @@
     {
       "id": "cmnypcx5p004jnr07k6ptxwcq",
       "url": "https://mozilladatacollective.com/datasets/cmnypcx5p004jnr07k6ptxwcq",
-      "lastmod": "2026-04-14T14:14:07.069Z",
+      "lastmod": "2026-08-14T15:48:30.648Z",
       "name": "Punjabi 10 Hours TTS ",
-      "slug": "punjabi-10-hours-tts-cfde03ed"
+      "slug": "punjabi-10-hours-tts-73c6d9d5"
     },
     {
       "id": "cmnypmsyf005enx07bc7nr16l",
@@ -7148,6 +7148,13 @@
       "lastmod": "2026-08-10T22:40:24.150Z",
       "name": "🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧",
       "slug": "noakhali-10-hours-tts-male-speaker-300f426a"
+    },
+    {
+      "id": "cmssxpm5q02ylmf07ro4vzrls",
+      "url": "https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls",
+      "lastmod": "2026-08-14T13:19:56.287Z",
+      "name": "Nwāchā Munā",
+      "slug": "nw-ch-mun-15ca8dad"
     }
   ]
 }
