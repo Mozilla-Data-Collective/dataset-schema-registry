@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-15  
+**Last updated:** 2026-08-16  
 **Total datasets in sitemap:** 1022  
 **Schemas registered:** 415 ✅  
 **Schemas missing:** 607 ❌  
@@ -1040,7 +1040,7 @@ data programmatically.
 | `cmsn89yfd000xl307kucamt0m` | A Bulu Sociocultural Dataset | `a-bulu-sociocultural-dataset-a4cc6b32` | [link](https://mozilladatacollective.com/datasets/cmsn89yfd000xl307kucamt0m) | ❌ |
 | `cmsn8ao8t0011l307hquossmi` |  A Bamvele Sociocultural Dataset | `a-bamvele-sociocultural-dataset-48832038` | [link](https://mozilladatacollective.com/datasets/cmsn8ao8t0011l307hquossmi) | ❌ |
 | `cmsnteixi00gfmf07til46ayk` | 🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧 | `noakhali-10-hours-tts-male-speaker-300f426a` | [link](https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk) | ❌ |
-| `cmssxpm5q02ylmf07ro4vzrls` | Nwāchā Munā | `nw-ch-mun-15ca8dad` | [link](https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls) | ❌ |
+| `cmssxpm5q02ylmf07ro4vzrls` | Nwāchā Munā | `nw-ch-mun-f001a03f` | [link](https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls) | ❌ |
 
 ## Schemas without a platform dataset
 

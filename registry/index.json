@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-08-15T05:09:06.862577+00:00",
+  "generated_at": "2026-08-16T05:10:30.518209+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -11258,9 +11258,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Nwāchā Munā",
-      "slug": "nw-ch-mun-15ca8dad",
+      "slug": "nw-ch-mun-f001a03f",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls",
-      "lastmod": "2026-08-14T13:19:56.287Z",
+      "lastmod": "2026-08-15T16:08:40.138Z",
       "schema_path": null,
       "schema_url": null
     }
