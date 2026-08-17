@@ -1,5 +1,6 @@
 dataset_id: "cmp5c60at015po007bbql6h3s"
 task: "OTH"
+root_strategy: "index"
 format: "tsv"
 
 index_file: "commonlid_20251209.tsv"

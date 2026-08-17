@@ -1,5 +1,6 @@
 dataset_id: "cmrdfjave008uo307ett7d4km"
 task: "ASR"
+root_strategy: "index"
 format: "tsv"
 index_file: "metadata.tsv"
 base_audio_path: "mp3"

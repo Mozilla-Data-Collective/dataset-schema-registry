@@ -1,5 +1,6 @@
 dataset_id: cmhkl8z2a007rnr07p9bm5kmz
 task: ASR
+root_strategy: "index"
 index_file: corpus.tsv
 base_audio_path: audios/
 

@@ -1,5 +1,6 @@
 dataset_id: cmihkoth10246md07dtojxehg
 task: ASR
+root_strategy: "index"
 index_file: Metadata.csv
 base_audio_path:
 - Speaker_id_1

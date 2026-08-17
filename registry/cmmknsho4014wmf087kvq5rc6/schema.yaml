@@ -1,5 +1,6 @@
 dataset_id: cmmknsho4014wmf087kvq5rc6
 task: TTS
+root_strategy: "index"
 index_file: metadata.csv
 has_header: false
 separator: "|"

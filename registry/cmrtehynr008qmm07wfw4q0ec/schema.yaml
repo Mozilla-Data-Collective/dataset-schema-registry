@@ -1,5 +1,6 @@
 dataset_id: cmrtehynr008qmm07wfw4q0ec
 task: ASR
+root_strategy: "index"
 format: tsv
 index_file: index.tsv
 columns:

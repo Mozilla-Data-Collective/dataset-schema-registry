@@ -1,5 +1,6 @@
 dataset_id: cmkfm9fbl00nto0070sdcrak2
 task: TTS
+root_strategy: "index"
 index_file: effectai_sentence_recording_dataset.csv
 base_audio_path:
 - audio
