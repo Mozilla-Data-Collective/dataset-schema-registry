@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-16  
-**Total datasets in sitemap:** 1022  
+**Last updated:** 2026-08-18  
+**Total datasets in sitemap:** 1023  
 **Schemas registered:** 415 ✅  
-**Schemas missing:** 607 ❌  
+**Schemas missing:** 608 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -437,7 +437,7 @@ data programmatically.
 | `cmpzgijrk001cnx0732jcpyc9` | OSHA Severe Injuries by Employer 2015-2025  | `osha-severe-injuries-by-employer-2015-20-d890e565` | [link](https://mozilladatacollective.com/datasets/cmpzgijrk001cnx0732jcpyc9) | ❌ |
 | `cmpzgm29a001hnx07px74x658` | Buscadores Temáticos de la Plataforma Nacional de Transparencia (PNT) de México  | `buscadores-tem-ticos-de-la-plataforma-na-f9a77536` | [link](https://mozilladatacollective.com/datasets/cmpzgm29a001hnx07px74x658) | ❌ |
 | `cmpzkqaqu0065nv070bdv5hfj` | TermOfis terminology database Breton-French | `termofis-terminology-database-breton-fre-bef3c0e5` | [link](https://mozilladatacollective.com/datasets/cmpzkqaqu0065nv070bdv5hfj) | ❌ |
-| `cmq16k8qa01bvnr07i2x92yry` | Brazilian Sign Language (Libras) Healthcare Corpus (Non Commercial) | `brazilian-sign-language-libras-healthcar-ab954a74` | [link](https://mozilladatacollective.com/datasets/cmq16k8qa01bvnr07i2x92yry) | ❌ |
+| `cmq16k8qa01bvnr07i2x92yry` | Brazilian Sign Language (Libras) Healthcare Corpus (Non Commercial) | `brazilian-sign-language-libras-healthcar-d400cf18` | [link](https://mozilladatacollective.com/datasets/cmq16k8qa01bvnr07i2x92yry) | ❌ |
 | `cmq5ga41w007xmg07i73vv0j0` | CoVoST 2 English - Mongolian | `covost-2-english-mongolian-ae5954b4` | [link](https://mozilladatacollective.com/datasets/cmq5ga41w007xmg07i73vv0j0) | ❌ |
 | `cmq6q6tjz0195o3078oodsoeu` | AIRI AI4TALK Meadow Mari-Russian Translation | `airi-ai4talk-meadow-mari-russian-transla-c20ca463` | [link](https://mozilladatacollective.com/datasets/cmq6q6tjz0195o3078oodsoeu) | ❌ |
 | `cmq80dcwp00xrl20740m9o1k5` | Public Company Federal Compliance Records — Q3 2026 | `public-company-federal-compliance-record-e28404f3` | [link](https://mozilladatacollective.com/datasets/cmq80dcwp00xrl20740m9o1k5) | ❌ |
@@ -918,9 +918,9 @@ data programmatically.
 | `cmrbac56k00lbmm070txylq42` | Eton-TTS-Dataset | `eton-tts-dataset-511d7dbe` | [link](https://mozilladatacollective.com/datasets/cmrbac56k00lbmm070txylq42) | ❌ |
 | `cmrbacjej00lfmm07miqrz23s` | Tupuri-Bango_TTS-Dataset (female voice) | `tupuri-bango-tts-dataset-female-voice-1f09dd2c` | [link](https://mozilladatacollective.com/datasets/cmrbacjej00lfmm07miqrz23s) | ❌ |
 | `cmrbad2ho00o5nz07t3vjmdnd` | Adjuntos Solicitudes Información — Aguascalientes | `adjuntos-solicitudes-informaci-n-aguasca-fa5dc9c0` | [link](https://mozilladatacollective.com/datasets/cmrbad2ho00o5nz07t3vjmdnd) | ❌ |
-| `cmrdfjave008uo307ett7d4km` | Medical Domain Mexican Spanish Speech Corpus (MEDMEX) | `medical-domain-mexican-spanish-speech-co-b4770c2e` | [link](https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km) | ✅ |
-| `cmrdfk4ao007po1070z5f4kem` | Conversational Speech in Gujarati in the Medical Domain | `conversational-speech-in-gujarati-in-the-f75484ee` | [link](https://mozilladatacollective.com/datasets/cmrdfk4ao007po1070z5f4kem) | ✅ |
-| `cmrftle0s01fsnv0755jw602i` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-56485668` | [link](https://mozilladatacollective.com/datasets/cmrftle0s01fsnv0755jw602i) | ❌ |
+| `cmrdfjave008uo307ett7d4km` | Medical Domain Mexican Spanish Speech Corpus (MEDMEX) | `medical-domain-mexican-spanish-speech-co-a6a06774` | [link](https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km) | ✅ |
+| `cmrdfk4ao007po1070z5f4kem` | Conversational Speech in Gujarati in the Medical Domain | `conversational-speech-in-gujarati-in-the-7cd8a046` | [link](https://mozilladatacollective.com/datasets/cmrdfk4ao007po1070z5f4kem) | ✅ |
+| `cmrftle0s01fsnv0755jw602i` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-454a9bd4` | [link](https://mozilladatacollective.com/datasets/cmrftle0s01fsnv0755jw602i) | ❌ |
 | `cmrkqy18t006imm074waw5jbg` | Kannada Text Corpus | `kannada-text-corpus-b95eb8c6` | [link](https://mozilladatacollective.com/datasets/cmrkqy18t006imm074waw5jbg) | ❌ |
 | `cmrkuhnzh0001mp07xtyjzld0` | Adjuntos Solicitudes Información — Estado de México | `adjuntos-solicitudes-informaci-n-estado-197b55d6` | [link](https://mozilladatacollective.com/datasets/cmrkuhnzh0001mp07xtyjzld0) | ❌ |
 | `cmrl1mofx005qnu07sa7jeue5` | Adjuntos Solicitudes Información — Oaxaca | `adjuntos-solicitudes-informaci-n-oaxaca-11734e88` | [link](https://mozilladatacollective.com/datasets/cmrl1mofx005qnu07sa7jeue5) | ❌ |
@@ -951,11 +951,11 @@ data programmatically.
 | `cmrm1gl0t00x9mp075i3giasa` | Adjuntos Solicitudes Información — Michoacán | `adjuntos-solicitudes-informaci-n-michoac-b4edcb79` | [link](https://mozilladatacollective.com/datasets/cmrm1gl0t00x9mp075i3giasa) | ❌ |
 | `cmrm1gtso00xdmp074tkb66n0` | Adjuntos Solicitudes Información — Morelos | `adjuntos-solicitudes-informaci-n-morelos-2dbe7e51` | [link](https://mozilladatacollective.com/datasets/cmrm1gtso00xdmp074tkb66n0) | ❌ |
 | `cmrm1h4kl00xhmp07cx25h9r2` | Adjuntos Solicitudes Información — Federación — EPN | `adjuntos-solicitudes-informaci-n-federac-5d004e69` | [link](https://mozilladatacollective.com/datasets/cmrm1h4kl00xhmp07cx25h9r2) | ❌ |
-| `cmrm237q100yfmp07v9kl91i5` | Conversational Speech in Manipuri in the Medical Domain | `conversational-speech-in-manipuri-in-the-b6df6f16` | [link](https://mozilladatacollective.com/datasets/cmrm237q100yfmp07v9kl91i5) | ✅ |
+| `cmrm237q100yfmp07v9kl91i5` | Conversational Speech in Manipuri in the Medical Domain | `conversational-speech-in-manipuri-in-the-dbfa1aec` | [link](https://mozilladatacollective.com/datasets/cmrm237q100yfmp07v9kl91i5) | ✅ |
 | `cmrm59m4o010fmp07mm8uzfye` | Adjuntos Solicitudes Información — Federación — AMLO 2023–2025 | `adjuntos-solicitudes-informaci-n-federac-147768de` | [link](https://mozilladatacollective.com/datasets/cmrm59m4o010fmp07mm8uzfye) | ❌ |
 | `cmrm9cjx0015fmp07nxs2ad35` | Adjuntos Solicitudes Información — Federación — AMLO 2019–2022 | `adjuntos-solicitudes-informaci-n-federac-c5a10587` | [link](https://mozilladatacollective.com/datasets/cmrm9cjx0015fmp07nxs2ad35) | ❌ |
-| `cmrmkmodd01h0nu07rkbq6yu9` | Conversational Speech in Manipuri in the Finance Domain | `conversational-speech-in-manipuri-in-the-1824c217` | [link](https://mozilladatacollective.com/datasets/cmrmkmodd01h0nu07rkbq6yu9) | ✅ |
-| `cmrmkr3nh01h4nu07gqsvfckc` | Conversational Speech in Gujarati in the Finance Domain | `conversational-speech-in-gujarati-in-the-97e4d522` | [link](https://mozilladatacollective.com/datasets/cmrmkr3nh01h4nu07gqsvfckc) | ✅ |
+| `cmrmkmodd01h0nu07rkbq6yu9` | Conversational Speech in Manipuri in the Finance Domain | `conversational-speech-in-manipuri-in-the-a8f3b050` | [link](https://mozilladatacollective.com/datasets/cmrmkmodd01h0nu07rkbq6yu9) | ✅ |
+| `cmrmkr3nh01h4nu07gqsvfckc` | Conversational Speech in Gujarati in the Finance Domain | `conversational-speech-in-gujarati-in-the-beb5451d` | [link](https://mozilladatacollective.com/datasets/cmrmkr3nh01h4nu07gqsvfckc) | ✅ |
 | `cmrnmk9ux000hmc07llq1targ` | Adjuntos Solicitudes Información — Federación — VFQ | `adjuntos-solicitudes-informaci-n-federac-966df728` | [link](https://mozilladatacollective.com/datasets/cmrnmk9ux000hmc07llq1targ) | ❌ |
 | `cmroyatmb00wko007rt1g1hr2` | SKAD Ladino Parallel Corpus | `skad-ladino-parallel-corpus-dafb16b2` | [link](https://mozilladatacollective.com/datasets/cmroyatmb00wko007rt1g1hr2) | ❌ |
 | `cmroyc7m900wqo007okjs2jp3` | 🚧 Multi-Subject Human Pose & Facial Expression Dataset (Studio, 4K) 🚧 | `multi-subject-human-pose-facial-expressi-a86a7482` | [link](https://mozilladatacollective.com/datasets/cmroyc7m900wqo007okjs2jp3) | ❌ |
@@ -993,54 +993,55 @@ data programmatically.
 | `cmrv27qeq004pnu07w5uzvy6l` | 🚧 Hazargi-English Parallel Text Corpus 🚧  | `hazargi-english-parallel-text-corpus-e0dfb7fb` | [link](https://mozilladatacollective.com/datasets/cmrv27qeq004pnu07w5uzvy6l) | ❌ |
 | `cmrv27zhy004xnu07lirnoi3g` | 🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧 | `single-speaker-urdu-tts-dataset-female-s-909a5049` | [link](https://mozilladatacollective.com/datasets/cmrv27zhy004xnu07lirnoi3g) | ❌ |
 | `cmrw1urb2001nnu07i6vv0vea` | Bamun-TTS-Dataset (female voice) | `bamun-tts-dataset-female-voice-d415a546` | [link](https://mozilladatacollective.com/datasets/cmrw1urb2001nnu07i6vv0vea) | ❌ |
-| `cmrw4y41y003jnv07zbe99p27` | Urdu Medical SFT | `urdu-medical-sft-5c0a6fe9` | [link](https://mozilladatacollective.com/datasets/cmrw4y41y003jnv07zbe99p27) | ❌ |
+| `cmrw4y41y003jnv07zbe99p27` | Urdu Medical SFT | `urdu-medical-sft-6766869c` | [link](https://mozilladatacollective.com/datasets/cmrw4y41y003jnv07zbe99p27) | ❌ |
 | `cmrw51wse003tnv07gf6njlzk` | A Gbaya Sociocultural Dataset | `a-gbaya-sociocultural-dataset-c3a073db` | [link](https://mozilladatacollective.com/datasets/cmrw51wse003tnv07gf6njlzk) | ❌ |
 | `cmrw52bhb003xnv07ial77067` | A Foulbe / Pular Sociocultural Dataset | `a-foulbe-pular-sociocultural-dataset-f0c6daf3` | [link](https://mozilladatacollective.com/datasets/cmrw52bhb003xnv07ial77067) | ❌ |
 | `cmrw5311c0046nu0747csrilw` | A Bum Sociocultural Dataset | `a-bum-sociocultural-dataset-99513198` | [link](https://mozilladatacollective.com/datasets/cmrw5311c0046nu0747csrilw) | ❌ |
-| `cmrw6gnqc005pnv073f87ulq7` | Syntheic Urdu Audios | `syntheic-urdu-audios-37580e10` | [link](https://mozilladatacollective.com/datasets/cmrw6gnqc005pnv073f87ulq7) | ❌ |
+| `cmrw6gnqc005pnv073f87ulq7` | Syntheic Urdu Audios | `syntheic-urdu-audios-081134ab` | [link](https://mozilladatacollective.com/datasets/cmrw6gnqc005pnv073f87ulq7) | ❌ |
 | `cmrwm2vcy00hhnu07p3z8lshx` | Kumyk Proverbs and Sayings Text Corpus | `kumyk-proverbs-and-sayings-text-corpus-2f2de21e` | [link](https://mozilladatacollective.com/datasets/cmrwm2vcy00hhnu07p3z8lshx) | ❌ |
 | `cmrxfn05r014znu07ub3muel9` | BAHANA-Speech Corpus of English Learners from Indonesia | `bahana-speech-corpus-of-english-learners-73f9997f` | [link](https://mozilladatacollective.com/datasets/cmrxfn05r014znu07ub3muel9) | ❌ |
-| `cmrxgok02015onu07fk8qxx8v` | Urdu Financial Phrasebank | `urdu-financial-phrasebank-25d32275` | [link](https://mozilladatacollective.com/datasets/cmrxgok02015onu07fk8qxx8v) | ❌ |
-| `cmrxgplej014vnv07xy4zob5l` | Helpful and Harmless RLHF Urdu | `helpful-and-harmless-rlhf-urdu-bca741f5` | [link](https://mozilladatacollective.com/datasets/cmrxgplej014vnv07xy4zob5l) | ❌ |
-| `cmrxgqrj8014znv07t3j3psj3` | Urdu Legal Instruct | `urdu-legal-instruct-1659d377` | [link](https://mozilladatacollective.com/datasets/cmrxgqrj8014znv07t3j3psj3) | ❌ |
-| `cmrxhfzxn0168nu07koc4okl3` | Synthetic Urdu 2 | `synthetic-urdu-2-429496ad` | [link](https://mozilladatacollective.com/datasets/cmrxhfzxn0168nu07koc4okl3) | ❌ |
-| `cmrxix9a7001rl407d629khq8` | English Medical Speech Dataset | `english-medical-speech-dataset-cb8e2ad9` | [link](https://mozilladatacollective.com/datasets/cmrxix9a7001rl407d629khq8) | ❌ |
-| `cmrxj0h4i001xo9079xnlw8fx` | Sindhi Names by Proxima AI | `sindhi-names-by-proxima-ai-267b4fd9` | [link](https://mozilladatacollective.com/datasets/cmrxj0h4i001xo9079xnlw8fx) | ❌ |
-| `cmrxj3dus002fl407nbjb6lmc` |  Sindhi Alpaca | `sindhi-alpaca-f1d75d66` | [link](https://mozilladatacollective.com/datasets/cmrxj3dus002fl407nbjb6lmc) | ❌ |
+| `cmrxgok02015onu07fk8qxx8v` | Urdu Financial Phrasebank | `urdu-financial-phrasebank-d8d345ac` | [link](https://mozilladatacollective.com/datasets/cmrxgok02015onu07fk8qxx8v) | ❌ |
+| `cmrxgplej014vnv07xy4zob5l` | Helpful and Harmless RLHF Urdu | `helpful-and-harmless-rlhf-urdu-9db22f4f` | [link](https://mozilladatacollective.com/datasets/cmrxgplej014vnv07xy4zob5l) | ❌ |
+| `cmrxgqrj8014znv07t3j3psj3` | Urdu Legal Instruct | `urdu-legal-instruct-87c44cae` | [link](https://mozilladatacollective.com/datasets/cmrxgqrj8014znv07t3j3psj3) | ❌ |
+| `cmrxhfzxn0168nu07koc4okl3` | Synthetic Urdu 2 | `synthetic-urdu-2-04b41149` | [link](https://mozilladatacollective.com/datasets/cmrxhfzxn0168nu07koc4okl3) | ❌ |
+| `cmrxix9a7001rl407d629khq8` | English Medical Speech Dataset | `english-medical-speech-dataset-aaed4779` | [link](https://mozilladatacollective.com/datasets/cmrxix9a7001rl407d629khq8) | ❌ |
+| `cmrxj0h4i001xo9079xnlw8fx` | Sindhi Names by Proxima AI | `sindhi-names-by-proxima-ai-b48d6ceb` | [link](https://mozilladatacollective.com/datasets/cmrxj0h4i001xo9079xnlw8fx) | ❌ |
+| `cmrxj3dus002fl407nbjb6lmc` |  Sindhi Alpaca | `sindhi-alpaca-f573013f` | [link](https://mozilladatacollective.com/datasets/cmrxj3dus002fl407nbjb6lmc) | ❌ |
 | `cmrxj3m5q0021o907tnm6c9jp` | A Kanuri Sociocultural Dataset | `a-kanuri-sociocultural-dataset-716f9a4b` | [link](https://mozilladatacollective.com/datasets/cmrxj3m5q0021o907tnm6c9jp) | ❌ |
-| `cmrxo0ayv008vl40743ndzpbr` | MMLU ProX Sndhi | `mmlu-prox-sndhi-72fb2abf` | [link](https://mozilladatacollective.com/datasets/cmrxo0ayv008vl40743ndzpbr) | ❌ |
+| `cmrxo0ayv008vl40743ndzpbr` | MMLU ProX Sndhi | `mmlu-prox-sndhi-7b5de314` | [link](https://mozilladatacollective.com/datasets/cmrxo0ayv008vl40743ndzpbr) | ❌ |
 | `cmrxokivf009bl4076o9i6wx0` | 🚧 African Actions Annotated Videos for AI (Health Domain) 🚧 | `african-actions-annotated-videos-for-ai-a28d1fbf` | [link](https://mozilladatacollective.com/datasets/cmrxokivf009bl4076o9i6wx0) | ❌ |
 | `cmrxrbueb00bll407nsqplz8t` | A Bakoko Sociocultural Dataset | `a-bakoko-sociocultural-dataset-bff2bde8` | [link](https://mozilladatacollective.com/datasets/cmrxrbueb00bll407nsqplz8t) | ❌ |
 | `cmryvqp3v014ro907pnnrblm6` | Priangan Dialect-Sundanese Parallel Corpus | `priangan-dialect-sundanese-parallel-corp-33c53fb4` | [link](https://mozilladatacollective.com/datasets/cmryvqp3v014ro907pnnrblm6) | ❌ |
 | `cmryvrc6i014vo90786kriix5` | Common Voice Scripted Speech 26.0 - Southern American English | `common-voice-scripted-speech-26-0-southe-d50b474b` | [link](https://mozilladatacollective.com/datasets/cmryvrc6i014vo90786kriix5) | ❌ |
-| `cmrywapqg015ho907f9q9hvka` | Sindhi OCR by Proxima AI | `sindhi-ocr-by-proxima-ai-ecf74ff8` | [link](https://mozilladatacollective.com/datasets/cmrywapqg015ho907f9q9hvka) | ❌ |
-| `cmrywn053015xo907gomtlkp8` | Urdu Alpaca | `urdu-alpaca-37fadf0d` | [link](https://mozilladatacollective.com/datasets/cmrywn053015xo907gomtlkp8) | ❌ |
+| `cmrywapqg015ho907f9q9hvka` | Sindhi OCR by Proxima AI | `sindhi-ocr-by-proxima-ai-0751107c` | [link](https://mozilladatacollective.com/datasets/cmrywapqg015ho907f9q9hvka) | ❌ |
+| `cmrywn053015xo907gomtlkp8` | Urdu Alpaca | `urdu-alpaca-915fcbff` | [link](https://mozilladatacollective.com/datasets/cmrywn053015xo907gomtlkp8) | ❌ |
 | `cmrywzoyv014il40712wgvypf` | CoVoST 2 English - Swedish | `covost-2-english-swedish-a2d3ed39` | [link](https://mozilladatacollective.com/datasets/cmrywzoyv014il40712wgvypf) | ❌ |
 | `cmryx3uvp016ro907e97sfa4i` | Ralámuli Ra’icháala TTS | `ral-muli-ra-ich-ala-tts-d2ae00d5` | [link](https://mozilladatacollective.com/datasets/cmryx3uvp016ro907e97sfa4i) | ❌ |
 | `cms4tcf7s01luo207u7bzbqul` | Mandarin Stuttered Speech (StammerTalk) | `mandarin-stuttered-speech-stammertalk-535763c5` | [link](https://mozilladatacollective.com/datasets/cms4tcf7s01luo207u7bzbqul) | ❌ |
 | `cms4tcqvl01lyo207p6j1ykng` | English Stuttered Speech | `english-stuttered-speech-59da8b2c` | [link](https://mozilladatacollective.com/datasets/cms4tcqvl01lyo207p6j1ykng) | ❌ |
 | `cms7gsjz700owny077q9emzsa` | CoVoST 2 Swedish - English | `covost-2-swedish-english-3f735eb3` | [link](https://mozilladatacollective.com/datasets/cms7gsjz700owny077q9emzsa) | ❌ |
-| `cmsgbzj8d00nlnq08a90220nd` | Urdu OCR Multi Source Dataset (Proxima AI) | `urdu-ocr-multi-source-dataset-proxima-ai-dd14393d` | [link](https://mozilladatacollective.com/datasets/cmsgbzj8d00nlnq08a90220nd) | ❌ |
-| `cmsgc343n00opnu07ozx4087d` | Urdu AI Generated Quotes & Aphorisms | `urdu-ai-generated-quotes-aphorisms-b776b17c` | [link](https://mozilladatacollective.com/datasets/cmsgc343n00opnu07ozx4087d) | ❌ |
-| `cmsgcn6n80003nx07asu09o11` | Urdu Grammatical Error Correction Dataset | `urdu-grammatical-error-correction-datase-6d5e7215` | [link](https://mozilladatacollective.com/datasets/cmsgcn6n80003nx07asu09o11) | ❌ |
+| `cmsgbzj8d00nlnq08a90220nd` | Urdu OCR Multi Source Dataset (Proxima AI) | `urdu-ocr-multi-source-dataset-proxima-ai-e32b32ec` | [link](https://mozilladatacollective.com/datasets/cmsgbzj8d00nlnq08a90220nd) | ❌ |
+| `cmsgc343n00opnu07ozx4087d` | Urdu AI Generated Quotes & Aphorisms | `urdu-ai-generated-quotes-aphorisms-afd765b8` | [link](https://mozilladatacollective.com/datasets/cmsgc343n00opnu07ozx4087d) | ❌ |
+| `cmsgcn6n80003nx07asu09o11` | Urdu Grammatical Error Correction Dataset | `urdu-grammatical-error-correction-datase-38eb9cd2` | [link](https://mozilladatacollective.com/datasets/cmsgcn6n80003nx07asu09o11) | ❌ |
 | `cmsgcs1do000tmg0730rtdcud` | Bulgarian Proverbs and Sayings Text Corpus | `bulgarian-proverbs-and-sayings-text-corp-6476e51c` | [link](https://mozilladatacollective.com/datasets/cmsgcs1do000tmg0730rtdcud) | ❌ |
 | `cmsgcu1pq000xmg07h0sx9rj8` | Chechen Proverbs and Sayings Text Corpus | `chechen-proverbs-and-sayings-text-corpus-c27ef9f5` | [link](https://mozilladatacollective.com/datasets/cmsgcu1pq000xmg07h0sx9rj8) | ❌ |
-| `cmsgcyf2z001hnx07b8auxxpj` | Sindhi Transliteration Dataset by Proxima AI | `sindhi-transliteration-dataset-by-proxim-b268be12` | [link](https://mozilladatacollective.com/datasets/cmsgcyf2z001hnx07b8auxxpj) | ❌ |
+| `cmsgcyf2z001hnx07b8auxxpj` | Sindhi Transliteration Dataset by Proxima AI | `sindhi-transliteration-dataset-by-proxim-97119b11` | [link](https://mozilladatacollective.com/datasets/cmsgcyf2z001hnx07b8auxxpj) | ❌ |
 | `cmsgdht31001lmg072o4evjfl` | A Chadian Arabic Sociocultural Dataset | `a-chadian-arabic-sociocultural-dataset-b96dfb0d` | [link](https://mozilladatacollective.com/datasets/cmsgdht31001lmg072o4evjfl) | ❌ |
 | `cmshk8mia004rnv0724nwy021` | A Ghomala Sociocultural Dataset | `a-ghomala-sociocultural-dataset-2b6c63ac` | [link](https://mozilladatacollective.com/datasets/cmshk8mia004rnv0724nwy021) | ❌ |
 | `cmshk9kme0038o607xcmh7pk6` | An Eton Sociocultural Dataset | `an-eton-sociocultural-dataset-139911c5` | [link](https://mozilladatacollective.com/datasets/cmshk9kme0038o607xcmh7pk6) | ❌ |
 | `cmshzn02s00j1ml07fvxqooq9` | An Ewondo Sociocultural Dataset | `an-ewondo-sociocultural-dataset-bcb70080` | [link](https://mozilladatacollective.com/datasets/cmshzn02s00j1ml07fvxqooq9) | ❌ |
 | `cmsj5sayf01qdmi07mo2bphx0` | 🚧 Hazargi Multimodal Dataset 🚧 | `hazargi-multimodal-dataset-6dd88b19` | [link](https://mozilladatacollective.com/datasets/cmsj5sayf01qdmi07mo2bphx0) | ❌ |
 | `cmsja4wtp01t3mi07ug56oto9` | SKAD Ladino Speech Database (subset) | `skad-ladino-speech-database-subset-bced4996` | [link](https://mozilladatacollective.com/datasets/cmsja4wtp01t3mi07ug56oto9) | ❌ |
-| `cmsn74qwe04abmi078jayq3en` | PII Redact Urdu UOPF | `pii-redact-urdu-uopf-6c001cc9` | [link](https://mozilladatacollective.com/datasets/cmsn74qwe04abmi078jayq3en) | ❌ |
+| `cmsn74qwe04abmi078jayq3en` | PII Redact Urdu UOPF | `pii-redact-urdu-uopf-63d22d08` | [link](https://mozilladatacollective.com/datasets/cmsn74qwe04abmi078jayq3en) | ❌ |
 | `cmsn7jexn04almi07mj46jkpu` | Advanced Geometrical Optics and Magnetism Problems and Solutions | `advanced-geometrical-optics-and-magnetis-b65f3586` | [link](https://mozilladatacollective.com/datasets/cmsn7jexn04almi07mj46jkpu) | ❌ |
-| `cmsn7nr5f04armi07di2fasn5` | Urdu-Sindhi Grapheme-to-Phoneme Dataset | `urdu-sindhi-grapheme-to-phoneme-dataset-753370e5` | [link](https://mozilladatacollective.com/datasets/cmsn7nr5f04armi07di2fasn5) | ❌ |
-| `cmsn89093000pl307fvts4byt` | Pakistan HSSC-I Mathematics Dataset | `pakistan-hssc-i-mathematics-dataset-e6ee8259` | [link](https://mozilladatacollective.com/datasets/cmsn89093000pl307fvts4byt) | ❌ |
+| `cmsn7nr5f04armi07di2fasn5` | Urdu-Sindhi Grapheme-to-Phoneme Dataset | `urdu-sindhi-grapheme-to-phoneme-dataset-d616b521` | [link](https://mozilladatacollective.com/datasets/cmsn7nr5f04armi07di2fasn5) | ❌ |
+| `cmsn89093000pl307fvts4byt` | Pakistan HSSC-I Mathematics Dataset | `pakistan-hssc-i-mathematics-dataset-3848b721` | [link](https://mozilladatacollective.com/datasets/cmsn89093000pl307fvts4byt) | ❌ |
 | `cmsn89f3u000tl3070jlokskm` | A Ngemba Sociocultural Dataset | `a-ngemba-sociocultural-dataset-1f3f9ce2` | [link](https://mozilladatacollective.com/datasets/cmsn89f3u000tl3070jlokskm) | ❌ |
 | `cmsn89yfd000xl307kucamt0m` | A Bulu Sociocultural Dataset | `a-bulu-sociocultural-dataset-a4cc6b32` | [link](https://mozilladatacollective.com/datasets/cmsn89yfd000xl307kucamt0m) | ❌ |
 | `cmsn8ao8t0011l307hquossmi` |  A Bamvele Sociocultural Dataset | `a-bamvele-sociocultural-dataset-48832038` | [link](https://mozilladatacollective.com/datasets/cmsn8ao8t0011l307hquossmi) | ❌ |
 | `cmsnteixi00gfmf07til46ayk` | 🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧 | `noakhali-10-hours-tts-male-speaker-300f426a` | [link](https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk) | ❌ |
 | `cmssxpm5q02ylmf07ro4vzrls` | Nwāchā Munā | `nw-ch-mun-f001a03f` | [link](https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls) | ❌ |
+| `cmsxiwqdo000fny07e5fx0yi5` | Lost In Transcription Competition - Development Data (Javanese-Indonesian) | `lost-in-transcription-competition-develo-4628e8de` | [link](https://mozilladatacollective.com/datasets/cmsxiwqdo000fny07e5fx0yi5) | ❌ |
 
 ## Schemas without a platform dataset
 
