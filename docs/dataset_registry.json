@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T06:09:21.816680+00:00",
-  "total": 1022,
+  "updated_at": "2026-08-18T05:11:53.028853+00:00",
+  "total": 1023,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -2931,9 +2931,9 @@
     {
       "id": "cmq16k8qa01bvnr07i2x92yry",
       "url": "https://mozilladatacollective.com/datasets/cmq16k8qa01bvnr07i2x92yry",
-      "lastmod": "2026-07-10T19:14:19.174Z",
+      "lastmod": "2026-08-17T15:33:06.531Z",
       "name": "Brazilian Sign Language (Libras) Healthcare Corpus (Non Commercial)",
-      "slug": "brazilian-sign-language-libras-healthcar-ab954a74"
+      "slug": "brazilian-sign-language-libras-healthcar-d400cf18"
     },
     {
       "id": "cmq5ga41w007xmg07i73vv0j0",
@@ -6298,23 +6298,23 @@
     {
       "id": "cmrdfjave008uo307ett7d4km",
       "url": "https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km",
-      "lastmod": "2026-07-09T16:18:08.439Z",
+      "lastmod": "2026-08-17T15:01:04.967Z",
       "name": "Medical Domain Mexican Spanish Speech Corpus (MEDMEX)",
-      "slug": "medical-domain-mexican-spanish-speech-co-b4770c2e"
+      "slug": "medical-domain-mexican-spanish-speech-co-a6a06774"
     },
     {
       "id": "cmrdfk4ao007po1070z5f4kem",
       "url": "https://mozilladatacollective.com/datasets/cmrdfk4ao007po1070z5f4kem",
-      "lastmod": "2026-07-09T11:35:26.400Z",
+      "lastmod": "2026-08-17T15:32:25.076Z",
       "name": "Conversational Speech in Gujarati in the Medical Domain",
-      "slug": "conversational-speech-in-gujarati-in-the-f75484ee"
+      "slug": "conversational-speech-in-gujarati-in-the-7cd8a046"
     },
     {
       "id": "cmrftle0s01fsnv0755jw602i",
       "url": "https://mozilladatacollective.com/datasets/cmrftle0s01fsnv0755jw602i",
-      "lastmod": "2026-07-11T03:43:52.636Z",
+      "lastmod": "2026-08-17T15:33:21.097Z",
       "name": "Brazilian Sign Language (Libras) Healthcare Corpus",
-      "slug": "brazilian-sign-language-libras-healthcar-56485668"
+      "slug": "brazilian-sign-language-libras-healthcar-454a9bd4"
     },
     {
       "id": "cmrkqy18t006imm074waw5jbg",
@@ -6529,9 +6529,9 @@
     {
       "id": "cmrm237q100yfmp07v9kl91i5",
       "url": "https://mozilladatacollective.com/datasets/cmrm237q100yfmp07v9kl91i5",
-      "lastmod": "2026-07-15T12:28:18.265Z",
+      "lastmod": "2026-08-17T15:32:04.758Z",
       "name": "Conversational Speech in Manipuri in the Medical Domain",
-      "slug": "conversational-speech-in-manipuri-in-the-b6df6f16"
+      "slug": "conversational-speech-in-manipuri-in-the-dbfa1aec"
     },
     {
       "id": "cmrm59m4o010fmp07mm8uzfye",
@@ -6550,16 +6550,16 @@
     {
       "id": "cmrmkmodd01h0nu07rkbq6yu9",
       "url": "https://mozilladatacollective.com/datasets/cmrmkmodd01h0nu07rkbq6yu9",
-      "lastmod": "2026-07-15T21:07:19.393Z",
+      "lastmod": "2026-08-17T15:32:14.082Z",
       "name": "Conversational Speech in Manipuri in the Finance Domain",
-      "slug": "conversational-speech-in-manipuri-in-the-1824c217"
+      "slug": "conversational-speech-in-manipuri-in-the-a8f3b050"
     },
     {
       "id": "cmrmkr3nh01h4nu07gqsvfckc",
       "url": "https://mozilladatacollective.com/datasets/cmrmkr3nh01h4nu07gqsvfckc",
-      "lastmod": "2026-07-17T16:17:29.129Z",
+      "lastmod": "2026-08-17T15:32:48.609Z",
       "name": "Conversational Speech in Gujarati in the Finance Domain",
-      "slug": "conversational-speech-in-gujarati-in-the-97e4d522"
+      "slug": "conversational-speech-in-gujarati-in-the-beb5451d"
     },
     {
       "id": "cmrnmk9ux000hmc07llq1targ",
@@ -6823,9 +6823,9 @@
     {
       "id": "cmrw4y41y003jnv07zbe99p27",
       "url": "https://mozilladatacollective.com/datasets/cmrw4y41y003jnv07zbe99p27",
-      "lastmod": "2026-07-22T13:46:00.838Z",
+      "lastmod": "2026-08-17T18:55:42.831Z",
       "name": "Urdu Medical SFT",
-      "slug": "urdu-medical-sft-5c0a6fe9"
+      "slug": "urdu-medical-sft-6766869c"
     },
     {
       "id": "cmrw51wse003tnv07gf6njlzk",
@@ -6851,9 +6851,9 @@
     {
       "id": "cmrw6gnqc005pnv073f87ulq7",
       "url": "https://mozilladatacollective.com/datasets/cmrw6gnqc005pnv073f87ulq7",
-      "lastmod": "2026-07-22T14:28:25.764Z",
+      "lastmod": "2026-08-17T18:54:33.727Z",
       "name": "Syntheic Urdu Audios",
-      "slug": "syntheic-urdu-audios-37580e10"
+      "slug": "syntheic-urdu-audios-081134ab"
     },
     {
       "id": "cmrwm2vcy00hhnu07p3z8lshx",
@@ -6872,51 +6872,51 @@
     {
       "id": "cmrxgok02015onu07fk8qxx8v",
       "url": "https://mozilladatacollective.com/datasets/cmrxgok02015onu07fk8qxx8v",
-      "lastmod": "2026-07-23T12:02:16.515Z",
+      "lastmod": "2026-08-17T18:53:11.798Z",
       "name": "Urdu Financial Phrasebank",
-      "slug": "urdu-financial-phrasebank-25d32275"
+      "slug": "urdu-financial-phrasebank-d8d345ac"
     },
     {
       "id": "cmrxgplej014vnv07xy4zob5l",
       "url": "https://mozilladatacollective.com/datasets/cmrxgplej014vnv07xy4zob5l",
-      "lastmod": "2026-08-09T10:38:09.036Z",
+      "lastmod": "2026-08-17T18:44:23.876Z",
       "name": "Helpful and Harmless RLHF Urdu",
-      "slug": "helpful-and-harmless-rlhf-urdu-bca741f5"
+      "slug": "helpful-and-harmless-rlhf-urdu-9db22f4f"
     },
     {
       "id": "cmrxgqrj8014znv07t3j3psj3",
       "url": "https://mozilladatacollective.com/datasets/cmrxgqrj8014znv07t3j3psj3",
-      "lastmod": "2026-07-23T12:03:59.589Z",
+      "lastmod": "2026-08-17T18:52:36.156Z",
       "name": "Urdu Legal Instruct",
-      "slug": "urdu-legal-instruct-1659d377"
+      "slug": "urdu-legal-instruct-87c44cae"
     },
     {
       "id": "cmrxhfzxn0168nu07koc4okl3",
       "url": "https://mozilladatacollective.com/datasets/cmrxhfzxn0168nu07koc4okl3",
-      "lastmod": "2026-08-09T10:37:51.939Z",
+      "lastmod": "2026-08-17T18:44:28.719Z",
       "name": "Synthetic Urdu 2",
-      "slug": "synthetic-urdu-2-429496ad"
+      "slug": "synthetic-urdu-2-04b41149"
     },
     {
       "id": "cmrxix9a7001rl407d629khq8",
       "url": "https://mozilladatacollective.com/datasets/cmrxix9a7001rl407d629khq8",
-      "lastmod": "2026-08-09T10:37:27.923Z",
+      "lastmod": "2026-08-17T18:45:18.552Z",
       "name": "English Medical Speech Dataset",
-      "slug": "english-medical-speech-dataset-cb8e2ad9"
+      "slug": "english-medical-speech-dataset-aaed4779"
     },
     {
       "id": "cmrxj0h4i001xo9079xnlw8fx",
       "url": "https://mozilladatacollective.com/datasets/cmrxj0h4i001xo9079xnlw8fx",
-      "lastmod": "2026-07-23T13:07:31.889Z",
+      "lastmod": "2026-08-17T18:52:03.880Z",
       "name": "Sindhi Names by Proxima AI",
-      "slug": "sindhi-names-by-proxima-ai-267b4fd9"
+      "slug": "sindhi-names-by-proxima-ai-b48d6ceb"
     },
     {
       "id": "cmrxj3dus002fl407nbjb6lmc",
       "url": "https://mozilladatacollective.com/datasets/cmrxj3dus002fl407nbjb6lmc",
-      "lastmod": "2026-07-23T13:09:47.620Z",
+      "lastmod": "2026-08-17T18:51:27.974Z",
       "name": " Sindhi Alpaca",
-      "slug": "sindhi-alpaca-f1d75d66"
+      "slug": "sindhi-alpaca-f573013f"
     },
     {
       "id": "cmrxj3m5q0021o907tnm6c9jp",
@@ -6928,9 +6928,9 @@
     {
       "id": "cmrxo0ayv008vl40743ndzpbr",
       "url": "https://mozilladatacollective.com/datasets/cmrxo0ayv008vl40743ndzpbr",
-      "lastmod": "2026-07-23T15:27:21.991Z",
+      "lastmod": "2026-08-17T18:50:49.779Z",
       "name": "MMLU ProX Sndhi",
-      "slug": "mmlu-prox-sndhi-72fb2abf"
+      "slug": "mmlu-prox-sndhi-7b5de314"
     },
     {
       "id": "cmrxokivf009bl4076o9i6wx0",
@@ -6963,16 +6963,16 @@
     {
       "id": "cmrywapqg015ho907f9q9hvka",
       "url": "https://mozilladatacollective.com/datasets/cmrywapqg015ho907f9q9hvka",
-      "lastmod": "2026-07-24T12:07:10.792Z",
+      "lastmod": "2026-08-17T18:50:04.804Z",
       "name": "Sindhi OCR by Proxima AI",
-      "slug": "sindhi-ocr-by-proxima-ai-ecf74ff8"
+      "slug": "sindhi-ocr-by-proxima-ai-0751107c"
     },
     {
       "id": "cmrywn053015xo907gomtlkp8",
       "url": "https://mozilladatacollective.com/datasets/cmrywn053015xo907gomtlkp8",
-      "lastmod": "2026-07-24T12:16:44.151Z",
+      "lastmod": "2026-08-17T18:49:25.753Z",
       "name": "Urdu Alpaca",
-      "slug": "urdu-alpaca-37fadf0d"
+      "slug": "urdu-alpaca-915fcbff"
     },
     {
       "id": "cmrywzoyv014il40712wgvypf",
@@ -7012,23 +7012,23 @@
     {
       "id": "cmsgbzj8d00nlnq08a90220nd",
       "url": "https://mozilladatacollective.com/datasets/cmsgbzj8d00nlnq08a90220nd",
-      "lastmod": "2026-08-05T16:58:27.997Z",
+      "lastmod": "2026-08-17T18:48:27.471Z",
       "name": "Urdu OCR Multi Source Dataset (Proxima AI)",
-      "slug": "urdu-ocr-multi-source-dataset-proxima-ai-dd14393d"
+      "slug": "urdu-ocr-multi-source-dataset-proxima-ai-e32b32ec"
     },
     {
       "id": "cmsgc343n00opnu07ozx4087d",
       "url": "https://mozilladatacollective.com/datasets/cmsgc343n00opnu07ozx4087d",
-      "lastmod": "2026-08-05T17:01:15.011Z",
+      "lastmod": "2026-08-17T18:47:45.185Z",
       "name": "Urdu AI Generated Quotes & Aphorisms",
-      "slug": "urdu-ai-generated-quotes-aphorisms-b776b17c"
+      "slug": "urdu-ai-generated-quotes-aphorisms-afd765b8"
     },
     {
       "id": "cmsgcn6n80003nx07asu09o11",
       "url": "https://mozilladatacollective.com/datasets/cmsgcn6n80003nx07asu09o11",
-      "lastmod": "2026-08-05T17:16:51.428Z",
+      "lastmod": "2026-08-17T18:47:11.774Z",
       "name": "Urdu Grammatical Error Correction Dataset",
-      "slug": "urdu-grammatical-error-correction-datase-6d5e7215"
+      "slug": "urdu-grammatical-error-correction-datase-38eb9cd2"
     },
     {
       "id": "cmsgcs1do000tmg0730rtdcud",
@@ -7047,9 +7047,9 @@
     {
       "id": "cmsgcyf2z001hnx07b8auxxpj",
       "url": "https://mozilladatacollective.com/datasets/cmsgcyf2z001hnx07b8auxxpj",
-      "lastmod": "2026-08-05T17:25:35.579Z",
+      "lastmod": "2026-08-17T18:46:49.149Z",
       "name": "Sindhi Transliteration Dataset by Proxima AI",
-      "slug": "sindhi-transliteration-dataset-by-proxim-b268be12"
+      "slug": "sindhi-transliteration-dataset-by-proxim-97119b11"
     },
     {
       "id": "cmsgdht31001lmg072o4evjfl",
@@ -7096,9 +7096,9 @@
     {
       "id": "cmsn74qwe04abmi078jayq3en",
       "url": "https://mozilladatacollective.com/datasets/cmsn74qwe04abmi078jayq3en",
-      "lastmod": "2026-08-10T12:16:56.366Z",
+      "lastmod": "2026-08-17T18:42:39.587Z",
       "name": "PII Redact Urdu UOPF",
-      "slug": "pii-redact-urdu-uopf-6c001cc9"
+      "slug": "pii-redact-urdu-uopf-63d22d08"
     },
     {
       "id": "cmsn7jexn04almi07mj46jkpu",
@@ -7110,16 +7110,16 @@
     {
       "id": "cmsn7nr5f04armi07di2fasn5",
       "url": "https://mozilladatacollective.com/datasets/cmsn7nr5f04armi07di2fasn5",
-      "lastmod": "2026-08-10T12:31:43.155Z",
+      "lastmod": "2026-08-17T18:42:19.889Z",
       "name": "Urdu-Sindhi Grapheme-to-Phoneme Dataset",
-      "slug": "urdu-sindhi-grapheme-to-phoneme-dataset-753370e5"
+      "slug": "urdu-sindhi-grapheme-to-phoneme-dataset-d616b521"
     },
     {
       "id": "cmsn89093000pl307fvts4byt",
       "url": "https://mozilladatacollective.com/datasets/cmsn89093000pl307fvts4byt",
-      "lastmod": "2026-08-10T12:48:14.727Z",
+      "lastmod": "2026-08-17T18:41:56.292Z",
       "name": "Pakistan HSSC-I Mathematics Dataset",
-      "slug": "pakistan-hssc-i-mathematics-dataset-e6ee8259"
+      "slug": "pakistan-hssc-i-mathematics-dataset-3848b721"
     },
     {
       "id": "cmsn89f3u000tl3070jlokskm",
@@ -7155,6 +7155,13 @@
       "lastmod": "2026-08-15T16:08:40.138Z",
       "name": "Nwāchā Munā",
       "slug": "nw-ch-mun-f001a03f"
+    },
+    {
+      "id": "cmsxiwqdo000fny07e5fx0yi5",
+      "url": "https://mozilladatacollective.com/datasets/cmsxiwqdo000fny07e5fx0yi5",
+      "lastmod": "2026-08-17T17:45:09.888Z",
+      "name": "Lost In Transcription Competition - Development Data (Javanese-Indonesian)",
+      "slug": "lost-in-transcription-competition-develo-4628e8de"
     }
   ]
 }
