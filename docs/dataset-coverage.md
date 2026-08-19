@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-18  
+**Last updated:** 2026-08-19  
 **Total datasets in sitemap:** 1023  
 **Schemas registered:** 415 ✅  
 **Schemas missing:** 608 ❌  
@@ -991,7 +991,6 @@ data programmatically.
 | `cmrv0fgp00022nu077cdkkcny` | Common Voice Scripted Speech 26.0 -  Arabic (Female) | `common-voice-scripted-speech-26-0-arabic-780893c9` | [link](https://mozilladatacollective.com/datasets/cmrv0fgp00022nu077cdkkcny) | ❌ |
 | `cmrv275t1004lnu07vtchcapw` | Badjia-ALCAM-MultimodalDataset | `badjia-alcam-multimodaldataset-b8af71ca` | [link](https://mozilladatacollective.com/datasets/cmrv275t1004lnu07vtchcapw) | ❌ |
 | `cmrv27qeq004pnu07w5uzvy6l` | 🚧 Hazargi-English Parallel Text Corpus 🚧  | `hazargi-english-parallel-text-corpus-e0dfb7fb` | [link](https://mozilladatacollective.com/datasets/cmrv27qeq004pnu07w5uzvy6l) | ❌ |
-| `cmrv27zhy004xnu07lirnoi3g` | 🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧 | `single-speaker-urdu-tts-dataset-female-s-909a5049` | [link](https://mozilladatacollective.com/datasets/cmrv27zhy004xnu07lirnoi3g) | ❌ |
 | `cmrw1urb2001nnu07i6vv0vea` | Bamun-TTS-Dataset (female voice) | `bamun-tts-dataset-female-voice-d415a546` | [link](https://mozilladatacollective.com/datasets/cmrw1urb2001nnu07i6vv0vea) | ❌ |
 | `cmrw4y41y003jnv07zbe99p27` | Urdu Medical SFT | `urdu-medical-sft-6766869c` | [link](https://mozilladatacollective.com/datasets/cmrw4y41y003jnv07zbe99p27) | ❌ |
 | `cmrw51wse003tnv07gf6njlzk` | A Gbaya Sociocultural Dataset | `a-gbaya-sociocultural-dataset-c3a073db` | [link](https://mozilladatacollective.com/datasets/cmrw51wse003tnv07gf6njlzk) | ❌ |
@@ -999,7 +998,7 @@ data programmatically.
 | `cmrw5311c0046nu0747csrilw` | A Bum Sociocultural Dataset | `a-bum-sociocultural-dataset-99513198` | [link](https://mozilladatacollective.com/datasets/cmrw5311c0046nu0747csrilw) | ❌ |
 | `cmrw6gnqc005pnv073f87ulq7` | Syntheic Urdu Audios | `syntheic-urdu-audios-081134ab` | [link](https://mozilladatacollective.com/datasets/cmrw6gnqc005pnv073f87ulq7) | ❌ |
 | `cmrwm2vcy00hhnu07p3z8lshx` | Kumyk Proverbs and Sayings Text Corpus | `kumyk-proverbs-and-sayings-text-corpus-2f2de21e` | [link](https://mozilladatacollective.com/datasets/cmrwm2vcy00hhnu07p3z8lshx) | ❌ |
-| `cmrxfn05r014znu07ub3muel9` | BAHANA-Speech Corpus of English Learners from Indonesia | `bahana-speech-corpus-of-english-learners-73f9997f` | [link](https://mozilladatacollective.com/datasets/cmrxfn05r014znu07ub3muel9) | ❌ |
+| `cmrxfn05r014znu07ub3muel9` | BAHANA-Speech Corpus of English Learners from Indonesia | `bahana-speech-corpus-of-english-learners-7ec3c54f` | [link](https://mozilladatacollective.com/datasets/cmrxfn05r014znu07ub3muel9) | ❌ |
 | `cmrxgok02015onu07fk8qxx8v` | Urdu Financial Phrasebank | `urdu-financial-phrasebank-d8d345ac` | [link](https://mozilladatacollective.com/datasets/cmrxgok02015onu07fk8qxx8v) | ❌ |
 | `cmrxgplej014vnv07xy4zob5l` | Helpful and Harmless RLHF Urdu | `helpful-and-harmless-rlhf-urdu-9db22f4f` | [link](https://mozilladatacollective.com/datasets/cmrxgplej014vnv07xy4zob5l) | ❌ |
 | `cmrxgqrj8014znv07t3j3psj3` | Urdu Legal Instruct | `urdu-legal-instruct-87c44cae` | [link](https://mozilladatacollective.com/datasets/cmrxgqrj8014znv07t3j3psj3) | ❌ |
@@ -1042,6 +1041,7 @@ data programmatically.
 | `cmsnteixi00gfmf07til46ayk` | 🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧 | `noakhali-10-hours-tts-male-speaker-300f426a` | [link](https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk) | ❌ |
 | `cmssxpm5q02ylmf07ro4vzrls` | Nwāchā Munā | `nw-ch-mun-f001a03f` | [link](https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls) | ❌ |
 | `cmsxiwqdo000fny07e5fx0yi5` | Lost In Transcription Competition - Development Data (Javanese-Indonesian) | `lost-in-transcription-competition-develo-4628e8de` | [link](https://mozilladatacollective.com/datasets/cmsxiwqdo000fny07e5fx0yi5) | ❌ |
+| `cmszkb3s901wvny07pkz816wx` | 🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧 | `single-speaker-urdu-tts-dataset-female-s-032e2b48` | [link](https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx) | ❌ |
 
 ## Schemas without a platform dataset
 

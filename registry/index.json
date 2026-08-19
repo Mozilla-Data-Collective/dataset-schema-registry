@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-08-18T05:12:09.820264+00:00",
+  "generated_at": "2026-08-19T05:12:06.051071+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -10715,17 +10715,6 @@
       "schema_url": null
     },
     {
-      "id": "cmrv27zhy004xnu07lirnoi3g",
-      "has_schema": false,
-      "listed": true,
-      "name": "🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧",
-      "slug": "single-speaker-urdu-tts-dataset-female-s-909a5049",
-      "dataset_url": "https://mozilladatacollective.com/datasets/cmrv27zhy004xnu07lirnoi3g",
-      "lastmod": "2026-07-21T19:41:56.471Z",
-      "schema_path": null,
-      "schema_url": null
-    },
-    {
       "id": "cmrw1urb2001nnu07i6vv0vea",
       "has_schema": false,
       "listed": true,
@@ -10807,9 +10796,9 @@
       "has_schema": false,
       "listed": true,
       "name": "BAHANA-Speech Corpus of English Learners from Indonesia",
-      "slug": "bahana-speech-corpus-of-english-learners-73f9997f",
+      "slug": "bahana-speech-corpus-of-english-learners-7ec3c54f",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmrxfn05r014znu07ub3muel9",
-      "lastmod": "2026-07-23T11:33:04.527Z",
+      "lastmod": "2026-08-18T08:07:04.103Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -11272,6 +11261,17 @@
       "slug": "lost-in-transcription-competition-develo-4628e8de",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmsxiwqdo000fny07e5fx0yi5",
       "lastmod": "2026-08-17T17:45:09.888Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmszkb3s901wvny07pkz816wx",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧",
+      "slug": "single-speaker-urdu-tts-dataset-female-s-032e2b48",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx",
+      "lastmod": "2026-08-19T03:59:02.122Z",
       "schema_path": null,
       "schema_url": null
     }
