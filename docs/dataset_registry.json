@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T06:07:04.176984+00:00",
+  "updated_at": "2026-08-19T05:11:52.392491+00:00",
   "total": 1023,
   "datasets": [
     {
@@ -6807,13 +6807,6 @@
       "slug": "hazargi-english-parallel-text-corpus-e0dfb7fb"
     },
     {
-      "id": "cmrv27zhy004xnu07lirnoi3g",
-      "url": "https://mozilladatacollective.com/datasets/cmrv27zhy004xnu07lirnoi3g",
-      "lastmod": "2026-07-21T19:41:56.471Z",
-      "name": "🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧",
-      "slug": "single-speaker-urdu-tts-dataset-female-s-909a5049"
-    },
-    {
       "id": "cmrw1urb2001nnu07i6vv0vea",
       "url": "https://mozilladatacollective.com/datasets/cmrw1urb2001nnu07i6vv0vea",
       "lastmod": "2026-07-22T13:53:57.151Z",
@@ -6865,9 +6858,9 @@
     {
       "id": "cmrxfn05r014znu07ub3muel9",
       "url": "https://mozilladatacollective.com/datasets/cmrxfn05r014znu07ub3muel9",
-      "lastmod": "2026-07-23T11:33:04.527Z",
+      "lastmod": "2026-08-18T08:07:04.103Z",
       "name": "BAHANA-Speech Corpus of English Learners from Indonesia",
-      "slug": "bahana-speech-corpus-of-english-learners-73f9997f"
+      "slug": "bahana-speech-corpus-of-english-learners-7ec3c54f"
     },
     {
       "id": "cmrxgok02015onu07fk8qxx8v",
@@ -7162,6 +7155,13 @@
       "lastmod": "2026-08-17T17:45:09.888Z",
       "name": "Lost In Transcription Competition - Development Data (Javanese-Indonesian)",
       "slug": "lost-in-transcription-competition-develo-4628e8de"
+    },
+    {
+      "id": "cmszkb3s901wvny07pkz816wx",
+      "url": "https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx",
+      "lastmod": "2026-08-19T03:59:02.122Z",
+      "name": "🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧",
+      "slug": "single-speaker-urdu-tts-dataset-female-s-032e2b48"
     }
   ]
 }
