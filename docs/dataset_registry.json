@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T06:07:34.713807+00:00",
-  "total": 1023,
+  "updated_at": "2026-08-20T05:12:41.530474+00:00",
+  "total": 1024,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -7162,6 +7162,13 @@
       "lastmod": "2026-08-19T03:59:02.122Z",
       "name": "🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧",
       "slug": "single-speaker-urdu-tts-dataset-female-s-032e2b48"
+    },
+    {
+      "id": "cmt09mjq0005xl107yuqi873h",
+      "url": "https://mozilladatacollective.com/datasets/cmt09mjq0005xl107yuqi873h",
+      "lastmod": "2026-08-19T15:47:46.392Z",
+      "name": "🚧 Khowar Multimodal Dataset 🚧",
+      "slug": "khowar-multimodal-dataset-ce13e8b7"
     }
   ]
 }
