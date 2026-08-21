@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-20  
+**Last updated:** 2026-08-21  
 **Total datasets in sitemap:** 1024  
 **Schemas registered:** 415 ✅  
 **Schemas missing:** 609 ❌  
@@ -974,7 +974,7 @@ data programmatically.
 | `cmrtddqrp007umm07wt2d8dxo` | Adjuntos Solicitudes Información — Guanajuato | `adjuntos-solicitudes-informaci-n-guanaju-dc0bbdf1` | [link](https://mozilladatacollective.com/datasets/cmrtddqrp007umm07wt2d8dxo) | ❌ |
 | `cmrtddtl1007ymm07miqkb7wh` | Adjuntos Solicitudes Información — Jalisco | `adjuntos-solicitudes-informaci-n-jalisco-04715813` | [link](https://mozilladatacollective.com/datasets/cmrtddtl1007ymm07miqkb7wh) | ❌ |
 | `cmrtddwco0082mm07blij2hgp` | Adjuntos Solicitudes Información — Nuevo León | `adjuntos-solicitudes-informaci-n-nuevo-l-77eadde5` | [link](https://mozilladatacollective.com/datasets/cmrtddwco0082mm07blij2hgp) | ❌ |
-| `cmrtehynr008qmm07wfw4q0ec` | 🚧 Hazargi Corpus for Speech Recognition 🚧 | `hazargi-corpus-for-speech-recognition-c5f30551` | [link](https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec) | ✅ |
+| `cmrtehynr008qmm07wfw4q0ec` | 🚧 Hazargi Corpus for Speech Recognition 🚧 | `hazargi-corpus-for-speech-recognition-d74d6b1e` | [link](https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec) | ✅ |
 | `cmrumhinj0001md07y3huuhs5` | Common Voice Scripted Speech 26.0 - French of France | `common-voice-scripted-speech-26-0-french-33ae1060` | [link](https://mozilladatacollective.com/datasets/cmrumhinj0001md07y3huuhs5) | ❌ |
 | `cmrumhr9h0005md07ph5dkxpp` | Common Voice Scripted Speech 26.0 - Canadian French | `common-voice-scripted-speech-26-0-canadi-9e8b10de` | [link](https://mozilladatacollective.com/datasets/cmrumhr9h0005md07ph5dkxpp) | ❌ |
 | `cmrumxiu5000nmd07vuz5knqq` | 🚧 Hazargi-English Speech Translation Corpus 🚧 | `hazargi-english-speech-translation-corpu-749ccf56` | [link](https://mozilladatacollective.com/datasets/cmrumxiu5000nmd07vuz5knqq) | ❌ |
@@ -1042,7 +1042,7 @@ data programmatically.
 | `cmssxpm5q02ylmf07ro4vzrls` | Nwāchā Munā | `nw-ch-mun-f001a03f` | [link](https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls) | ❌ |
 | `cmsxiwqdo000fny07e5fx0yi5` | Lost In Transcription Competition - Development Data (Javanese-Indonesian) | `lost-in-transcription-competition-develo-4628e8de` | [link](https://mozilladatacollective.com/datasets/cmsxiwqdo000fny07e5fx0yi5) | ❌ |
 | `cmszkb3s901wvny07pkz816wx` | 🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧 | `single-speaker-urdu-tts-dataset-female-s-032e2b48` | [link](https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx) | ❌ |
-| `cmt09mjq0005xl107yuqi873h` | 🚧 Khowar Multimodal Dataset 🚧 | `khowar-multimodal-dataset-ce13e8b7` | [link](https://mozilladatacollective.com/datasets/cmt09mjq0005xl107yuqi873h) | ❌ |
+| `cmt09mjq0005xl107yuqi873h` | 🚧 Khowar Multimodal Dataset 🚧 | `khowar-multimodal-dataset-e5e3ecf7` | [link](https://mozilladatacollective.com/datasets/cmt09mjq0005xl107yuqi873h) | ❌ |
 
 ## Schemas without a platform dataset
 

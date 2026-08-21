@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-08-20T05:12:55.624828+00:00",
+  "generated_at": "2026-08-21T05:13:50.605580+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -10532,9 +10532,9 @@
       "has_schema": true,
       "listed": true,
       "name": "🚧 Hazargi Corpus for Speech Recognition 🚧",
-      "slug": "hazargi-corpus-for-speech-recognition-c5f30551",
+      "slug": "hazargi-corpus-for-speech-recognition-d74d6b1e",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec",
-      "lastmod": "2026-07-20T15:50:04.984Z",
+      "lastmod": "2026-08-20T19:00:29.910Z",
       "schema_path": "registry/cmrtehynr008qmm07wfw4q0ec/schema.yaml",
       "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmrtehynr008qmm07wfw4q0ec/schema.yaml"
     },
@@ -11280,9 +11280,9 @@
       "has_schema": false,
       "listed": true,
       "name": "🚧 Khowar Multimodal Dataset 🚧",
-      "slug": "khowar-multimodal-dataset-ce13e8b7",
+      "slug": "khowar-multimodal-dataset-e5e3ecf7",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmt09mjq0005xl107yuqi873h",
-      "lastmod": "2026-08-19T15:47:46.392Z",
+      "lastmod": "2026-08-20T18:06:29.023Z",
       "schema_path": null,
       "schema_url": null
     }
