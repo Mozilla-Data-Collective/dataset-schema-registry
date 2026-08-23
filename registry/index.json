@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-08-21T05:13:50.605580+00:00",
+  "generated_at": "2026-08-23T05:11:18.925415+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -4548,9 +4548,9 @@
       "has_schema": false,
       "listed": true,
       "name": "TTS Javanese-Gresik Dialect",
-      "slug": "tts-javanese-gresik-dialect-ec043023",
+      "slug": "tts-javanese-gresik-dialect-602f80a3",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpwi0ac200zbo007hebmkzqy",
-      "lastmod": "2026-06-02T10:32:12.626Z",
+      "lastmod": "2026-08-22T09:38:44.592Z",
       "schema_path": null,
       "schema_url": null
     },
