@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-23  
-**Total datasets in sitemap:** 1024  
+**Last updated:** 2026-08-24  
+**Total datasets in sitemap:** 1025  
 **Schemas registered:** 415 ✅  
-**Schemas missing:** 609 ❌  
+**Schemas missing:** 610 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1043,6 +1043,7 @@ data programmatically.
 | `cmsxiwqdo000fny07e5fx0yi5` | Lost In Transcription Competition - Development Data (Javanese-Indonesian) | `lost-in-transcription-competition-develo-4628e8de` | [link](https://mozilladatacollective.com/datasets/cmsxiwqdo000fny07e5fx0yi5) | ❌ |
 | `cmszkb3s901wvny07pkz816wx` | 🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧 | `single-speaker-urdu-tts-dataset-female-s-032e2b48` | [link](https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx) | ❌ |
 | `cmt09mjq0005xl107yuqi873h` | 🚧 Khowar Multimodal Dataset 🚧 | `khowar-multimodal-dataset-e5e3ecf7` | [link](https://mozilladatacollective.com/datasets/cmt09mjq0005xl107yuqi873h) | ❌ |
+| `cmt6ft8jp02vanz075sg7xm0m` | Indonesian-Spanish Learner Corpus | `indonesian-spanish-learner-corpus-bb47c605` | [link](https://mozilladatacollective.com/datasets/cmt6ft8jp02vanz075sg7xm0m) | ❌ |
 
 ## Schemas without a platform dataset
 
