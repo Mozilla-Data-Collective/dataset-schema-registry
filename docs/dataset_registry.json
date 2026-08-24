@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-23T06:07:15.390747+00:00",
-  "total": 1024,
+  "updated_at": "2026-08-24T05:17:43.457129+00:00",
+  "total": 1025,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -7169,6 +7169,13 @@
       "lastmod": "2026-08-20T18:06:29.023Z",
       "name": "🚧 Khowar Multimodal Dataset 🚧",
       "slug": "khowar-multimodal-dataset-e5e3ecf7"
+    },
+    {
+      "id": "cmt6ft8jp02vanz075sg7xm0m",
+      "url": "https://mozilladatacollective.com/datasets/cmt6ft8jp02vanz075sg7xm0m",
+      "lastmod": "2026-08-23T23:27:33.253Z",
+      "name": "Indonesian-Spanish Learner Corpus",
+      "slug": "indonesian-spanish-learner-corpus-bb47c605"
     }
   ]
 }
