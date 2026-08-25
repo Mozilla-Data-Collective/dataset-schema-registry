@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T06:11:57.480076+00:00",
-  "total": 1025,
+  "updated_at": "2026-08-25T05:13:39.429572+00:00",
+  "total": 1031,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -7176,6 +7176,48 @@
       "lastmod": "2026-08-23T23:27:33.253Z",
       "name": "Indonesian-Spanish Learner Corpus",
       "slug": "indonesian-spanish-learner-corpus-bb47c605"
+    },
+    {
+      "id": "cmt7e4pfp004nnz08j3shtpcx",
+      "url": "https://mozilladatacollective.com/datasets/cmt7e4pfp004nnz08j3shtpcx",
+      "lastmod": "2026-08-24T15:28:15.301Z",
+      "name": "🚧  Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain 🚧 ",
+      "slug": "free-form-sheng-swahili-english-code-swi-4d2cf90e"
+    },
+    {
+      "id": "cmt7ly2jb002mns07yuplkfbk",
+      "url": "https://mozilladatacollective.com/datasets/cmt7ly2jb002mns07yuplkfbk",
+      "lastmod": "2026-08-24T19:07:02.615Z",
+      "name": "🚧 Southeast Asian Hokkien TTS dataset 🚧",
+      "slug": "southeast-asian-hokkien-tts-dataset-616f92bb"
+    },
+    {
+      "id": "cmt7lzezp002qns07ya5txwrx",
+      "url": "https://mozilladatacollective.com/datasets/cmt7lzezp002qns07ya5txwrx",
+      "lastmod": "2026-08-24T19:16:23.664Z",
+      "name": "🚧 Moroccan Arabic ASR dataset (180h) 🚧",
+      "slug": "moroccan-arabic-asr-dataset-180h-4c950664"
+    },
+    {
+      "id": "cmt7lzpkp002uns07r684h2qa",
+      "url": "https://mozilladatacollective.com/datasets/cmt7lzpkp002uns07r684h2qa",
+      "lastmod": "2026-08-24T19:08:19.129Z",
+      "name": "🚧 Southeast Asian Malay TTS dataset 🚧",
+      "slug": "southeast-asian-malay-tts-dataset-f1f764b2"
+    },
+    {
+      "id": "cmt7m01xd002cnq07pn27wsfw",
+      "url": "https://mozilladatacollective.com/datasets/cmt7m01xd002cnq07pn27wsfw",
+      "lastmod": "2026-08-24T19:08:35.137Z",
+      "name": "🚧 Southeast Asian Cantonese TTS dataset 🚧",
+      "slug": "southeast-asian-cantonese-tts-dataset-e12e7d91"
+    },
+    {
+      "id": "cmt7m0goz002yns07tbz09iht",
+      "url": "https://mozilladatacollective.com/datasets/cmt7m0goz002yns07tbz09iht",
+      "lastmod": "2026-08-24T19:08:54.275Z",
+      "name": " 🚧 Southeast Asian Tamil TTS Dataset 🚧",
+      "slug": "southeast-asian-tamil-tts-dataset-d0232883"
     }
   ]
 }
