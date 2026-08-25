@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-08-24T05:17:58.979039+00:00",
+  "generated_at": "2026-08-25T05:13:51.635492+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1025,
+    "listed_datasets": 1031,
     "with_schema": 415,
-    "without_schema": 610,
+    "without_schema": 616,
     "schemas_total": 416,
     "unlisted_schemas": 1
   },
@@ -11294,6 +11294,72 @@
       "slug": "indonesian-spanish-learner-corpus-bb47c605",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmt6ft8jp02vanz075sg7xm0m",
       "lastmod": "2026-08-23T23:27:33.253Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmt7e4pfp004nnz08j3shtpcx",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧  Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain 🚧 ",
+      "slug": "free-form-sheng-swahili-english-code-swi-4d2cf90e",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmt7e4pfp004nnz08j3shtpcx",
+      "lastmod": "2026-08-24T15:28:15.301Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmt7ly2jb002mns07yuplkfbk",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Southeast Asian Hokkien TTS dataset 🚧",
+      "slug": "southeast-asian-hokkien-tts-dataset-616f92bb",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmt7ly2jb002mns07yuplkfbk",
+      "lastmod": "2026-08-24T19:07:02.615Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmt7lzezp002qns07ya5txwrx",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Moroccan Arabic ASR dataset (180h) 🚧",
+      "slug": "moroccan-arabic-asr-dataset-180h-4c950664",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmt7lzezp002qns07ya5txwrx",
+      "lastmod": "2026-08-24T19:16:23.664Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmt7lzpkp002uns07r684h2qa",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Southeast Asian Malay TTS dataset 🚧",
+      "slug": "southeast-asian-malay-tts-dataset-f1f764b2",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmt7lzpkp002uns07r684h2qa",
+      "lastmod": "2026-08-24T19:08:19.129Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmt7m01xd002cnq07pn27wsfw",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Southeast Asian Cantonese TTS dataset 🚧",
+      "slug": "southeast-asian-cantonese-tts-dataset-e12e7d91",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmt7m01xd002cnq07pn27wsfw",
+      "lastmod": "2026-08-24T19:08:35.137Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmt7m0goz002yns07tbz09iht",
+      "has_schema": false,
+      "listed": true,
+      "name": " 🚧 Southeast Asian Tamil TTS Dataset 🚧",
+      "slug": "southeast-asian-tamil-tts-dataset-d0232883",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmt7m0goz002yns07tbz09iht",
+      "lastmod": "2026-08-24T19:08:54.275Z",
       "schema_path": null,
       "schema_url": null
     }

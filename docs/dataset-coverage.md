@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-24  
-**Total datasets in sitemap:** 1025  
+**Last updated:** 2026-08-25  
+**Total datasets in sitemap:** 1031  
 **Schemas registered:** 415 ✅  
-**Schemas missing:** 610 ❌  
+**Schemas missing:** 616 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1044,6 +1044,12 @@ data programmatically.
 | `cmszkb3s901wvny07pkz816wx` | 🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧 | `single-speaker-urdu-tts-dataset-female-s-032e2b48` | [link](https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx) | ❌ |
 | `cmt09mjq0005xl107yuqi873h` | 🚧 Khowar Multimodal Dataset 🚧 | `khowar-multimodal-dataset-e5e3ecf7` | [link](https://mozilladatacollective.com/datasets/cmt09mjq0005xl107yuqi873h) | ❌ |
 | `cmt6ft8jp02vanz075sg7xm0m` | Indonesian-Spanish Learner Corpus | `indonesian-spanish-learner-corpus-bb47c605` | [link](https://mozilladatacollective.com/datasets/cmt6ft8jp02vanz075sg7xm0m) | ❌ |
+| `cmt7e4pfp004nnz08j3shtpcx` | 🚧  Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain 🚧  | `free-form-sheng-swahili-english-code-swi-4d2cf90e` | [link](https://mozilladatacollective.com/datasets/cmt7e4pfp004nnz08j3shtpcx) | ❌ |
+| `cmt7ly2jb002mns07yuplkfbk` | 🚧 Southeast Asian Hokkien TTS dataset 🚧 | `southeast-asian-hokkien-tts-dataset-616f92bb` | [link](https://mozilladatacollective.com/datasets/cmt7ly2jb002mns07yuplkfbk) | ❌ |
+| `cmt7lzezp002qns07ya5txwrx` | 🚧 Moroccan Arabic ASR dataset (180h) 🚧 | `moroccan-arabic-asr-dataset-180h-4c950664` | [link](https://mozilladatacollective.com/datasets/cmt7lzezp002qns07ya5txwrx) | ❌ |
+| `cmt7lzpkp002uns07r684h2qa` | 🚧 Southeast Asian Malay TTS dataset 🚧 | `southeast-asian-malay-tts-dataset-f1f764b2` | [link](https://mozilladatacollective.com/datasets/cmt7lzpkp002uns07r684h2qa) | ❌ |
+| `cmt7m01xd002cnq07pn27wsfw` | 🚧 Southeast Asian Cantonese TTS dataset 🚧 | `southeast-asian-cantonese-tts-dataset-e12e7d91` | [link](https://mozilladatacollective.com/datasets/cmt7m01xd002cnq07pn27wsfw) | ❌ |
+| `cmt7m0goz002yns07tbz09iht` |  🚧 Southeast Asian Tamil TTS Dataset 🚧 | `southeast-asian-tamil-tts-dataset-d0232883` | [link](https://mozilladatacollective.com/datasets/cmt7m0goz002yns07tbz09iht) | ❌ |
 
 ## Schemas without a platform dataset
 
