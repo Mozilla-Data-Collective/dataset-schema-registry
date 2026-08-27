@@ -1,13 +1,13 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-08-27T07:38:05.471370+00:00",
+  "generated_at": "2026-08-27T14:54:16.549588+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
     "listed_datasets": 1032,
-    "with_schema": 415,
-    "without_schema": 617,
-    "schemas_total": 416,
+    "with_schema": 417,
+    "without_schema": 615,
+    "schemas_total": 418,
     "unlisted_schemas": 1
   },
   "datasets": [
@@ -10364,25 +10364,25 @@
     },
     {
       "id": "cmrp1sdsj00zemm0822j75968",
-      "has_schema": false,
+      "has_schema": true,
       "listed": true,
       "name": "🚧 Singaporean Tamil Speech Collection 🚧",
       "slug": "singaporean-tamil-speech-collection-d67f8800",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968",
       "lastmod": "2026-07-30T16:03:45.110Z",
-      "schema_path": null,
-      "schema_url": null
+      "schema_path": "registry/cmrp1sdsj00zemm0822j75968/schema.yaml",
+      "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmrp1sdsj00zemm0822j75968/schema.yaml"
     },
     {
       "id": "cmrp30fdp0120o007a69s3nfc",
-      "has_schema": false,
+      "has_schema": true,
       "listed": true,
       "name": "🚧 Burmese Speech Collection 🚧",
       "slug": "burmese-speech-collection-246a811b",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc",
       "lastmod": "2026-07-30T12:55:50.060Z",
-      "schema_path": null,
-      "schema_url": null
+      "schema_path": "registry/cmrp30fdp0120o007a69s3nfc/schema.yaml",
+      "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmrp30fdp0120o007a69s3nfc/schema.yaml"
     },
     {
       "id": "cmrt6zbgx000vmm07hfuefigk",

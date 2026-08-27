@@ -14,8 +14,8 @@ data programmatically.
 
 **Last updated:** 2026-08-27  
 **Total datasets in sitemap:** 1032  
-**Schemas registered:** 415 ✅  
-**Schemas missing:** 617 ❌  
+**Schemas registered:** 417 ✅  
+**Schemas missing:** 615 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -959,8 +959,8 @@ data programmatically.
 | `cmrnmk9ux000hmc07llq1targ` | Adjuntos Solicitudes Información — Federación — VFQ | `adjuntos-solicitudes-informaci-n-federac-966df728` | [link](https://mozilladatacollective.com/datasets/cmrnmk9ux000hmc07llq1targ) | ❌ |
 | `cmroyatmb00wko007rt1g1hr2` | SKAD Ladino Parallel Corpus | `skad-ladino-parallel-corpus-dafb16b2` | [link](https://mozilladatacollective.com/datasets/cmroyatmb00wko007rt1g1hr2) | ❌ |
 | `cmroyc7m900wqo007okjs2jp3` | 🚧 Multi-Subject Human Pose & Facial Expression Dataset (Studio, 4K) 🚧 | `multi-subject-human-pose-facial-expressi-a86a7482` | [link](https://mozilladatacollective.com/datasets/cmroyc7m900wqo007okjs2jp3) | ❌ |
-| `cmrp1sdsj00zemm0822j75968` | 🚧 Singaporean Tamil Speech Collection 🚧 | `singaporean-tamil-speech-collection-d67f8800` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ❌ |
-| `cmrp30fdp0120o007a69s3nfc` | 🚧 Burmese Speech Collection 🚧 | `burmese-speech-collection-246a811b` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ❌ |
+| `cmrp1sdsj00zemm0822j75968` | 🚧 Singaporean Tamil Speech Collection 🚧 | `singaporean-tamil-speech-collection-d67f8800` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ✅ |
+| `cmrp30fdp0120o007a69s3nfc` | 🚧 Burmese Speech Collection 🚧 | `burmese-speech-collection-246a811b` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ✅ |
 | `cmrt6zbgx000vmm07hfuefigk` | Common Voice Scripted Speech 26.0 - American English (Male) | `common-voice-scripted-speech-26-0-americ-34c3c133` | [link](https://mozilladatacollective.com/datasets/cmrt6zbgx000vmm07hfuefigk) | ❌ |
 | `cmrt6zrob000zmm07yqwjlpwi` | Common Voice Scripted Speech 26.0 - British English | `common-voice-scripted-speech-26-0-britis-0fe481c3` | [link](https://mozilladatacollective.com/datasets/cmrt6zrob000zmm07yqwjlpwi) | ❌ |
 | `cmrt70j4z001qmm07nvfsmgmr` | Common Voice Scripted Speech 26.0 - American English (Female) | `common-voice-scripted-speech-26-0-americ-079c33be` | [link](https://mozilladatacollective.com/datasets/cmrt70j4z001qmm07nvfsmgmr) | ❌ |
