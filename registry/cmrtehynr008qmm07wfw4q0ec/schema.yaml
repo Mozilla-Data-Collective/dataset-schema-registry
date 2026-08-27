@@ -1,35 +1,15 @@
 dataset_id: cmrtehynr008qmm07wfw4q0ec
 task: ASR
 format: tsv
-index_file: index.tsv
+index_file: haz_asr_dataset/data.tsv
+base_audio_path: haz_asr_dataset/
 columns:
   audio_path:
     source_column: path
     dtype: file_path
-    path_match_strategy: exact
   transcription:
     source_column: sentence
   video_id:
     source_column: video_id
     dtype: category
-    optional: true
-  audio_duration_sec:
-    source_column: duration
-    dtype: float
-    optional: true
-  topic:
-    source_column: description
-    dtype: category
-    optional: true
-  speaker_count:
-    source_column: speaker_count
-    dtype: category
-    optional: true
-  speaker_genders:
-    source_column: speaker_genders
-    dtype: category
-    optional: true
-  speaker_age_group:
-    source_column: speaker_age_group
-    dtype: category
-    optional: true
+root_strategy: index
