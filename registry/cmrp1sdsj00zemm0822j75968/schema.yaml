@@ -1,0 +1,41 @@
+dataset_id: cmrp1sdsj00zemm0822j75968
+task: TTS
+format: tsv
+index_file: Singaporean_Tamil_41Hours_TTS_Dataset/metadata.tsv
+base_audio_path: Singaporean_Tamil_41Hours_TTS_Dataset/audio/
+columns:
+  audio_path:
+    source_column: file_name
+    dtype: file_path
+    file_extension: .wav
+  transcription:
+    source_column: sentence
+  speaker_name:
+    source_column: speaker_name
+    dtype: category
+    optional: true
+  language:
+    source_column: language
+    dtype: category
+    optional: true
+  age:
+    source_column: age
+    dtype: int
+    optional: true
+  gender:
+    source_column: gender
+    dtype: category
+    optional: true
+  theme:
+    source_column: theme
+    dtype: category
+    optional: true
+  domain:
+    source_column: domain
+    dtype: category
+    optional: true
+  sentence_ID:
+    source_column: sentence_ID
+    dtype: category
+    optional: true
+root_strategy: index
