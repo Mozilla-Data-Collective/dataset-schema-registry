@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T06:09:00.566852+00:00",
-  "total": 1031,
+  "updated_at": "2026-08-27T07:37:48.431547+00:00",
+  "total": 1032,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -12,9 +12,9 @@
     {
       "id": "cmhkl8z2a007rnr07p9bm5kmz",
       "url": "https://mozilladatacollective.com/datasets/cmhkl8z2a007rnr07p9bm5kmz",
-      "lastmod": "2026-01-08T18:54:46.535Z",
+      "lastmod": "2026-08-26T18:23:11.931Z",
       "name": "Tetelancingo Nahuatl",
-      "slug": "tetelancingo-nahuatl-4dd81077"
+      "slug": "tetelancingo-nahuatl-e09ceab4"
     },
     {
       "id": "cmhlvswz200fio007c7szypw8",
@@ -7218,6 +7218,13 @@
       "lastmod": "2026-08-24T19:08:54.275Z",
       "name": " 🚧 Southeast Asian Tamil TTS Dataset 🚧",
       "slug": "southeast-asian-tamil-tts-dataset-d0232883"
+    },
+    {
+      "id": "cmtan0jl3006dnr07hp1a9p2b",
+      "url": "https://mozilladatacollective.com/datasets/cmtan0jl3006dnr07hp1a9p2b",
+      "lastmod": "2026-08-26T22:01:21.879Z",
+      "name": "Lost In Transcription Competition - Development Data (Nahuatl-Spanish)",
+      "slug": "lost-in-transcription-competition-develo-d5ec0eb1"
     }
   ]
 }
