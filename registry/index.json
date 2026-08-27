@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-08-25T05:13:51.635492+00:00",
+  "generated_at": "2026-08-27T07:38:05.471370+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1031,
+    "listed_datasets": 1032,
     "with_schema": 415,
-    "without_schema": 616,
+    "without_schema": 617,
     "schemas_total": 416,
     "unlisted_schemas": 1
   },
@@ -27,9 +27,9 @@
       "has_schema": true,
       "listed": true,
       "name": "Tetelancingo Nahuatl",
-      "slug": "tetelancingo-nahuatl-4dd81077",
+      "slug": "tetelancingo-nahuatl-e09ceab4",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmhkl8z2a007rnr07p9bm5kmz",
-      "lastmod": "2026-01-08T18:54:46.535Z",
+      "lastmod": "2026-08-26T18:23:11.931Z",
       "schema_path": "registry/cmhkl8z2a007rnr07p9bm5kmz/schema.yaml",
       "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmhkl8z2a007rnr07p9bm5kmz/schema.yaml"
     },
@@ -11360,6 +11360,17 @@
       "slug": "southeast-asian-tamil-tts-dataset-d0232883",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmt7m0goz002yns07tbz09iht",
       "lastmod": "2026-08-24T19:08:54.275Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtan0jl3006dnr07hp1a9p2b",
+      "has_schema": false,
+      "listed": true,
+      "name": "Lost In Transcription Competition - Development Data (Nahuatl-Spanish)",
+      "slug": "lost-in-transcription-competition-develo-d5ec0eb1",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtan0jl3006dnr07hp1a9p2b",
+      "lastmod": "2026-08-26T22:01:21.879Z",
       "schema_path": null,
       "schema_url": null
     }

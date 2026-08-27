@@ -12,15 +12,15 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-25  
-**Total datasets in sitemap:** 1031  
+**Last updated:** 2026-08-27  
+**Total datasets in sitemap:** 1032  
 **Schemas registered:** 415 ✅  
-**Schemas missing:** 616 ❌  
+**Schemas missing:** 617 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
 | `cmfzu8u8wa555eq8onrk334h4` | Mozilla Common Voice Spontaneous Speech ASR Shared Task Train/Dev Data | `mcv-sps-st-09-2025` | [link](https://mozilladatacollective.com/datasets/cmfzu8u8wa555eq8onrk334h4) | ❌ |
-| `cmhkl8z2a007rnr07p9bm5kmz` | Tetelancingo Nahuatl | `tetelancingo-nahuatl-4dd81077` | [link](https://mozilladatacollective.com/datasets/cmhkl8z2a007rnr07p9bm5kmz) | ✅ |
+| `cmhkl8z2a007rnr07p9bm5kmz` | Tetelancingo Nahuatl | `tetelancingo-nahuatl-e09ceab4` | [link](https://mozilladatacollective.com/datasets/cmhkl8z2a007rnr07p9bm5kmz) | ✅ |
 | `cmhlvswz200fio007c7szypw8` | Podcast Hari Minggoean (Indonesia) | `podcast-hari-minggoean-indonesia-3b077582` | [link](https://mozilladatacollective.com/datasets/cmhlvswz200fio007c7szypw8) | ❌ |
 | `cmhnlbtx401ihmr07co7x8ptw` | Saraiki Literature Corpus | `saraiki-literature-corpus-bca56858` | [link](https://mozilladatacollective.com/datasets/cmhnlbtx401ihmr07co7x8ptw) | ❌ |
 | `cmhp3jurx00afmk07z5z4fktu` | Urdu Literature Corpus | `urdu-literature-corpus-2a2877f9` | [link](https://mozilladatacollective.com/datasets/cmhp3jurx00afmk07z5z4fktu) | ❌ |
@@ -1050,6 +1050,7 @@ data programmatically.
 | `cmt7lzpkp002uns07r684h2qa` | 🚧 Southeast Asian Malay TTS dataset 🚧 | `southeast-asian-malay-tts-dataset-f1f764b2` | [link](https://mozilladatacollective.com/datasets/cmt7lzpkp002uns07r684h2qa) | ❌ |
 | `cmt7m01xd002cnq07pn27wsfw` | 🚧 Southeast Asian Cantonese TTS dataset 🚧 | `southeast-asian-cantonese-tts-dataset-e12e7d91` | [link](https://mozilladatacollective.com/datasets/cmt7m01xd002cnq07pn27wsfw) | ❌ |
 | `cmt7m0goz002yns07tbz09iht` |  🚧 Southeast Asian Tamil TTS Dataset 🚧 | `southeast-asian-tamil-tts-dataset-d0232883` | [link](https://mozilladatacollective.com/datasets/cmt7m0goz002yns07tbz09iht) | ❌ |
+| `cmtan0jl3006dnr07hp1a9p2b` | Lost In Transcription Competition - Development Data (Nahuatl-Spanish) | `lost-in-transcription-competition-develo-d5ec0eb1` | [link](https://mozilladatacollective.com/datasets/cmtan0jl3006dnr07hp1a9p2b) | ❌ |
 
 ## Schemas without a platform dataset
 
