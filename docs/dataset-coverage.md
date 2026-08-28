@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-27  
-**Total datasets in sitemap:** 1032  
+**Last updated:** 2026-08-28  
+**Total datasets in sitemap:** 1037  
 **Schemas registered:** 417 ✅  
-**Schemas missing:** 615 ❌  
+**Schemas missing:** 620 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -160,7 +160,7 @@ data programmatically.
 | `cmll4i2n400l2l607uze0glc2` | ABC-Draco | `abc-draco-392e0feb` | [link](https://mozilladatacollective.com/datasets/cmll4i2n400l2l607uze0glc2) | ❌ |
 | `cmll4tg5200lcl6070hpil2b9` | Eastern Balochi Literature Corpus | `eastern-balochi-literature-corpus-54340617` | [link](https://mozilladatacollective.com/datasets/cmll4tg5200lcl6070hpil2b9) | ❌ |
 | `cmll4w0ln00nemn07axe7mj09` | World Factbook (JSON) | `world-factbook-json-8d154c08` | [link](https://mozilladatacollective.com/datasets/cmll4w0ln00nemn07axe7mj09) | ❌ |
-| `cmll54ryz00ljl60764ivc60m` | Manggarai Language for NLP | `manggarai-language-for-nlp-b1afdc85` | [link](https://mozilladatacollective.com/datasets/cmll54ryz00ljl60764ivc60m) | ❌ |
+| `cmll54ryz00ljl60764ivc60m` | Manggarai Language for NLP | `manggarai-language-for-nlp-82f8bd55` | [link](https://mozilladatacollective.com/datasets/cmll54ryz00ljl60764ivc60m) | ❌ |
 | `cmlqmsm0d00pinx072m0mm3aw` | Finweb-Edu-Chinese-v2.2 | `finweb-edu-chinese-v2-2-17f2368a` | [link](https://mozilladatacollective.com/datasets/cmlqmsm0d00pinx072m0mm3aw) | ❌ |
 | `cmlqoukmi000hnr07cprdmxsc` | Kyrgyz Folklore Text Corpus | `kyrgyz-folklore-text-corpus-de2f27ff` | [link](https://mozilladatacollective.com/datasets/cmlqoukmi000hnr07cprdmxsc) | ❌ |
 | `cmls27zfd0043ma07mxvsz8zg` | Zacatlán Tepetzintla Nahuatl ASR Dataset | `zacatl-n-tepetzintla-nahuatl-asr-dataset-2e46ee49` | [link](https://mozilladatacollective.com/datasets/cmls27zfd0043ma07mxvsz8zg) | ❌ |
@@ -294,8 +294,8 @@ data programmatically.
 | `cmocxuhkn00y4md07d8bllj2x` | Read Speech in Kenyan Swahili (6h) | `read-speech-in-kenyan-swahili-6h-0692ed09` | [link](https://mozilladatacollective.com/datasets/cmocxuhkn00y4md07d8bllj2x) | ❌ |
 | `cmoiuyem401j5mr07s0jx8rqr` | Italian TTS - female voice | `italian-tts-female-voice-78e192bf` | [link](https://mozilladatacollective.com/datasets/cmoiuyem401j5mr07s0jx8rqr) | ❌ |
 | `cmok1w0j002jcmr075bsof72y` | Tamazight Open Speech Dataset | `tamazight-open-speech-dataset-a39ff6ca` | [link](https://mozilladatacollective.com/datasets/cmok1w0j002jcmr075bsof72y) | ❌ |
-| `cmom3xala00gyo007hc0evymi` | BAHANA-Betawi TTS | `bahana-betawi-tts-33f94c22` | [link](https://mozilladatacollective.com/datasets/cmom3xala00gyo007hc0evymi) | ❌ |
-| `cmom3z1mc00h2o0071zxeq1ur` | BAHANA-Manggarai TTS | `bahana-manggarai-tts-b74b8ba1` | [link](https://mozilladatacollective.com/datasets/cmom3z1mc00h2o0071zxeq1ur) | ❌ |
+| `cmom3xala00gyo007hc0evymi` | BAHANA-Betawi TTS | `bahana-betawi-tts-36c364c1` | [link](https://mozilladatacollective.com/datasets/cmom3xala00gyo007hc0evymi) | ❌ |
+| `cmom3z1mc00h2o0071zxeq1ur` | BAHANA-Manggarai TTS | `bahana-manggarai-tts-51368f24` | [link](https://mozilladatacollective.com/datasets/cmom3z1mc00h2o0071zxeq1ur) | ❌ |
 | `cmom41aj500h6o007zkt02p8n` | TTS Bugis - Barru Dialect: Language and Identity | `tts-bugis-barru-dialect-language-and-ide-104404ad` | [link](https://mozilladatacollective.com/datasets/cmom41aj500h6o007zkt02p8n) | ❌ |
 | `cmom43ixg00hao00731e0o0jg` | TWB Parallel Sentence kits - Hausa (30k) | `twb-parallel-sentence-kits-hausa-30k-e8236719` | [link](https://mozilladatacollective.com/datasets/cmom43ixg00hao00731e0o0jg) | ❌ |
 | `cmonjhxee01ako007kohpbg34` | The LJSpeech Dataset | `the-ljspeech-dataset-f9cb12b9` | [link](https://mozilladatacollective.com/datasets/cmonjhxee01ako007kohpbg34) | ❌ |
@@ -1051,6 +1051,11 @@ data programmatically.
 | `cmt7m01xd002cnq07pn27wsfw` | 🚧 Southeast Asian Cantonese TTS dataset 🚧 | `southeast-asian-cantonese-tts-dataset-e12e7d91` | [link](https://mozilladatacollective.com/datasets/cmt7m01xd002cnq07pn27wsfw) | ❌ |
 | `cmt7m0goz002yns07tbz09iht` |  🚧 Southeast Asian Tamil TTS Dataset 🚧 | `southeast-asian-tamil-tts-dataset-d0232883` | [link](https://mozilladatacollective.com/datasets/cmt7m0goz002yns07tbz09iht) | ❌ |
 | `cmtan0jl3006dnr07hp1a9p2b` | Lost In Transcription Competition - Development Data (Nahuatl-Spanish) | `lost-in-transcription-competition-develo-d5ec0eb1` | [link](https://mozilladatacollective.com/datasets/cmtan0jl3006dnr07hp1a9p2b) | ❌ |
+| `cmtbjawbq00vumf07sccmkkyh` | 🚧 Pashto Multimodal Dataset 🚧 | `pashto-multimodal-dataset-2f6c134e` | [link](https://mozilladatacollective.com/datasets/cmtbjawbq00vumf07sccmkkyh) | ❌ |
+| `cmtbjkm6400vbnr075arsqkst` | Semarang Dialect-Javanese Parallel Corpus (IND|JAV|ENG|ARB) | `semarang-dialect-javanese-parallel-corpu-e63188cd` | [link](https://mozilladatacollective.com/datasets/cmtbjkm6400vbnr075arsqkst) | ❌ |
+| `cmtbjsbum00vmnr0701e5imnc` | Lumajang Dialect-Javanese Parallel Corpus | `lumajang-dialect-javanese-parallel-corpu-161efe27` | [link](https://mozilladatacollective.com/datasets/cmtbjsbum00vmnr0701e5imnc) | ❌ |
+| `cmtbq5syf013emf07blzvgb1y` | 🚧 Khowar Corpus for Speech Recognition 🚧 | `khowar-corpus-for-speech-recognition-569a26bc` | [link](https://mozilladatacollective.com/datasets/cmtbq5syf013emf07blzvgb1y) | ❌ |
+| `cmtbq6kf2013mmf07s2qhl6bv` | 🚧 Khowar Speech Translation Corpus 🚧 | `khowar-speech-translation-corpus-fa974ff9` | [link](https://mozilladatacollective.com/datasets/cmtbq6kf2013mmf07s2qhl6bv) | ❌ |
 
 ## Schemas without a platform dataset
 
