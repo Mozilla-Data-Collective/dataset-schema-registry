@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T09:02:40.148409+00:00",
-  "total": 1032,
+  "updated_at": "2026-08-28T07:40:22.265720+00:00",
+  "total": 1037,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -992,9 +992,9 @@
     {
       "id": "cmll54ryz00ljl60764ivc60m",
       "url": "https://mozilladatacollective.com/datasets/cmll54ryz00ljl60764ivc60m",
-      "lastmod": "2026-02-13T17:07:29.819Z",
+      "lastmod": "2026-08-27T12:36:46.556Z",
       "name": "Manggarai Language for NLP",
-      "slug": "manggarai-language-for-nlp-b1afdc85"
+      "slug": "manggarai-language-for-nlp-82f8bd55"
     },
     {
       "id": "cmlqmsm0d00pinx072m0mm3aw",
@@ -1930,16 +1930,16 @@
     {
       "id": "cmom3xala00gyo007hc0evymi",
       "url": "https://mozilladatacollective.com/datasets/cmom3xala00gyo007hc0evymi",
-      "lastmod": "2026-04-30T23:20:34.270Z",
+      "lastmod": "2026-08-27T10:51:55.367Z",
       "name": "BAHANA-Betawi TTS",
-      "slug": "bahana-betawi-tts-33f94c22"
+      "slug": "bahana-betawi-tts-36c364c1"
     },
     {
       "id": "cmom3z1mc00h2o0071zxeq1ur",
       "url": "https://mozilladatacollective.com/datasets/cmom3z1mc00h2o0071zxeq1ur",
-      "lastmod": "2026-04-30T23:21:55.956Z",
+      "lastmod": "2026-08-27T10:52:10.703Z",
       "name": "BAHANA-Manggarai TTS",
-      "slug": "bahana-manggarai-tts-b74b8ba1"
+      "slug": "bahana-manggarai-tts-51368f24"
     },
     {
       "id": "cmom41aj500h6o007zkt02p8n",
@@ -7225,6 +7225,41 @@
       "lastmod": "2026-08-26T22:01:21.879Z",
       "name": "Lost In Transcription Competition - Development Data (Nahuatl-Spanish)",
       "slug": "lost-in-transcription-competition-develo-d5ec0eb1"
+    },
+    {
+      "id": "cmtbjawbq00vumf07sccmkkyh",
+      "url": "https://mozilladatacollective.com/datasets/cmtbjawbq00vumf07sccmkkyh",
+      "lastmod": "2026-08-27T13:04:06.950Z",
+      "name": "🚧 Pashto Multimodal Dataset 🚧",
+      "slug": "pashto-multimodal-dataset-2f6c134e"
+    },
+    {
+      "id": "cmtbjkm6400vbnr075arsqkst",
+      "url": "https://mozilladatacollective.com/datasets/cmtbjkm6400vbnr075arsqkst",
+      "lastmod": "2026-08-27T13:11:40.348Z",
+      "name": "Semarang Dialect-Javanese Parallel Corpus (IND|JAV|ENG|ARB)",
+      "slug": "semarang-dialect-javanese-parallel-corpu-e63188cd"
+    },
+    {
+      "id": "cmtbjsbum00vmnr0701e5imnc",
+      "url": "https://mozilladatacollective.com/datasets/cmtbjsbum00vmnr0701e5imnc",
+      "lastmod": "2026-08-27T13:17:40.222Z",
+      "name": "Lumajang Dialect-Javanese Parallel Corpus",
+      "slug": "lumajang-dialect-javanese-parallel-corpu-161efe27"
+    },
+    {
+      "id": "cmtbq5syf013emf07blzvgb1y",
+      "url": "https://mozilladatacollective.com/datasets/cmtbq5syf013emf07blzvgb1y",
+      "lastmod": "2026-08-27T16:16:06.615Z",
+      "name": "🚧 Khowar Corpus for Speech Recognition 🚧",
+      "slug": "khowar-corpus-for-speech-recognition-569a26bc"
+    },
+    {
+      "id": "cmtbq6kf2013mmf07s2qhl6bv",
+      "url": "https://mozilladatacollective.com/datasets/cmtbq6kf2013mmf07s2qhl6bv",
+      "lastmod": "2026-08-27T16:16:42.206Z",
+      "name": "🚧 Khowar Speech Translation Corpus 🚧",
+      "slug": "khowar-speech-translation-corpus-fa974ff9"
     }
   ]
 }
