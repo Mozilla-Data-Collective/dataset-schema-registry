@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-28  
-**Total datasets in sitemap:** 1037  
+**Last updated:** 2026-08-29  
+**Total datasets in sitemap:** 1041  
 **Schemas registered:** 417 ✅  
-**Schemas missing:** 620 ❌  
+**Schemas missing:** 624 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -134,7 +134,7 @@ data programmatically.
 | `cml16bz8v008pnt07scfh66p5` | Bamun-French Parallel Corpus 1.1 | `bamun-french-parallel-corpus-1-1-64fe9ff1` | [link](https://mozilladatacollective.com/datasets/cml16bz8v008pnt07scfh66p5) | ❌ |
 | `cml16fpkn009lnt07ht6k406o` | Ewondo-TTS-Dataset | `ewondo-tts-dataset-ef07a0de` | [link](https://mozilladatacollective.com/datasets/cml16fpkn009lnt07ht6k406o) | ❌ |
 | `cml5asbhf009sme079y6sa9hm` | Adamawa Fulfulde-French Parallel Corpus of Narratives 1.2 | `adamawa-fulfulde-french-parallel-corpus-748952a3` | [link](https://mozilladatacollective.com/datasets/cml5asbhf009sme079y6sa9hm) | ❌ |
-| `cml5bgysg00bhkr07g23kewke` | TTS Javanese-Lumajang Dialect | `tts-javanese-lumajang-dialect-e4bf8a25` | [link](https://mozilladatacollective.com/datasets/cml5bgysg00bhkr07g23kewke) | ❌ |
+| `cml5bgysg00bhkr07g23kewke` | TTS Javanese-Lumajang Dialect | `tts-javanese-lumajang-dialect-ec830842` | [link](https://mozilladatacollective.com/datasets/cml5bgysg00bhkr07g23kewke) | ❌ |
 | `cml5bn4k900aame07u0rwidcg` | TTS Central Javanese  | `tts-central-javanese-18f65d12` | [link](https://mozilladatacollective.com/datasets/cml5bn4k900aame07u0rwidcg) | ❌ |
 | `cml5e30pd00eskr072e6a4rrh` | Mandar Spontaneous Speech | `mandar-spontaneous-speech-05a6e755` | [link](https://mozilladatacollective.com/datasets/cml5e30pd00eskr072e6a4rrh) | ❌ |
 | `cml6ywgg0007xmn07ppq469gt` | TTS-Tolaki | `tts-tolaki-d48cdaf8` | [link](https://mozilladatacollective.com/datasets/cml6ywgg0007xmn07ppq469gt) | ❌ |
@@ -1051,11 +1051,15 @@ data programmatically.
 | `cmt7m01xd002cnq07pn27wsfw` | 🚧 Southeast Asian Cantonese TTS dataset 🚧 | `southeast-asian-cantonese-tts-dataset-e12e7d91` | [link](https://mozilladatacollective.com/datasets/cmt7m01xd002cnq07pn27wsfw) | ❌ |
 | `cmt7m0goz002yns07tbz09iht` |  🚧 Southeast Asian Tamil TTS Dataset 🚧 | `southeast-asian-tamil-tts-dataset-d0232883` | [link](https://mozilladatacollective.com/datasets/cmt7m0goz002yns07tbz09iht) | ❌ |
 | `cmtan0jl3006dnr07hp1a9p2b` | Lost In Transcription Competition - Development Data (Nahuatl-Spanish) | `lost-in-transcription-competition-develo-d5ec0eb1` | [link](https://mozilladatacollective.com/datasets/cmtan0jl3006dnr07hp1a9p2b) | ❌ |
-| `cmtbjawbq00vumf07sccmkkyh` | 🚧 Pashto Multimodal Dataset 🚧 | `pashto-multimodal-dataset-2f6c134e` | [link](https://mozilladatacollective.com/datasets/cmtbjawbq00vumf07sccmkkyh) | ❌ |
+| `cmtbjawbq00vumf07sccmkkyh` | 🚧 Northern Pashto Multimodal Dataset 🚧 | `northern-pashto-multimodal-dataset-cce87733` | [link](https://mozilladatacollective.com/datasets/cmtbjawbq00vumf07sccmkkyh) | ❌ |
 | `cmtbjkm6400vbnr075arsqkst` | Semarang Dialect-Javanese Parallel Corpus (IND|JAV|ENG|ARB) | `semarang-dialect-javanese-parallel-corpu-e63188cd` | [link](https://mozilladatacollective.com/datasets/cmtbjkm6400vbnr075arsqkst) | ❌ |
 | `cmtbjsbum00vmnr0701e5imnc` | Lumajang Dialect-Javanese Parallel Corpus | `lumajang-dialect-javanese-parallel-corpu-161efe27` | [link](https://mozilladatacollective.com/datasets/cmtbjsbum00vmnr0701e5imnc) | ❌ |
 | `cmtbq5syf013emf07blzvgb1y` | 🚧 Khowar Corpus for Speech Recognition 🚧 | `khowar-corpus-for-speech-recognition-569a26bc` | [link](https://mozilladatacollective.com/datasets/cmtbq5syf013emf07blzvgb1y) | ❌ |
 | `cmtbq6kf2013mmf07s2qhl6bv` | 🚧 Khowar Speech Translation Corpus 🚧 | `khowar-speech-translation-corpus-fa974ff9` | [link](https://mozilladatacollective.com/datasets/cmtbq6kf2013mmf07s2qhl6bv) | ❌ |
+| `cmtd1s2lz002jnw071xv2t2zr` | TTS Sundanese - Sunda Priangan with Bandung Dialect | `tts-sundanese-sunda-priangan-with-bandun-417325b2` | [link](https://mozilladatacollective.com/datasets/cmtd1s2lz002jnw071xv2t2zr) | ❌ |
+| `cmtd1sdy7002nnw0791oxzm98` | A Malimba Sociocultural Dataset | `a-malimba-sociocultural-dataset-21b7b85f` | [link](https://mozilladatacollective.com/datasets/cmtd1sdy7002nnw0791oxzm98) | ❌ |
+| `cmtd63lw2007fnw07uryk8ylm` | 🚧 Hindi Vintage Scripted Narrative // Rights-Cleared · 20 Hours 🚧 | `hindi-vintage-scripted-narrative-rights-ba7d31b0` | [link](https://mozilladatacollective.com/datasets/cmtd63lw2007fnw07uryk8ylm) | ❌ |
+| `cmtd65881005gns07blxkfc5v` | 🚧 Khowar-English Parallel Corpus 🚧 | `khowar-english-parallel-corpus-9ce12a62` | [link](https://mozilladatacollective.com/datasets/cmtd65881005gns07blxkfc5v) | ❌ |
 
 ## Schemas without a platform dataset
 
