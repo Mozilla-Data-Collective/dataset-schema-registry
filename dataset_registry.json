@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T09:06:43.088305+00:00",
-  "total": 1037,
+  "updated_at": "2026-08-29T05:13:36.715409+00:00",
+  "total": 1041,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -810,9 +810,9 @@
     {
       "id": "cml5bgysg00bhkr07g23kewke",
       "url": "https://mozilladatacollective.com/datasets/cml5bgysg00bhkr07g23kewke",
-      "lastmod": "2026-02-02T15:20:37.408Z",
+      "lastmod": "2026-08-28T12:10:29.983Z",
       "name": "TTS Javanese-Lumajang Dialect",
-      "slug": "tts-javanese-lumajang-dialect-e4bf8a25"
+      "slug": "tts-javanese-lumajang-dialect-ec830842"
     },
     {
       "id": "cml5bn4k900aame07u0rwidcg",
@@ -7229,9 +7229,9 @@
     {
       "id": "cmtbjawbq00vumf07sccmkkyh",
       "url": "https://mozilladatacollective.com/datasets/cmtbjawbq00vumf07sccmkkyh",
-      "lastmod": "2026-08-27T13:04:06.950Z",
-      "name": "🚧 Pashto Multimodal Dataset 🚧",
-      "slug": "pashto-multimodal-dataset-2f6c134e"
+      "lastmod": "2026-08-28T23:15:46.744Z",
+      "name": "🚧 Northern Pashto Multimodal Dataset 🚧",
+      "slug": "northern-pashto-multimodal-dataset-cce87733"
     },
     {
       "id": "cmtbjkm6400vbnr075arsqkst",
@@ -7260,6 +7260,34 @@
       "lastmod": "2026-08-27T16:16:42.206Z",
       "name": "🚧 Khowar Speech Translation Corpus 🚧",
       "slug": "khowar-speech-translation-corpus-fa974ff9"
+    },
+    {
+      "id": "cmtd1s2lz002jnw071xv2t2zr",
+      "url": "https://mozilladatacollective.com/datasets/cmtd1s2lz002jnw071xv2t2zr",
+      "lastmod": "2026-08-28T14:29:07.511Z",
+      "name": "TTS Sundanese - Sunda Priangan with Bandung Dialect",
+      "slug": "tts-sundanese-sunda-priangan-with-bandun-417325b2"
+    },
+    {
+      "id": "cmtd1sdy7002nnw0791oxzm98",
+      "url": "https://mozilladatacollective.com/datasets/cmtd1sdy7002nnw0791oxzm98",
+      "lastmod": "2026-08-28T14:29:22.208Z",
+      "name": "A Malimba Sociocultural Dataset",
+      "slug": "a-malimba-sociocultural-dataset-21b7b85f"
+    },
+    {
+      "id": "cmtd63lw2007fnw07uryk8ylm",
+      "url": "https://mozilladatacollective.com/datasets/cmtd63lw2007fnw07uryk8ylm",
+      "lastmod": "2026-08-28T16:30:04.178Z",
+      "name": "🚧 Hindi Vintage Scripted Narrative // Rights-Cleared · 20 Hours 🚧",
+      "slug": "hindi-vintage-scripted-narrative-rights-ba7d31b0"
+    },
+    {
+      "id": "cmtd65881005gns07blxkfc5v",
+      "url": "https://mozilladatacollective.com/datasets/cmtd65881005gns07blxkfc5v",
+      "lastmod": "2026-08-28T16:31:19.778Z",
+      "name": "🚧 Khowar-English Parallel Corpus 🚧",
+      "slug": "khowar-english-parallel-corpus-9ce12a62"
     }
   ]
 }
