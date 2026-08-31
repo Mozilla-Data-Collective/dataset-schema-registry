@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-08-29T05:13:51.442254+00:00",
+  "generated_at": "2026-08-31T05:17:02.339788+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -11236,9 +11236,9 @@
       "has_schema": false,
       "listed": true,
       "name": "🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧",
-      "slug": "noakhali-10-hours-tts-male-speaker-300f426a",
+      "slug": "noakhali-10-hours-tts-male-speaker-1e048da5",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk",
-      "lastmod": "2026-08-10T22:40:24.150Z",
+      "lastmod": "2026-08-30T20:30:25.227Z",
       "schema_path": null,
       "schema_url": null
     },
