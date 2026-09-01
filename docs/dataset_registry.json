@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T06:13:40.651397+00:00",
-  "total": 1041,
+  "updated_at": "2026-09-01T05:16:39.728777+00:00",
+  "total": 1044,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -1426,9 +1426,9 @@
     {
       "id": "cmnggocgg007ymh079k30st39",
       "url": "https://mozilladatacollective.com/datasets/cmnggocgg007ymh079k30st39",
-      "lastmod": "2026-08-14T15:48:58.850Z",
+      "lastmod": "2026-08-31T14:15:52.921Z",
       "name": "Kannada Time Aligned Speech Corpus",
-      "slug": "kannada-time-aligned-speech-corpus-29edce10"
+      "slug": "kannada-time-aligned-speech-corpus-a63ad003"
     },
     {
       "id": "cmnggqr8z0082mh07vbsbm6t5",
@@ -2371,9 +2371,9 @@
     {
       "id": "cmp8w3owe03phmp076hciar56",
       "url": "https://mozilladatacollective.com/datasets/cmp8w3owe03phmp076hciar56",
-      "lastmod": "2026-06-18T16:57:13.895Z",
+      "lastmod": "2026-08-31T14:15:32.733Z",
       "name": "Multispeaker Hindi ASR Dataset",
-      "slug": "multispeaker-hindi-asr-dataset-fc507596"
+      "slug": "multispeaker-hindi-asr-dataset-688586e9"
     },
     {
       "id": "cmpbfyxlc002nmj07k67e3ok2",
@@ -7138,9 +7138,9 @@
     {
       "id": "cmsnteixi00gfmf07til46ayk",
       "url": "https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk",
-      "lastmod": "2026-08-30T20:30:25.227Z",
+      "lastmod": "2026-08-31T14:11:41.658Z",
       "name": "🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧",
-      "slug": "noakhali-10-hours-tts-male-speaker-1e048da5"
+      "slug": "noakhali-10-hours-tts-male-speaker-425bd8b6"
     },
     {
       "id": "cmssxpm5q02ylmf07ro4vzrls",
@@ -7278,9 +7278,9 @@
     {
       "id": "cmtd63lw2007fnw07uryk8ylm",
       "url": "https://mozilladatacollective.com/datasets/cmtd63lw2007fnw07uryk8ylm",
-      "lastmod": "2026-08-28T16:30:04.178Z",
+      "lastmod": "2026-08-31T09:56:32.219Z",
       "name": "🚧 Hindi Vintage Scripted Narrative // Rights-Cleared · 20 Hours 🚧",
-      "slug": "hindi-vintage-scripted-narrative-rights-ba7d31b0"
+      "slug": "hindi-vintage-scripted-narrative-rights-ddc9b912"
     },
     {
       "id": "cmtd65881005gns07blxkfc5v",
@@ -7288,6 +7288,27 @@
       "lastmod": "2026-08-28T16:31:19.778Z",
       "name": "🚧 Khowar-English Parallel Corpus 🚧",
       "slug": "khowar-english-parallel-corpus-9ce12a62"
+    },
+    {
+      "id": "cmth8m2hx036wnw07ng1vw388",
+      "url": "https://mozilladatacollective.com/datasets/cmth8m2hx036wnw07ng1vw388",
+      "lastmod": "2026-08-31T12:51:29.445Z",
+      "name": "Balti Literature corpus",
+      "slug": "balti-literature-corpus-94671d59"
+    },
+    {
+      "id": "cmth8p1bz039jns0742s3vcx2",
+      "url": "https://mozilladatacollective.com/datasets/cmth8p1bz039jns0742s3vcx2",
+      "lastmod": "2026-08-31T13:47:59.845Z",
+      "name": "Gawar-Bati Literature Corpus",
+      "slug": "gawar-bati-literature-corpus-ce0f32bd"
+    },
+    {
+      "id": "cmthb06nd039ynw07uq3pahj7",
+      "url": "https://mozilladatacollective.com/datasets/cmthb06nd039ynw07uq3pahj7",
+      "lastmod": "2026-08-31T13:58:27.242Z",
+      "name": "Indonesian-Learner-English",
+      "slug": "indonesian-learner-english-ab0c41eb"
     }
   ]
 }
