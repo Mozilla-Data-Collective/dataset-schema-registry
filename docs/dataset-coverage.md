@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-08-31  
-**Total datasets in sitemap:** 1041  
+**Last updated:** 2026-09-01  
+**Total datasets in sitemap:** 1044  
 **Schemas registered:** 417 ✅  
-**Schemas missing:** 624 ❌  
+**Schemas missing:** 627 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -222,7 +222,7 @@ data programmatically.
 | `cmn6ay1xg016jnv07drtmw7qo` | Bamun-French Parallel Corpus 2.0 | `bamun-french-parallel-corpus-2-0-2637e53d` | [link](https://mozilladatacollective.com/datasets/cmn6ay1xg016jnv07drtmw7qo) | ❌ |
 | `cmndjfw9d000qmj070dece40f` | Yezoum_ALCAM-MultimodalDataset | `yezoum-alcam-multimodaldataset-29a744fa` | [link](https://mozilladatacollective.com/datasets/cmndjfw9d000qmj070dece40f) | ❌ |
 | `cmngbf1tt0050nn07i49aebnk` | Sentence translation difficulty in Spanish - BOUQuET | `sentence-translation-difficulty-in-spani-355c4d15` | [link](https://mozilladatacollective.com/datasets/cmngbf1tt0050nn07i49aebnk) | ❌ |
-| `cmnggocgg007ymh079k30st39` | Kannada Time Aligned Speech Corpus | `kannada-time-aligned-speech-corpus-29edce10` | [link](https://mozilladatacollective.com/datasets/cmnggocgg007ymh079k30st39) | ❌ |
+| `cmnggocgg007ymh079k30st39` | Kannada Time Aligned Speech Corpus | `kannada-time-aligned-speech-corpus-a63ad003` | [link](https://mozilladatacollective.com/datasets/cmnggocgg007ymh079k30st39) | ❌ |
 | `cmnggqr8z0082mh07vbsbm6t5` | Saraiki 10 Hours  TTS Dataset | `saraiki-10-hours-tts-dataset-db3de0d4` | [link](https://mozilladatacollective.com/datasets/cmnggqr8z0082mh07vbsbm6t5) | ❌ |
 | `cmnhgmkgg00wimh07wc0v3s49` | RFE/RL Persian News Text Corpus | `rfe-rl-persian-news-text-corpus-c5838e9b` | [link](https://mozilladatacollective.com/datasets/cmnhgmkgg00wimh07wc0v3s49) | ❌ |
 | `cmnhhi0by00zknn07edrnd82e` | Chuvash TTS | `chuvash-tts-c8d599ba` | [link](https://mozilladatacollective.com/datasets/cmnhhi0by00zknn07edrnd82e) | ❌ |
@@ -357,7 +357,7 @@ data programmatically.
 | `cmp77wrdm02wdmp071z00ldk3` | CoVoST 2 Estonian - English | `covost-2-estonian-english-21b7c086` | [link](https://mozilladatacollective.com/datasets/cmp77wrdm02wdmp071z00ldk3) | ❌ |
 | `cmp787jb102whmp07hbogpvaw` | CoVoST 2 Russian - English | `covost-2-russian-english-46e2d400` | [link](https://mozilladatacollective.com/datasets/cmp787jb102whmp07hbogpvaw) | ❌ |
 | `cmp8vqj5h03m0o007qu438s4a` | Gujarati News and Blogs Corpus | `gujarati-news-and-blogs-corpus-9d36389a` | [link](https://mozilladatacollective.com/datasets/cmp8vqj5h03m0o007qu438s4a) | ❌ |
-| `cmp8w3owe03phmp076hciar56` | Multispeaker Hindi ASR Dataset | `multispeaker-hindi-asr-dataset-fc507596` | [link](https://mozilladatacollective.com/datasets/cmp8w3owe03phmp076hciar56) | ❌ |
+| `cmp8w3owe03phmp076hciar56` | Multispeaker Hindi ASR Dataset | `multispeaker-hindi-asr-dataset-688586e9` | [link](https://mozilladatacollective.com/datasets/cmp8w3owe03phmp076hciar56) | ❌ |
 | `cmpbfyxlc002nmj07k67e3ok2` | CoVoST 2 French - English | `covost-2-french-english-d459549b` | [link](https://mozilladatacollective.com/datasets/cmpbfyxlc002nmj07k67e3ok2) | ❌ |
 | `cmpbmhj4i0067nw07tk46v2jp` | Synthetic Ladino Parallel Corpus | `synthetic-ladino-parallel-corpus-c1dbf629` | [link](https://mozilladatacollective.com/datasets/cmpbmhj4i0067nw07tk46v2jp) | ❌ |
 | `cmpcp7cl800ydmg077wte52mv` | LegendNER-ID (Javanese) | `legendner-id-javanese-62d5a93d` | [link](https://mozilladatacollective.com/datasets/cmpcp7cl800ydmg077wte52mv) | ❌ |
@@ -1038,7 +1038,7 @@ data programmatically.
 | `cmsn89f3u000tl3070jlokskm` | A Ngemba Sociocultural Dataset | `a-ngemba-sociocultural-dataset-1f3f9ce2` | [link](https://mozilladatacollective.com/datasets/cmsn89f3u000tl3070jlokskm) | ❌ |
 | `cmsn89yfd000xl307kucamt0m` | A Bulu Sociocultural Dataset | `a-bulu-sociocultural-dataset-a4cc6b32` | [link](https://mozilladatacollective.com/datasets/cmsn89yfd000xl307kucamt0m) | ❌ |
 | `cmsn8ao8t0011l307hquossmi` |  A Bamvele Sociocultural Dataset | `a-bamvele-sociocultural-dataset-48832038` | [link](https://mozilladatacollective.com/datasets/cmsn8ao8t0011l307hquossmi) | ❌ |
-| `cmsnteixi00gfmf07til46ayk` | 🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧 | `noakhali-10-hours-tts-male-speaker-1e048da5` | [link](https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk) | ❌ |
+| `cmsnteixi00gfmf07til46ayk` | 🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧 | `noakhali-10-hours-tts-male-speaker-425bd8b6` | [link](https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk) | ❌ |
 | `cmssxpm5q02ylmf07ro4vzrls` | Nwāchā Munā | `nw-ch-mun-f001a03f` | [link](https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls) | ❌ |
 | `cmsxiwqdo000fny07e5fx0yi5` | Lost In Transcription Competition - Development Data (Javanese-Indonesian) | `lost-in-transcription-competition-develo-4628e8de` | [link](https://mozilladatacollective.com/datasets/cmsxiwqdo000fny07e5fx0yi5) | ❌ |
 | `cmszkb3s901wvny07pkz816wx` | 🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧 | `single-speaker-urdu-tts-dataset-female-s-032e2b48` | [link](https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx) | ❌ |
@@ -1058,8 +1058,11 @@ data programmatically.
 | `cmtbq6kf2013mmf07s2qhl6bv` | 🚧 Khowar Speech Translation Corpus 🚧 | `khowar-speech-translation-corpus-fa974ff9` | [link](https://mozilladatacollective.com/datasets/cmtbq6kf2013mmf07s2qhl6bv) | ❌ |
 | `cmtd1s2lz002jnw071xv2t2zr` | TTS Sundanese - Sunda Priangan with Bandung Dialect | `tts-sundanese-sunda-priangan-with-bandun-417325b2` | [link](https://mozilladatacollective.com/datasets/cmtd1s2lz002jnw071xv2t2zr) | ❌ |
 | `cmtd1sdy7002nnw0791oxzm98` | A Malimba Sociocultural Dataset | `a-malimba-sociocultural-dataset-21b7b85f` | [link](https://mozilladatacollective.com/datasets/cmtd1sdy7002nnw0791oxzm98) | ❌ |
-| `cmtd63lw2007fnw07uryk8ylm` | 🚧 Hindi Vintage Scripted Narrative // Rights-Cleared · 20 Hours 🚧 | `hindi-vintage-scripted-narrative-rights-ba7d31b0` | [link](https://mozilladatacollective.com/datasets/cmtd63lw2007fnw07uryk8ylm) | ❌ |
+| `cmtd63lw2007fnw07uryk8ylm` | 🚧 Hindi Vintage Scripted Narrative // Rights-Cleared · 20 Hours 🚧 | `hindi-vintage-scripted-narrative-rights-ddc9b912` | [link](https://mozilladatacollective.com/datasets/cmtd63lw2007fnw07uryk8ylm) | ❌ |
 | `cmtd65881005gns07blxkfc5v` | 🚧 Khowar-English Parallel Corpus 🚧 | `khowar-english-parallel-corpus-9ce12a62` | [link](https://mozilladatacollective.com/datasets/cmtd65881005gns07blxkfc5v) | ❌ |
+| `cmth8m2hx036wnw07ng1vw388` | Balti Literature corpus | `balti-literature-corpus-94671d59` | [link](https://mozilladatacollective.com/datasets/cmth8m2hx036wnw07ng1vw388) | ❌ |
+| `cmth8p1bz039jns0742s3vcx2` | Gawar-Bati Literature Corpus | `gawar-bati-literature-corpus-ce0f32bd` | [link](https://mozilladatacollective.com/datasets/cmth8p1bz039jns0742s3vcx2) | ❌ |
+| `cmthb06nd039ynw07uq3pahj7` | Indonesian-Learner-English | `indonesian-learner-english-ab0c41eb` | [link](https://mozilladatacollective.com/datasets/cmthb06nd039ynw07uq3pahj7) | ❌ |
 
 ## Schemas without a platform dataset
 
