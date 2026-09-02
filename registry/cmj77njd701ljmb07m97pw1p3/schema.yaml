@@ -1,5 +1,6 @@
 dataset_id: "cmj77njd701ljmb07m97pw1p3"
 task: "TTS"
+root_strategy: "index"
 format: "pipe"
 separator: "|"
 has_header: false

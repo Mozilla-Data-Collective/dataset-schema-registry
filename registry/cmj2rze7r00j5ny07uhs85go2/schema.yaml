@@ -1,5 +1,6 @@
 dataset_id: "cmj2rze7r00j5ny07uhs85go2"
 task: "TTS"
+root_strategy: "index"
 format: "tsv"
 checksum: "4e48fe61ca87cfde0575f989ea81783701c32ddee126dc386b8736f40a643036"
 

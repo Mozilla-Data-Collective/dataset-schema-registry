@@ -1,5 +1,6 @@
 dataset_id: "cmj8ddapc02c8mb07l6wyr882"
 task: "OTH"
+root_strategy: "index"
 format: "tsv"
 
 index_file: "mcv_text_lid.tsv"

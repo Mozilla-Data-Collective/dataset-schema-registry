@@ -1,5 +1,6 @@
 dataset_id: "cmi7mgbam000bnx074097g2yg"
 task: "TTS"
+root_strategy: "index"
 index_file: "metadata.csv"
 has_header: false
 separator: "|"

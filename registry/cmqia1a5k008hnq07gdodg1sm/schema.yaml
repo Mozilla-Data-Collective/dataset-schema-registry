@@ -1,5 +1,6 @@
 dataset_id: "cmqia1a5k008hnq07gdodg1sm"
 task: "ASR"
+root_strategy: "index"
 format: "tsv"
 
 index_file: "ss-corpus-led.tsv"

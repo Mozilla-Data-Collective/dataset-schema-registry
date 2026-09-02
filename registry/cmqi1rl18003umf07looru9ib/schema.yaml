@@ -1,5 +1,6 @@
 dataset_id: "cmqi1rl18003umf07looru9ib"
 task: "ASR"
+root_strategy: "index"
 format: "tsv"
 
 index_file: "ss-corpus-nl.tsv"

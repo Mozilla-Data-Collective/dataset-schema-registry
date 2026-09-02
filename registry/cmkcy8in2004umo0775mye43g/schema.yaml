@@ -1,5 +1,6 @@
 dataset_id: "cmkcy8in2004umo0775mye43g"
 task: "ASR"
+root_strategy: "index"
 
 index_file: "data/metadata.csv"
 base_audio_path:
