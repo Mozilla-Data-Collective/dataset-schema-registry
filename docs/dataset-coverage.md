@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-01  
-**Total datasets in sitemap:** 1044  
+**Last updated:** 2026-09-02  
+**Total datasets in sitemap:** 1046  
 **Schemas registered:** 417 ✅  
-**Schemas missing:** 627 ❌  
+**Schemas missing:** 629 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -959,8 +959,8 @@ data programmatically.
 | `cmrnmk9ux000hmc07llq1targ` | Adjuntos Solicitudes Información — Federación — VFQ | `adjuntos-solicitudes-informaci-n-federac-966df728` | [link](https://mozilladatacollective.com/datasets/cmrnmk9ux000hmc07llq1targ) | ❌ |
 | `cmroyatmb00wko007rt1g1hr2` | SKAD Ladino Parallel Corpus | `skad-ladino-parallel-corpus-dafb16b2` | [link](https://mozilladatacollective.com/datasets/cmroyatmb00wko007rt1g1hr2) | ❌ |
 | `cmroyc7m900wqo007okjs2jp3` | 🚧 Multi-Subject Human Pose & Facial Expression Dataset (Studio, 4K) 🚧 | `multi-subject-human-pose-facial-expressi-a86a7482` | [link](https://mozilladatacollective.com/datasets/cmroyc7m900wqo007okjs2jp3) | ❌ |
-| `cmrp1sdsj00zemm0822j75968` | 🚧 Singaporean Tamil Speech Collection 🚧 | `singaporean-tamil-speech-collection-d67f8800` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ✅ |
-| `cmrp30fdp0120o007a69s3nfc` | 🚧 Burmese Speech Collection 🚧 | `burmese-speech-collection-246a811b` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ✅ |
+| `cmrp1sdsj00zemm0822j75968` | Singaporean Tamil Speech Collection | `singaporean-tamil-speech-collection-7fe0b372` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ✅ |
+| `cmrp30fdp0120o007a69s3nfc` | Burmese Speech Collection | `burmese-speech-collection-b1e2e0d5` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ✅ |
 | `cmrt6zbgx000vmm07hfuefigk` | Common Voice Scripted Speech 26.0 - American English (Male) | `common-voice-scripted-speech-26-0-americ-34c3c133` | [link](https://mozilladatacollective.com/datasets/cmrt6zbgx000vmm07hfuefigk) | ❌ |
 | `cmrt6zrob000zmm07yqwjlpwi` | Common Voice Scripted Speech 26.0 - British English | `common-voice-scripted-speech-26-0-britis-0fe481c3` | [link](https://mozilladatacollective.com/datasets/cmrt6zrob000zmm07yqwjlpwi) | ❌ |
 | `cmrt70j4z001qmm07nvfsmgmr` | Common Voice Scripted Speech 26.0 - American English (Female) | `common-voice-scripted-speech-26-0-americ-079c33be` | [link](https://mozilladatacollective.com/datasets/cmrt70j4z001qmm07nvfsmgmr) | ❌ |
@@ -1008,7 +1008,7 @@ data programmatically.
 | `cmrxj3dus002fl407nbjb6lmc` |  Sindhi Alpaca | `sindhi-alpaca-f573013f` | [link](https://mozilladatacollective.com/datasets/cmrxj3dus002fl407nbjb6lmc) | ❌ |
 | `cmrxj3m5q0021o907tnm6c9jp` | A Kanuri Sociocultural Dataset | `a-kanuri-sociocultural-dataset-716f9a4b` | [link](https://mozilladatacollective.com/datasets/cmrxj3m5q0021o907tnm6c9jp) | ❌ |
 | `cmrxo0ayv008vl40743ndzpbr` | MMLU ProX Sndhi | `mmlu-prox-sndhi-7b5de314` | [link](https://mozilladatacollective.com/datasets/cmrxo0ayv008vl40743ndzpbr) | ❌ |
-| `cmrxokivf009bl4076o9i6wx0` | 🚧 African Actions Annotated Videos for AI (Health Domain) 🚧 | `african-actions-annotated-videos-for-ai-a28d1fbf` | [link](https://mozilladatacollective.com/datasets/cmrxokivf009bl4076o9i6wx0) | ❌ |
+| `cmrxokivf009bl4076o9i6wx0` | African Actions Annotated Videos for AI (Health Domain) | `african-actions-annotated-videos-for-ai-7a6b307e` | [link](https://mozilladatacollective.com/datasets/cmrxokivf009bl4076o9i6wx0) | ❌ |
 | `cmrxrbueb00bll407nsqplz8t` | A Bakoko Sociocultural Dataset | `a-bakoko-sociocultural-dataset-bff2bde8` | [link](https://mozilladatacollective.com/datasets/cmrxrbueb00bll407nsqplz8t) | ❌ |
 | `cmryvqp3v014ro907pnnrblm6` | Priangan Dialect-Sundanese Parallel Corpus | `priangan-dialect-sundanese-parallel-corp-33c53fb4` | [link](https://mozilladatacollective.com/datasets/cmryvqp3v014ro907pnnrblm6) | ❌ |
 | `cmryvrc6i014vo90786kriix5` | Common Voice Scripted Speech 26.0 - Southern American English | `common-voice-scripted-speech-26-0-southe-d50b474b` | [link](https://mozilladatacollective.com/datasets/cmryvrc6i014vo90786kriix5) | ❌ |
@@ -1041,7 +1041,7 @@ data programmatically.
 | `cmsnteixi00gfmf07til46ayk` | 🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧 | `noakhali-10-hours-tts-male-speaker-425bd8b6` | [link](https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk) | ❌ |
 | `cmssxpm5q02ylmf07ro4vzrls` | Nwāchā Munā | `nw-ch-mun-f001a03f` | [link](https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls) | ❌ |
 | `cmsxiwqdo000fny07e5fx0yi5` | Lost In Transcription Competition - Development Data (Javanese-Indonesian) | `lost-in-transcription-competition-develo-4628e8de` | [link](https://mozilladatacollective.com/datasets/cmsxiwqdo000fny07e5fx0yi5) | ❌ |
-| `cmszkb3s901wvny07pkz816wx` | 🚧 Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) 🚧 | `single-speaker-urdu-tts-dataset-female-s-032e2b48` | [link](https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx) | ❌ |
+| `cmszkb3s901wvny07pkz816wx` | Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) | `single-speaker-urdu-tts-dataset-female-s-068a8da9` | [link](https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx) | ❌ |
 | `cmt09mjq0005xl107yuqi873h` | 🚧 Khowar Multimodal Dataset 🚧 | `khowar-multimodal-dataset-e5e3ecf7` | [link](https://mozilladatacollective.com/datasets/cmt09mjq0005xl107yuqi873h) | ❌ |
 | `cmt6ft8jp02vanz075sg7xm0m` | Indonesian-Spanish Learner Corpus | `indonesian-spanish-learner-corpus-bb47c605` | [link](https://mozilladatacollective.com/datasets/cmt6ft8jp02vanz075sg7xm0m) | ❌ |
 | `cmt7e4pfp004nnz08j3shtpcx` | 🚧  Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain 🚧  | `free-form-sheng-swahili-english-code-swi-4d2cf90e` | [link](https://mozilladatacollective.com/datasets/cmt7e4pfp004nnz08j3shtpcx) | ❌ |
@@ -1063,6 +1063,8 @@ data programmatically.
 | `cmth8m2hx036wnw07ng1vw388` | Balti Literature corpus | `balti-literature-corpus-94671d59` | [link](https://mozilladatacollective.com/datasets/cmth8m2hx036wnw07ng1vw388) | ❌ |
 | `cmth8p1bz039jns0742s3vcx2` | Gawar-Bati Literature Corpus | `gawar-bati-literature-corpus-ce0f32bd` | [link](https://mozilladatacollective.com/datasets/cmth8p1bz039jns0742s3vcx2) | ❌ |
 | `cmthb06nd039ynw07uq3pahj7` | Indonesian-Learner-English | `indonesian-learner-english-ab0c41eb` | [link](https://mozilladatacollective.com/datasets/cmthb06nd039ynw07uq3pahj7) | ❌ |
+| `cmtimj5tm0045mj07qrjo74gc` | TTS Javanese - Multidialect | `tts-javanese-multidialect-c70d052e` | [link](https://mozilladatacollective.com/datasets/cmtimj5tm0045mj07qrjo74gc) | ❌ |
+| `cmtj5u8dn006gnz08gjnknbji` | Lost In Transcription Competition - Development Data (Spanish-English) | `lost-in-transcription-competition-develo-dfc04ba3` | [link](https://mozilladatacollective.com/datasets/cmtj5u8dn006gnz08gjnknbji) | ❌ |
 
 ## Schemas without a platform dataset
 
