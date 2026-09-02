@@ -13,4 +13,3 @@ columns:
   video_id:
     source_column: video_id
     dtype: category
-root_strategy: index
