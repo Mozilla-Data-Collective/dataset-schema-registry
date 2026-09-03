@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T06:15:11.913887+00:00",
-  "total": 1046,
+  "updated_at": "2026-09-03T05:44:16.412965+00:00",
+  "total": 1072,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -7222,9 +7222,9 @@
     {
       "id": "cmtan0jl3006dnr07hp1a9p2b",
       "url": "https://mozilladatacollective.com/datasets/cmtan0jl3006dnr07hp1a9p2b",
-      "lastmod": "2026-08-26T22:01:21.879Z",
+      "lastmod": "2026-09-02T15:54:21.249Z",
       "name": "Lost In Transcription Competition - Development Data (Nahuatl-Spanish)",
-      "slug": "lost-in-transcription-competition-develo-d5ec0eb1"
+      "slug": "lost-in-transcription-competition-develo-2942cb5d"
     },
     {
       "id": "cmtbjawbq00vumf07sccmkkyh",
@@ -7283,13 +7283,6 @@
       "slug": "hindi-vintage-scripted-narrative-rights-ddc9b912"
     },
     {
-      "id": "cmtd65881005gns07blxkfc5v",
-      "url": "https://mozilladatacollective.com/datasets/cmtd65881005gns07blxkfc5v",
-      "lastmod": "2026-08-28T16:31:19.778Z",
-      "name": "🚧 Khowar-English Parallel Corpus 🚧",
-      "slug": "khowar-english-parallel-corpus-9ce12a62"
-    },
-    {
       "id": "cmth8m2hx036wnw07ng1vw388",
       "url": "https://mozilladatacollective.com/datasets/cmth8m2hx036wnw07ng1vw388",
       "lastmod": "2026-08-31T12:51:29.445Z",
@@ -7323,6 +7316,195 @@
       "lastmod": "2026-09-01T21:10:12.219Z",
       "name": "Lost In Transcription Competition - Development Data (Spanish-English)",
       "slug": "lost-in-transcription-competition-develo-dfc04ba3"
+    },
+    {
+      "id": "cmtk31icr000lnv07v0ersyeq",
+      "url": "https://mozilladatacollective.com/datasets/cmtk31icr000lnv07v0ersyeq",
+      "lastmod": "2026-09-02T12:38:50.667Z",
+      "name": "Bahasa Indonesia Audio Visual Speech Dataset",
+      "slug": "bahasa-indonesia-audio-visual-speech-dat-d5456c3e"
+    },
+    {
+      "id": "cmtk37nx2000unm07d1wamacl",
+      "url": "https://mozilladatacollective.com/datasets/cmtk37nx2000unm07d1wamacl",
+      "lastmod": "2026-09-02T12:43:37.814Z",
+      "name": "Associated Press Pakistan 16.9 Million Balochi Corpus",
+      "slug": "associated-press-pakistan-16-9-million-b-8a200e32"
+    },
+    {
+      "id": "cmtk3dvp0001anm07bfw8int1",
+      "url": "https://mozilladatacollective.com/datasets/cmtk3dvp0001anm07bfw8int1",
+      "lastmod": "2026-09-02T12:48:27.828Z",
+      "name": "Associated Press Pakistan 16.4 Million Sindhi Corpus",
+      "slug": "associated-press-pakistan-16-4-million-s-ff9139ee"
+    },
+    {
+      "id": "cmtk3dz6y001cnv07ig3gsmat",
+      "url": "https://mozilladatacollective.com/datasets/cmtk3dz6y001cnv07ig3gsmat",
+      "lastmod": "2026-09-02T12:48:32.362Z",
+      "name": " Associated Press Pakistan 74.4 Million Urdu Corpus",
+      "slug": "associated-press-pakistan-74-4-million-u-1ee7e390"
+    },
+    {
+      "id": "cmtk3eb5j001enm07zwcdcrxv",
+      "url": "https://mozilladatacollective.com/datasets/cmtk3eb5j001enm07zwcdcrxv",
+      "lastmod": "2026-09-02T12:48:47.863Z",
+      "name": "Associated Press Pakistan 10.4 Million Saraiki Corpus",
+      "slug": "associated-press-pakistan-10-4-million-s-9726509f"
+    },
+    {
+      "id": "cmtk3efu3001gnv07oj85bcfm",
+      "url": "https://mozilladatacollective.com/datasets/cmtk3efu3001gnv07oj85bcfm",
+      "lastmod": "2026-09-02T12:48:53.931Z",
+      "name": "Associated Press Pakistan 78.1 Million English Corpus",
+      "slug": "associated-press-pakistan-78-1-million-e-246ffa97"
+    },
+    {
+      "id": "cmtk3em4j001knv07rufn2jyo",
+      "url": "https://mozilladatacollective.com/datasets/cmtk3em4j001knv07rufn2jyo",
+      "lastmod": "2026-09-02T12:49:02.084Z",
+      "name": "Associated Press Pakistan 5.1 Million Arabic Corpus",
+      "slug": "associated-press-pakistan-5-1-million-ar-3cb03923"
+    },
+    {
+      "id": "cmtk3er7u001onv07bkjifqu1",
+      "url": "https://mozilladatacollective.com/datasets/cmtk3er7u001onv07bkjifqu1",
+      "lastmod": "2026-09-02T12:49:08.682Z",
+      "name": "Associated Press Pakistan 1.8 Million Chinese Corpus",
+      "slug": "associated-press-pakistan-1-8-million-ch-ef97d20a"
+    },
+    {
+      "id": "cmtk3ewub001knm07npyb6hpx",
+      "url": "https://mozilladatacollective.com/datasets/cmtk3ewub001knm07npyb6hpx",
+      "lastmod": "2026-09-02T12:49:15.971Z",
+      "name": " Associated Press Pakistan 21.4 Million Pashto Corpus",
+      "slug": "associated-press-pakistan-21-4-million-p-4d522b27"
+    },
+    {
+      "id": "cmtk3h1dp001onm07kq4z0ygw",
+      "url": "https://mozilladatacollective.com/datasets/cmtk3h1dp001onm07kq4z0ygw",
+      "lastmod": "2026-09-02T12:50:55.165Z",
+      "name": "Dameli Literature Corpus",
+      "slug": "dameli-literature-corpus-7b534cdd"
+    },
+    {
+      "id": "cmtk5408j003xnv07rdmezq8z",
+      "url": "https://mozilladatacollective.com/datasets/cmtk5408j003xnv07rdmezq8z",
+      "lastmod": "2026-09-02T13:36:46.388Z",
+      "name": "A Fong Sociocultural Dataset",
+      "slug": "a-fong-sociocultural-dataset-8b95a51b"
+    },
+    {
+      "id": "cmtk5468u003anm07yw94gz1v",
+      "url": "https://mozilladatacollective.com/datasets/cmtk5468u003anm07yw94gz1v",
+      "lastmod": "2026-09-02T13:36:54.174Z",
+      "name": "A Bafia Sociocultural Dataset",
+      "slug": "a-bafia-sociocultural-dataset-cd73617e"
+    },
+    {
+      "id": "cmtk54aul003enm07vzbaxgcj",
+      "url": "https://mozilladatacollective.com/datasets/cmtk54aul003enm07vzbaxgcj",
+      "lastmod": "2026-09-02T13:37:00.141Z",
+      "name": " A Tupuri Sociocultural Dataset",
+      "slug": "a-tupuri-sociocultural-dataset-0e9012f5"
+    },
+    {
+      "id": "cmtk572xs003inm079e9q46in",
+      "url": "https://mozilladatacollective.com/datasets/cmtk572xs003inm079e9q46in",
+      "lastmod": "2026-09-02T13:39:09.856Z",
+      "name": "Ormuri Literature corpus by Rozi Burki",
+      "slug": "ormuri-literature-corpus-by-rozi-burki-f3f98ba9"
+    },
+    {
+      "id": "cmtk59j4a0043nv07toiemii6",
+      "url": "https://mozilladatacollective.com/datasets/cmtk59j4a0043nv07toiemii6",
+      "lastmod": "2026-09-02T13:41:04.139Z",
+      "name": "INALVS (Indonesian Lip-reading & Visual Speech Dataset)",
+      "slug": "inalvs-indonesian-lip-reading-visual-spe-e20dad98"
+    },
+    {
+      "id": "cmtk5d6vu004hnv07jxqtde3j",
+      "url": "https://mozilladatacollective.com/datasets/cmtk5d6vu004hnv07jxqtde3j",
+      "lastmod": "2026-09-02T13:43:54.906Z",
+      "name": "IND-Jabodetabek Signage and Public Places",
+      "slug": "ind-jabodetabek-signage-and-public-place-4a83604f"
+    },
+    {
+      "id": "cmtk5ilpu004qnv07uv3tammq",
+      "url": "https://mozilladatacollective.com/datasets/cmtk5ilpu004qnv07uv3tammq",
+      "lastmod": "2026-09-02T13:48:07.411Z",
+      "name": "🚧 Thai Episodic Television // Rights-Cleared · 100 Hours 🚧",
+      "slug": "thai-episodic-television-rights-cleared-358dccaa"
+    },
+    {
+      "id": "cmtk5j4s2004unv07serrr1n8",
+      "url": "https://mozilladatacollective.com/datasets/cmtk5j4s2004unv07serrr1n8",
+      "lastmod": "2026-09-02T13:48:32.115Z",
+      "name": "Indonesian-Multidialect Lip-Record Speech Corpus",
+      "slug": "indonesian-multidialect-lip-record-speec-1c08d0c0"
+    },
+    {
+      "id": "cmtk5wxm5004ynv07rlamzlif",
+      "url": "https://mozilladatacollective.com/datasets/cmtk5wxm5004ynv07rlamzlif",
+      "lastmod": "2026-09-02T13:59:16.013Z",
+      "name": "Ormuri Bilingual Dictionary by Rozi Khan Burki",
+      "slug": "ormuri-bilingual-dictionary-by-rozi-khan-ca006ee1"
+    },
+    {
+      "id": "cmtk5x5il0052nv07m5unf4w6",
+      "url": "https://mozilladatacollective.com/datasets/cmtk5x5il0052nv07m5unf4w6",
+      "lastmod": "2026-09-02T13:59:26.253Z",
+      "name": "Wakhi Literature Corpus",
+      "slug": "wakhi-literature-corpus-a0298c45"
+    },
+    {
+      "id": "cmtk9qr4o008bnm07vrg3cz3t",
+      "url": "https://mozilladatacollective.com/datasets/cmtk9qr4o008bnm07vrg3cz3t",
+      "lastmod": "2026-09-02T15:46:26.135Z",
+      "name": "🚧 Colloquial Parallel Text (English - Yoruba) 🚧",
+      "slug": "colloquial-parallel-text-english-yoruba-228d992b"
+    },
+    {
+      "id": "cmtk9u5dn0096nv076kom1a7z",
+      "url": "https://mozilladatacollective.com/datasets/cmtk9u5dn0096nv076kom1a7z",
+      "lastmod": "2026-09-02T15:49:04.571Z",
+      "name": "🚧 Khowar-English Parallel Corpus 🚧",
+      "slug": "khowar-english-parallel-corpus-09644052"
+    },
+    {
+      "id": "cmtk9ujjq009anv07xvgq779h",
+      "url": "https://mozilladatacollective.com/datasets/cmtk9ujjq009anv07xvgq779h",
+      "lastmod": "2026-09-02T15:49:22.935Z",
+      "name": "🚧 Colloquial Parallel Text (English - Hausa) 🚧",
+      "slug": "colloquial-parallel-text-english-hausa-1a011444"
+    },
+    {
+      "id": "cmtk9v2zz009env07w1k4lj3c",
+      "url": "https://mozilladatacollective.com/datasets/cmtk9v2zz009env07w1k4lj3c",
+      "lastmod": "2026-09-02T15:49:48.144Z",
+      "name": "🚧 Colloquial Parallel Text (English - Hausa) 🚧",
+      "slug": "colloquial-parallel-text-english-hausa-202e5b80"
+    },
+    {
+      "id": "cmtk9vda8008jnm078cs55rr6",
+      "url": "https://mozilladatacollective.com/datasets/cmtk9vda8008jnm078cs55rr6",
+      "lastmod": "2026-09-02T15:50:01.473Z",
+      "name": "🚧 Colloquial Parallel Text (English - Yoruba) 🚧",
+      "slug": "colloquial-parallel-text-english-yoruba-62cb142c"
+    },
+    {
+      "id": "cmtk9vv1l008nnm07y9vn4q6n",
+      "url": "https://mozilladatacollective.com/datasets/cmtk9vv1l008nnm07y9vn4q6n",
+      "lastmod": "2026-09-02T15:50:24.489Z",
+      "name": "Indonesian Acculturation Culture - Image Corpus",
+      "slug": "indonesian-acculturation-culture-image-c-f981f353"
+    },
+    {
+      "id": "cmtkf877400fnnv073tl63yl8",
+      "url": "https://mozilladatacollective.com/datasets/cmtkf877400fnnv073tl63yl8",
+      "lastmod": "2026-09-02T18:19:58.192Z",
+      "name": "Palula Literature Corpus",
+      "slug": "palula-literature-corpus-8c44b0d4"
     }
   ]
 }
