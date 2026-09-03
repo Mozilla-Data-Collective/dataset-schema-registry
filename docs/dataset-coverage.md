@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-02  
-**Total datasets in sitemap:** 1046  
+**Last updated:** 2026-09-03  
+**Total datasets in sitemap:** 1072  
 **Schemas registered:** 417 ✅  
-**Schemas missing:** 629 ❌  
+**Schemas missing:** 655 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1050,7 +1050,7 @@ data programmatically.
 | `cmt7lzpkp002uns07r684h2qa` | 🚧 Southeast Asian Malay TTS dataset 🚧 | `southeast-asian-malay-tts-dataset-f1f764b2` | [link](https://mozilladatacollective.com/datasets/cmt7lzpkp002uns07r684h2qa) | ❌ |
 | `cmt7m01xd002cnq07pn27wsfw` | 🚧 Southeast Asian Cantonese TTS dataset 🚧 | `southeast-asian-cantonese-tts-dataset-e12e7d91` | [link](https://mozilladatacollective.com/datasets/cmt7m01xd002cnq07pn27wsfw) | ❌ |
 | `cmt7m0goz002yns07tbz09iht` |  🚧 Southeast Asian Tamil TTS Dataset 🚧 | `southeast-asian-tamil-tts-dataset-d0232883` | [link](https://mozilladatacollective.com/datasets/cmt7m0goz002yns07tbz09iht) | ❌ |
-| `cmtan0jl3006dnr07hp1a9p2b` | Lost In Transcription Competition - Development Data (Nahuatl-Spanish) | `lost-in-transcription-competition-develo-d5ec0eb1` | [link](https://mozilladatacollective.com/datasets/cmtan0jl3006dnr07hp1a9p2b) | ❌ |
+| `cmtan0jl3006dnr07hp1a9p2b` | Lost In Transcription Competition - Development Data (Nahuatl-Spanish) | `lost-in-transcription-competition-develo-2942cb5d` | [link](https://mozilladatacollective.com/datasets/cmtan0jl3006dnr07hp1a9p2b) | ❌ |
 | `cmtbjawbq00vumf07sccmkkyh` | 🚧 Northern Pashto Multimodal Dataset 🚧 | `northern-pashto-multimodal-dataset-cce87733` | [link](https://mozilladatacollective.com/datasets/cmtbjawbq00vumf07sccmkkyh) | ❌ |
 | `cmtbjkm6400vbnr075arsqkst` | Semarang Dialect-Javanese Parallel Corpus (IND|JAV|ENG|ARB) | `semarang-dialect-javanese-parallel-corpu-e63188cd` | [link](https://mozilladatacollective.com/datasets/cmtbjkm6400vbnr075arsqkst) | ❌ |
 | `cmtbjsbum00vmnr0701e5imnc` | Lumajang Dialect-Javanese Parallel Corpus | `lumajang-dialect-javanese-parallel-corpu-161efe27` | [link](https://mozilladatacollective.com/datasets/cmtbjsbum00vmnr0701e5imnc) | ❌ |
@@ -1059,12 +1059,38 @@ data programmatically.
 | `cmtd1s2lz002jnw071xv2t2zr` | TTS Sundanese - Sunda Priangan with Bandung Dialect | `tts-sundanese-sunda-priangan-with-bandun-417325b2` | [link](https://mozilladatacollective.com/datasets/cmtd1s2lz002jnw071xv2t2zr) | ❌ |
 | `cmtd1sdy7002nnw0791oxzm98` | A Malimba Sociocultural Dataset | `a-malimba-sociocultural-dataset-21b7b85f` | [link](https://mozilladatacollective.com/datasets/cmtd1sdy7002nnw0791oxzm98) | ❌ |
 | `cmtd63lw2007fnw07uryk8ylm` | 🚧 Hindi Vintage Scripted Narrative // Rights-Cleared · 20 Hours 🚧 | `hindi-vintage-scripted-narrative-rights-ddc9b912` | [link](https://mozilladatacollective.com/datasets/cmtd63lw2007fnw07uryk8ylm) | ❌ |
-| `cmtd65881005gns07blxkfc5v` | 🚧 Khowar-English Parallel Corpus 🚧 | `khowar-english-parallel-corpus-9ce12a62` | [link](https://mozilladatacollective.com/datasets/cmtd65881005gns07blxkfc5v) | ❌ |
 | `cmth8m2hx036wnw07ng1vw388` | Balti Literature corpus | `balti-literature-corpus-94671d59` | [link](https://mozilladatacollective.com/datasets/cmth8m2hx036wnw07ng1vw388) | ❌ |
 | `cmth8p1bz039jns0742s3vcx2` | Gawar-Bati Literature Corpus | `gawar-bati-literature-corpus-ce0f32bd` | [link](https://mozilladatacollective.com/datasets/cmth8p1bz039jns0742s3vcx2) | ❌ |
 | `cmthb06nd039ynw07uq3pahj7` | Indonesian-Learner-English | `indonesian-learner-english-ab0c41eb` | [link](https://mozilladatacollective.com/datasets/cmthb06nd039ynw07uq3pahj7) | ❌ |
 | `cmtimj5tm0045mj07qrjo74gc` | TTS Javanese - Multidialect | `tts-javanese-multidialect-c70d052e` | [link](https://mozilladatacollective.com/datasets/cmtimj5tm0045mj07qrjo74gc) | ❌ |
 | `cmtj5u8dn006gnz08gjnknbji` | Lost In Transcription Competition - Development Data (Spanish-English) | `lost-in-transcription-competition-develo-dfc04ba3` | [link](https://mozilladatacollective.com/datasets/cmtj5u8dn006gnz08gjnknbji) | ❌ |
+| `cmtk31icr000lnv07v0ersyeq` | Bahasa Indonesia Audio Visual Speech Dataset | `bahasa-indonesia-audio-visual-speech-dat-d5456c3e` | [link](https://mozilladatacollective.com/datasets/cmtk31icr000lnv07v0ersyeq) | ❌ |
+| `cmtk37nx2000unm07d1wamacl` | Associated Press Pakistan 16.9 Million Balochi Corpus | `associated-press-pakistan-16-9-million-b-8a200e32` | [link](https://mozilladatacollective.com/datasets/cmtk37nx2000unm07d1wamacl) | ❌ |
+| `cmtk3dvp0001anm07bfw8int1` | Associated Press Pakistan 16.4 Million Sindhi Corpus | `associated-press-pakistan-16-4-million-s-ff9139ee` | [link](https://mozilladatacollective.com/datasets/cmtk3dvp0001anm07bfw8int1) | ❌ |
+| `cmtk3dz6y001cnv07ig3gsmat` |  Associated Press Pakistan 74.4 Million Urdu Corpus | `associated-press-pakistan-74-4-million-u-1ee7e390` | [link](https://mozilladatacollective.com/datasets/cmtk3dz6y001cnv07ig3gsmat) | ❌ |
+| `cmtk3eb5j001enm07zwcdcrxv` | Associated Press Pakistan 10.4 Million Saraiki Corpus | `associated-press-pakistan-10-4-million-s-9726509f` | [link](https://mozilladatacollective.com/datasets/cmtk3eb5j001enm07zwcdcrxv) | ❌ |
+| `cmtk3efu3001gnv07oj85bcfm` | Associated Press Pakistan 78.1 Million English Corpus | `associated-press-pakistan-78-1-million-e-246ffa97` | [link](https://mozilladatacollective.com/datasets/cmtk3efu3001gnv07oj85bcfm) | ❌ |
+| `cmtk3em4j001knv07rufn2jyo` | Associated Press Pakistan 5.1 Million Arabic Corpus | `associated-press-pakistan-5-1-million-ar-3cb03923` | [link](https://mozilladatacollective.com/datasets/cmtk3em4j001knv07rufn2jyo) | ❌ |
+| `cmtk3er7u001onv07bkjifqu1` | Associated Press Pakistan 1.8 Million Chinese Corpus | `associated-press-pakistan-1-8-million-ch-ef97d20a` | [link](https://mozilladatacollective.com/datasets/cmtk3er7u001onv07bkjifqu1) | ❌ |
+| `cmtk3ewub001knm07npyb6hpx` |  Associated Press Pakistan 21.4 Million Pashto Corpus | `associated-press-pakistan-21-4-million-p-4d522b27` | [link](https://mozilladatacollective.com/datasets/cmtk3ewub001knm07npyb6hpx) | ❌ |
+| `cmtk3h1dp001onm07kq4z0ygw` | Dameli Literature Corpus | `dameli-literature-corpus-7b534cdd` | [link](https://mozilladatacollective.com/datasets/cmtk3h1dp001onm07kq4z0ygw) | ❌ |
+| `cmtk5408j003xnv07rdmezq8z` | A Fong Sociocultural Dataset | `a-fong-sociocultural-dataset-8b95a51b` | [link](https://mozilladatacollective.com/datasets/cmtk5408j003xnv07rdmezq8z) | ❌ |
+| `cmtk5468u003anm07yw94gz1v` | A Bafia Sociocultural Dataset | `a-bafia-sociocultural-dataset-cd73617e` | [link](https://mozilladatacollective.com/datasets/cmtk5468u003anm07yw94gz1v) | ❌ |
+| `cmtk54aul003enm07vzbaxgcj` |  A Tupuri Sociocultural Dataset | `a-tupuri-sociocultural-dataset-0e9012f5` | [link](https://mozilladatacollective.com/datasets/cmtk54aul003enm07vzbaxgcj) | ❌ |
+| `cmtk572xs003inm079e9q46in` | Ormuri Literature corpus by Rozi Burki | `ormuri-literature-corpus-by-rozi-burki-f3f98ba9` | [link](https://mozilladatacollective.com/datasets/cmtk572xs003inm079e9q46in) | ❌ |
+| `cmtk59j4a0043nv07toiemii6` | INALVS (Indonesian Lip-reading & Visual Speech Dataset) | `inalvs-indonesian-lip-reading-visual-spe-e20dad98` | [link](https://mozilladatacollective.com/datasets/cmtk59j4a0043nv07toiemii6) | ❌ |
+| `cmtk5d6vu004hnv07jxqtde3j` | IND-Jabodetabek Signage and Public Places | `ind-jabodetabek-signage-and-public-place-4a83604f` | [link](https://mozilladatacollective.com/datasets/cmtk5d6vu004hnv07jxqtde3j) | ❌ |
+| `cmtk5ilpu004qnv07uv3tammq` | 🚧 Thai Episodic Television // Rights-Cleared · 100 Hours 🚧 | `thai-episodic-television-rights-cleared-358dccaa` | [link](https://mozilladatacollective.com/datasets/cmtk5ilpu004qnv07uv3tammq) | ❌ |
+| `cmtk5j4s2004unv07serrr1n8` | Indonesian-Multidialect Lip-Record Speech Corpus | `indonesian-multidialect-lip-record-speec-1c08d0c0` | [link](https://mozilladatacollective.com/datasets/cmtk5j4s2004unv07serrr1n8) | ❌ |
+| `cmtk5wxm5004ynv07rlamzlif` | Ormuri Bilingual Dictionary by Rozi Khan Burki | `ormuri-bilingual-dictionary-by-rozi-khan-ca006ee1` | [link](https://mozilladatacollective.com/datasets/cmtk5wxm5004ynv07rlamzlif) | ❌ |
+| `cmtk5x5il0052nv07m5unf4w6` | Wakhi Literature Corpus | `wakhi-literature-corpus-a0298c45` | [link](https://mozilladatacollective.com/datasets/cmtk5x5il0052nv07m5unf4w6) | ❌ |
+| `cmtk9qr4o008bnm07vrg3cz3t` | 🚧 Colloquial Parallel Text (English - Yoruba) 🚧 | `colloquial-parallel-text-english-yoruba-228d992b` | [link](https://mozilladatacollective.com/datasets/cmtk9qr4o008bnm07vrg3cz3t) | ❌ |
+| `cmtk9u5dn0096nv076kom1a7z` | 🚧 Khowar-English Parallel Corpus 🚧 | `khowar-english-parallel-corpus-09644052` | [link](https://mozilladatacollective.com/datasets/cmtk9u5dn0096nv076kom1a7z) | ❌ |
+| `cmtk9ujjq009anv07xvgq779h` | 🚧 Colloquial Parallel Text (English - Hausa) 🚧 | `colloquial-parallel-text-english-hausa-1a011444` | [link](https://mozilladatacollective.com/datasets/cmtk9ujjq009anv07xvgq779h) | ❌ |
+| `cmtk9v2zz009env07w1k4lj3c` | 🚧 Colloquial Parallel Text (English - Hausa) 🚧 | `colloquial-parallel-text-english-hausa-202e5b80` | [link](https://mozilladatacollective.com/datasets/cmtk9v2zz009env07w1k4lj3c) | ❌ |
+| `cmtk9vda8008jnm078cs55rr6` | 🚧 Colloquial Parallel Text (English - Yoruba) 🚧 | `colloquial-parallel-text-english-yoruba-62cb142c` | [link](https://mozilladatacollective.com/datasets/cmtk9vda8008jnm078cs55rr6) | ❌ |
+| `cmtk9vv1l008nnm07y9vn4q6n` | Indonesian Acculturation Culture - Image Corpus | `indonesian-acculturation-culture-image-c-f981f353` | [link](https://mozilladatacollective.com/datasets/cmtk9vv1l008nnm07y9vn4q6n) | ❌ |
+| `cmtkf877400fnnv073tl63yl8` | Palula Literature Corpus | `palula-literature-corpus-8c44b0d4` | [link](https://mozilladatacollective.com/datasets/cmtkf877400fnnv073tl63yl8) | ❌ |
 
 ## Schemas without a platform dataset
 
