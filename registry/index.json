@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-03T05:44:28.362064+00:00",
+  "generated_at": "2026-09-04T05:16:11.613758+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1072,
+    "listed_datasets": 1080,
     "with_schema": 417,
-    "without_schema": 655,
+    "without_schema": 663,
     "schemas_total": 418,
     "unlisted_schemas": 1
   },
@@ -11811,6 +11811,94 @@
       "slug": "palula-literature-corpus-8c44b0d4",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmtkf877400fnnv073tl63yl8",
       "lastmod": "2026-09-02T18:19:58.192Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtlk486f01xknv07nr1z8sr8",
+      "has_schema": false,
+      "listed": true,
+      "name": "Indonesia Lip-Record Speech Dataset",
+      "slug": "indonesia-lip-record-speech-dataset-9dee1185",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtlk486f01xknv07nr1z8sr8",
+      "lastmod": "2026-09-03T13:24:37.095Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtlk7yzb01wenm07io47vqx2",
+      "has_schema": false,
+      "listed": true,
+      "name": "Visual Speech Recognition-Audiovisual Indonesian Dataset (VSR-Aid)",
+      "slug": "visual-speech-recognition-audiovisual-in-06cfe193",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtlk7yzb01wenm07io47vqx2",
+      "lastmod": "2026-09-03T13:27:31.799Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtll36zw01xknm074he6a70i",
+      "has_schema": false,
+      "listed": true,
+      "name": "A Banoho Sociocultural Dataset",
+      "slug": "a-banoho-sociocultural-dataset-0f711903",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtll36zw01xknm074he6a70i",
+      "lastmod": "2026-09-03T13:51:48.524Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtll3rp101zqnv07fr9tsj86",
+      "has_schema": false,
+      "listed": true,
+      "name": "JAV Image Corpus - Yogyakarta Public Space and Signage",
+      "slug": "jav-image-corpus-yogyakarta-public-space-bc6163e4",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtll3rp101zqnv07fr9tsj86",
+      "lastmod": "2026-09-03T13:52:15.349Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtll5hax01zynv07tipwiuel",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Spanish (Castilian) Scripted Film // Rights-Cleared · 20 Hours 🚧",
+      "slug": "spanish-castilian-scripted-film-rights-c-4f30fced",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtll5hax01zynv07tipwiuel",
+      "lastmod": "2026-09-03T13:53:35.193Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtll7l1d01xxnm07xq4kudz5",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Spanish Episodic Cooking TV // Rights-Cleared · 100 Hours 🚧",
+      "slug": "spanish-episodic-cooking-tv-rights-clear-83acec63",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtll7l1d01xxnm07xq4kudz5",
+      "lastmod": "2026-09-03T13:55:13.345Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtm6majj00phny07isfhez18",
+      "has_schema": false,
+      "listed": true,
+      "name": "A Mbere Sociocultural Dataset",
+      "slug": "a-mbere-sociocultural-dataset-c97c6310",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtm6majj00phny07isfhez18",
+      "lastmod": "2026-09-03T23:54:31.519Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtm6mq5900qro107dy9589ko",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 English Scripted Narrative // Rights-Cleared · 100 Hours 🚧",
+      "slug": "english-scripted-narrative-rights-cleare-533834c3",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtm6mq5900qro107dy9589ko",
+      "lastmod": "2026-09-03T23:54:51.742Z",
       "schema_path": null,
       "schema_url": null
     }

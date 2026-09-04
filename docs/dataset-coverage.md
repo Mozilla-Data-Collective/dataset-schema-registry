@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-03  
-**Total datasets in sitemap:** 1072  
+**Last updated:** 2026-09-04  
+**Total datasets in sitemap:** 1080  
 **Schemas registered:** 417 ✅  
-**Schemas missing:** 655 ❌  
+**Schemas missing:** 663 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1091,6 +1091,14 @@ data programmatically.
 | `cmtk9vda8008jnm078cs55rr6` | 🚧 Colloquial Parallel Text (English - Yoruba) 🚧 | `colloquial-parallel-text-english-yoruba-62cb142c` | [link](https://mozilladatacollective.com/datasets/cmtk9vda8008jnm078cs55rr6) | ❌ |
 | `cmtk9vv1l008nnm07y9vn4q6n` | Indonesian Acculturation Culture - Image Corpus | `indonesian-acculturation-culture-image-c-f981f353` | [link](https://mozilladatacollective.com/datasets/cmtk9vv1l008nnm07y9vn4q6n) | ❌ |
 | `cmtkf877400fnnv073tl63yl8` | Palula Literature Corpus | `palula-literature-corpus-8c44b0d4` | [link](https://mozilladatacollective.com/datasets/cmtkf877400fnnv073tl63yl8) | ❌ |
+| `cmtlk486f01xknv07nr1z8sr8` | Indonesia Lip-Record Speech Dataset | `indonesia-lip-record-speech-dataset-9dee1185` | [link](https://mozilladatacollective.com/datasets/cmtlk486f01xknv07nr1z8sr8) | ❌ |
+| `cmtlk7yzb01wenm07io47vqx2` | Visual Speech Recognition-Audiovisual Indonesian Dataset (VSR-Aid) | `visual-speech-recognition-audiovisual-in-06cfe193` | [link](https://mozilladatacollective.com/datasets/cmtlk7yzb01wenm07io47vqx2) | ❌ |
+| `cmtll36zw01xknm074he6a70i` | A Banoho Sociocultural Dataset | `a-banoho-sociocultural-dataset-0f711903` | [link](https://mozilladatacollective.com/datasets/cmtll36zw01xknm074he6a70i) | ❌ |
+| `cmtll3rp101zqnv07fr9tsj86` | JAV Image Corpus - Yogyakarta Public Space and Signage | `jav-image-corpus-yogyakarta-public-space-bc6163e4` | [link](https://mozilladatacollective.com/datasets/cmtll3rp101zqnv07fr9tsj86) | ❌ |
+| `cmtll5hax01zynv07tipwiuel` | 🚧 Spanish (Castilian) Scripted Film // Rights-Cleared · 20 Hours 🚧 | `spanish-castilian-scripted-film-rights-c-4f30fced` | [link](https://mozilladatacollective.com/datasets/cmtll5hax01zynv07tipwiuel) | ❌ |
+| `cmtll7l1d01xxnm07xq4kudz5` | 🚧 Spanish Episodic Cooking TV // Rights-Cleared · 100 Hours 🚧 | `spanish-episodic-cooking-tv-rights-clear-83acec63` | [link](https://mozilladatacollective.com/datasets/cmtll7l1d01xxnm07xq4kudz5) | ❌ |
+| `cmtm6majj00phny07isfhez18` | A Mbere Sociocultural Dataset | `a-mbere-sociocultural-dataset-c97c6310` | [link](https://mozilladatacollective.com/datasets/cmtm6majj00phny07isfhez18) | ❌ |
+| `cmtm6mq5900qro107dy9589ko` | 🚧 English Scripted Narrative // Rights-Cleared · 100 Hours 🚧 | `english-scripted-narrative-rights-cleare-533834c3` | [link](https://mozilladatacollective.com/datasets/cmtm6mq5900qro107dy9589ko) | ❌ |
 
 ## Schemas without a platform dataset
 
