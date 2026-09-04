@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T06:11:18.038512+00:00",
-  "total": 1072,
+  "updated_at": "2026-09-04T05:15:58.640370+00:00",
+  "total": 1080,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -7505,6 +7505,62 @@
       "lastmod": "2026-09-02T18:19:58.192Z",
       "name": "Palula Literature Corpus",
       "slug": "palula-literature-corpus-8c44b0d4"
+    },
+    {
+      "id": "cmtlk486f01xknv07nr1z8sr8",
+      "url": "https://mozilladatacollective.com/datasets/cmtlk486f01xknv07nr1z8sr8",
+      "lastmod": "2026-09-03T13:24:37.095Z",
+      "name": "Indonesia Lip-Record Speech Dataset",
+      "slug": "indonesia-lip-record-speech-dataset-9dee1185"
+    },
+    {
+      "id": "cmtlk7yzb01wenm07io47vqx2",
+      "url": "https://mozilladatacollective.com/datasets/cmtlk7yzb01wenm07io47vqx2",
+      "lastmod": "2026-09-03T13:27:31.799Z",
+      "name": "Visual Speech Recognition-Audiovisual Indonesian Dataset (VSR-Aid)",
+      "slug": "visual-speech-recognition-audiovisual-in-06cfe193"
+    },
+    {
+      "id": "cmtll36zw01xknm074he6a70i",
+      "url": "https://mozilladatacollective.com/datasets/cmtll36zw01xknm074he6a70i",
+      "lastmod": "2026-09-03T13:51:48.524Z",
+      "name": "A Banoho Sociocultural Dataset",
+      "slug": "a-banoho-sociocultural-dataset-0f711903"
+    },
+    {
+      "id": "cmtll3rp101zqnv07fr9tsj86",
+      "url": "https://mozilladatacollective.com/datasets/cmtll3rp101zqnv07fr9tsj86",
+      "lastmod": "2026-09-03T13:52:15.349Z",
+      "name": "JAV Image Corpus - Yogyakarta Public Space and Signage",
+      "slug": "jav-image-corpus-yogyakarta-public-space-bc6163e4"
+    },
+    {
+      "id": "cmtll5hax01zynv07tipwiuel",
+      "url": "https://mozilladatacollective.com/datasets/cmtll5hax01zynv07tipwiuel",
+      "lastmod": "2026-09-03T13:53:35.193Z",
+      "name": "🚧 Spanish (Castilian) Scripted Film // Rights-Cleared · 20 Hours 🚧",
+      "slug": "spanish-castilian-scripted-film-rights-c-4f30fced"
+    },
+    {
+      "id": "cmtll7l1d01xxnm07xq4kudz5",
+      "url": "https://mozilladatacollective.com/datasets/cmtll7l1d01xxnm07xq4kudz5",
+      "lastmod": "2026-09-03T13:55:13.345Z",
+      "name": "🚧 Spanish Episodic Cooking TV // Rights-Cleared · 100 Hours 🚧",
+      "slug": "spanish-episodic-cooking-tv-rights-clear-83acec63"
+    },
+    {
+      "id": "cmtm6majj00phny07isfhez18",
+      "url": "https://mozilladatacollective.com/datasets/cmtm6majj00phny07isfhez18",
+      "lastmod": "2026-09-03T23:54:31.519Z",
+      "name": "A Mbere Sociocultural Dataset",
+      "slug": "a-mbere-sociocultural-dataset-c97c6310"
+    },
+    {
+      "id": "cmtm6mq5900qro107dy9589ko",
+      "url": "https://mozilladatacollective.com/datasets/cmtm6mq5900qro107dy9589ko",
+      "lastmod": "2026-09-03T23:54:51.742Z",
+      "name": "🚧 English Scripted Narrative // Rights-Cleared · 100 Hours 🚧",
+      "slug": "english-scripted-narrative-rights-cleare-533834c3"
     }
   ]
 }
