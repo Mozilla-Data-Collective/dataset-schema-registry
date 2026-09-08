@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-04  
-**Total datasets in sitemap:** 1080  
+**Last updated:** 2026-09-08  
+**Total datasets in sitemap:** 1109  
 **Schemas registered:** 417 ✅  
-**Schemas missing:** 663 ❌  
+**Schemas missing:** 692 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1010,7 +1010,7 @@ data programmatically.
 | `cmrxo0ayv008vl40743ndzpbr` | MMLU ProX Sndhi | `mmlu-prox-sndhi-7b5de314` | [link](https://mozilladatacollective.com/datasets/cmrxo0ayv008vl40743ndzpbr) | ❌ |
 | `cmrxokivf009bl4076o9i6wx0` | African Actions Annotated Videos for AI (Health Domain) | `african-actions-annotated-videos-for-ai-7a6b307e` | [link](https://mozilladatacollective.com/datasets/cmrxokivf009bl4076o9i6wx0) | ❌ |
 | `cmrxrbueb00bll407nsqplz8t` | A Bakoko Sociocultural Dataset | `a-bakoko-sociocultural-dataset-bff2bde8` | [link](https://mozilladatacollective.com/datasets/cmrxrbueb00bll407nsqplz8t) | ❌ |
-| `cmryvqp3v014ro907pnnrblm6` | Priangan Dialect-Sundanese Parallel Corpus | `priangan-dialect-sundanese-parallel-corp-33c53fb4` | [link](https://mozilladatacollective.com/datasets/cmryvqp3v014ro907pnnrblm6) | ❌ |
+| `cmryvqp3v014ro907pnnrblm6` | Priangan Dialect of Sundanese-IND-ENG-ARB Parallel Corpus | `priangan-dialect-of-sundanese-ind-eng-ar-b0bf7ea4` | [link](https://mozilladatacollective.com/datasets/cmryvqp3v014ro907pnnrblm6) | ❌ |
 | `cmryvrc6i014vo90786kriix5` | Common Voice Scripted Speech 26.0 - Southern American English | `common-voice-scripted-speech-26-0-southe-d50b474b` | [link](https://mozilladatacollective.com/datasets/cmryvrc6i014vo90786kriix5) | ❌ |
 | `cmrywapqg015ho907f9q9hvka` | Sindhi OCR by Proxima AI | `sindhi-ocr-by-proxima-ai-0751107c` | [link](https://mozilladatacollective.com/datasets/cmrywapqg015ho907f9q9hvka) | ❌ |
 | `cmrywn053015xo907gomtlkp8` | Urdu Alpaca | `urdu-alpaca-915fcbff` | [link](https://mozilladatacollective.com/datasets/cmrywn053015xo907gomtlkp8) | ❌ |
@@ -1081,7 +1081,7 @@ data programmatically.
 | `cmtk59j4a0043nv07toiemii6` | INALVS (Indonesian Lip-reading & Visual Speech Dataset) | `inalvs-indonesian-lip-reading-visual-spe-e20dad98` | [link](https://mozilladatacollective.com/datasets/cmtk59j4a0043nv07toiemii6) | ❌ |
 | `cmtk5d6vu004hnv07jxqtde3j` | IND-Jabodetabek Signage and Public Places | `ind-jabodetabek-signage-and-public-place-4a83604f` | [link](https://mozilladatacollective.com/datasets/cmtk5d6vu004hnv07jxqtde3j) | ❌ |
 | `cmtk5ilpu004qnv07uv3tammq` | 🚧 Thai Episodic Television // Rights-Cleared · 100 Hours 🚧 | `thai-episodic-television-rights-cleared-358dccaa` | [link](https://mozilladatacollective.com/datasets/cmtk5ilpu004qnv07uv3tammq) | ❌ |
-| `cmtk5j4s2004unv07serrr1n8` | Indonesian-Multidialect Lip-Record Speech Corpus | `indonesian-multidialect-lip-record-speec-1c08d0c0` | [link](https://mozilladatacollective.com/datasets/cmtk5j4s2004unv07serrr1n8) | ❌ |
+| `cmtk5j4s2004unv07serrr1n8` | Indonesian-Multidialect Lip-Record Speech Corpus | `indonesian-multidialect-lip-record-speec-08823a59` | [link](https://mozilladatacollective.com/datasets/cmtk5j4s2004unv07serrr1n8) | ❌ |
 | `cmtk5wxm5004ynv07rlamzlif` | Ormuri Bilingual Dictionary by Rozi Khan Burki | `ormuri-bilingual-dictionary-by-rozi-khan-ca006ee1` | [link](https://mozilladatacollective.com/datasets/cmtk5wxm5004ynv07rlamzlif) | ❌ |
 | `cmtk5x5il0052nv07m5unf4w6` | Wakhi Literature Corpus | `wakhi-literature-corpus-a0298c45` | [link](https://mozilladatacollective.com/datasets/cmtk5x5il0052nv07m5unf4w6) | ❌ |
 | `cmtk9qr4o008bnm07vrg3cz3t` | 🚧 Colloquial Parallel Text (English - Yoruba) 🚧 | `colloquial-parallel-text-english-yoruba-228d992b` | [link](https://mozilladatacollective.com/datasets/cmtk9qr4o008bnm07vrg3cz3t) | ❌ |
@@ -1099,6 +1099,35 @@ data programmatically.
 | `cmtll7l1d01xxnm07xq4kudz5` | 🚧 Spanish Episodic Cooking TV // Rights-Cleared · 100 Hours 🚧 | `spanish-episodic-cooking-tv-rights-clear-83acec63` | [link](https://mozilladatacollective.com/datasets/cmtll7l1d01xxnm07xq4kudz5) | ❌ |
 | `cmtm6majj00phny07isfhez18` | A Mbere Sociocultural Dataset | `a-mbere-sociocultural-dataset-c97c6310` | [link](https://mozilladatacollective.com/datasets/cmtm6majj00phny07isfhez18) | ❌ |
 | `cmtm6mq5900qro107dy9589ko` | 🚧 English Scripted Narrative // Rights-Cleared · 100 Hours 🚧 | `english-scripted-narrative-rights-cleare-533834c3` | [link](https://mozilladatacollective.com/datasets/cmtm6mq5900qro107dy9589ko) | ❌ |
+| `cmtr7lwbz05b2ny07zf28kg1i` | AudioSentinel: Polish Synthetic Speech Detection | `audiosentinel-polish-synthetic-speech-de-e8f646e2` | [link](https://mozilladatacollective.com/datasets/cmtr7lwbz05b2ny07zf28kg1i) | ❌ |
+| `cmtr7p2v105bdny07rmc0xfmo` | Ngapak Dialect of JAV-IND-ENG-ARB Parallel Corpus | `ngapak-dialect-of-jav-ind-eng-arb-parall-b1f5fd4c` | [link](https://mozilladatacollective.com/datasets/cmtr7p2v105bdny07rmc0xfmo) | ❌ |
+| `cmtr7pgo605bhny07e9o9b6k8` | Gresik Dialect of Javanese-IND-ENG-ARB Parallel Corpus | `gresik-dialect-of-javanese-ind-eng-arb-p-142e64df` | [link](https://mozilladatacollective.com/datasets/cmtr7pgo605bhny07e9o9b6k8) | ❌ |
+| `cmtr7r73c05hoo107ene7xanq` | Jombang Dialect of JAV-IND-ENG-ARB Parallel Corpus | `jombang-dialect-of-jav-ind-eng-arb-paral-f854a616` | [link](https://mozilladatacollective.com/datasets/cmtr7r73c05hoo107ene7xanq) | ❌ |
+| `cmtr7re1p05hso1070lmvjdwx` | A Bafou Sociocultural Dataset | `a-bafou-sociocultural-dataset-51cb31db` | [link](https://mozilladatacollective.com/datasets/cmtr7re1p05hso1070lmvjdwx) | ❌ |
+| `cmtr7rjbb05blny07ec6p7hzj` | A Baka Sociocultural Dataset | `a-baka-sociocultural-dataset-6652adea` | [link](https://mozilladatacollective.com/datasets/cmtr7rjbb05blny07ec6p7hzj) | ❌ |
+| `cmtr7ro9005brny071h9p44a4` | A Balengou Sociocultural Dataset | `a-balengou-sociocultural-dataset-c2907c6b` | [link](https://mozilladatacollective.com/datasets/cmtr7ro9005brny071h9p44a4) | ❌ |
+| `cmtr89f6505ilo107jwdqu6zg` | IndoLearner-English Speech Corpus | `indolearner-english-speech-corpus-d5d6fb97` | [link](https://mozilladatacollective.com/datasets/cmtr89f6505ilo107jwdqu6zg) | ❌ |
+| `cmtr89ry305csny07rrpxqe9d` | Purworejo Dialect-Javanese Speech Corpus | `purworejo-dialect-javanese-speech-corpus-f3b63b78` | [link](https://mozilladatacollective.com/datasets/cmtr89ry305csny07rrpxqe9d) | ❌ |
+| `cmtr89wzw05ipo1070irq2q9j` | Indonesian Lip-Record Multimodal Corpus | `indonesian-lip-record-multimodal-corpus-9db78ccd` | [link](https://mozilladatacollective.com/datasets/cmtr89wzw05ipo1070irq2q9j) | ❌ |
+| `cmtr8a2r205ito107axtrlbuy` | Speech Corpus of Indonesian Lip-Record | `speech-corpus-of-indonesian-lip-record-10a2d3dd` | [link](https://mozilladatacollective.com/datasets/cmtr8a2r205ito107axtrlbuy) | ❌ |
+| `cmtr8a84t05cwny0781bspmv1` | A Fombo Sociocultural Dataset | `a-fombo-sociocultural-dataset-b0099a05` | [link](https://mozilladatacollective.com/datasets/cmtr8a84t05cwny0781bspmv1) | ❌ |
+| `cmtr8adh505ixo107x4wbbl4t` | A Mvumbo Sociocultural Dataset | `a-mvumbo-sociocultural-dataset-6c6102ea` | [link](https://mozilladatacollective.com/datasets/cmtr8adh505ixo107x4wbbl4t) | ❌ |
+| `cmtrd4pa805jbny07jimxllmh` | Indo-Labial Multimodal Corpus | `indo-labial-multimodal-corpus-d10444cf` | [link](https://mozilladatacollective.com/datasets/cmtrd4pa805jbny07jimxllmh) | ❌ |
+| `cmtrd505k05reo107esjgl8s3` | Multidialect of JAV-IND-ENG-ARB Parallel Corpus | `multidialect-of-jav-ind-eng-arb-parallel-4b55e54e` | [link](https://mozilladatacollective.com/datasets/cmtrd505k05reo107esjgl8s3) | ❌ |
+| `cmtrd55uh05rio107s4sh50cy` | A Limbum Sociocultural Dataset | `a-limbum-sociocultural-dataset-2848d08a` | [link](https://mozilladatacollective.com/datasets/cmtrd55uh05rio107s4sh50cy) | ❌ |
+| `cmtrd6j2x05rmo107rp9vym0u` | A Banen Sociocultural Dataset | `a-banen-sociocultural-dataset-13827e18` | [link](https://mozilladatacollective.com/datasets/cmtrd6j2x05rmo107rp9vym0u) | ❌ |
+| `cmtrd6ra205rqo107k9a7zvhq` | A Shu Pamom Sociocultural Dataset | `a-shu-pamom-sociocultural-dataset-edd696cc` | [link](https://mozilladatacollective.com/datasets/cmtrd6ra205rqo107k9a7zvhq) | ❌ |
+| `cmtrd6x1805jfny078bszxh7k` | A Ngombale Sociocultural Dataset | `a-ngombale-sociocultural-dataset-8ce13f68` | [link](https://mozilladatacollective.com/datasets/cmtrd6x1805jfny078bszxh7k) | ❌ |
+| `cmtrd71ki05ruo107b4s2e66q` | A Mpoupieng Sociocultural Dataset | `a-mpoupieng-sociocultural-dataset-3cb2a472` | [link](https://mozilladatacollective.com/datasets/cmtrd71ki05ruo107b4s2e66q) | ❌ |
+| `cmtrd8j1z05ryo107d2m09ulg` | Bahasa Indonesia Lip-Reading Dataset | `bahasa-indonesia-lip-reading-dataset-e203080d` | [link](https://mozilladatacollective.com/datasets/cmtrd8j1z05ryo107d2m09ulg) | ❌ |
+| `cmtrd8nhc05jjny07w72o8non` | IND-Image Annotated from East and Central Java Culture | `ind-image-annotated-from-east-and-centra-bf297af4` | [link](https://mozilladatacollective.com/datasets/cmtrd8nhc05jjny07w72o8non) | ❌ |
+| `cmtrd8rjv05s2o107hxuvhd8l` | IND Image Corpus - Yogyakarta Public Space and Signage Dataset | `ind-image-corpus-yogyakarta-public-space-b6c48e28` | [link](https://mozilladatacollective.com/datasets/cmtrd8rjv05s2o107hxuvhd8l) | ❌ |
+| `cmtrd8vjk05s6o107dfhnwprj` | IND-Indonesian Cultural Object | `ind-indonesian-cultural-object-6a2176d9` | [link](https://mozilladatacollective.com/datasets/cmtrd8vjk05s6o107dfhnwprj) | ❌ |
+| `cmtrdbbvg05sdo107r7spd233` | 🚧 English Documentary // Rights-Cleared · 100 Hours 🚧 | `english-documentary-rights-cleared-100-h-ac38477c` | [link](https://mozilladatacollective.com/datasets/cmtrdbbvg05sdo107r7spd233) | ❌ |
+| `cmtrdbiai05sho107c0xziknm` | 🚧English Animation // Rights-Cleared · 50 Hours 🚧 | `english-animation-rights-cleared-50-hour-299d307a` | [link](https://mozilladatacollective.com/datasets/cmtrdbiai05sho107c0xziknm) | ❌ |
+| `cmtrdckk905jnny076i9h0f3a` | 🚧 English Scripted Narrative // Rights-Cleared · 20 Hours 🚧 | `english-scripted-narrative-rights-cleare-e70b017a` | [link](https://mozilladatacollective.com/datasets/cmtrdckk905jnny076i9h0f3a) | ❌ |
+| `cmtrdcpo405jrny0728dral3s` | 🚧 English Scripted Narrative // Rights-Cleared · 50 Hours 🚧 | `english-scripted-narrative-rights-cleare-e44f7865` | [link](https://mozilladatacollective.com/datasets/cmtrdcpo405jrny0728dral3s) | ❌ |
+| `cmtrkbx7q05p8ny07pdj4q70p` | Middle Manggaraian Dialect of Manggarai-IND-ENG-ARB Parallel Corpus | `middle-manggaraian-dialect-of-manggarai-661b8d49` | [link](https://mozilladatacollective.com/datasets/cmtrkbx7q05p8ny07pdj4q70p) | ❌ |
 
 ## Schemas without a platform dataset
 
