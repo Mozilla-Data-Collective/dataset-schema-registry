@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T06:13:35.360853+00:00",
-  "total": 1080,
+  "updated_at": "2026-09-08T05:16:21.549081+00:00",
+  "total": 1109,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -6942,9 +6942,9 @@
     {
       "id": "cmryvqp3v014ro907pnnrblm6",
       "url": "https://mozilladatacollective.com/datasets/cmryvqp3v014ro907pnnrblm6",
-      "lastmod": "2026-07-24T11:51:36.859Z",
-      "name": "Priangan Dialect-Sundanese Parallel Corpus",
-      "slug": "priangan-dialect-sundanese-parallel-corp-33c53fb4"
+      "lastmod": "2026-09-07T08:24:07.301Z",
+      "name": "Priangan Dialect of Sundanese-IND-ENG-ARB Parallel Corpus",
+      "slug": "priangan-dialect-of-sundanese-ind-eng-ar-b0bf7ea4"
     },
     {
       "id": "cmryvrc6i014vo90786kriix5",
@@ -7439,9 +7439,9 @@
     {
       "id": "cmtk5j4s2004unv07serrr1n8",
       "url": "https://mozilladatacollective.com/datasets/cmtk5j4s2004unv07serrr1n8",
-      "lastmod": "2026-09-02T13:48:32.115Z",
+      "lastmod": "2026-09-08T05:00:14.049Z",
       "name": "Indonesian-Multidialect Lip-Record Speech Corpus",
-      "slug": "indonesian-multidialect-lip-record-speec-1c08d0c0"
+      "slug": "indonesian-multidialect-lip-record-speec-08823a59"
     },
     {
       "id": "cmtk5wxm5004ynv07rlamzlif",
@@ -7561,6 +7561,209 @@
       "lastmod": "2026-09-03T23:54:51.742Z",
       "name": "🚧 English Scripted Narrative // Rights-Cleared · 100 Hours 🚧",
       "slug": "english-scripted-narrative-rights-cleare-533834c3"
+    },
+    {
+      "id": "cmtr7lwbz05b2ny07zf28kg1i",
+      "url": "https://mozilladatacollective.com/datasets/cmtr7lwbz05b2ny07zf28kg1i",
+      "lastmod": "2026-09-07T12:21:03.599Z",
+      "name": "AudioSentinel: Polish Synthetic Speech Detection",
+      "slug": "audiosentinel-polish-synthetic-speech-de-e8f646e2"
+    },
+    {
+      "id": "cmtr7p2v105bdny07rmc0xfmo",
+      "url": "https://mozilladatacollective.com/datasets/cmtr7p2v105bdny07rmc0xfmo",
+      "lastmod": "2026-09-07T12:23:32.029Z",
+      "name": "Ngapak Dialect of JAV-IND-ENG-ARB Parallel Corpus",
+      "slug": "ngapak-dialect-of-jav-ind-eng-arb-parall-b1f5fd4c"
+    },
+    {
+      "id": "cmtr7pgo605bhny07e9o9b6k8",
+      "url": "https://mozilladatacollective.com/datasets/cmtr7pgo605bhny07e9o9b6k8",
+      "lastmod": "2026-09-07T12:23:49.926Z",
+      "name": "Gresik Dialect of Javanese-IND-ENG-ARB Parallel Corpus",
+      "slug": "gresik-dialect-of-javanese-ind-eng-arb-p-142e64df"
+    },
+    {
+      "id": "cmtr7r73c05hoo107ene7xanq",
+      "url": "https://mozilladatacollective.com/datasets/cmtr7r73c05hoo107ene7xanq",
+      "lastmod": "2026-09-07T12:25:10.824Z",
+      "name": "Jombang Dialect of JAV-IND-ENG-ARB Parallel Corpus",
+      "slug": "jombang-dialect-of-jav-ind-eng-arb-paral-f854a616"
+    },
+    {
+      "id": "cmtr7re1p05hso1070lmvjdwx",
+      "url": "https://mozilladatacollective.com/datasets/cmtr7re1p05hso1070lmvjdwx",
+      "lastmod": "2026-09-07T12:25:19.837Z",
+      "name": "A Bafou Sociocultural Dataset",
+      "slug": "a-bafou-sociocultural-dataset-51cb31db"
+    },
+    {
+      "id": "cmtr7rjbb05blny07ec6p7hzj",
+      "url": "https://mozilladatacollective.com/datasets/cmtr7rjbb05blny07ec6p7hzj",
+      "lastmod": "2026-09-07T12:25:26.663Z",
+      "name": "A Baka Sociocultural Dataset",
+      "slug": "a-baka-sociocultural-dataset-6652adea"
+    },
+    {
+      "id": "cmtr7ro9005brny071h9p44a4",
+      "url": "https://mozilladatacollective.com/datasets/cmtr7ro9005brny071h9p44a4",
+      "lastmod": "2026-09-07T12:25:33.060Z",
+      "name": "A Balengou Sociocultural Dataset",
+      "slug": "a-balengou-sociocultural-dataset-c2907c6b"
+    },
+    {
+      "id": "cmtr89f6505ilo107jwdqu6zg",
+      "url": "https://mozilladatacollective.com/datasets/cmtr89f6505ilo107jwdqu6zg",
+      "lastmod": "2026-09-07T12:39:21.101Z",
+      "name": "IndoLearner-English Speech Corpus",
+      "slug": "indolearner-english-speech-corpus-d5d6fb97"
+    },
+    {
+      "id": "cmtr89ry305csny07rrpxqe9d",
+      "url": "https://mozilladatacollective.com/datasets/cmtr89ry305csny07rrpxqe9d",
+      "lastmod": "2026-09-07T12:39:37.659Z",
+      "name": "Purworejo Dialect-Javanese Speech Corpus",
+      "slug": "purworejo-dialect-javanese-speech-corpus-f3b63b78"
+    },
+    {
+      "id": "cmtr89wzw05ipo1070irq2q9j",
+      "url": "https://mozilladatacollective.com/datasets/cmtr89wzw05ipo1070irq2q9j",
+      "lastmod": "2026-09-07T12:39:44.204Z",
+      "name": "Indonesian Lip-Record Multimodal Corpus",
+      "slug": "indonesian-lip-record-multimodal-corpus-9db78ccd"
+    },
+    {
+      "id": "cmtr8a2r205ito107axtrlbuy",
+      "url": "https://mozilladatacollective.com/datasets/cmtr8a2r205ito107axtrlbuy",
+      "lastmod": "2026-09-07T12:39:51.662Z",
+      "name": "Speech Corpus of Indonesian Lip-Record",
+      "slug": "speech-corpus-of-indonesian-lip-record-10a2d3dd"
+    },
+    {
+      "id": "cmtr8a84t05cwny0781bspmv1",
+      "url": "https://mozilladatacollective.com/datasets/cmtr8a84t05cwny0781bspmv1",
+      "lastmod": "2026-09-07T12:39:58.637Z",
+      "name": "A Fombo Sociocultural Dataset",
+      "slug": "a-fombo-sociocultural-dataset-b0099a05"
+    },
+    {
+      "id": "cmtr8adh505ixo107x4wbbl4t",
+      "url": "https://mozilladatacollective.com/datasets/cmtr8adh505ixo107x4wbbl4t",
+      "lastmod": "2026-09-07T12:40:05.562Z",
+      "name": "A Mvumbo Sociocultural Dataset",
+      "slug": "a-mvumbo-sociocultural-dataset-6c6102ea"
+    },
+    {
+      "id": "cmtrd4pa805jbny07jimxllmh",
+      "url": "https://mozilladatacollective.com/datasets/cmtrd4pa805jbny07jimxllmh",
+      "lastmod": "2026-09-07T14:55:39.008Z",
+      "name": "Indo-Labial Multimodal Corpus",
+      "slug": "indo-labial-multimodal-corpus-d10444cf"
+    },
+    {
+      "id": "cmtrd505k05reo107esjgl8s3",
+      "url": "https://mozilladatacollective.com/datasets/cmtrd505k05reo107esjgl8s3",
+      "lastmod": "2026-09-07T14:55:53.096Z",
+      "name": "Multidialect of JAV-IND-ENG-ARB Parallel Corpus",
+      "slug": "multidialect-of-jav-ind-eng-arb-parallel-4b55e54e"
+    },
+    {
+      "id": "cmtrd55uh05rio107s4sh50cy",
+      "url": "https://mozilladatacollective.com/datasets/cmtrd55uh05rio107s4sh50cy",
+      "lastmod": "2026-09-07T14:56:00.473Z",
+      "name": "A Limbum Sociocultural Dataset",
+      "slug": "a-limbum-sociocultural-dataset-2848d08a"
+    },
+    {
+      "id": "cmtrd6j2x05rmo107rp9vym0u",
+      "url": "https://mozilladatacollective.com/datasets/cmtrd6j2x05rmo107rp9vym0u",
+      "lastmod": "2026-09-07T14:57:04.281Z",
+      "name": "A Banen Sociocultural Dataset",
+      "slug": "a-banen-sociocultural-dataset-13827e18"
+    },
+    {
+      "id": "cmtrd6ra205rqo107k9a7zvhq",
+      "url": "https://mozilladatacollective.com/datasets/cmtrd6ra205rqo107k9a7zvhq",
+      "lastmod": "2026-09-07T14:57:14.906Z",
+      "name": "A Shu Pamom Sociocultural Dataset",
+      "slug": "a-shu-pamom-sociocultural-dataset-edd696cc"
+    },
+    {
+      "id": "cmtrd6x1805jfny078bszxh7k",
+      "url": "https://mozilladatacollective.com/datasets/cmtrd6x1805jfny078bszxh7k",
+      "lastmod": "2026-09-07T14:57:22.364Z",
+      "name": "A Ngombale Sociocultural Dataset",
+      "slug": "a-ngombale-sociocultural-dataset-8ce13f68"
+    },
+    {
+      "id": "cmtrd71ki05ruo107b4s2e66q",
+      "url": "https://mozilladatacollective.com/datasets/cmtrd71ki05ruo107b4s2e66q",
+      "lastmod": "2026-09-07T14:57:28.242Z",
+      "name": "A Mpoupieng Sociocultural Dataset",
+      "slug": "a-mpoupieng-sociocultural-dataset-3cb2a472"
+    },
+    {
+      "id": "cmtrd8j1z05ryo107d2m09ulg",
+      "url": "https://mozilladatacollective.com/datasets/cmtrd8j1z05ryo107d2m09ulg",
+      "lastmod": "2026-09-07T14:58:37.559Z",
+      "name": "Bahasa Indonesia Lip-Reading Dataset",
+      "slug": "bahasa-indonesia-lip-reading-dataset-e203080d"
+    },
+    {
+      "id": "cmtrd8nhc05jjny07w72o8non",
+      "url": "https://mozilladatacollective.com/datasets/cmtrd8nhc05jjny07w72o8non",
+      "lastmod": "2026-09-07T14:58:43.297Z",
+      "name": "IND-Image Annotated from East and Central Java Culture",
+      "slug": "ind-image-annotated-from-east-and-centra-bf297af4"
+    },
+    {
+      "id": "cmtrd8rjv05s2o107hxuvhd8l",
+      "url": "https://mozilladatacollective.com/datasets/cmtrd8rjv05s2o107hxuvhd8l",
+      "lastmod": "2026-09-07T14:58:48.572Z",
+      "name": "IND Image Corpus - Yogyakarta Public Space and Signage Dataset",
+      "slug": "ind-image-corpus-yogyakarta-public-space-b6c48e28"
+    },
+    {
+      "id": "cmtrd8vjk05s6o107dfhnwprj",
+      "url": "https://mozilladatacollective.com/datasets/cmtrd8vjk05s6o107dfhnwprj",
+      "lastmod": "2026-09-07T14:58:53.745Z",
+      "name": "IND-Indonesian Cultural Object",
+      "slug": "ind-indonesian-cultural-object-6a2176d9"
+    },
+    {
+      "id": "cmtrdbbvg05sdo107r7spd233",
+      "url": "https://mozilladatacollective.com/datasets/cmtrdbbvg05sdo107r7spd233",
+      "lastmod": "2026-09-07T15:00:48.220Z",
+      "name": "🚧 English Documentary // Rights-Cleared · 100 Hours 🚧",
+      "slug": "english-documentary-rights-cleared-100-h-ac38477c"
+    },
+    {
+      "id": "cmtrdbiai05sho107c0xziknm",
+      "url": "https://mozilladatacollective.com/datasets/cmtrdbiai05sho107c0xziknm",
+      "lastmod": "2026-09-07T15:00:56.539Z",
+      "name": "🚧English Animation // Rights-Cleared · 50 Hours 🚧",
+      "slug": "english-animation-rights-cleared-50-hour-299d307a"
+    },
+    {
+      "id": "cmtrdckk905jnny076i9h0f3a",
+      "url": "https://mozilladatacollective.com/datasets/cmtrdckk905jnny076i9h0f3a",
+      "lastmod": "2026-09-07T15:01:46.137Z",
+      "name": "🚧 English Scripted Narrative // Rights-Cleared · 20 Hours 🚧",
+      "slug": "english-scripted-narrative-rights-cleare-e70b017a"
+    },
+    {
+      "id": "cmtrdcpo405jrny0728dral3s",
+      "url": "https://mozilladatacollective.com/datasets/cmtrdcpo405jrny0728dral3s",
+      "lastmod": "2026-09-07T15:01:52.756Z",
+      "name": "🚧 English Scripted Narrative // Rights-Cleared · 50 Hours 🚧",
+      "slug": "english-scripted-narrative-rights-cleare-e44f7865"
+    },
+    {
+      "id": "cmtrkbx7q05p8ny07pdj4q70p",
+      "url": "https://mozilladatacollective.com/datasets/cmtrkbx7q05p8ny07pdj4q70p",
+      "lastmod": "2026-09-07T18:17:13.190Z",
+      "name": "Middle Manggaraian Dialect of Manggarai-IND-ENG-ARB Parallel Corpus",
+      "slug": "middle-manggaraian-dialect-of-manggarai-661b8d49"
     }
   ]
 }
