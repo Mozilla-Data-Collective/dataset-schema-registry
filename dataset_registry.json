@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T06:10:31.195068+00:00",
-  "total": 1109,
+  "updated_at": "2026-09-09T05:15:53.537529+00:00",
+  "total": 1112,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -6172,35 +6172,35 @@
     {
       "id": "cmr0mng9z01bsmk07cuqltz81",
       "url": "https://mozilladatacollective.com/datasets/cmr0mng9z01bsmk07cuqltz81",
-      "lastmod": "2026-07-03T08:41:24.839Z",
+      "lastmod": "2026-09-08T11:24:34.042Z",
       "name": "Prompsit D1 - Inline Asset Integrity",
       "slug": "prompsit-d1-inline-asset-integrity-9f282b10"
     },
     {
       "id": "cmr0mnoo201bwmk07nh4yc04u",
       "url": "https://mozilladatacollective.com/datasets/cmr0mnoo201bwmk07nh4yc04u",
-      "lastmod": "2026-07-03T08:41:26.230Z",
+      "lastmod": "2026-09-08T11:24:35.026Z",
       "name": "Prompsit D2 - Locale-data Integrity",
       "slug": "prompsit-d2-locale-data-integrity-e6ab4ffb"
     },
     {
       "id": "cmr0mny2b01asns073985z0va",
       "url": "https://mozilladatacollective.com/datasets/cmr0mny2b01asns073985z0va",
-      "lastmod": "2026-07-03T08:41:26.735Z",
+      "lastmod": "2026-09-08T11:24:38.789Z",
       "name": "Prompsit D3 - Structured-resource Integrity",
       "slug": "prompsit-d3-structured-resource-integrit-a252ae04"
     },
     {
       "id": "cmr0moi2k01c0mk07eocv137z",
       "url": "https://mozilladatacollective.com/datasets/cmr0moi2k01c0mk07eocv137z",
-      "lastmod": "2026-07-03T08:41:27.750Z",
+      "lastmod": "2026-09-08T11:24:42.301Z",
       "name": "Prompsit D4 - Document-structure Integrity",
       "slug": "prompsit-d4-document-structure-integrity-c0c761a7"
     },
     {
       "id": "cmr0motgu01awns07eeeyiv6m",
       "url": "https://mozilladatacollective.com/datasets/cmr0motgu01awns07eeeyiv6m",
-      "lastmod": "2026-07-03T08:41:28.298Z",
+      "lastmod": "2026-09-08T11:24:46.022Z",
       "name": "Prompsit D5 - Linguistic-resource Adherence",
       "slug": "prompsit-d5-linguistic-resource-adherenc-2af77982"
     },
@@ -7764,6 +7764,27 @@
       "lastmod": "2026-09-07T18:17:13.190Z",
       "name": "Middle Manggaraian Dialect of Manggarai-IND-ENG-ARB Parallel Corpus",
       "slug": "middle-manggaraian-dialect-of-manggarai-661b8d49"
+    },
+    {
+      "id": "cmtslxdsb005ul507c8xtreaf",
+      "url": "https://mozilladatacollective.com/datasets/cmtslxdsb005ul507c8xtreaf",
+      "lastmod": "2026-09-08T11:49:40.235Z",
+      "name": "🚧Korean Scripted Film & Episodic TV // Rights-Cleared · 90 Hours🚧",
+      "slug": "korean-scripted-film-episodic-tv-rights-481dcea6"
+    },
+    {
+      "id": "cmtsqii5z00anl50768yu6nc0",
+      "url": "https://mozilladatacollective.com/datasets/cmtsqii5z00anl50768yu6nc0",
+      "lastmod": "2026-09-08T13:58:04.151Z",
+      "name": "A Yezoum Sociocultural Dataset",
+      "slug": "a-yezoum-sociocultural-dataset-885bd0cb"
+    },
+    {
+      "id": "cmtsqin6x00arl507fdafxq2b",
+      "url": "https://mozilladatacollective.com/datasets/cmtsqin6x00arl507fdafxq2b",
+      "lastmod": "2026-09-08T13:58:10.666Z",
+      "name": "A Kali Sociocultural Dataset",
+      "slug": "a-kali-sociocultural-dataset-1abbe8a6"
     }
   ]
 }
