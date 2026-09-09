@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-08  
-**Total datasets in sitemap:** 1109  
+**Last updated:** 2026-09-09  
+**Total datasets in sitemap:** 1112  
 **Schemas registered:** 417 ✅  
-**Schemas missing:** 692 ❌  
+**Schemas missing:** 695 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1128,6 +1128,9 @@ data programmatically.
 | `cmtrdckk905jnny076i9h0f3a` | 🚧 English Scripted Narrative // Rights-Cleared · 20 Hours 🚧 | `english-scripted-narrative-rights-cleare-e70b017a` | [link](https://mozilladatacollective.com/datasets/cmtrdckk905jnny076i9h0f3a) | ❌ |
 | `cmtrdcpo405jrny0728dral3s` | 🚧 English Scripted Narrative // Rights-Cleared · 50 Hours 🚧 | `english-scripted-narrative-rights-cleare-e44f7865` | [link](https://mozilladatacollective.com/datasets/cmtrdcpo405jrny0728dral3s) | ❌ |
 | `cmtrkbx7q05p8ny07pdj4q70p` | Middle Manggaraian Dialect of Manggarai-IND-ENG-ARB Parallel Corpus | `middle-manggaraian-dialect-of-manggarai-661b8d49` | [link](https://mozilladatacollective.com/datasets/cmtrkbx7q05p8ny07pdj4q70p) | ❌ |
+| `cmtslxdsb005ul507c8xtreaf` | 🚧Korean Scripted Film & Episodic TV // Rights-Cleared · 90 Hours🚧 | `korean-scripted-film-episodic-tv-rights-481dcea6` | [link](https://mozilladatacollective.com/datasets/cmtslxdsb005ul507c8xtreaf) | ❌ |
+| `cmtsqii5z00anl50768yu6nc0` | A Yezoum Sociocultural Dataset | `a-yezoum-sociocultural-dataset-885bd0cb` | [link](https://mozilladatacollective.com/datasets/cmtsqii5z00anl50768yu6nc0) | ❌ |
+| `cmtsqin6x00arl507fdafxq2b` | A Kali Sociocultural Dataset | `a-kali-sociocultural-dataset-1abbe8a6` | [link](https://mozilladatacollective.com/datasets/cmtsqin6x00arl507fdafxq2b) | ❌ |
 
 ## Schemas without a platform dataset
 

@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-08T05:16:33.183084+00:00",
+  "generated_at": "2026-09-09T05:16:08.360284+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1109,
+    "listed_datasets": 1112,
     "with_schema": 417,
-    "without_schema": 692,
+    "without_schema": 695,
     "schemas_total": 418,
     "unlisted_schemas": 1
   },
@@ -9720,7 +9720,7 @@
       "name": "Prompsit D1 - Inline Asset Integrity",
       "slug": "prompsit-d1-inline-asset-integrity-9f282b10",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmr0mng9z01bsmk07cuqltz81",
-      "lastmod": "2026-07-03T08:41:24.839Z",
+      "lastmod": "2026-09-08T11:24:34.042Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -9731,7 +9731,7 @@
       "name": "Prompsit D2 - Locale-data Integrity",
       "slug": "prompsit-d2-locale-data-integrity-e6ab4ffb",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmr0mnoo201bwmk07nh4yc04u",
-      "lastmod": "2026-07-03T08:41:26.230Z",
+      "lastmod": "2026-09-08T11:24:35.026Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -9742,7 +9742,7 @@
       "name": "Prompsit D3 - Structured-resource Integrity",
       "slug": "prompsit-d3-structured-resource-integrit-a252ae04",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmr0mny2b01asns073985z0va",
-      "lastmod": "2026-07-03T08:41:26.735Z",
+      "lastmod": "2026-09-08T11:24:38.789Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -9753,7 +9753,7 @@
       "name": "Prompsit D4 - Document-structure Integrity",
       "slug": "prompsit-d4-document-structure-integrity-c0c761a7",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmr0moi2k01c0mk07eocv137z",
-      "lastmod": "2026-07-03T08:41:27.750Z",
+      "lastmod": "2026-09-08T11:24:42.301Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -9764,7 +9764,7 @@
       "name": "Prompsit D5 - Linguistic-resource Adherence",
       "slug": "prompsit-d5-linguistic-resource-adherenc-2af77982",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmr0motgu01awns07eeeyiv6m",
-      "lastmod": "2026-07-03T08:41:28.298Z",
+      "lastmod": "2026-09-08T11:24:46.022Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12218,6 +12218,39 @@
       "slug": "middle-manggaraian-dialect-of-manggarai-661b8d49",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmtrkbx7q05p8ny07pdj4q70p",
       "lastmod": "2026-09-07T18:17:13.190Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtslxdsb005ul507c8xtreaf",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧Korean Scripted Film & Episodic TV // Rights-Cleared · 90 Hours🚧",
+      "slug": "korean-scripted-film-episodic-tv-rights-481dcea6",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtslxdsb005ul507c8xtreaf",
+      "lastmod": "2026-09-08T11:49:40.235Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtsqii5z00anl50768yu6nc0",
+      "has_schema": false,
+      "listed": true,
+      "name": "A Yezoum Sociocultural Dataset",
+      "slug": "a-yezoum-sociocultural-dataset-885bd0cb",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtsqii5z00anl50768yu6nc0",
+      "lastmod": "2026-09-08T13:58:04.151Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtsqin6x00arl507fdafxq2b",
+      "has_schema": false,
+      "listed": true,
+      "name": "A Kali Sociocultural Dataset",
+      "slug": "a-kali-sociocultural-dataset-1abbe8a6",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtsqin6x00arl507fdafxq2b",
+      "lastmod": "2026-09-08T13:58:10.666Z",
       "schema_path": null,
       "schema_url": null
     }
