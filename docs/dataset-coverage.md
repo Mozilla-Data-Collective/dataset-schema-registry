@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-09  
-**Total datasets in sitemap:** 1112  
+**Last updated:** 2026-09-10  
+**Total datasets in sitemap:** 1113  
 **Schemas registered:** 417 ✅  
-**Schemas missing:** 695 ❌  
+**Schemas missing:** 696 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -294,8 +294,8 @@ data programmatically.
 | `cmocxuhkn00y4md07d8bllj2x` | Read Speech in Kenyan Swahili (6h) | `read-speech-in-kenyan-swahili-6h-0692ed09` | [link](https://mozilladatacollective.com/datasets/cmocxuhkn00y4md07d8bllj2x) | ❌ |
 | `cmoiuyem401j5mr07s0jx8rqr` | Italian TTS - female voice | `italian-tts-female-voice-78e192bf` | [link](https://mozilladatacollective.com/datasets/cmoiuyem401j5mr07s0jx8rqr) | ❌ |
 | `cmok1w0j002jcmr075bsof72y` | Tamazight Open Speech Dataset | `tamazight-open-speech-dataset-a39ff6ca` | [link](https://mozilladatacollective.com/datasets/cmok1w0j002jcmr075bsof72y) | ❌ |
-| `cmom3xala00gyo007hc0evymi` | BAHANA-Betawi TTS | `bahana-betawi-tts-36c364c1` | [link](https://mozilladatacollective.com/datasets/cmom3xala00gyo007hc0evymi) | ❌ |
-| `cmom3z1mc00h2o0071zxeq1ur` | BAHANA-Manggarai TTS | `bahana-manggarai-tts-51368f24` | [link](https://mozilladatacollective.com/datasets/cmom3z1mc00h2o0071zxeq1ur) | ❌ |
+| `cmom3xala00gyo007hc0evymi` | BAHANA-Betawi TTS | `bahana-betawi-tts-255a99c5` | [link](https://mozilladatacollective.com/datasets/cmom3xala00gyo007hc0evymi) | ❌ |
+| `cmom3z1mc00h2o0071zxeq1ur` | BAHANA-Manggarai TTS | `bahana-manggarai-tts-2314b571` | [link](https://mozilladatacollective.com/datasets/cmom3z1mc00h2o0071zxeq1ur) | ❌ |
 | `cmom41aj500h6o007zkt02p8n` | TTS Bugis - Barru Dialect: Language and Identity | `tts-bugis-barru-dialect-language-and-ide-104404ad` | [link](https://mozilladatacollective.com/datasets/cmom41aj500h6o007zkt02p8n) | ❌ |
 | `cmom43ixg00hao00731e0o0jg` | TWB Parallel Sentence kits - Hausa (30k) | `twb-parallel-sentence-kits-hausa-30k-e8236719` | [link](https://mozilladatacollective.com/datasets/cmom43ixg00hao00731e0o0jg) | ❌ |
 | `cmonjhxee01ako007kohpbg34` | The LJSpeech Dataset | `the-ljspeech-dataset-f9cb12b9` | [link](https://mozilladatacollective.com/datasets/cmonjhxee01ako007kohpbg34) | ❌ |
@@ -1131,6 +1131,7 @@ data programmatically.
 | `cmtslxdsb005ul507c8xtreaf` | 🚧Korean Scripted Film & Episodic TV // Rights-Cleared · 90 Hours🚧 | `korean-scripted-film-episodic-tv-rights-481dcea6` | [link](https://mozilladatacollective.com/datasets/cmtslxdsb005ul507c8xtreaf) | ❌ |
 | `cmtsqii5z00anl50768yu6nc0` | A Yezoum Sociocultural Dataset | `a-yezoum-sociocultural-dataset-885bd0cb` | [link](https://mozilladatacollective.com/datasets/cmtsqii5z00anl50768yu6nc0) | ❌ |
 | `cmtsqin6x00arl507fdafxq2b` | A Kali Sociocultural Dataset | `a-kali-sociocultural-dataset-1abbe8a6` | [link](https://mozilladatacollective.com/datasets/cmtsqin6x00arl507fdafxq2b) | ❌ |
+| `cmtufo0cx00gant07sgudmy3r` | Demakan Dialect of JAV-IND-ENG-ARB Parallel Corpus | `demakan-dialect-of-jav-ind-eng-arb-paral-8d13c8b1` | [link](https://mozilladatacollective.com/datasets/cmtufo0cx00gant07sgudmy3r) | ❌ |
 
 ## Schemas without a platform dataset
 

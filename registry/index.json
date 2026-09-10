@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-09T05:16:08.360284+00:00",
+  "generated_at": "2026-09-10T05:15:53.538892+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1112,
+    "listed_datasets": 1113,
     "with_schema": 417,
-    "without_schema": 695,
+    "without_schema": 696,
     "schemas_total": 418,
     "unlisted_schemas": 1
   },
@@ -3052,9 +3052,9 @@
       "has_schema": false,
       "listed": true,
       "name": "BAHANA-Betawi TTS",
-      "slug": "bahana-betawi-tts-36c364c1",
+      "slug": "bahana-betawi-tts-255a99c5",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmom3xala00gyo007hc0evymi",
-      "lastmod": "2026-08-27T10:51:55.367Z",
+      "lastmod": "2026-09-10T02:21:34.676Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -3063,9 +3063,9 @@
       "has_schema": false,
       "listed": true,
       "name": "BAHANA-Manggarai TTS",
-      "slug": "bahana-manggarai-tts-51368f24",
+      "slug": "bahana-manggarai-tts-2314b571",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmom3z1mc00h2o0071zxeq1ur",
-      "lastmod": "2026-08-27T10:52:10.703Z",
+      "lastmod": "2026-09-10T02:19:39.262Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12251,6 +12251,17 @@
       "slug": "a-kali-sociocultural-dataset-1abbe8a6",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmtsqin6x00arl507fdafxq2b",
       "lastmod": "2026-09-08T13:58:10.666Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmtufo0cx00gant07sgudmy3r",
+      "has_schema": false,
+      "listed": true,
+      "name": "Demakan Dialect of JAV-IND-ENG-ARB Parallel Corpus",
+      "slug": "demakan-dialect-of-jav-ind-eng-arb-paral-8d13c8b1",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmtufo0cx00gant07sgudmy3r",
+      "lastmod": "2026-09-09T18:29:57.585Z",
       "schema_path": null,
       "schema_url": null
     }
