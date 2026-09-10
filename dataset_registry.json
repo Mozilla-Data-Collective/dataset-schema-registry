@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T06:10:41.295708+00:00",
-  "total": 1112,
+  "updated_at": "2026-09-10T05:15:40.881892+00:00",
+  "total": 1113,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -1930,16 +1930,16 @@
     {
       "id": "cmom3xala00gyo007hc0evymi",
       "url": "https://mozilladatacollective.com/datasets/cmom3xala00gyo007hc0evymi",
-      "lastmod": "2026-08-27T10:51:55.367Z",
+      "lastmod": "2026-09-10T02:21:34.676Z",
       "name": "BAHANA-Betawi TTS",
-      "slug": "bahana-betawi-tts-36c364c1"
+      "slug": "bahana-betawi-tts-255a99c5"
     },
     {
       "id": "cmom3z1mc00h2o0071zxeq1ur",
       "url": "https://mozilladatacollective.com/datasets/cmom3z1mc00h2o0071zxeq1ur",
-      "lastmod": "2026-08-27T10:52:10.703Z",
+      "lastmod": "2026-09-10T02:19:39.262Z",
       "name": "BAHANA-Manggarai TTS",
-      "slug": "bahana-manggarai-tts-51368f24"
+      "slug": "bahana-manggarai-tts-2314b571"
     },
     {
       "id": "cmom41aj500h6o007zkt02p8n",
@@ -7785,6 +7785,13 @@
       "lastmod": "2026-09-08T13:58:10.666Z",
       "name": "A Kali Sociocultural Dataset",
       "slug": "a-kali-sociocultural-dataset-1abbe8a6"
+    },
+    {
+      "id": "cmtufo0cx00gant07sgudmy3r",
+      "url": "https://mozilladatacollective.com/datasets/cmtufo0cx00gant07sgudmy3r",
+      "lastmod": "2026-09-09T18:29:57.585Z",
+      "name": "Demakan Dialect of JAV-IND-ENG-ARB Parallel Corpus",
+      "slug": "demakan-dialect-of-jav-ind-eng-arb-paral-8d13c8b1"
     }
   ]
 }
