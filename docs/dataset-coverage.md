@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-10  
+**Last updated:** 2026-09-12  
 **Total datasets in sitemap:** 1113  
 **Schemas registered:** 417 ✅  
 **Schemas missing:** 696 ❌  
@@ -165,7 +165,7 @@ data programmatically.
 | `cmlqoukmi000hnr07cprdmxsc` | Kyrgyz Folklore Text Corpus | `kyrgyz-folklore-text-corpus-de2f27ff` | [link](https://mozilladatacollective.com/datasets/cmlqoukmi000hnr07cprdmxsc) | ❌ |
 | `cmls27zfd0043ma07mxvsz8zg` | Zacatlán Tepetzintla Nahuatl ASR Dataset | `zacatl-n-tepetzintla-nahuatl-asr-dataset-2e46ee49` | [link](https://mozilladatacollective.com/datasets/cmls27zfd0043ma07mxvsz8zg) | ❌ |
 | `cmlth9lrp000ams07yjdscjgu` | ATLAS Cross-Lingual Transfer Matrix | `atlas-cross-lingual-transfer-matrix-b3661347` | [link](https://mozilladatacollective.com/datasets/cmlth9lrp000ams07yjdscjgu) | ❌ |
-| `cmltnzkug0012mh07k1obic7v` | Bojonegoro Javanese TTS  | `bojonegoro-javanese-tts-c4d23090` | [link](https://mozilladatacollective.com/datasets/cmltnzkug0012mh07k1obic7v) | ❌ |
+| `cmltnzkug0012mh07k1obic7v` | Bojonegoro Javanese TTS  | `bojonegoro-javanese-tts-8b97226c` | [link](https://mozilladatacollective.com/datasets/cmltnzkug0012mh07k1obic7v) | ❌ |
 | `cmm0n37lm000dnq07vpctdtc9` | GeoLogicQA: An LLM Benchmark for Logical Reasoning in Georgian | `geologicqa-an-llm-benchmark-for-logical-612b08b2` | [link](https://mozilladatacollective.com/datasets/cmm0n37lm000dnq07vpctdtc9) | ❌ |
 | `cmm0n4ro2000hnq079tknw6gv` | Dolgan Folklore Text Corpus | `dolgan-folklore-text-corpus-d5c4c9ae` | [link](https://mozilladatacollective.com/datasets/cmm0n4ro2000hnq079tknw6gv) | ❌ |
 | `cmm0nm2ua000eo007qs4r3m8q` | Polish Public Domain 20th Century Literature Text Corpus | `polish-public-domain-20th-century-litera-6cb59f65` | [link](https://mozilladatacollective.com/datasets/cmm0nm2ua000eo007qs4r3m8q) | ❌ |
@@ -182,7 +182,7 @@ data programmatically.
 | `cmm4ddcsx00npmh07hxmlax2b` | Thorsten-Voice Dataset 2023.09 Hessisch | `thorsten-voice-dataset-2023-09-hessisch-c003eb5c` | [link](https://mozilladatacollective.com/datasets/cmm4ddcsx00npmh07hxmlax2b) | ❌ |
 | `cmm4de9w500ntmh073nx14k7p` | Thorsten-Voice-44kHz-Full | `thorsten-voice-44khz-full-ded7f701` | [link](https://mozilladatacollective.com/datasets/cmm4de9w500ntmh073nx14k7p) | ❌ |
 | `cmm5078n50168mk07v64792sf` | Finnish Public Domain 20th Century Literature Text Corpus | `finnish-public-domain-20th-century-liter-294fe404` | [link](https://mozilladatacollective.com/datasets/cmm5078n50168mk07v64792sf) | ❌ |
-| `cmmamtaf104nemh07xa9e7sdx` | Javanese TTS of Banyumasan Dialect | `javanese-tts-of-banyumasan-dialect-1f7e2f21` | [link](https://mozilladatacollective.com/datasets/cmmamtaf104nemh07xa9e7sdx) | ❌ |
+| `cmmamtaf104nemh07xa9e7sdx` | Javanese TTS of Banyumasan Dialect | `javanese-tts-of-banyumasan-dialect-5b8387ee` | [link](https://mozilladatacollective.com/datasets/cmmamtaf104nemh07xa9e7sdx) | ❌ |
 | `cmmamvzrz04qtmk077j1k99vt` | Mada-French Parallel Corpus 1.0 | `mada-french-parallel-corpus-1-0-55f89ce6` | [link](https://mozilladatacollective.com/datasets/cmmamvzrz04qtmk077j1k99vt) | ❌ |
 | `cmmao7dc504oamh0710j4wau1` | Jhoke Publisher Multan’s Saraiki Newspaper Corpus | `jhoke-publisher-multan-s-saraiki-newspap-e0350169` | [link](https://mozilladatacollective.com/datasets/cmmao7dc504oamh0710j4wau1) | ❌ |
 | `cmmaphscg04t2mk07i1f8yc0q` | Saraiki-English Parallel Corpus | `saraiki-english-parallel-corpus-096ab4eb` | [link](https://mozilladatacollective.com/datasets/cmmaphscg04t2mk07i1f8yc0q) | ❌ |
@@ -1081,7 +1081,7 @@ data programmatically.
 | `cmtk59j4a0043nv07toiemii6` | INALVS (Indonesian Lip-reading & Visual Speech Dataset) | `inalvs-indonesian-lip-reading-visual-spe-e20dad98` | [link](https://mozilladatacollective.com/datasets/cmtk59j4a0043nv07toiemii6) | ❌ |
 | `cmtk5d6vu004hnv07jxqtde3j` | IND-Jabodetabek Signage and Public Places | `ind-jabodetabek-signage-and-public-place-4a83604f` | [link](https://mozilladatacollective.com/datasets/cmtk5d6vu004hnv07jxqtde3j) | ❌ |
 | `cmtk5ilpu004qnv07uv3tammq` | 🚧 Thai Episodic Television // Rights-Cleared · 100 Hours 🚧 | `thai-episodic-television-rights-cleared-358dccaa` | [link](https://mozilladatacollective.com/datasets/cmtk5ilpu004qnv07uv3tammq) | ❌ |
-| `cmtk5j4s2004unv07serrr1n8` | Indonesian-Multidialect Lip-Record Speech Corpus | `indonesian-multidialect-lip-record-speec-08823a59` | [link](https://mozilladatacollective.com/datasets/cmtk5j4s2004unv07serrr1n8) | ❌ |
+| `cmtk5j4s2004unv07serrr1n8` | Indonesian-Multidialect Lip-Record Speech Corpus | `indonesian-multidialect-lip-record-speec-c17daa27` | [link](https://mozilladatacollective.com/datasets/cmtk5j4s2004unv07serrr1n8) | ❌ |
 | `cmtk5wxm5004ynv07rlamzlif` | Ormuri Bilingual Dictionary by Rozi Khan Burki | `ormuri-bilingual-dictionary-by-rozi-khan-ca006ee1` | [link](https://mozilladatacollective.com/datasets/cmtk5wxm5004ynv07rlamzlif) | ❌ |
 | `cmtk5x5il0052nv07m5unf4w6` | Wakhi Literature Corpus | `wakhi-literature-corpus-a0298c45` | [link](https://mozilladatacollective.com/datasets/cmtk5x5il0052nv07m5unf4w6) | ❌ |
 | `cmtk9qr4o008bnm07vrg3cz3t` | 🚧 Colloquial Parallel Text (English - Yoruba) 🚧 | `colloquial-parallel-text-english-yoruba-228d992b` | [link](https://mozilladatacollective.com/datasets/cmtk9qr4o008bnm07vrg3cz3t) | ❌ |

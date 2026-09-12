@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-10T05:15:53.538892+00:00",
+  "generated_at": "2026-09-12T05:14:43.272306+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -1633,9 +1633,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Bojonegoro Javanese TTS ",
-      "slug": "bojonegoro-javanese-tts-c4d23090",
+      "slug": "bojonegoro-javanese-tts-8b97226c",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmltnzkug0012mh07k1obic7v",
-      "lastmod": "2026-02-19T16:17:29.416Z",
+      "lastmod": "2026-09-11T13:29:26.667Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -1820,9 +1820,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Javanese TTS of Banyumasan Dialect",
-      "slug": "javanese-tts-of-banyumasan-dialect-1f7e2f21",
+      "slug": "javanese-tts-of-banyumasan-dialect-5b8387ee",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmmamtaf104nemh07xa9e7sdx",
-      "lastmod": "2026-03-03T13:16:41.342Z",
+      "lastmod": "2026-09-11T11:00:53.718Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -11709,9 +11709,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Indonesian-Multidialect Lip-Record Speech Corpus",
-      "slug": "indonesian-multidialect-lip-record-speec-08823a59",
+      "slug": "indonesian-multidialect-lip-record-speec-c17daa27",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmtk5j4s2004unv07serrr1n8",
-      "lastmod": "2026-09-08T05:00:14.049Z",
+      "lastmod": "2026-09-11T11:04:34.832Z",
       "schema_path": null,
       "schema_url": null
     },
