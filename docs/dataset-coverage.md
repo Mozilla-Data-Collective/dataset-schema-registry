@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-12  
-**Total datasets in sitemap:** 1113  
-**Schemas registered:** 417 ✅  
-**Schemas missing:** 696 ❌  
+**Last updated:** 2026-09-15  
+**Total datasets in sitemap:** 887  
+**Schemas registered:** 177 ✅  
+**Schemas missing:** 710 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -146,7 +146,7 @@ data programmatically.
 | `cmlcqxjwl01t8mm07wz7c08bz` | Zacatlán Tepetzintla Nahuatl Audio | `zacatl-n-tepetzintla-nahuatl-audio-f7c7ae62` | [link](https://mozilladatacollective.com/datasets/cmlcqxjwl01t8mm07wz7c08bz) | ❌ |
 | `cmlct0jzu01s4nv07023lv3m3` | Zacatlán Tepetzintla Nahuatl Transcriptions | `zacatl-n-tepetzintla-nahuatl-transcripti-6fdb6e0a` | [link](https://mozilladatacollective.com/datasets/cmlct0jzu01s4nv07023lv3m3) | ❌ |
 | `cmlgm5a94008kny07nz2intus` | Jember Javanese Spontaneous Speech Corpus | `jember-javanese-spontaneous-speech-corpu-d43a201a` | [link](https://mozilladatacollective.com/datasets/cmlgm5a94008kny07nz2intus) | ❌ |
-| `cmlgmf58l0096nx07tahttd6y` | TTS Javanese - Ngapak Dialect  | `tts-javanese-ngapak-dialect-f82e30d0` | [link](https://mozilladatacollective.com/datasets/cmlgmf58l0096nx07tahttd6y) | ❌ |
+| `cmlgmf58l0096nx07tahttd6y` | TTS Javanese - Ngapak Dialect  | `tts-javanese-ngapak-dialect-59f7faff` | [link](https://mozilladatacollective.com/datasets/cmlgmf58l0096nx07tahttd6y) | ❌ |
 | `cmlgmqqul009lny07rhsa7aey` | Gawri (گاؤری) Magazine Corpus | `gawri-magazine-corpus-df4c7a92` | [link](https://mozilladatacollective.com/datasets/cmlgmqqul009lny07rhsa7aey) | ❌ |
 | `cmlgrqom000jrnx07zywfpblb` | NAWA-E-WATAN Balochi Newspaper Corpus | `nawa-e-watan-balochi-newspaper-corpus-31187552` | [link](https://mozilladatacollective.com/datasets/cmlgrqom000jrnx07zywfpblb) | ❌ |
 | `cmlgv2ucp0005nx07wwocbpux` | Western Balochi Literature Cropus | `western-balochi-literature-cropus-1d5c4ede` | [link](https://mozilladatacollective.com/datasets/cmlgv2ucp0005nx07wwocbpux) | ❌ |
@@ -462,218 +462,68 @@ data programmatically.
 | `cmqf6bpns06gal20726pxld9z` | Sample Tupuri-Bango_TTS-Dataset (male voice) | `sample-tupuri-bango-tts-dataset-male-voi-259b9597` | [link](https://mozilladatacollective.com/datasets/cmqf6bpns06gal20726pxld9z) | ❌ |
 | `cmqf6c04x06gel207o5vjtni7` | Sample Ngiemboon-TTS-Dataset | `sample-ngiemboon-tts-dataset-094984f3` | [link](https://mozilladatacollective.com/datasets/cmqf6c04x06gel207o5vjtni7) | ❌ |
 | `cmqf6c9lc06gil2075rm34xds` | Sample Mbo-TTS-Dataset | `sample-mbo-tts-dataset-121e2846` | [link](https://mozilladatacollective.com/datasets/cmqf6c9lc06gil2075rm34xds) | ❌ |
-| `cmqi1odot003emf07g3xz66g7` | Common Voice Spontaneous Speech 4.0 - Amharic | `common-voice-spontaneous-speech-4-0-amha-2dc4f018` | [link](https://mozilladatacollective.com/datasets/cmqi1odot003emf07g3xz66g7) | ✅ |
-| `cmqi1opsu003io5071cwo8yr4` | Common Voice Spontaneous Speech 4.0 - Frisian | `common-voice-spontaneous-speech-4-0-fris-6bd43257` | [link](https://mozilladatacollective.com/datasets/cmqi1opsu003io5071cwo8yr4) | ✅ |
-| `cmqi1pa9p003imf070cpw1e7f` | Common Voice Spontaneous Speech 4.0 - Croatian | `common-voice-spontaneous-speech-4-0-croa-4f649d04` | [link](https://mozilladatacollective.com/datasets/cmqi1pa9p003imf070cpw1e7f) | ✅ |
-| `cmqi1pu7y003mo507me1eqdyu` | Common Voice Spontaneous Speech 4.0 - Mon | `common-voice-spontaneous-speech-4-0-mon-27ba61d6` | [link](https://mozilladatacollective.com/datasets/cmqi1pu7y003mo507me1eqdyu) | ✅ |
-| `cmqi1qb5q003qo507qp9irtgo` | Common Voice Spontaneous Speech 4.0 - Bodo | `common-voice-spontaneous-speech-4-0-bodo-3159e9e3` | [link](https://mozilladatacollective.com/datasets/cmqi1qb5q003qo507qp9irtgo) | ✅ |
-| `cmqi1qqvz003mmf07o63fnm4l` | Common Voice Spontaneous Speech 4.0 - Lango | `common-voice-spontaneous-speech-4-0-lang-a38fea4f` | [link](https://mozilladatacollective.com/datasets/cmqi1qqvz003mmf07o63fnm4l) | ✅ |
-| `cmqi1qzhq003qmf07ck89k48p` | Common Voice Spontaneous Speech 4.0 - Thai | `common-voice-spontaneous-speech-4-0-thai-9b419f62` | [link](https://mozilladatacollective.com/datasets/cmqi1qzhq003qmf07ck89k48p) | ✅ |
-| `cmqi1rc7e003uo5075ige4iyb` | Common Voice Spontaneous Speech 4.0 - Irish | `common-voice-spontaneous-speech-4-0-iris-4a3427c2` | [link](https://mozilladatacollective.com/datasets/cmqi1rc7e003uo5075ige4iyb) | ✅ |
-| `cmqi1rl18003umf07looru9ib` | Common Voice Spontaneous Speech 4.0 - Dutch | `common-voice-spontaneous-speech-4-0-dutc-7aa396c2` | [link](https://mozilladatacollective.com/datasets/cmqi1rl18003umf07looru9ib) | ✅ |
-| `cmqi23dft0040o507ugxj0tb7` | Common Voice Spontaneous Speech 4.0 - Danish | `common-voice-spontaneous-speech-4-0-dani-109f859d` | [link](https://mozilladatacollective.com/datasets/cmqi23dft0040o507ugxj0tb7) | ✅ |
-| `cmqi23l1r0044o507nmp10zgn` | Common Voice Spontaneous Speech 4.0 - Shona | `common-voice-spontaneous-speech-4-0-shon-0efc5e33` | [link](https://mozilladatacollective.com/datasets/cmqi23l1r0044o507nmp10zgn) | ✅ |
-| `cmqi23tst0042mf07vvsp800v` | Common Voice Spontaneous Speech 4.0 - Afaan Oromo | `common-voice-spontaneous-speech-4-0-afaa-6c829930` | [link](https://mozilladatacollective.com/datasets/cmqi23tst0042mf07vvsp800v) | ✅ |
-| `cmqi247et0048o5073ahra0x4` | Common Voice Spontaneous Speech 4.0 - Welsh | `common-voice-spontaneous-speech-4-0-wels-ee3711c6` | [link](https://mozilladatacollective.com/datasets/cmqi247et0048o5073ahra0x4) | ✅ |
-| `cmqi24eta004co507icej3t0b` | Common Voice Spontaneous Speech 4.0 - Tatar | `common-voice-spontaneous-speech-4-0-tata-50dc3437` | [link](https://mozilladatacollective.com/datasets/cmqi24eta004co507icej3t0b) | ✅ |
-| `cmqi24kf4004io50732dgb3a2` | Common Voice Spontaneous Speech 4.0 - Bashkir | `common-voice-spontaneous-speech-4-0-bash-76b71d44` | [link](https://mozilladatacollective.com/datasets/cmqi24kf4004io50732dgb3a2) | ✅ |
-| `cmqi24rxo0046mf07yo82y3ng` | Common Voice Spontaneous Speech 4.0 - Turkish | `common-voice-spontaneous-speech-4-0-turk-efdfcca8` | [link](https://mozilladatacollective.com/datasets/cmqi24rxo0046mf07yo82y3ng) | ✅ |
-| `cmqi24z70004mo507f28bygh9` | Common Voice Spontaneous Speech 4.0 - Latvian | `common-voice-spontaneous-speech-4-0-latv-b8f1d149` | [link](https://mozilladatacollective.com/datasets/cmqi24z70004mo507f28bygh9) | ✅ |
-| `cmqi25bfw004qo507j776vn95` | Common Voice Spontaneous Speech 4.0 - Sinhala | `common-voice-spontaneous-speech-4-0-sinh-b0b4cfc4` | [link](https://mozilladatacollective.com/datasets/cmqi25bfw004qo507j776vn95) | ✅ |
-| `cmqi25jho004uo5079kd1erte` | Common Voice Spontaneous Speech 4.0 - Shimaore | `common-voice-spontaneous-speech-4-0-shim-7132fe42` | [link](https://mozilladatacollective.com/datasets/cmqi25jho004uo5079kd1erte) | ✅ |
-| `cmqi25q67004yo5075qzb3gxb` | Common Voice Spontaneous Speech 4.0 - Sundanese | `common-voice-spontaneous-speech-4-0-sund-aa6146f9` | [link](https://mozilladatacollective.com/datasets/cmqi25q67004yo5075qzb3gxb) | ✅ |
-| `cmqi25w5o004amf07o9nfshkj` | Common Voice Spontaneous Speech 4.0 - Catalan | `common-voice-spontaneous-speech-4-0-cata-7c965ad8` | [link](https://mozilladatacollective.com/datasets/cmqi25w5o004amf07o9nfshkj) | ✅ |
-| `cmqi266fh004emf071rxzh8r9` | Common Voice Spontaneous Speech 4.0 - Manx | `common-voice-spontaneous-speech-4-0-manx-9a0c17e5` | [link](https://mozilladatacollective.com/datasets/cmqi266fh004emf071rxzh8r9) | ✅ |
-| `cmqi289px0056o507wuxujktg` | Common Voice Spontaneous Speech 4.0 - Tudaga | `common-voice-spontaneous-speech-4-0-tuda-0e13d680` | [link](https://mozilladatacollective.com/datasets/cmqi289px0056o507wuxujktg) | ✅ |
-| `cmqi28grp005ao507shgmx8s0` | Common Voice Spontaneous Speech 4.0 - Breton | `common-voice-spontaneous-speech-4-0-bret-5e4bfe42` | [link](https://mozilladatacollective.com/datasets/cmqi28grp005ao507shgmx8s0) | ✅ |
-| `cmqi28lt0005eo507a9ij8l2m` | Common Voice Spontaneous Speech 4.0 - Esperanto | `common-voice-spontaneous-speech-4-0-espe-105264d3` | [link](https://mozilladatacollective.com/datasets/cmqi28lt0005eo507a9ij8l2m) | ✅ |
-| `cmqi28ss6005io507ra8n3p1r` | Common Voice Spontaneous Speech 4.0 - Sena | `common-voice-spontaneous-speech-4-0-sena-2600d2a3` | [link](https://mozilladatacollective.com/datasets/cmqi28ss6005io507ra8n3p1r) | ✅ |
-| `cmqi28y2v004imf076oh7e5zs` | Common Voice Spontaneous Speech 4.0 - Spanish | `common-voice-spontaneous-speech-4-0-span-c5b31fca` | [link](https://mozilladatacollective.com/datasets/cmqi28y2v004imf076oh7e5zs) | ✅ |
-| `cmqi294n3004mmf07wvybp3fn` | Common Voice Spontaneous Speech 4.0 - Javanese | `common-voice-spontaneous-speech-4-0-java-ec4c33ac` | [link](https://mozilladatacollective.com/datasets/cmqi294n3004mmf07wvybp3fn) | ✅ |
-| `cmqi29nk5004qmf073hjt7os3` | Common Voice Spontaneous Speech 4.0 - Georgian | `common-voice-spontaneous-speech-4-0-geor-689c6ff5` | [link](https://mozilladatacollective.com/datasets/cmqi29nk5004qmf073hjt7os3) | ✅ |
-| `cmqi29u41004umf07amojxtop` | Common Voice Spontaneous Speech 4.0 - German | `common-voice-spontaneous-speech-4-0-germ-4e5ea6e8` | [link](https://mozilladatacollective.com/datasets/cmqi29u41004umf07amojxtop) | ✅ |
-| `cmqi2a11s005qo5071rpd0wc5` | Common Voice Spontaneous Speech 4.0 - Aragonese | `common-voice-spontaneous-speech-4-0-arag-c54de65f` | [link](https://mozilladatacollective.com/datasets/cmqi2a11s005qo5071rpd0wc5) | ✅ |
-| `cmqi2a71t005uo507j5vzspfu` | Common Voice Spontaneous Speech 4.0 - French | `common-voice-spontaneous-speech-4-0-fren-4a48344c` | [link](https://mozilladatacollective.com/datasets/cmqi2a71t005uo507j5vzspfu) | ✅ |
-| `cmqi2adru004ymf07gpvavy84` | Common Voice Spontaneous Speech 4.0 - Arvanitika | `common-voice-spontaneous-speech-4-0-arva-072ee811` | [link](https://mozilladatacollective.com/datasets/cmqi2adru004ymf07gpvavy84) | ✅ |
-| `cmqi2b8dp0052mf07fbm4hvl9` | Common Voice Spontaneous Speech 4.0 - Ligurian | `common-voice-spontaneous-speech-4-0-ligu-a702dea8` | [link](https://mozilladatacollective.com/datasets/cmqi2b8dp0052mf07fbm4hvl9) | ✅ |
-| `cmqi2bi4u005yo507oqeasn0o` | Common Voice Spontaneous Speech 4.0 - Tashlhiyt | `common-voice-spontaneous-speech-4-0-tash-02bf9c25` | [link](https://mozilladatacollective.com/datasets/cmqi2bi4u005yo507oqeasn0o) | ✅ |
-| `cmqi2c2eu0062o5075atr17rs` | Common Voice Spontaneous Speech 4.0 - Russian | `common-voice-spontaneous-speech-4-0-russ-f83400fb` | [link](https://mozilladatacollective.com/datasets/cmqi2c2eu0062o5075atr17rs) | ✅ |
-| `cmqi2c9180056mf070rlkan5n` | Common Voice Spontaneous Speech 4.0 - Galician | `common-voice-spontaneous-speech-4-0-gali-a5fc6700` | [link](https://mozilladatacollective.com/datasets/cmqi2c9180056mf070rlkan5n) | ✅ |
-| `cmqi2ceqf005amf07pa32anv3` | Common Voice Spontaneous Speech 4.0 - Adyghe | `common-voice-spontaneous-speech-4-0-adyg-8f8e849b` | [link](https://mozilladatacollective.com/datasets/cmqi2ceqf005amf07pa32anv3) | ✅ |
-| `cmqi2cktl005emf07aglnp538` | Common Voice Spontaneous Speech 4.0 - Ushojo | `common-voice-spontaneous-speech-4-0-usho-539ca752` | [link](https://mozilladatacollective.com/datasets/cmqi2cktl005emf07aglnp538) | ✅ |
-| `cmqi2csth0066o507zxd0li0z` | Common Voice Spontaneous Speech 4.0 - Basaa | `common-voice-spontaneous-speech-4-0-basa-581adb1f` | [link](https://mozilladatacollective.com/datasets/cmqi2csth0066o507zxd0li0z) | ✅ |
-| `cmqi2dktu005omf072yc3vzy1` | Common Voice Spontaneous Speech 4.0 - Bahasa Malay | `common-voice-spontaneous-speech-4-0-baha-94f027f7` | [link](https://mozilladatacollective.com/datasets/cmqi2dktu005omf072yc3vzy1) | ✅ |
-| `cmqi2dre0005smf07i0tu8v2m` | Common Voice Spontaneous Speech 4.0 - Kabardian | `common-voice-spontaneous-speech-4-0-kaba-479b6713` | [link](https://mozilladatacollective.com/datasets/cmqi2dre0005smf07i0tu8v2m) | ✅ |
-| `cmqi2dy1e005wmf07w0fu3mgj` | Common Voice Spontaneous Speech 4.0 - Alsatian | `common-voice-spontaneous-speech-4-0-alsa-07988506` | [link](https://mozilladatacollective.com/datasets/cmqi2dy1e005wmf07w0fu3mgj) | ✅ |
-| `cmqi2e4ek006eo5075q8de0cz` | Common Voice Spontaneous Speech 4.0 - Toba Qom | `common-voice-spontaneous-speech-4-0-toba-aaa91c0d` | [link](https://mozilladatacollective.com/datasets/cmqi2e4ek006eo5075q8de0cz) | ✅ |
-| `cmqi2eahz006io507f0an87yb` | Common Voice Spontaneous Speech 4.0 - Eastern Min | `common-voice-spontaneous-speech-4-0-east-bcaa48f5` | [link](https://mozilladatacollective.com/datasets/cmqi2eahz006io507f0an87yb) | ✅ |
-| `cmqi2eglh0060mf0777myw6ip` | Common Voice Spontaneous Speech 4.0 - Kelabit | `common-voice-spontaneous-speech-4-0-kela-df43e65e` | [link](https://mozilladatacollective.com/datasets/cmqi2eglh0060mf0777myw6ip) | ✅ |
-| `cmqi2enfs006mo5075ek3e91p` | Common Voice Spontaneous Speech 4.0 - Wixárika | `common-voice-spontaneous-speech-4-0-wix-6d726977` | [link](https://mozilladatacollective.com/datasets/cmqi2enfs006mo5075ek3e91p) | ✅ |
-| `cmqi2ifza0068mf0704y1s34w` | Common Voice Spontaneous Speech 4.0 - Serian Bidayuh | `common-voice-spontaneous-speech-4-0-seri-e0912f3a` | [link](https://mozilladatacollective.com/datasets/cmqi2ifza0068mf0704y1s34w) | ✅ |
-| `cmqi2ikzm006cmf07yam3i21d` | Common Voice Spontaneous Speech 4.0 - Gheg Albanian | `common-voice-spontaneous-speech-4-0-gheg-e16fa9f2` | [link](https://mozilladatacollective.com/datasets/cmqi2ikzm006cmf07yam3i21d) | ✅ |
-| `cmqi2irgg006uo5076hvghrdl` | Common Voice Spontaneous Speech 4.0 - Melanau | `common-voice-spontaneous-speech-4-0-mela-4efeb5bf` | [link](https://mozilladatacollective.com/datasets/cmqi2irgg006uo5076hvghrdl) | ✅ |
-| `cmqi2ixuj006gmf075elve53t` | Common Voice Spontaneous Speech 4.0 - Cypriot Greek | `common-voice-spontaneous-speech-4-0-cypr-c977e1d1` | [link](https://mozilladatacollective.com/datasets/cmqi2ixuj006gmf075elve53t) | ✅ |
-| `cmqi2j48a006yo5073s8f2d2p` | Common Voice Spontaneous Speech 4.0 - Mixteco Yucuhiti | `common-voice-spontaneous-speech-4-0-mixt-2487bee3` | [link](https://mozilladatacollective.com/datasets/cmqi2j48a006yo5073s8f2d2p) | ✅ |
-| `cmqi2ja93006kmf07ztetqtmb` | Common Voice Spontaneous Speech 4.0 - Kenyah | `common-voice-spontaneous-speech-4-0-keny-53d4d128` | [link](https://mozilladatacollective.com/datasets/cmqi2ja93006kmf07ztetqtmb) | ✅ |
-| `cmqi2ml040072o507pfrlx1xo` | Common Voice Spontaneous Speech 4.0 - Sa’ban | `common-voice-spontaneous-speech-4-0-sa-b-03a48b59` | [link](https://mozilladatacollective.com/datasets/cmqi2ml040072o507pfrlx1xo) | ✅ |
-| `cmqi2mr4z006omf076bl739t9` | Common Voice Spontaneous Speech 4.0 - Betawi | `common-voice-spontaneous-speech-4-0-beta-c66f9f08` | [link](https://mozilladatacollective.com/datasets/cmqi2mr4z006omf076bl739t9) | ✅ |
-| `cmqi2n4qt0070mf077w1qp9ui` | Common Voice Spontaneous Speech 4.0 - Papantla Totonac | `common-voice-spontaneous-speech-4-0-papa-45560cee` | [link](https://mozilladatacollective.com/datasets/cmqi2n4qt0070mf077w1qp9ui) | ✅ |
-| `cmqi2nb2v0078o507egunsihl` | Common Voice Spontaneous Speech 4.0 - Sabah Bisaya | `common-voice-spontaneous-speech-4-0-saba-08aef7a1` | [link](https://mozilladatacollective.com/datasets/cmqi2nb2v0078o507egunsihl) | ✅ |
-| `cmqi2ni0v007co507im3jxmyg` | Common Voice Spontaneous Speech 4.0 - Pashto | `common-voice-spontaneous-speech-4-0-pash-2042fdc3` | [link](https://mozilladatacollective.com/datasets/cmqi2ni0v007co507im3jxmyg) | ✅ |
-| `cmqi2nmwx007go507ze6jrw4n` | Common Voice Spontaneous Speech 4.0 - Gorani | `common-voice-spontaneous-speech-4-0-gora-2e22d00f` | [link](https://mozilladatacollective.com/datasets/cmqi2nmwx007go507ze6jrw4n) | ✅ |
-| `cmqi66tdh00d8mf07ysfd1dn8` | Common Voice Spontaneous Speech 4.0 - Rakhine | `common-voice-spontaneous-speech-4-0-rakh-63d5efdf` | [link](https://mozilladatacollective.com/datasets/cmqi66tdh00d8mf07ysfd1dn8) | ✅ |
-| `cmqi66zwo00dcmf07xlhnlt98` | Common Voice Spontaneous Speech 4.0 - Scots | `common-voice-spontaneous-speech-4-0-scot-cd325aa2` | [link](https://mozilladatacollective.com/datasets/cmqi66zwo00dcmf07xlhnlt98) | ✅ |
-| `cmqi678mw00eeo50732xclnoo` | Common Voice Spontaneous Speech 4.0 - Heng Hua | `common-voice-spontaneous-speech-4-0-heng-5d67ba12` | [link](https://mozilladatacollective.com/datasets/cmqi678mw00eeo50732xclnoo) | ✅ |
 | `cmqi6bals00eio5078qv9zrx6` | Common Voice Scripted Speech 26.0 - Sindhi Bhil | `common-voice-scripted-speech-26-0-sindhi-fa183399` | [link](https://mozilladatacollective.com/datasets/cmqi6bals00eio5078qv9zrx6) | ✅ |
-| `cmqi6bgfy00emo507ilfm0vhq` | Common Voice Scripted Speech 26.0 - Dawoodi | `common-voice-scripted-speech-26-0-dawood-ff91a7d9` | [link](https://mozilladatacollective.com/datasets/cmqi6bgfy00emo507ilfm0vhq) | ✅ |
 | `cmqi6bm8y00dgmf07jq9plnms` | Common Voice Scripted Speech 26.0 - Shina | `common-voice-scripted-speech-26-0-shina-731b9ca4` | [link](https://mozilladatacollective.com/datasets/cmqi6bm8y00dgmf07jq9plnms) | ✅ |
 | `cmqi6bsix00eqo5078x6n4v1l` | Common Voice Scripted Speech 26.0 - Quechua Sihuas Ancash | `common-voice-scripted-speech-26-0-quechu-9ddd2fd9` | [link](https://mozilladatacollective.com/datasets/cmqi6bsix00eqo5078x6n4v1l) | ✅ |
 | `cmqi6fh1k00euo507h2fu7lf5` | Common Voice Scripted Speech 26.0 - Central Tarahumara | `common-voice-scripted-speech-26-0-centra-5fb0c2a9` | [link](https://mozilladatacollective.com/datasets/cmqi6fh1k00euo507h2fu7lf5) | ✅ |
 | `cmqi6fme100dkmf07y7f77c9e` | Common Voice Scripted Speech 26.0 - Cameroon Pidgin | `common-voice-scripted-speech-26-0-camero-5fa7e3b3` | [link](https://mozilladatacollective.com/datasets/cmqi6fme100dkmf07y7f77c9e) | ✅ |
-| `cmqi6frkb00eyo507j3c6xegh` | Common Voice Scripted Speech 26.0 - Kalasha | `common-voice-scripted-speech-26-0-kalash-f563ce25` | [link](https://mozilladatacollective.com/datasets/cmqi6frkb00eyo507j3c6xegh) | ✅ |
-| `cmqi6fxn400domf07hnzivrfw` | Common Voice Scripted Speech 26.0 - Kihemba | `common-voice-scripted-speech-26-0-kihemb-31558cc2` | [link](https://mozilladatacollective.com/datasets/cmqi6fxn400domf07hnzivrfw) | ✅ |
-| `cmqi6g2nb00f2o5071728oqeu` | Common Voice Scripted Speech 26.0 - Fang | `common-voice-scripted-speech-26-0-fang-1c474679` | [link](https://mozilladatacollective.com/datasets/cmqi6g2nb00f2o5071728oqeu) | ✅ |
 | `cmqi6g7z200dsmf07gkncskx6` | Common Voice Scripted Speech 26.0 - Quechua Chiquián | `common-voice-scripted-speech-26-0-quechu-4f3bcb5f` | [link](https://mozilladatacollective.com/datasets/cmqi6g7z200dsmf07gkncskx6) | ✅ |
-| `cmqi6gd4900f6o507ce6lgkw8` | Common Voice Scripted Speech 26.0 - Brahui | `common-voice-scripted-speech-26-0-brahui-8268a126` | [link](https://mozilladatacollective.com/datasets/cmqi6gd4900f6o507ce6lgkw8) | ✅ |
-| `cmqi6gj5v00dwmf07mu79ql0u` | Common Voice Scripted Speech 26.0 - Huautla Mazatec | `common-voice-scripted-speech-26-0-huautl-b7bae877` | [link](https://mozilladatacollective.com/datasets/cmqi6gj5v00dwmf07mu79ql0u) | ✅ |
-| `cmqi6gs5r00e0mf0744yzpm1r` | Common Voice Scripted Speech 26.0 - Mbum | `common-voice-scripted-speech-26-0-mbum-fb2d1259` | [link](https://mozilladatacollective.com/datasets/cmqi6gs5r00e0mf0744yzpm1r) | ✅ |
 | `cmqi6gx6s00fao507e2oleort` | Common Voice Scripted Speech 26.0 - Khetrani | `common-voice-scripted-speech-26-0-khetra-5852a0eb` | [link](https://mozilladatacollective.com/datasets/cmqi6gx6s00fao507e2oleort) | ✅ |
 | `cmqi6h30b00feo507vicvuqh3` | Common Voice Scripted Speech 26.0 - Tunen | `common-voice-scripted-speech-26-0-tunen-af98dc70` | [link](https://mozilladatacollective.com/datasets/cmqi6h30b00feo507vicvuqh3) | ✅ |
 | `cmqi6h8mp00e4mf07ohctwg4y` | Common Voice Scripted Speech 26.0 - Ouldémé | `common-voice-scripted-speech-26-0-ould-m-54683a3d` | [link](https://mozilladatacollective.com/datasets/cmqi6h8mp00e4mf07ohctwg4y) | ✅ |
-| `cmqi6he3100e8mf07lb3q613v` | Common Voice Scripted Speech 26.0 - Eton | `common-voice-scripted-speech-26-0-eton-e95af994` | [link](https://mozilladatacollective.com/datasets/cmqi6he3100e8mf07lb3q613v) | ✅ |
 | `cmqi6hk0d00ecmf07m557157t` | Common Voice Scripted Speech 26.0 - Quechua Cajatambo | `common-voice-scripted-speech-26-0-quechu-2ed3f9df` | [link](https://mozilladatacollective.com/datasets/cmqi6hk0d00ecmf07m557157t) | ✅ |
 | `cmqi6hp9d00egmf07zv75th14` | Common Voice Scripted Speech 26.0 - Kalkoti | `common-voice-scripted-speech-26-0-kalkot-a20bbfeb` | [link](https://mozilladatacollective.com/datasets/cmqi6hp9d00egmf07zv75th14) | ✅ |
-| `cmqi6htyd00ekmf07d4hygvlc` | Common Voice Scripted Speech 26.0 - Dhatki | `common-voice-scripted-speech-26-0-dhatki-8fc23476` | [link](https://mozilladatacollective.com/datasets/cmqi6htyd00ekmf07d4hygvlc) | ✅ |
 | `cmqi6kl8i00fio507o5djjbf6` | Common Voice Scripted Speech 26.0 - Albanian | `common-voice-scripted-speech-26-0-albani-8fdb8a04` | [link](https://mozilladatacollective.com/datasets/cmqi6kl8i00fio507o5djjbf6) | ✅ |
 | `cmqi6kqhl00eomf07c90xah8d` | Common Voice Scripted Speech 26.0 - Asheninka Perene | `common-voice-scripted-speech-26-0-asheni-815f9867` | [link](https://mozilladatacollective.com/datasets/cmqi6kqhl00eomf07c90xah8d) | ✅ |
 | `cmqi6kw6m00esmf07kbllsiix` | Common Voice Scripted Speech 26.0 - Quechua Yanahuanca | `common-voice-scripted-speech-26-0-quechu-d97bb348` | [link](https://mozilladatacollective.com/datasets/cmqi6kw6m00esmf07kbllsiix) | ✅ |
 | `cmqi6l1l400ewmf077m7w7cmx` | Common Voice Scripted Speech 26.0 - Mundang | `common-voice-scripted-speech-26-0-mundan-b6f2cbae` | [link](https://mozilladatacollective.com/datasets/cmqi6l1l400ewmf077m7w7cmx) | ✅ |
 | `cmqi6l6rd00fmo507hl4oiplq` | Common Voice Scripted Speech 26.0 - Quechua Ambo-Pasco | `common-voice-scripted-speech-26-0-quechu-6b8e9994` | [link](https://mozilladatacollective.com/datasets/cmqi6l6rd00fmo507hl4oiplq) | ✅ |
-| `cmqi6p5cs00fwo507t622ympz` | Common Voice Scripted Speech 26.0 - Mokpwe | `common-voice-scripted-speech-26-0-mokpwe-6b097608` | [link](https://mozilladatacollective.com/datasets/cmqi6p5cs00fwo507t622ympz) | ✅ |
 | `cmqi6pagy00f0mf07z9us86wy` | Common Voice Scripted Speech 26.0 - Nyungwe | `common-voice-scripted-speech-26-0-nyungw-5ccde011` | [link](https://mozilladatacollective.com/datasets/cmqi6pagy00f0mf07z9us86wy) | ✅ |
 | `cmqi6pf7o00g0o507a566s2db` | Common Voice Scripted Speech 26.0 - Ngombale | `common-voice-scripted-speech-26-0-ngomba-c5588b04` | [link](https://mozilladatacollective.com/datasets/cmqi6pf7o00g0o507a566s2db) | ✅ |
-| `cmqi6pk1n00f4mf07zv5z1buk` | Common Voice Scripted Speech 26.0 - Matses | `common-voice-scripted-speech-26-0-matses-013aa9ff` | [link](https://mozilladatacollective.com/datasets/cmqi6pk1n00f4mf07zv5z1buk) | ✅ |
-| `cmqi6q4st00gao507xmn8mtom` | Common Voice Scripted Speech 26.0 - Lassi | `common-voice-scripted-speech-26-0-lassi-d831670e` | [link](https://mozilladatacollective.com/datasets/cmqi6q4st00gao507xmn8mtom) | ✅ |
-| `cmqi6q9sa00famf07k3t3emq7` | Common Voice Scripted Speech 26.0 - Hazargi | `common-voice-scripted-speech-26-0-hazarg-10f91ea4` | [link](https://mozilladatacollective.com/datasets/cmqi6q9sa00famf07k3t3emq7) | ✅ |
-| `cmqi6qe8000geo507h8ij2zj4` | Common Voice Scripted Speech 26.0 - Kotokoli | `common-voice-scripted-speech-26-0-kotoko-ec8bf968` | [link](https://mozilladatacollective.com/datasets/cmqi6qe8000geo507h8ij2zj4) | ✅ |
-| `cmqi6qj6d00femf07igtwoc45` | Common Voice Scripted Speech 26.0 - Ekoti | `common-voice-scripted-speech-26-0-ekoti-98e4c3e4` | [link](https://mozilladatacollective.com/datasets/cmqi6qj6d00femf07igtwoc45) | ✅ |
-| `cmqi6qnzx00gio507tpz1lapx` | Common Voice Scripted Speech 26.0 - Tepeuxila Cuicatec | `common-voice-scripted-speech-26-0-tepeux-d2a02f1f` | [link](https://mozilladatacollective.com/datasets/cmqi6qnzx00gio507tpz1lapx) | ✅ |
 | `cmqi6qutc00gmo507myna6k5s` | Common Voice Scripted Speech 26.0 - Yoruba | `common-voice-scripted-speech-26-0-yoruba-44f2a122` | [link](https://mozilladatacollective.com/datasets/cmqi6qutc00gmo507myna6k5s) | ✅ |
-| `cmqi6smr200gqo5077hxllfn7` | Common Voice Scripted Speech 26.0 - Hakha Chin | `common-voice-scripted-speech-26-0-hakha-bfa85431` | [link](https://mozilladatacollective.com/datasets/cmqi6smr200gqo5077hxllfn7) | ✅ |
-| `cmqi6ss2y00guo507u3jsgp4i` | Common Voice Scripted Speech 26.0 - Assamese | `common-voice-scripted-speech-26-0-assame-3f9c5e3f` | [link](https://mozilladatacollective.com/datasets/cmqi6ss2y00guo507u3jsgp4i) | ✅ |
 | `cmqi6swlu00gyo507nzq8vo47` | Common Voice Scripted Speech 26.0 - Moussey | `common-voice-scripted-speech-26-0-mousse-2c370617` | [link](https://mozilladatacollective.com/datasets/cmqi6swlu00gyo507nzq8vo47) | ✅ |
 | `cmqi6t15p00fmmf07e7ddoh7i` | Common Voice Scripted Speech 26.0 - Turkmen | `common-voice-scripted-speech-26-0-turkme-084abb17` | [link](https://mozilladatacollective.com/datasets/cmqi6t15p00fmmf07e7ddoh7i) | ✅ |
-| `cmqi6t63100h2o507kc8tamm4` | Common Voice Scripted Speech 26.0 - Iñupiaq | `common-voice-scripted-speech-26-0-i-upia-884f3ac1` | [link](https://mozilladatacollective.com/datasets/cmqi6t63100h2o507kc8tamm4) | ✅ |
-| `cmqi6tbhz00h6o507pdm5pv5y` | Common Voice Scripted Speech 26.0 - Mengambo | `common-voice-scripted-speech-26-0-mengam-4a407534` | [link](https://mozilladatacollective.com/datasets/cmqi6tbhz00h6o507pdm5pv5y) | ✅ |
-| `cmqi6tgrb00fqmf07hawg79x9` | Common Voice Scripted Speech 26.0 - Hebrew | `common-voice-scripted-speech-26-0-hebrew-82953b9c` | [link](https://mozilladatacollective.com/datasets/cmqi6tgrb00fqmf07hawg79x9) | ✅ |
-| `cmqi6tlxd00fumf07jyqvdyng` | Common Voice Scripted Speech 26.0 - Central Alaskan Yup’ik | `common-voice-scripted-speech-26-0-centra-0ef79cb6` | [link](https://mozilladatacollective.com/datasets/cmqi6tlxd00fumf07jyqvdyng) | ✅ |
 | `cmqi6yncc00hao507qql05yma` | Common Voice Scripted Speech 26.0 - Ushojo | `common-voice-scripted-speech-26-0-ushojo-1f8c8e35` | [link](https://mozilladatacollective.com/datasets/cmqi6yncc00hao507qql05yma) | ✅ |
 | `cmqi6yss800fymf07hnniy08r` | Common Voice Scripted Speech 26.0 - Saraiki | `common-voice-scripted-speech-26-0-saraik-15de8cf2` | [link](https://mozilladatacollective.com/datasets/cmqi6yss800fymf07hnniy08r) | ✅ |
 | `cmqi6zbmg00g2mf07uqhc228t` | Common Voice Scripted Speech 26.0 - Romansh Vallader | `common-voice-scripted-speech-26-0-romans-0687d432` | [link](https://mozilladatacollective.com/datasets/cmqi6zbmg00g2mf07uqhc228t) | ✅ |
 | `cmqi6zh8f00g6mf07hjfl8n0w` | Common Voice Scripted Speech 26.0 - Musgum | `common-voice-scripted-speech-26-0-musgum-77428543` | [link](https://mozilladatacollective.com/datasets/cmqi6zh8f00g6mf07hjfl8n0w) | ✅ |
-| `cmqi6zmmo00heo507i7gfdunv` | Common Voice Scripted Speech 26.0 - Ligurian | `common-voice-scripted-speech-26-0-liguri-34f21f2a` | [link](https://mozilladatacollective.com/datasets/cmqi6zmmo00heo507i7gfdunv) | ✅ |
 | `cmqi6zuw000gamf07owiuz3wl` | Common Voice Scripted Speech 26.0 - Punjabi | `common-voice-scripted-speech-26-0-punjab-d7b26add` | [link](https://mozilladatacollective.com/datasets/cmqi6zuw000gamf07owiuz3wl) | ✅ |
-| `cmqi7005300hio5077wpgg6w9` | Common Voice Scripted Speech 26.0 - Kazakh | `common-voice-scripted-speech-26-0-kazakh-0152f917` | [link](https://mozilladatacollective.com/datasets/cmqi7005300hio5077wpgg6w9) | ✅ |
 | `cmqi705f100gemf07q1khput8` | Common Voice Scripted Speech 26.0 - Setswana | `common-voice-scripted-speech-26-0-setswa-80a9c600` | [link](https://mozilladatacollective.com/datasets/cmqi705f100gemf07q1khput8) | ✅ |
 | `cmqi70avw00gimf07kwl6b0o2` | Common Voice Scripted Speech 26.0 - Sardinian | `common-voice-scripted-speech-26-0-sardin-0f511b16` | [link](https://mozilladatacollective.com/datasets/cmqi70avw00gimf07kwl6b0o2) | ✅ |
 | `cmqi70fge00hmo507n0fu6op1` | Common Voice Scripted Speech 26.0 - Malay | `common-voice-scripted-speech-26-0-malay-1dc1185a` | [link](https://mozilladatacollective.com/datasets/cmqi70fge00hmo507n0fu6op1) | ✅ |
 | `cmqi70k4000gmmf07qpw9618v` | Common Voice Scripted Speech 26.0 - Erzya | `common-voice-scripted-speech-26-0-erzya-dcb7a4ce` | [link](https://mozilladatacollective.com/datasets/cmqi70k4000gmmf07qpw9618v) | ✅ |
 | `cmqi70oy800gqmf07cp5nlvfc` | Common Voice Scripted Speech 26.0 - Telugu | `common-voice-scripted-speech-26-0-telugu-7b5f528f` | [link](https://mozilladatacollective.com/datasets/cmqi70oy800gqmf07cp5nlvfc) | ✅ |
-| `cmqi70u6u00gumf07ual1wr9e` | Common Voice Scripted Speech 26.0 - Amharic | `common-voice-scripted-speech-26-0-amhari-9d4926a1` | [link](https://mozilladatacollective.com/datasets/cmqi70u6u00gumf07ual1wr9e) | ✅ |
 | `cmqi70zqf00gymf0755f66bhd` | Common Voice Scripted Speech 26.0 - Zaza | `common-voice-scripted-speech-26-0-zaza-d5802195` | [link](https://mozilladatacollective.com/datasets/cmqi70zqf00gymf0755f66bhd) | ✅ |
-| `cmqi726rh00h2mf07u4zxuvng` | Common Voice Scripted Speech 26.0 - Ebrie | `common-voice-scripted-speech-26-0-ebrie-85e4c56b` | [link](https://mozilladatacollective.com/datasets/cmqi726rh00h2mf07u4zxuvng) | ✅ |
 | `cmqi72cq900h6mf07dr1ev961` | Common Voice Scripted Speech 26.0 - Norwegian Bokmål | `common-voice-scripted-speech-26-0-norweg-15b51ad3` | [link](https://mozilladatacollective.com/datasets/cmqi72cq900h6mf07dr1ev961) | ✅ |
 | `cmqi72hiv00hqo5077ilqlp5y` | Common Voice Scripted Speech 26.0 - Yiddish | `common-voice-scripted-speech-26-0-yiddis-84645ac6` | [link](https://mozilladatacollective.com/datasets/cmqi72hiv00hqo5077ilqlp5y) | ✅ |
 | `cmqi72mr500hamf078fyzfgq1` | Common Voice Scripted Speech 26.0 - Tamazight | `common-voice-scripted-speech-26-0-tamazi-1c2f3fc5` | [link](https://mozilladatacollective.com/datasets/cmqi72mr500hamf078fyzfgq1) | ✅ |
-| `cmqi72s6j00hwo5076g5lbvsm` | Common Voice Scripted Speech 26.0 - Asturian | `common-voice-scripted-speech-26-0-asturi-55cd53b0` | [link](https://mozilladatacollective.com/datasets/cmqi72s6j00hwo5076g5lbvsm) | ✅ |
 | `cmqi72xiw00hemf07um5n1jk7` | Common Voice Scripted Speech 26.0 - Norwegian Nynorsk | `common-voice-scripted-speech-26-0-norweg-cc48d521` | [link](https://mozilladatacollective.com/datasets/cmqi72xiw00hemf07um5n1jk7) | ✅ |
 | `cmqi732rk00himf07x3hy8twt` | Common Voice Scripted Speech 26.0 - Nepali | `common-voice-scripted-speech-26-0-nepali-c69c8dc0` | [link](https://mozilladatacollective.com/datasets/cmqi732rk00himf07x3hy8twt) | ✅ |
-| `cmqi7373i00hmmf07kl72eanc` | Common Voice Scripted Speech 26.0 - Azerbaijani | `common-voice-scripted-speech-26-0-azerba-99525e18` | [link](https://mozilladatacollective.com/datasets/cmqi7373i00hmmf07kl72eanc) | ✅ |
-| `cmqi8ctpo00igmf07dtmsxren` | Common Voice Spontaneous Speech 4.0 - Michoacán Mazahua | `common-voice-spontaneous-speech-4-0-mich-0dcb9103` | [link](https://mozilladatacollective.com/datasets/cmqi8ctpo00igmf07dtmsxren) | ✅ |
-| `cmqi8d93u00iyo5070b0b52cv` | Common Voice Spontaneous Speech 4.0 - Chiga | `common-voice-spontaneous-speech-4-0-chig-5d3180a9` | [link](https://mozilladatacollective.com/datasets/cmqi8d93u00iyo5070b0b52cv) | ✅ |
 | `cmqi8u2sf000bnq07cko7fxmv` | Common Voice Scripted Speech 26.0 - Western Highland Purepecha | `common-voice-scripted-speech-26-0-wester-2e6459a0` | [link](https://mozilladatacollective.com/datasets/cmqi8u2sf000bnq07cko7fxmv) | ✅ |
-| `cmqi8u8z7000bnr07xcc21j0a` | Common Voice Scripted Speech 26.0 - Mina | `common-voice-scripted-speech-26-0-mina-fbe0a6ef` | [link](https://mozilladatacollective.com/datasets/cmqi8u8z7000bnr07xcc21j0a) | ✅ |
-| `cmqi8udao000fnq0748obh86b` | Common Voice Scripted Speech 26.0 - Tuki | `common-voice-scripted-speech-26-0-tuki-017e472c` | [link](https://mozilladatacollective.com/datasets/cmqi8udao000fnq0748obh86b) | ✅ |
-| `cmqi8uhp2000jnq072niarffi` | Common Voice Scripted Speech 26.0 - Rukai | `common-voice-scripted-speech-26-0-rukai-b37ae98d` | [link](https://mozilladatacollective.com/datasets/cmqi8uhp2000jnq072niarffi) | ✅ |
-| `cmqi8uwkw000hnr07m0t9ntsk` | Common Voice Scripted Speech 26.0 - Manx | `common-voice-scripted-speech-26-0-manx-6be295e9` | [link](https://mozilladatacollective.com/datasets/cmqi8uwkw000hnr07m0t9ntsk) | ✅ |
 | `cmqi90feo000rnr071mgtxx9q` | Common Voice Scripted Speech 26.0 - Sansi | `common-voice-scripted-speech-26-0-sansi-9dce2df7` | [link](https://mozilladatacollective.com/datasets/cmqi90feo000rnr071mgtxx9q) | ✅ |
-| `cmqi90ny10019nq07zw2dy7p8` | Common Voice Scripted Speech 26.0 - Borgu Fulfulde | `common-voice-scripted-speech-26-0-borgu-5c1dbff5` | [link](https://mozilladatacollective.com/datasets/cmqi90ny10019nq07zw2dy7p8) | ✅ |
-| `cmqi90sqx000vnr07ej5uxyct` | Common Voice Scripted Speech 26.0 - Gujari | `common-voice-scripted-speech-26-0-gujari-f8de39f1` | [link](https://mozilladatacollective.com/datasets/cmqi90sqx000vnr07ej5uxyct) | ✅ |
-| `cmqi90yhv001dnq07wrimezbl` | Common Voice Scripted Speech 26.0 - Teutila Cuicatec | `common-voice-scripted-speech-26-0-teutil-92e371db` | [link](https://mozilladatacollective.com/datasets/cmqi90yhv001dnq07wrimezbl) | ✅ |
 | `cmqi914oa001hnq07ps0z1iqg` | Common Voice Scripted Speech 26.0 - Quechua Corongo Ancash | `common-voice-scripted-speech-26-0-quechu-79635f0e` | [link](https://mozilladatacollective.com/datasets/cmqi914oa001hnq07ps0z1iqg) | ✅ |
 | `cmqi91rc9001lnq07mosxa8re` | Common Voice Scripted Speech 26.0 - Seri | `common-voice-scripted-speech-26-0-seri-dd97f4a8` | [link](https://mozilladatacollective.com/datasets/cmqi91rc9001lnq07mosxa8re) | ✅ |
 | `cmqi91x9e000znr078q8snj2b` | Common Voice Scripted Speech 26.0 - Kwasio | `common-voice-scripted-speech-26-0-kwasio-7c598f8f` | [link](https://mozilladatacollective.com/datasets/cmqi91x9e000znr078q8snj2b) | ✅ |
-| `cmqi922c5001pnq07dmj0oypw` | Common Voice Scripted Speech 26.0 - Korean | `common-voice-scripted-speech-26-0-korean-59bff878` | [link](https://mozilladatacollective.com/datasets/cmqi922c5001pnq07dmj0oypw) | ✅ |
-| `cmqi9278z001tnq07aljibmvm` | Common Voice Scripted Speech 26.0 - Mpiemo | `common-voice-scripted-speech-26-0-mpiemo-54d3577f` | [link](https://mozilladatacollective.com/datasets/cmqi9278z001tnq07aljibmvm) | ✅ |
 | `cmqi92ctd0013nr07rsn2lvrt` | Common Voice Scripted Speech 26.0 - Quechua Santiago del Estero | `common-voice-scripted-speech-26-0-quechu-60bf5771` | [link](https://mozilladatacollective.com/datasets/cmqi92ctd0013nr07rsn2lvrt) | ✅ |
-| `cmqi92njs001xnq077hwjj7lq` | Common Voice Scripted Speech 26.0 - Tshiluba | `common-voice-scripted-speech-26-0-tshilu-33dd9f8f` | [link](https://mozilladatacollective.com/datasets/cmqi92njs001xnq077hwjj7lq) | ✅ |
-| `cmqi92sm70017nr073k30zych` | Common Voice Scripted Speech 26.0 - Northwest Gbaya | `common-voice-scripted-speech-26-0-northw-b8074b47` | [link](https://mozilladatacollective.com/datasets/cmqi92sm70017nr073k30zych) | ✅ |
-| `cmqi92xdx0021nq07etytyjx8` | Common Voice Scripted Speech 26.0 - Northern Hindko | `common-voice-scripted-speech-26-0-northe-547057c0` | [link](https://mozilladatacollective.com/datasets/cmqi92xdx0021nq07etytyjx8) | ✅ |
-| `cmqi93gkm001bnr071ukbil5k` | Common Voice Scripted Speech 26.0 - Guiziga | `common-voice-scripted-speech-26-0-guizig-3c222e22` | [link](https://mozilladatacollective.com/datasets/cmqi93gkm001bnr071ukbil5k) | ✅ |
 | `cmqi93l800025nq074g7hr593` | Common Voice Scripted Speech 26.0 - Tigre | `common-voice-scripted-speech-26-0-tigre-494868a6` | [link](https://mozilladatacollective.com/datasets/cmqi93l800025nq074g7hr593) | ✅ |
 | `cmqi94ezb001fnr0757mmfz35` | Common Voice Scripted Speech 26.0 - Losso | `common-voice-scripted-speech-26-0-losso-1a59f1ce` | [link](https://mozilladatacollective.com/datasets/cmqi94ezb001fnr0757mmfz35) | ✅ |
-| `cmqi94kb50029nq07ybytr068` | Common Voice Scripted Speech 26.0 - Bateri | `common-voice-scripted-speech-26-0-bateri-e3a17b26` | [link](https://mozilladatacollective.com/datasets/cmqi94kb50029nq07ybytr068) | ✅ |
 | `cmqi94p1b001jnr072c649ua7` | Common Voice Scripted Speech 26.0 - Seediq | `common-voice-scripted-speech-26-0-seediq-452afd2d` | [link](https://mozilladatacollective.com/datasets/cmqi94p1b001jnr072c649ua7) | ✅ |
-| `cmqi955gy002dnq07g5igcl79` | Common Voice Scripted Speech 26.0 - Jaqaru | `common-voice-scripted-speech-26-0-jaqaru-9bcc87b2` | [link](https://mozilladatacollective.com/datasets/cmqi955gy002dnq07g5igcl79) | ✅ |
 | `cmqi95ajd002hnq07rgwn05e9` | Common Voice Scripted Speech 26.0 - Marwari | `common-voice-scripted-speech-26-0-marwar-1ee704d7` | [link](https://mozilladatacollective.com/datasets/cmqi95ajd002hnq07rgwn05e9) | ✅ |
 | `cmqi967xo001nnr07jhrfm19u` | Common Voice Scripted Speech 26.0 - Copainalá Zoque | `common-voice-scripted-speech-26-0-copain-6496853c` | [link](https://mozilladatacollective.com/datasets/cmqi967xo001nnr07jhrfm19u) | ✅ |
-| `cmqi96hox002lnq07pufi5ick` | Common Voice Scripted Speech 26.0 - Goaria | `common-voice-scripted-speech-26-0-goaria-60eb03d9` | [link](https://mozilladatacollective.com/datasets/cmqi96hox002lnq07pufi5ick) | ✅ |
-| `cmqi96mjn002pnq07sm7obx3x` | Common Voice Scripted Speech 26.0 - Guidar | `common-voice-scripted-speech-26-0-guidar-2443b860` | [link](https://mozilladatacollective.com/datasets/cmqi96mjn002pnq07sm7obx3x) | ✅ |
-| `cmqi96rv7002tnq079eha9t4b` | Common Voice Scripted Speech 26.0 - Kateviri | `common-voice-scripted-speech-26-0-katevi-29849136` | [link](https://mozilladatacollective.com/datasets/cmqi96rv7002tnq079eha9t4b) | ✅ |
-| `cmqi973gr001rnr07dl5jamel` | Common Voice Scripted Speech 26.0 - Bulu | `common-voice-scripted-speech-26-0-bulu-e3aa2001` | [link](https://mozilladatacollective.com/datasets/cmqi973gr001rnr07dl5jamel) | ✅ |
 | `cmqi9783o001znr072zwxveon` | Common Voice Scripted Speech 26.0 - Nuasue | `common-voice-scripted-speech-26-0-nuasue-59294b28` | [link](https://mozilladatacollective.com/datasets/cmqi9783o001znr072zwxveon) | ✅ |
-| `cmqi97l490034nq070n59pxed` | Common Voice Scripted Speech 26.0 - Asheninka South Ucayali | `common-voice-scripted-speech-26-0-asheni-1378aba6` | [link](https://mozilladatacollective.com/datasets/cmqi97l490034nq070n59pxed) | ✅ |
-| `cmqi97py20025nr07in93znww` | Common Voice Scripted Speech 26.0 - Ngomba | `common-voice-scripted-speech-26-0-ngomba-07edf3fb` | [link](https://mozilladatacollective.com/datasets/cmqi97py20025nr07in93znww) | ✅ |
 | `cmqi97uk6003bnq07xafx2l5g` | Common Voice Scripted Speech 26.0 - Sindhi Bhil | `common-voice-scripted-speech-26-0-sindhi-1d0b607a` | [link](https://mozilladatacollective.com/datasets/cmqi97uk6003bnq07xafx2l5g) | ✅ |
-| `cmqi97zao002anr07098afaeh` | Common Voice Scripted Speech 26.0 - Kachhi | `common-voice-scripted-speech-26-0-kachhi-56dd1714` | [link](https://mozilladatacollective.com/datasets/cmqi97zao002anr07098afaeh) | ✅ |
-| `cmqi983k7003knq07284ukx4y` | Common Voice Scripted Speech 26.0 - Bamvele | `common-voice-scripted-speech-26-0-bamvel-3a7cd7a7` | [link](https://mozilladatacollective.com/datasets/cmqi983k7003knq07284ukx4y) | ✅ |
-| `cmqi988xh002gnr07ld9i4fcx` | Common Voice Scripted Speech 26.0 - Parkari Koli | `common-voice-scripted-speech-26-0-parkar-0bb231fc` | [link](https://mozilladatacollective.com/datasets/cmqi988xh002gnr07ld9i4fcx) | ✅ |
-| `cmqi9aphy004jnq07zieih5at` | Common Voice Scripted Speech 26.0 - Mungaka | `common-voice-scripted-speech-26-0-mungak-b352e4d8` | [link](https://mozilladatacollective.com/datasets/cmqi9aphy004jnq07zieih5at) | ✅ |
 | `cmqi9bsm9003lnr07f3r7za6j` | Common Voice Scripted Speech 26.0 - Quechua Yauyos | `common-voice-scripted-speech-26-0-quechu-c8635da0` | [link](https://mozilladatacollective.com/datasets/cmqi9bsm9003lnr07f3r7za6j) | ✅ |
 | `cmqi9byn00051nq07sepglfct` | Common Voice Scripted Speech 26.0 - Quechua Pasco Santa Ana de Tusi | `common-voice-scripted-speech-26-0-quechu-7a26278d` | [link](https://mozilladatacollective.com/datasets/cmqi9byn00051nq07sepglfct) | ✅ |
 | `cmqi9c2sh003rnr07kpbmcrdx` | Common Voice Scripted Speech 26.0 - Occitan | `common-voice-scripted-speech-26-0-occita-1f779077` | [link](https://mozilladatacollective.com/datasets/cmqi9c2sh003rnr07kpbmcrdx) | ✅ |
 | `cmqi9c7f30058nq07kcwk3tay` | Common Voice Scripted Speech 26.0 - Quechua Jauja Wanka | `common-voice-scripted-speech-26-0-quechu-0e0b4742` | [link](https://mozilladatacollective.com/datasets/cmqi9c7f30058nq07kcwk3tay) | ✅ |
-| `cmqi9ccl3003xnr07tv378vqt` | Common Voice Scripted Speech 26.0 - Chokwe | `common-voice-scripted-speech-26-0-chokwe-82b2f28f` | [link](https://mozilladatacollective.com/datasets/cmqi9ccl3003xnr07tv378vqt) | ✅ |
-| `cmqi9cgeb005dnq07fo06uzxu` | Common Voice Scripted Speech 26.0 - Medumba | `common-voice-scripted-speech-26-0-medumb-48125ceb` | [link](https://mozilladatacollective.com/datasets/cmqi9cgeb005dnq07fo06uzxu) | ✅ |
-| `cmqi9ckty005hnq070sk6scrq` | Common Voice Scripted Speech 26.0 - Baatonum | `common-voice-scripted-speech-26-0-baaton-b05916dc` | [link](https://mozilladatacollective.com/datasets/cmqi9ckty005hnq070sk6scrq) | ✅ |
-| `cmqi9cp5t005tnq07272f8esn` | Common Voice Scripted Speech 26.0 - Duala | `common-voice-scripted-speech-26-0-duala-b4573aa6` | [link](https://mozilladatacollective.com/datasets/cmqi9cp5t005tnq07272f8esn) | ✅ |
 | `cmqi9csv20061nq07a7pzrd1w` | Common Voice Scripted Speech 26.0 - Pahari-Pothwari | `common-voice-scripted-speech-26-0-pahari-66c71375` | [link](https://mozilladatacollective.com/datasets/cmqi9csv20061nq07a7pzrd1w) | ✅ |
-| `cmqi9etym006lnq07pszvx94w` | Common Voice Scripted Speech 26.0 - Sorbian, Upper | `common-voice-scripted-speech-26-0-sorbia-34431b6b` | [link](https://mozilladatacollective.com/datasets/cmqi9etym006lnq07pszvx94w) | ✅ |
-| `cmqi9exsj004dnr075i205r2i` | Common Voice Scripted Speech 26.0 - Cornish | `common-voice-scripted-speech-26-0-cornis-ee0b19cb` | [link](https://mozilladatacollective.com/datasets/cmqi9exsj004dnr075i205r2i) | ✅ |
-| `cmqi9f3uj004hnr07sabyb6x2` | Common Voice Scripted Speech 26.0 - Eastern Balochi | `common-voice-scripted-speech-26-0-easter-7a1a31a6` | [link](https://mozilladatacollective.com/datasets/cmqi9f3uj004hnr07sabyb6x2) | ✅ |
 | `cmqi9f7d9006pnq07xrvziuay` | Common Voice Scripted Speech 26.0 - Mingrelian | `common-voice-scripted-speech-26-0-mingre-654eafa1` | [link](https://mozilladatacollective.com/datasets/cmqi9f7d9006pnq07xrvziuay) | ✅ |
-| `cmqi9favy006tnq07xpj4xwy1` | Common Voice Scripted Speech 26.0 - Ghomala | `common-voice-scripted-speech-26-0-ghomal-4be83704` | [link](https://mozilladatacollective.com/datasets/cmqi9favy006tnq07xpj4xwy1) | ✅ |
-| `cmqi9feii004lnr07neji1yax` | Common Voice Scripted Speech 26.0 - Hausa | `common-voice-scripted-speech-26-0-hausa-bb481f25` | [link](https://mozilladatacollective.com/datasets/cmqi9feii004lnr07neji1yax) | ✅ |
-| `cmqi9fht5004pnr07f38p9qee` | Common Voice Scripted Speech 26.0 - Adja | `common-voice-scripted-speech-26-0-adja-a4dd0cd7` | [link](https://mozilladatacollective.com/datasets/cmqi9fht5004pnr07f38p9qee) | ✅ |
 | `cmqi9fksd006xnq07b7am0qoe` | Common Voice Scripted Speech 26.0 - Atayal | `common-voice-scripted-speech-26-0-atayal-9e5d6983` | [link](https://mozilladatacollective.com/datasets/cmqi9fksd006xnq07b7am0qoe) | ✅ |
 | `cmqi9wzfo0055nr077c8navyv` | Common Voice Scripted Speech 26.0 - Kichwa | `common-voice-scripted-speech-26-0-kichwa-43d20530` | [link](https://mozilladatacollective.com/datasets/cmqi9wzfo0055nr077c8navyv) | ✅ |
-| `cmqi9x2ms0059nr07v13ljzo1` | Common Voice Scripted Speech 26.0 - Adamawa Fulfulde | `common-voice-scripted-speech-26-0-adamaw-006994d6` | [link](https://mozilladatacollective.com/datasets/cmqi9x2ms0059nr07v13ljzo1) | ✅ |
 | `cmqi9x7yx005dnr07mo68a08v` | Common Voice Scripted Speech 26.0 - Quechua Arequipa-La Unión | `common-voice-scripted-speech-26-0-quechu-509caee7` | [link](https://mozilladatacollective.com/datasets/cmqi9x7yx005dnr07mo68a08v) | ✅ |
-| `cmqi9xbs90071nq076sant845` | Common Voice Scripted Speech 26.0 - Gawarbaiti | `common-voice-scripted-speech-26-0-gawarb-399290e0` | [link](https://mozilladatacollective.com/datasets/cmqi9xbs90071nq076sant845) | ✅ |
-| `cmqi9xez5005hnr075tivt9gb` | Common Voice Scripted Speech 26.0 - Bakoko | `common-voice-scripted-speech-26-0-bakoko-2835cb95` | [link](https://mozilladatacollective.com/datasets/cmqi9xez5005hnr075tivt9gb) | ✅ |
 | `cmqi9xi5d0075nq07bm6ymaon` | Common Voice Scripted Speech 26.0 - Mada | `common-voice-scripted-speech-26-0-mada-7486ba52` | [link](https://mozilladatacollective.com/datasets/cmqi9xi5d0075nq07bm6ymaon) | ✅ |
-| `cmqi9xlxd005lnr07zt0anf5d` | Common Voice Scripted Speech 26.0 - Tush | `common-voice-scripted-speech-26-0-tush-7efd0d09` | [link](https://mozilladatacollective.com/datasets/cmqi9xlxd005lnr07zt0anf5d) | ✅ |
-| `cmqi9xq0c0079nq07uonstwpu` | Common Voice Scripted Speech 26.0 - Gurgula | `common-voice-scripted-speech-26-0-gurgul-ed11a05f` | [link](https://mozilladatacollective.com/datasets/cmqi9xq0c0079nq07uonstwpu) | ✅ |
-| `cmqia124y0081nq07b9vjzd28` | Common Voice Spontaneous Speech 4.0 - Kuku | `common-voice-spontaneous-speech-4-0-kuku-ebd4b52f` | [link](https://mozilladatacollective.com/datasets/cmqia124y0081nq07b9vjzd28) | ✅ |
-| `cmqia143t006hnr07swhjsojt` | Common Voice Spontaneous Speech 4.0 - Western Penan | `common-voice-spontaneous-speech-4-0-west-6bab3bc5` | [link](https://mozilladatacollective.com/datasets/cmqia143t006hnr07swhjsojt) | ✅ |
-| `cmqia167q0085nq07crhmfly0` | Common Voice Spontaneous Speech 4.0 - Kenyi | `common-voice-spontaneous-speech-4-0-keny-c774ceb9` | [link](https://mozilladatacollective.com/datasets/cmqia167q0085nq07crhmfly0) | ✅ |
-| `cmqia184d006pnr07llqnd4et` | Common Voice Spontaneous Speech 4.0 - Bukusu | `common-voice-spontaneous-speech-4-0-buku-012c275d` | [link](https://mozilladatacollective.com/datasets/cmqia184d006pnr07llqnd4et) | ✅ |
-| `cmqia1a5k008hnq07gdodg1sm` | Common Voice Spontaneous Speech 4.0 - Lendu | `common-voice-spontaneous-speech-4-0-lend-3fd2e37f` | [link](https://mozilladatacollective.com/datasets/cmqia1a5k008hnq07gdodg1sm) | ✅ |
-| `cmqia1cau008lnq07ydv02gu8` | Common Voice Spontaneous Speech 4.0 - Amba | `common-voice-spontaneous-speech-4-0-amba-b9e8cc66` | [link](https://mozilladatacollective.com/datasets/cmqia1cau008lnq07ydv02gu8) | ✅ |
-| `cmqia1ea4008pnq07ltrp8c5s` | Common Voice Spontaneous Speech 4.0 - Rutoro | `common-voice-spontaneous-speech-4-0-ruto-e4db0db5` | [link](https://mozilladatacollective.com/datasets/cmqia1ea4008pnq07ltrp8c5s) | ✅ |
-| `cmqia1gdd008tnq073dgc4a8h` | Common Voice Spontaneous Speech 4.0 - Sabah Malay | `common-voice-spontaneous-speech-4-0-saba-0d92eaa5` | [link](https://mozilladatacollective.com/datasets/cmqia1gdd008tnq073dgc4a8h) | ✅ |
-| `cmqia1ihi008xnq07xygc5c4s` | Common Voice Spontaneous Speech 4.0 - Konzo | `common-voice-spontaneous-speech-4-0-konz-78f13f30` | [link](https://mozilladatacollective.com/datasets/cmqia1ihi008xnq07xygc5c4s) | ✅ |
-| `cmqia1kdm006tnr073wddnk9o` | Common Voice Spontaneous Speech 4.0 - Nubi | `common-voice-spontaneous-speech-4-0-nubi-5aad3079` | [link](https://mozilladatacollective.com/datasets/cmqia1kdm006tnr073wddnk9o) | ✅ |
-| `cmqialna3006znr07i1pxfwm9` | Common Voice Spontaneous Speech 4.0 - Thur | `common-voice-spontaneous-speech-4-0-thur-09582f76` | [link](https://mozilladatacollective.com/datasets/cmqialna3006znr07i1pxfwm9) | ✅ |
-| `cmqialoe90073nr07kt1ztkxe` | Common Voice Spontaneous Speech 4.0 - Ruuli | `common-voice-spontaneous-speech-4-0-ruul-b46c7ec0` | [link](https://mozilladatacollective.com/datasets/cmqialoe90073nr07kt1ztkxe) | ✅ |
-| `cmqialpeo0077nr077xqdqo0j` | Common Voice Spontaneous Speech 4.0 - English | `common-voice-spontaneous-speech-4-0-engl-c643378f` | [link](https://mozilladatacollective.com/datasets/cmqialpeo0077nr077xqdqo0j) | ✅ |
-| `cmqialqsu007bnr07e4se1rl8` | Common Voice Spontaneous Speech 4.0 - Puno Quechua | `common-voice-spontaneous-speech-4-0-puno-95cd0166` | [link](https://mozilladatacollective.com/datasets/cmqialqsu007bnr07e4se1rl8) | ✅ |
 | `cmqialv38007fnr07hqksd9k4` | Common Voice Scripted Speech 26.0 - Xitsonga | `common-voice-scripted-speech-26-0-xitson-0d485e5e` | [link](https://mozilladatacollective.com/datasets/cmqialv38007fnr07hqksd9k4) | ✅ |
-| `cmqialwmq0091nq07eu28tcau` | Common Voice Scripted Speech 26.0 - Sorbian, Lower | `common-voice-scripted-speech-26-0-sorbia-9ba5cc05` | [link](https://mozilladatacollective.com/datasets/cmqialwmq0091nq07eu28tcau) | ✅ |
-| `cmqialxzt0095nq078d2hznc8` | Common Voice Scripted Speech 26.0 - Croatian | `common-voice-scripted-speech-26-0-croati-8b892ca2` | [link](https://mozilladatacollective.com/datasets/cmqialxzt0095nq078d2hznc8) | ✅ |
 | `cmqialza10099nq07adfmmkrp` | Common Voice Scripted Speech 26.0 - IsiNdebele (South) | `common-voice-scripted-speech-26-0-isinde-ee431eba` | [link](https://mozilladatacollective.com/datasets/cmqialza10099nq07adfmmkrp) | ✅ |
-| `cmqiam0y4009dnq07y072vmjk` | Common Voice Scripted Speech 26.0 - Haitian | `common-voice-scripted-speech-26-0-haitia-993fb472` | [link](https://mozilladatacollective.com/datasets/cmqiam0y4009dnq07y072vmjk) | ✅ |
-| `cmqiam2dh007jnr07i8m96tra` | Common Voice Scripted Speech 26.0 - Khakas | `common-voice-scripted-speech-26-0-khakas-1d493878` | [link](https://mozilladatacollective.com/datasets/cmqiam2dh007jnr07i8m96tra) | ✅ |
 | `cmqiapnak007nnr07pkjoowjw` | Common Voice Scripted Speech 26.0 - Xhosa | `common-voice-scripted-speech-26-0-xhosa-83b6a47f` | [link](https://mozilladatacollective.com/datasets/cmqiapnak007nnr07pkjoowjw) | ✅ |
 | `cmqiapp2e007rnr07hprihon4` | Common Voice Scripted Speech 26.0 - Tshivenda | `common-voice-scripted-speech-26-0-tshive-e68ff889` | [link](https://mozilladatacollective.com/datasets/cmqiapp2e007rnr07hprihon4) | ✅ |
 | `cmqiapqo1007vnr07uogmwf44` | Common Voice Scripted Speech 26.0 - Northern Sotho | `common-voice-scripted-speech-26-0-northe-069b7d65` | [link](https://mozilladatacollective.com/datasets/cmqiapqo1007vnr07uogmwf44) | ✅ |
@@ -682,159 +532,69 @@ data programmatically.
 | `cmqiapv05009pnq07z0uh28db` | Common Voice Scripted Speech 26.0 - Aromanian | `common-voice-scripted-speech-26-0-aroman-89352934` | [link](https://mozilladatacollective.com/datasets/cmqiapv05009pnq07z0uh28db) | ✅ |
 | `cmqiapwcq009tnq075e9981yy` | Common Voice Scripted Speech 26.0 - Zulu | `common-voice-scripted-speech-26-0-zulu-92af6cca` | [link](https://mozilladatacollective.com/datasets/cmqiapwcq009tnq075e9981yy) | ✅ |
 | `cmqiaq08m009xnq07wd6pkwtn` | Common Voice Scripted Speech 26.0 - Votic | `common-voice-scripted-speech-26-0-votic-f993f6a8` | [link](https://mozilladatacollective.com/datasets/cmqiaq08m009xnq07wd6pkwtn) | ✅ |
-| `cmqiaq1nn007znr07qss7tcb5` | Common Voice Scripted Speech 26.0 - Lao | `common-voice-scripted-speech-26-0-lao-aec34c7e` | [link](https://mozilladatacollective.com/datasets/cmqiaq1nn007znr07qss7tcb5) | ✅ |
-| `cmqiaq3ae0083nr07rhacg5x2` | Common Voice Scripted Speech 26.0 - Dioula | `common-voice-scripted-speech-26-0-dioula-922d1bd7` | [link](https://mozilladatacollective.com/datasets/cmqiaq3ae0083nr07rhacg5x2) | ✅ |
-| `cmqie5gua00e7nq07i7smz5ac` | Common Voice Scripted Speech 26.0 - Moksha | `common-voice-scripted-speech-26-0-moksha-476f47ba` | [link](https://mozilladatacollective.com/datasets/cmqie5gua00e7nq07i7smz5ac) | ✅ |
 | `cmqie92dy00ejnq07lilc42vn` | Common Voice Scripted Speech 26.0 - Western Sierra Puebla Nahuatl | `common-voice-scripted-speech-26-0-wester-0ff3b03a` | [link](https://mozilladatacollective.com/datasets/cmqie92dy00ejnq07lilc42vn) | ✅ |
 | `cmqie93na00ennq07stgc3t9j` | Common Voice Scripted Speech 26.0 - Tigrinya | `common-voice-scripted-speech-26-0-tigrin-56c7e5eb` | [link](https://mozilladatacollective.com/datasets/cmqie93na00ennq07stgc3t9j) | ✅ |
-| `cmqie94oh00ernq07xctk0d8f` | Common Voice Scripted Speech 26.0 - Icelandic | `common-voice-scripted-speech-26-0-icelan-964d2cf7` | [link](https://mozilladatacollective.com/datasets/cmqie94oh00ernq07xctk0d8f) | ✅ |
-| `cmqie95uy00evnq07dc9tqagz` | Common Voice Scripted Speech 26.0 - Khmer | `common-voice-scripted-speech-26-0-khmer-dc4dc3ef` | [link](https://mozilladatacollective.com/datasets/cmqie95uy00evnq07dc9tqagz) | ✅ |
 | `cmqie96zs00c7nr078g0ai4kq` | Common Voice Scripted Speech 26.0 - Tajik | `common-voice-scripted-speech-26-0-tajik-a531d19a` | [link](https://mozilladatacollective.com/datasets/cmqie96zs00c7nr078g0ai4kq) | ✅ |
 | `cmqie985k00cbnr07z9cea5wy` | Common Voice Scripted Speech 26.0 - Santali (Ol Chiki) | `common-voice-scripted-speech-26-0-santal-fe5eda20` | [link](https://mozilladatacollective.com/datasets/cmqie985k00cbnr07z9cea5wy) | ✅ |
 | `cmqie99h800eznq07yhflxjkb` | Common Voice Scripted Speech 26.0 - Twi | `common-voice-scripted-speech-26-0-twi-f95d2dc8` | [link](https://mozilladatacollective.com/datasets/cmqie99h800eznq07yhflxjkb) | ✅ |
 | `cmqie9asa00cfnr07ym5l5aw8` | Common Voice Scripted Speech 26.0 - Ossetian | `common-voice-scripted-speech-26-0-osseti-70a44b26` | [link](https://mozilladatacollective.com/datasets/cmqie9asa00cfnr07ym5l5aw8) | ✅ |
 | `cmqie9c3700cjnr078l71gt9y` | Common Voice Scripted Speech 26.0 - Quechua Chanka | `common-voice-scripted-speech-26-0-quechu-b6a6255f` | [link](https://mozilladatacollective.com/datasets/cmqie9c3700cjnr078l71gt9y) | ✅ |
-| `cmqieijjh00d3nr07m9elw7cc` | Common Voice Scripted Speech 26.0 - Afrikaans | `common-voice-scripted-speech-26-0-afrika-3456f465` | [link](https://mozilladatacollective.com/datasets/cmqieijjh00d3nr07m9elw7cc) | ✅ |
-| `cmqieildv00d7nr07oq4hhq5o` | Common Voice Scripted Speech 26.0 - Alsatian | `common-voice-scripted-speech-26-0-alsati-6037bade` | [link](https://mozilladatacollective.com/datasets/cmqieildv00d7nr07oq4hhq5o) | ✅ |
 | `cmqieio7r00fjnq079anpccv1` | Common Voice Scripted Speech 26.0 - Tlingit | `common-voice-scripted-speech-26-0-tlingi-0cf8d7a3` | [link](https://mozilladatacollective.com/datasets/cmqieio7r00fjnq079anpccv1) | ✅ |
-| `cmqieiq7n00fnnq07u22l50cj` | Common Voice Scripted Speech 26.0 - Massa | `common-voice-scripted-speech-26-0-massa-1bc25827` | [link](https://mozilladatacollective.com/datasets/cmqieiq7n00fnnq07u22l50cj) | ✅ |
-| `cmqieis2r00dbnr07244wykdx` | Common Voice Scripted Speech 26.0 - Brushaski | `common-voice-scripted-speech-26-0-brusha-f7d8678b` | [link](https://mozilladatacollective.com/datasets/cmqieis2r00dbnr07244wykdx) | ✅ |
-| `cmqieiwvr00dfnr07j9lmgzr7` | Common Voice Scripted Speech 26.0 - Bafut | `common-voice-scripted-speech-26-0-bafut-5321a24a` | [link](https://mozilladatacollective.com/datasets/cmqieiwvr00dfnr07j9lmgzr7) | ✅ |
-| `cmqieiypt00djnr07788g7yv1` | Common Voice Scripted Speech 26.0 - Dameli | `common-voice-scripted-speech-26-0-dameli-15fa2278` | [link](https://mozilladatacollective.com/datasets/cmqieiypt00djnr07788g7yv1) | ✅ |
-| `cmqiej0w700dnnr07xno2pgy8` | Common Voice Scripted Speech 26.0 - Kunabembe | `common-voice-scripted-speech-26-0-kunabe-f381c90c` | [link](https://mozilladatacollective.com/datasets/cmqiej0w700dnnr07xno2pgy8) | ✅ |
-| `cmqiej2oj00drnr072e5wrare` | Common Voice Scripted Speech 26.0 - Wadiyara Koli | `common-voice-scripted-speech-26-0-wadiya-36890461` | [link](https://mozilladatacollective.com/datasets/cmqiej2oj00drnr072e5wrare) | ✅ |
 | `cmqiej4ng00ftnq076583urok` | Common Voice Scripted Speech 26.0 - Kirombo | `common-voice-scripted-speech-26-0-kiromb-0d49197f` | [link](https://mozilladatacollective.com/datasets/cmqiej4ng00ftnq076583urok) | ✅ |
 | `cmqiglddn00gnnr07u2mtc3ec` | Common Voice Scripted Speech 26.0 - Loja Highland Kichwa | `common-voice-scripted-speech-26-0-loja-h-eb716b8c` | [link](https://mozilladatacollective.com/datasets/cmqiglddn00gnnr07u2mtc3ec) | ✅ |
-| `cmqiglff100innq07ytefmv64` | Common Voice Scripted Speech 26.0 - Malayalam | `common-voice-scripted-speech-26-0-malaya-b764d115` | [link](https://mozilladatacollective.com/datasets/cmqiglff100innq07ytefmv64) | ✅ |
 | `cmqiglh6400grnr07x3fdx6ol` | Common Voice Scripted Speech 26.0 - Oadki | `common-voice-scripted-speech-26-0-oadki-9ec045df` | [link](https://mozilladatacollective.com/datasets/cmqiglh6400grnr07x3fdx6ol) | ✅ |
 | `cmqigliwq00gvnr07zddnx4gp` | Common Voice Scripted Speech 26.0 - Tupuri | `common-voice-scripted-speech-26-0-tupuri-ccadf043` | [link](https://mozilladatacollective.com/datasets/cmqigliwq00gvnr07zddnx4gp) | ✅ |
-| `cmqiglkma00gznr07blt2l667` | Common Voice Scripted Speech 26.0 - Bankon | `common-voice-scripted-speech-26-0-bankon-bec1e139` | [link](https://mozilladatacollective.com/datasets/cmqiglkma00gznr07blt2l667) | ✅ |
-| `cmqiglmbu00h3nr07e10thtet` | Common Voice Scripted Speech 26.0 - Loarki | `common-voice-scripted-speech-26-0-loarki-0bde31d1` | [link](https://mozilladatacollective.com/datasets/cmqiglmbu00h3nr07e10thtet) | ✅ |
 | `cmqiglp6z00h7nr071tvu5sry` | Common Voice Scripted Speech 26.0 - Yadgha | `common-voice-scripted-speech-26-0-yadgha-46428799` | [link](https://mozilladatacollective.com/datasets/cmqiglp6z00h7nr071tvu5sry) | ✅ |
-| `cmqiglrbo00hbnr07ck8co7cp` | Common Voice Scripted Speech 26.0 - Nüpode Huitoto | `common-voice-scripted-speech-26-0-n-pode-9626c592` | [link](https://mozilladatacollective.com/datasets/cmqiglrbo00hbnr07ck8co7cp) | ✅ |
 | `cmqigomx300ixnq070wlu5nov` | Common Voice Scripted Speech 26.0 - Yaqui | `common-voice-scripted-speech-26-0-yaqui-07e42406` | [link](https://mozilladatacollective.com/datasets/cmqigomx300ixnq070wlu5nov) | ✅ |
-| `cmqigoomq00j1nq07i0126jgl` | Common Voice Scripted Speech 26.0 - Bamun | `common-voice-scripted-speech-26-0-bamun-0b8978cf` | [link](https://mozilladatacollective.com/datasets/cmqigoomq00j1nq07i0126jgl) | ✅ |
-| `cmqigoq6p00j5nq07pwyswtqj` | Common Voice Scripted Speech 26.0 - Bunun | `common-voice-scripted-speech-26-0-bunun-e65d4af7` | [link](https://mozilladatacollective.com/datasets/cmqigoq6p00j5nq07pwyswtqj) | ✅ |
 | `cmqigos0900j9nq07gqz2ch9j` | Common Voice Scripted Speech 26.0 - Huarijio | `common-voice-scripted-speech-26-0-huarij-3e27766a` | [link](https://mozilladatacollective.com/datasets/cmqigos0900j9nq07gqz2ch9j) | ✅ |
 | `cmqigourq00jdnq07m5oqpktn` | Common Voice Scripted Speech 26.0 - Orizaba Nahuatl | `common-voice-scripted-speech-26-0-orizab-bae877f0` | [link](https://mozilladatacollective.com/datasets/cmqigourq00jdnq07m5oqpktn) | ✅ |
-| `cmqigowzn00hjnr07fqnrmozz` | Common Voice Scripted Speech 26.0 - Kom | `common-voice-scripted-speech-26-0-kom-5dd1d7d4` | [link](https://mozilladatacollective.com/datasets/cmqigowzn00hjnr07fqnrmozz) | ✅ |
 | `cmqigozaz00hnnr07hco50r36` | Common Voice Scripted Speech 26.0 - Central Puebla Nahuatl | `common-voice-scripted-speech-26-0-centra-c69212d9` | [link](https://mozilladatacollective.com/datasets/cmqigozaz00hnnr07hco50r36) | ✅ |
-| `cmqigp1b000hrnr073gr5xv52` | Common Voice Scripted Speech 26.0 - Fe’efe’e | `common-voice-scripted-speech-26-0-fe-efe-d0bdc123` | [link](https://mozilladatacollective.com/datasets/cmqigp1b000hrnr073gr5xv52) | ✅ |
-| `cmqigqnxf00hxnr07ffy8dq8x` | Common Voice Scripted Speech 26.0 - Mbo | `common-voice-scripted-speech-26-0-mbo-a0e1fb6a` | [link](https://mozilladatacollective.com/datasets/cmqigqnxf00hxnr07ffy8dq8x) | ✅ |
-| `cmqigrvys00i3nr07ngkpb6b2` | Common Voice Scripted Speech 26.0 - Basaa | `common-voice-scripted-speech-26-0-basaa-1491b0f4` | [link](https://mozilladatacollective.com/datasets/cmqigrvys00i3nr07ngkpb6b2) | ✅ |
 | `cmqigrxwe00jlnq075yqxq85v` | Common Voice Scripted Speech 26.0 - Serbian | `common-voice-scripted-speech-26-0-serbia-5c2c47f5` | [link](https://mozilladatacollective.com/datasets/cmqigrxwe00jlnq075yqxq85v) | ✅ |
 | `cmqigrzkz00jpnq07md238447` | Common Voice Scripted Speech 26.0 - Sakizaya | `common-voice-scripted-speech-26-0-sakiza-49c0c214` | [link](https://mozilladatacollective.com/datasets/cmqigrzkz00jpnq07md238447) | ✅ |
 | `cmqigs15l00i7nr07425s2r5d` | Common Voice Scripted Speech 26.0 - Paiwan | `common-voice-scripted-speech-26-0-paiwan-b0346abe` | [link](https://mozilladatacollective.com/datasets/cmqigs15l00i7nr07425s2r5d) | ✅ |
-| `cmqigs2m100ibnr074yws9svf` | Common Voice Scripted Speech 26.0 - Ewondo | `common-voice-scripted-speech-26-0-ewondo-10dd5f18` | [link](https://mozilladatacollective.com/datasets/cmqigs2m100ibnr074yws9svf) | ✅ |
 | `cmqigs4fs00jtnq07o0txdcvm` | Common Voice Scripted Speech 26.0 - Nigerian Pidgin English | `common-voice-scripted-speech-26-0-nigeri-965eafd6` | [link](https://mozilladatacollective.com/datasets/cmqigs4fs00jtnq07o0txdcvm) | ✅ |
-| `cmqilxulo00r4nr079y9y8opu` | Common Voice Scripted Speech 26.0 - Baoule | `common-voice-scripted-speech-26-0-baoule-892e3e07` | [link](https://mozilladatacollective.com/datasets/cmqilxulo00r4nr079y9y8opu) | ✅ |
-| `cmqilxwjm00r8nr07acb9f5i9` | Common Voice Scripted Speech 26.0 - Abaza | `common-voice-scripted-speech-26-0-abaza-f3e43873` | [link](https://mozilladatacollective.com/datasets/cmqilxwjm00r8nr07acb9f5i9) | ✅ |
 | `cmqilxycc00rcnr071b156jdl` | Common Voice Scripted Speech 26.0 - Romansh Sursilvan | `common-voice-scripted-speech-26-0-romans-c27c06f1` | [link](https://mozilladatacollective.com/datasets/cmqilxycc00rcnr071b156jdl) | ✅ |
 | `cmqily03c00rgnr071bcl2qau` | Common Voice Scripted Speech 26.0 - Wakhi | `common-voice-scripted-speech-26-0-wakhi-cbe70476` | [link](https://mozilladatacollective.com/datasets/cmqily03c00rgnr071bcl2qau) | ✅ |
-| `cmqily1ud00rknr071s3mdq3h` | Common Voice Scripted Speech 26.0 - Gawri | `common-voice-scripted-speech-26-0-gawri-692940b8` | [link](https://mozilladatacollective.com/datasets/cmqily1ud00rknr071s3mdq3h) | ✅ |
 | `cmqily3ly00ronr07fhiwqoe3` | Common Voice Scripted Speech 26.0 - Southern Pastaza Quechua | `common-voice-scripted-speech-26-0-southe-1af9e69a` | [link](https://mozilladatacollective.com/datasets/cmqily3ly00ronr07fhiwqoe3) | ✅ |
-| `cmqily5ow00rsnr078lgrimto` | Common Voice Scripted Speech 26.0 - Batanga | `common-voice-scripted-speech-26-0-batang-7d464bf8` | [link](https://mozilladatacollective.com/datasets/cmqily5ow00rsnr078lgrimto) | ✅ |
-| `cmqily7uh00rwnr070p6ijw8z` | Common Voice Scripted Speech 26.0 - Danish | `common-voice-scripted-speech-26-0-danish-ddafb652` | [link](https://mozilladatacollective.com/datasets/cmqily7uh00rwnr070p6ijw8z) | ✅ |
 | `cmqily9p800s0nr073k8s6du2` | Common Voice Scripted Speech 26.0 - Kohistani Shina | `common-voice-scripted-speech-26-0-kohist-d911ea71` | [link](https://mozilladatacollective.com/datasets/cmqily9p800s0nr073k8s6du2) | ✅ |
-| `cmqilybng00s4nr07zxieouks` | Common Voice Scripted Speech 26.0 - Bafia | `common-voice-scripted-speech-26-0-bafia-5084d645` | [link](https://mozilladatacollective.com/datasets/cmqilybng00s4nr07zxieouks) | ✅ |
 | `cmqilydn800s8nr076lc4pse0` | Common Voice Scripted Speech 26.0 - Torwali | `common-voice-scripted-speech-26-0-torwal-9cfdc509` | [link](https://mozilladatacollective.com/datasets/cmqilydn800s8nr076lc4pse0) | ✅ |
-| `cmqilyfgd00scnr07t322rro3` | Common Voice Scripted Speech 26.0 - Irish | `common-voice-scripted-speech-26-0-irish-a9d0033b` | [link](https://mozilladatacollective.com/datasets/cmqilyfgd00scnr07t322rro3) | ✅ |
 | `cmqim2e2c00t8nq07jywr0vbi` | Common Voice Scripted Speech 26.0 - Pashto | `common-voice-scripted-speech-26-0-pashto-f9e1536f` | [link](https://mozilladatacollective.com/datasets/cmqim2e2c00t8nq07jywr0vbi) | ✅ |
-| `cmqim2hn800ssnr07gvmpcnwu` | Common Voice Scripted Speech 26.0 - English | `common-voice-scripted-speech-26-0-englis-c84784ae` | [link](https://mozilladatacollective.com/datasets/cmqim2hn800ssnr07gvmpcnwu) | ✅ |
-| `cmqim2ln300tcnq070ylazhfe` | Common Voice Scripted Speech 26.0 - Catalan | `common-voice-scripted-speech-26-0-catala-fe69b989` | [link](https://mozilladatacollective.com/datasets/cmqim2ln300tcnq070ylazhfe) | ✅ |
 | `cmqim2p6e00tgnq07bvf3z1ws` | Common Voice Scripted Speech 26.0 - Kinyarwanda | `common-voice-scripted-speech-26-0-kinyar-f9097f0f` | [link](https://mozilladatacollective.com/datasets/cmqim2p6e00tgnq07bvf3z1ws) | ✅ |
-| `cmqim2spa00synr071fcp7av0` | Common Voice Scripted Speech 26.0 - Spanish | `common-voice-scripted-speech-26-0-spanis-8c505726` | [link](https://mozilladatacollective.com/datasets/cmqim2spa00synr071fcp7av0) | ✅ |
-| `cmqim2wa300tonq071u17tlvn` | Common Voice Scripted Speech 26.0 - Esperanto | `common-voice-scripted-speech-26-0-espera-0e76422e` | [link](https://mozilladatacollective.com/datasets/cmqim2wa300tonq071u17tlvn) | ✅ |
-| `cmqim355q00t2nr07fozmjsk9` | Common Voice Scripted Speech 26.0 - Belarusian | `common-voice-scripted-speech-26-0-belaru-e1f2e26c` | [link](https://mozilladatacollective.com/datasets/cmqim355q00t2nr07fozmjsk9) | ✅ |
-| `cmqim3xpi00t6nr07k0myqtkr` | Common Voice Scripted Speech 26.0 - German | `common-voice-scripted-speech-26-0-german-94178357` | [link](https://mozilladatacollective.com/datasets/cmqim3xpi00t6nr07k0myqtkr) | ✅ |
-| `cmqim41b000tanr07q9btypkc` | Common Voice Scripted Speech 26.0 - French | `common-voice-scripted-speech-26-0-french-8ca24e81` | [link](https://mozilladatacollective.com/datasets/cmqim41b000tanr07q9btypkc) | ✅ |
-| `cmqim44fo00tinr07mbu70eg7` | Common Voice Scripted Speech 26.0 - Bengali | `common-voice-scripted-speech-26-0-bengal-77a7c941` | [link](https://mozilladatacollective.com/datasets/cmqim44fo00tinr07mbu70eg7) | ✅ |
 | `cmqim47x700tunq074za20dq1` | Common Voice Scripted Speech 26.0 - Chinese (China) | `common-voice-scripted-speech-26-0-chines-18e98647` | [link](https://mozilladatacollective.com/datasets/cmqim47x700tunq074za20dq1) | ✅ |
 | `cmqim4c1000tmnr07zq3vwhor` | Common Voice Scripted Speech 26.0 - Swahili | `common-voice-scripted-speech-26-0-swahil-0228b2f6` | [link](https://mozilladatacollective.com/datasets/cmqim4c1000tmnr07zq3vwhor) | ✅ |
-| `cmqim4fux00tynq07ljtyhzfh` | Common Voice Scripted Speech 26.0 - Kabyle | `common-voice-scripted-speech-26-0-kabyle-3f745d7d` | [link](https://mozilladatacollective.com/datasets/cmqim4fux00tynq07ljtyhzfh) | ✅ |
-| `cmqim4iw800tqnr07n2gs5mpv` | Common Voice Scripted Speech 26.0 - Basque | `common-voice-scripted-speech-26-0-basque-d0f8f374` | [link](https://mozilladatacollective.com/datasets/cmqim4iw800tqnr07n2gs5mpv) | ✅ |
-| `cmqim4lxy00tunr07cjkcupeg` | Common Voice Scripted Speech 26.0 - Japanese | `common-voice-scripted-speech-26-0-japane-2e73a461` | [link](https://mozilladatacollective.com/datasets/cmqim4lxy00tunr07cjkcupeg) | ✅ |
-| `cmqinhruw00vinq07tohj4fd3` | Common Voice Scripted Speech 26.0 - Luganda | `common-voice-scripted-speech-26-0-lugand-044b9529` | [link](https://mozilladatacollective.com/datasets/cmqinhruw00vinq07tohj4fd3) | ✅ |
-| `cmqinhw5100v8nr07gyg5gi4v` | Common Voice Scripted Speech 26.0 - Persian | `common-voice-scripted-speech-26-0-persia-65a9441e` | [link](https://mozilladatacollective.com/datasets/cmqinhw5100v8nr07gyg5gi4v) | ✅ |
-| `cmqini14100vmnq07309ocknr` | Common Voice Scripted Speech 26.0 - Italian | `common-voice-scripted-speech-26-0-italia-86af0723` | [link](https://mozilladatacollective.com/datasets/cmqini14100vmnq07309ocknr) | ✅ |
 | `cmqini4tq00vgnr07qlq3jjdf` | Common Voice Scripted Speech 26.0 - Uyghur | `common-voice-scripted-speech-26-0-uyghur-de57312d` | [link](https://mozilladatacollective.com/datasets/cmqini4tq00vgnr07qlq3jjdf) | ✅ |
-| `cmqini7z900vknr073977qyvh` | Common Voice Scripted Speech 26.0 - Georgian | `common-voice-scripted-speech-26-0-georgi-d745bebe` | [link](https://mozilladatacollective.com/datasets/cmqini7z900vknr073977qyvh) | ✅ |
 | `cmqinibew00vqnq07n69w5zob` | Common Voice Scripted Speech 26.0 - Tamil | `common-voice-scripted-speech-26-0-tamil-03472fd9` | [link](https://mozilladatacollective.com/datasets/cmqinibew00vqnq07n69w5zob) | ✅ |
 | `cmqiniex600vonr07fzc36etn` | Common Voice Scripted Speech 26.0 - Thai | `common-voice-scripted-speech-26-0-thai-2cc9bacf` | [link](https://mozilladatacollective.com/datasets/cmqiniex600vonr07fzc36etn) | ✅ |
-| `cmqiniilg00vunq07zxqfve8a` | Common Voice Scripted Speech 26.0 - Galician | `common-voice-scripted-speech-26-0-galici-702662ce` | [link](https://mozilladatacollective.com/datasets/cmqiniilg00vunq07zxqfve8a) | ✅ |
 | `cmqinj9g500vsnr07qf4hmr3j` | Common Voice Scripted Speech 26.0 - Russian | `common-voice-scripted-speech-26-0-russia-49c8467c` | [link](https://mozilladatacollective.com/datasets/cmqinj9g500vsnr07qf4hmr3j) | ✅ |
 | `cmqinjd7x00vynq07pwzo3lmp` | Common Voice Scripted Speech 26.0 - Cantonese | `common-voice-scripted-speech-26-0-canton-3bc2b1fd` | [link](https://mozilladatacollective.com/datasets/cmqinjd7x00vynq07pwzo3lmp) | ✅ |
-| `cmqinjgh200vwnr07wcnb4if5` | Common Voice Scripted Speech 26.0 - Latvian | `common-voice-scripted-speech-26-0-latvia-3ae5b760` | [link](https://mozilladatacollective.com/datasets/cmqinjgh200vwnr07wcnb4if5) | ✅ |
 | `cmqinjjm100w2nq0773c9r16c` | Common Voice Scripted Speech 26.0 - Urdu | `common-voice-scripted-speech-26-0-urdu-f8f15129` | [link](https://mozilladatacollective.com/datasets/cmqinjjm100w2nq0773c9r16c) | ✅ |
-| `cmqinjn4o00w6nq07pyqsmwg7` | Common Voice Scripted Speech 26.0 - Kabardian | `common-voice-scripted-speech-26-0-kabard-1a4c9009` | [link](https://mozilladatacollective.com/datasets/cmqinjn4o00w6nq07pyqsmwg7) | ✅ |
-| `cmqinjvun00w0nr07mkryrq8n` | Common Voice Scripted Speech 26.0 - Meadow Mari | `common-voice-scripted-speech-26-0-meadow-c3573d4a` | [link](https://mozilladatacollective.com/datasets/cmqinjvun00w0nr07mkryrq8n) | ✅ |
-| `cmqinmdik00wanq07o6cqnhps` | Common Voice Scripted Speech 26.0 - Czech | `common-voice-scripted-speech-26-0-czech-3781c8a8` | [link](https://mozilladatacollective.com/datasets/cmqinmdik00wanq07o6cqnhps) | ✅ |
-| `cmqinmgw400w4nr07r24gw0pm` | Common Voice Scripted Speech 26.0 - Bashkir | `common-voice-scripted-speech-26-0-bashki-1b32babd` | [link](https://mozilladatacollective.com/datasets/cmqinmgw400w4nr07r24gw0pm) | ✅ |
 | `cmqinmkcu00wenq0733z3yfs5` | Common Voice Scripted Speech 26.0 - Uzbek | `common-voice-scripted-speech-26-0-uzbek-4e3eea32` | [link](https://mozilladatacollective.com/datasets/cmqinmkcu00wenq0733z3yfs5) | ✅ |
 | `cmqinmnkf00w8nr07hkbbxgw7` | Common Voice Scripted Speech 26.0 - Portuguese | `common-voice-scripted-speech-26-0-portug-60f040b8` | [link](https://mozilladatacollective.com/datasets/cmqinmnkf00w8nr07hkbbxgw7) | ✅ |
-| `cmqinmqu700wcnr07xm7nxh0b` | Common Voice Scripted Speech 26.0 - Abkhaz | `common-voice-scripted-speech-26-0-abkhaz-f09cac38` | [link](https://mozilladatacollective.com/datasets/cmqinmqu700wcnr07xm7nxh0b) | ✅ |
 | `cmqinmu2a00winq07gyrtri0q` | Common Voice Scripted Speech 26.0 - Polish | `common-voice-scripted-speech-26-0-polish-c8bb40a6` | [link](https://mozilladatacollective.com/datasets/cmqinmu2a00winq07gyrtri0q) | ✅ |
-| `cmqinmydk00wgnr07qvgbi8sj` | Common Voice Scripted Speech 26.0 - Frisian | `common-voice-scripted-speech-26-0-frisia-3316ee5a` | [link](https://mozilladatacollective.com/datasets/cmqinmydk00wgnr07qvgbi8sj) | ✅ |
-| `cmqino47i00wmnq074t5nscur` | Common Voice Scripted Speech 26.0 - Welsh | `common-voice-scripted-speech-26-0-welsh-adb27a7b` | [link](https://mozilladatacollective.com/datasets/cmqino47i00wmnq074t5nscur) | ✅ |
-| `cmqino7ym00wqnq072h0gab54` | Common Voice Scripted Speech 26.0 - Central Kurdish | `common-voice-scripted-speech-26-0-centra-2ef87539` | [link](https://mozilladatacollective.com/datasets/cmqino7ym00wqnq072h0gab54) | ✅ |
-| `cmqinob6900wknr07s6fgcprx` | Common Voice Scripted Speech 26.0 - Hungarian | `common-voice-scripted-speech-26-0-hungar-22d743b4` | [link](https://mozilladatacollective.com/datasets/cmqinob6900wknr07s6fgcprx) | ✅ |
 | `cmqinoe3p00wonr07fumnrmtg` | Common Voice Scripted Speech 26.0 - Chinese (Hong Kong) | `common-voice-scripted-speech-26-0-chines-0240e64b` | [link](https://mozilladatacollective.com/datasets/cmqinoe3p00wonr07fumnrmtg) | ✅ |
-| `cmqinoh7z00wsnr07v5ixz5uo` | Common Voice Scripted Speech 26.0 - Arabic | `common-voice-scripted-speech-26-0-arabic-8a296d78` | [link](https://mozilladatacollective.com/datasets/cmqinoh7z00wsnr07v5ixz5uo) | ✅ |
 | `cmqinokkq00wwnr07hv5oax8l` | Common Voice Scripted Speech 26.0 - Dutch | `common-voice-scripted-speech-26-0-dutch-768da7a2` | [link](https://mozilladatacollective.com/datasets/cmqinokkq00wwnr07hv5oax8l) | ✅ |
 | `cmqinooq000x0nr07b4p4ct4q` | Common Voice Scripted Speech 26.0 - Chinese (Taiwan) | `common-voice-scripted-speech-26-0-chines-7e787d3b` | [link](https://mozilladatacollective.com/datasets/cmqinooq000x0nr07b4p4ct4q) | ✅ |
 | `cmqinosfq00x4nr07gnk0rdf9` | Common Voice Scripted Speech 26.0 - Turkish | `common-voice-scripted-speech-26-0-turkis-ccdbc7d6` | [link](https://mozilladatacollective.com/datasets/cmqinosfq00x4nr07gnk0rdf9) | ✅ |
-| `cmqinq6zs00x8nr07elg0nyrr` | Common Voice Scripted Speech 26.0 - Mongolian | `common-voice-scripted-speech-26-0-mongol-0609ae5e` | [link](https://mozilladatacollective.com/datasets/cmqinq6zs00x8nr07elg0nyrr) | ✅ |
 | `cmqinqaqp00wunq07w9oyei38` | Common Voice Scripted Speech 26.0 - Ukrainian | `common-voice-scripted-speech-26-0-ukrain-a1c65711` | [link](https://mozilladatacollective.com/datasets/cmqinqaqp00wunq07w9oyei38) | ✅ |
-| `cmqinqej600xcnr07kx4oxaxf` | Common Voice Scripted Speech 26.0 - Dholuo | `common-voice-scripted-speech-26-0-dholuo-0140faf7` | [link](https://mozilladatacollective.com/datasets/cmqinqej600xcnr07kx4oxaxf) | ✅ |
-| `cmqinqhul00wynq07koxlxbo5` | Common Voice Scripted Speech 26.0 - Kurmanji Kurdish | `common-voice-scripted-speech-26-0-kurman-8ee5fdd2` | [link](https://mozilladatacollective.com/datasets/cmqinqhul00wynq07koxlxbo5) | ✅ |
-| `cmqinqlhq00xgnr07jyuw5pdw` | Common Voice Scripted Speech 26.0 - Adyghe | `common-voice-scripted-speech-26-0-adyghe-65fdc1da` | [link](https://mozilladatacollective.com/datasets/cmqinqlhq00xgnr07jyuw5pdw) | ✅ |
-| `cmqinqp7r00x2nq071z5e06oa` | Common Voice Scripted Speech 26.0 - Kalenjin | `common-voice-scripted-speech-26-0-kalenj-876b0d1f` | [link](https://mozilladatacollective.com/datasets/cmqinqp7r00x2nq071z5e06oa) | ✅ |
-| `cmqinqswd00xknr070bnj5oq0` | Common Voice Scripted Speech 26.0 - Estonian | `common-voice-scripted-speech-26-0-estoni-8f5de945` | [link](https://mozilladatacollective.com/datasets/cmqinqswd00xknr070bnj5oq0) | ✅ |
-| `cmqinqwef00xonr07z4vbfovw` | Common Voice Scripted Speech 26.0 - Indonesian | `common-voice-scripted-speech-26-0-indone-6f37512c` | [link](https://mozilladatacollective.com/datasets/cmqinqwef00xonr07z4vbfovw) | ✅ |
-| `cmqinslcc00x6nq07ti1p027x` | Common Voice Scripted Speech 26.0 - Dhivehi | `common-voice-scripted-speech-26-0-dhiveh-42c24f50` | [link](https://mozilladatacollective.com/datasets/cmqinslcc00x6nq07ti1p027x) | ✅ |
-| `cmqinsp2y00xsnr07ra8gxfoi` | Common Voice Scripted Speech 26.0 - Armenian | `common-voice-scripted-speech-26-0-armeni-cfb9348b` | [link](https://mozilladatacollective.com/datasets/cmqinsp2y00xsnr07ra8gxfoi) | ✅ |
 | `cmqinsswu00xanq07gb1dex5z` | Common Voice Scripted Speech 26.0 - Slovak | `common-voice-scripted-speech-26-0-slovak-b058738d` | [link](https://mozilladatacollective.com/datasets/cmqinsswu00xanq07gb1dex5z) | ✅ |
 | `cmqintw0q00xwnr07mjjzpe61` | Common Voice Scripted Speech 26.0 - Swedish | `common-voice-scripted-speech-26-0-swedis-80d401b7` | [link](https://mozilladatacollective.com/datasets/cmqintw0q00xwnr07mjjzpe61) | ✅ |
 | `cmqinu08d00xenq07ha33e29y` | Common Voice Scripted Speech 26.0 - Romanian | `common-voice-scripted-speech-26-0-romani-32698751` | [link](https://mozilladatacollective.com/datasets/cmqinu08d00xenq07ha33e29y) | ✅ |
 | `cmqinu42m00y0nr07h94x4okz` | Common Voice Scripted Speech 26.0 - Sindhi | `common-voice-scripted-speech-26-0-sindhi-76bc0275` | [link](https://mozilladatacollective.com/datasets/cmqinu42m00y0nr07h94x4okz) | ✅ |
-| `cmqinu7wb00y4nr0747mb29yk` | Common Voice Scripted Speech 26.0 - Kidaw'ida | `common-voice-scripted-speech-26-0-kidaw-be481347` | [link](https://mozilladatacollective.com/datasets/cmqinu7wb00y4nr0747mb29yk) | ✅ |
-| `cmqinxlpx00y8nr07taeqjcfe` | Common Voice Scripted Speech 26.0 - Kyrgyz | `common-voice-scripted-speech-26-0-kyrgyz-64695471` | [link](https://mozilladatacollective.com/datasets/cmqinxlpx00y8nr07taeqjcfe) | ✅ |
-| `cmqinxq4700xinq07d7g22h2h` | Common Voice Scripted Speech 26.0 - Macedonian | `common-voice-scripted-speech-26-0-macedo-79116005` | [link](https://mozilladatacollective.com/datasets/cmqinxq4700xinq07d7g22h2h) | ✅ |
-| `cmqinxu0l00ycnr07obbjovk0` | Common Voice Scripted Speech 26.0 - Laz | `common-voice-scripted-speech-26-0-laz-faf89052` | [link](https://mozilladatacollective.com/datasets/cmqinxu0l00ycnr07obbjovk0) | ✅ |
-| `cmqinxxpp00xmnq078zjqlimw` | Common Voice Scripted Speech 26.0 - Breton | `common-voice-scripted-speech-26-0-breton-1860e032` | [link](https://mozilladatacollective.com/datasets/cmqinxxpp00xmnq078zjqlimw) | ✅ |
 | `cmqiny0vn00ygnr07ye9hvi5p` | Common Voice Scripted Speech 26.0 - Tatar | `common-voice-scripted-speech-26-0-tatar-f2ecae66` | [link](https://mozilladatacollective.com/datasets/cmqiny0vn00ygnr07ye9hvi5p) | ✅ |
 | `cmqiny4d900xqnq0779zijp37` | Common Voice Scripted Speech 26.0 - Odia | `common-voice-scripted-speech-26-0-odia-21339bbb` | [link](https://mozilladatacollective.com/datasets/cmqiny4d900xqnq0779zijp37) | ✅ |
-| `cmqiny85c00xunq07lvutf0he` | Common Voice Scripted Speech 26.0 - Greek | `common-voice-scripted-speech-26-0-greek-84292974` | [link](https://mozilladatacollective.com/datasets/cmqiny85c00xunq07lvutf0he) | ✅ |
-| `cmqinyc0y00yknr07et5hdtdm` | Common Voice Scripted Speech 26.0 - Lithuanian | `common-voice-scripted-speech-26-0-lithua-bce1cbfb` | [link](https://mozilladatacollective.com/datasets/cmqinyc0y00yknr07et5hdtdm) | ✅ |
-| `cmqio1o2y00yonr07g0679xv1` | Common Voice Scripted Speech 26.0 - Hill Mari | `common-voice-scripted-speech-26-0-hill-m-a301cf19` | [link](https://mozilladatacollective.com/datasets/cmqio1o2y00yonr07g0679xv1) | ✅ |
 | `cmqio1smz00ysnr0789x2tj38` | Common Voice Scripted Speech 26.0 - Ormuri | `common-voice-scripted-speech-26-0-ormuri-3e789c28` | [link](https://mozilladatacollective.com/datasets/cmqio1smz00ysnr0789x2tj38) | ✅ |
 | `cmqio1wd400xynq079ifamac6` | Common Voice Scripted Speech 26.0 - Puno Quechua | `common-voice-scripted-speech-26-0-puno-q-82813a33` | [link](https://mozilladatacollective.com/datasets/cmqio1wd400xynq079ifamac6) | ✅ |
-| `cmqio1zt700ywnr07bfgy7gjx` | Common Voice Scripted Speech 26.0 - Latgalian | `common-voice-scripted-speech-26-0-latgal-ad5c59a6` | [link](https://mozilladatacollective.com/datasets/cmqio1zt700ywnr07bfgy7gjx) | ✅ |
-| `cmqio23ji00y2nq07g7q2hihm` | Common Voice Scripted Speech 26.0 - Chuvash | `common-voice-scripted-speech-26-0-chuvas-ee5af73c` | [link](https://mozilladatacollective.com/datasets/cmqio23ji00y2nq07g7q2hihm) | ✅ |
-| `cmqio27ad00z0nr07dqfl3c3m` | Common Voice Scripted Speech 26.0 - Guarani | `common-voice-scripted-speech-26-0-guaran-06b8e73e` | [link](https://mozilladatacollective.com/datasets/cmqio27ad00z0nr07dqfl3c3m) | ✅ |
 | `cmqio2bjn00y6nq07kxuf99dj` | Common Voice Scripted Speech 26.0 - Palula | `common-voice-scripted-speech-26-0-palula-38483b6f` | [link](https://mozilladatacollective.com/datasets/cmqio2bjn00y6nq07kxuf99dj) | ✅ |
-| `cmqio2gci00z4nr07njrbei37` | Common Voice Scripted Speech 26.0 - Marathi | `common-voice-scripted-speech-26-0-marath-bed27c62` | [link](https://mozilladatacollective.com/datasets/cmqio2gci00z4nr07njrbei37) | ✅ |
-| `cmqiod71900zgnr07uiyw57br` | Common Voice Scripted Speech 26.0 - Hindi | `common-voice-scripted-speech-26-0-hindi-26a03a9f` | [link](https://mozilladatacollective.com/datasets/cmqiod71900zgnr07uiyw57br) | ✅ |
 | `cmqiodaxn00ycnq07slso6and` | Common Voice Scripted Speech 26.0 - Afaan Oromo | `common-voice-scripted-speech-26-0-afaan-5ef2d493` | [link](https://mozilladatacollective.com/datasets/cmqiodaxn00ycnq07slso6and) | ✅ |
-| `cmqiodeas00ygnq07bomw55e4` | Common Voice Scripted Speech 26.0 - Dagbani | `common-voice-scripted-speech-26-0-dagban-a470d882` | [link](https://mozilladatacollective.com/datasets/cmqiodeas00ygnq07bomw55e4) | ✅ |
 | `cmqiodhvp00zknr075ddhkhps` | Common Voice Scripted Speech 26.0 - Sakha | `common-voice-scripted-speech-26-0-sakha-28e2c705` | [link](https://mozilladatacollective.com/datasets/cmqiodhvp00zknr075ddhkhps) | ✅ |
 | `cmqiodl4000zonr07iuo4i4aa` | Common Voice Scripted Speech 26.0 - Taiwanese (Minnan) | `common-voice-scripted-speech-26-0-taiwan-2321fb30` | [link](https://mozilladatacollective.com/datasets/cmqiodl4000zonr07iuo4i4aa) | ✅ |
-| `cmqiodpav00yknq07kfcyu7c0` | Common Voice Scripted Speech 26.0 - Finnish | `common-voice-scripted-speech-26-0-finnis-0b93b963` | [link](https://mozilladatacollective.com/datasets/cmqiodpav00yknq07kfcyu7c0) | ✅ |
 | `cmqiodx1z00yonq07dptnahw6` | Common Voice Scripted Speech 26.0 - Slovenian | `common-voice-scripted-speech-26-0-sloven-f9fef521` | [link](https://mozilladatacollective.com/datasets/cmqiodx1z00yonq07dptnahw6) | ✅ |
 | `cmqioe08z00ysnq07wdp9ejux` | Common Voice Scripted Speech 26.0 - Toki Pona | `common-voice-scripted-speech-26-0-toki-p-0b342fd5` | [link](https://mozilladatacollective.com/datasets/cmqioe08z00ysnq07wdp9ejux) | ✅ |
 | `cmqiof4sv00ywnq07m63v4pnp` | Common Voice Scripted Speech 26.0 - Vietnamese | `common-voice-scripted-speech-26-0-vietna-a9befb86` | [link](https://mozilladatacollective.com/datasets/cmqiof4sv00ywnq07m63v4pnp) | ✅ |
 | `cmqiof7ux00z0nq07it6kz3sm` | Common Voice Scripted Speech 26.0 - Indus Kohistani | `common-voice-scripted-speech-26-0-indus-b9bb92f6` | [link](https://mozilladatacollective.com/datasets/cmqiof7ux00z0nq07it6kz3sm) | ✅ |
 | `cmqiofavu00zsnr076smns41a` | Common Voice Scripted Speech 26.0 - Maltese | `common-voice-scripted-speech-26-0-maltes-7b441a7f` | [link](https://mozilladatacollective.com/datasets/cmqiofavu00zsnr076smns41a) | ✅ |
-| `cmqioff2b00z4nq079q2hqog1` | Common Voice Scripted Speech 26.0 - Bulgarian | `common-voice-scripted-speech-26-0-bulgar-5bb3fb53` | [link](https://mozilladatacollective.com/datasets/cmqioff2b00z4nq079q2hqog1) | ✅ |
-| `cmqiofi6700z8nq07bh41vsb1` | Common Voice Scripted Speech 26.0 - Interlingua | `common-voice-scripted-speech-26-0-interl-2577a411` | [link](https://mozilladatacollective.com/datasets/cmqiofi6700z8nq07bh41vsb1) | ✅ |
-| `cmqioflak00zwnr073z9m9cra` | Common Voice Scripted Speech 26.0 - Igbo | `common-voice-scripted-speech-26-0-igbo-98ffb33e` | [link](https://mozilladatacollective.com/datasets/cmqioflak00zwnr073z9m9cra) | ✅ |
-| `cmqiofoxn0100nr07w1q1i64q` | Common Voice Scripted Speech 26.0 - Dargwa | `common-voice-scripted-speech-26-0-dargwa-fd771c86` | [link](https://mozilladatacollective.com/datasets/cmqiofoxn0100nr07w1q1i64q) | ✅ |
 | `cmqioh7eo00zcnq07acxohqzn` | Common Voice Scripted Speech 26.0 - Ngiembon | `common-voice-scripted-speech-26-0-ngiemb-3c6833e6` | [link](https://mozilladatacollective.com/datasets/cmqioh7eo00zcnq07acxohqzn) | ✅ |
-| `cmqiohd070104nr07k0zc3qt6` | Common Voice Scripted Speech 26.0 - Khowar | `common-voice-scripted-speech-26-0-khowar-aabbca41` | [link](https://mozilladatacollective.com/datasets/cmqiohd070104nr07k0zc3qt6) | ✅ |
-| `cmqiohial00zgnq07ybhhu7ni` | Common Voice Scripted Speech 26.0 - Ibibio | `common-voice-scripted-speech-26-0-ibibio-7ed511b3` | [link](https://mozilladatacollective.com/datasets/cmqiohial00zgnq07ybhhu7ni) | ✅ |
 | `cmqiohnh000zknq07ai4bec8z` | Common Voice Scripted Speech 26.0 - Svan | `common-voice-scripted-speech-26-0-svan-d502be58` | [link](https://mozilladatacollective.com/datasets/cmqiohnh000zknq07ai4bec8z) | ✅ |
-| `cmqiohrxe0108nr07moskb6pu` | Common Voice Scripted Speech 26.0 - Aragonese | `common-voice-scripted-speech-26-0-aragon-4eac6714` | [link](https://mozilladatacollective.com/datasets/cmqiohrxe0108nr07moskb6pu) | ✅ |
-| `cmqiohwz000zonq07iycu740l` | Common Voice Scripted Speech 26.0 - Balti | `common-voice-scripted-speech-26-0-balti-1bd7af32` | [link](https://mozilladatacollective.com/datasets/cmqiohwz000zonq07iycu740l) | ✅ |
 | `cmqj6g7jw01grnr07mfc2zl6s` | EMAC-Dataset-Burundi | `emac-dataset-burundi-f0b4179a` | [link](https://mozilladatacollective.com/datasets/cmqj6g7jw01grnr07mfc2zl6s) | ❌ |
 | `cmqj6jxj401h9nr0766m4b8p0` | EMAC-Dataset-Cameroon | `emac-dataset-cameroon-5ae19153` | [link](https://mozilladatacollective.com/datasets/cmqj6jxj401h9nr0766m4b8p0) | ❌ |
 | `cmqj75zev01i8nq07v1qzjctb` | EMAC-Dataset-CAR | `emac-dataset-car-a7c6754b` | [link](https://mozilladatacollective.com/datasets/cmqj75zev01i8nq07v1qzjctb) | ❌ |
@@ -1132,6 +892,20 @@ data programmatically.
 | `cmtsqii5z00anl50768yu6nc0` | A Yezoum Sociocultural Dataset | `a-yezoum-sociocultural-dataset-885bd0cb` | [link](https://mozilladatacollective.com/datasets/cmtsqii5z00anl50768yu6nc0) | ❌ |
 | `cmtsqin6x00arl507fdafxq2b` | A Kali Sociocultural Dataset | `a-kali-sociocultural-dataset-1abbe8a6` | [link](https://mozilladatacollective.com/datasets/cmtsqin6x00arl507fdafxq2b) | ❌ |
 | `cmtufo0cx00gant07sgudmy3r` | Demakan Dialect of JAV-IND-ENG-ARB Parallel Corpus | `demakan-dialect-of-jav-ind-eng-arb-paral-8d13c8b1` | [link](https://mozilladatacollective.com/datasets/cmtufo0cx00gant07sgudmy3r) | ❌ |
+| `cmu1atvfl03z7nx08b8k13791` | 🚧 Brazilian Portuguese ASR dataset (140h) 🚧 | `brazilian-portuguese-asr-dataset-140h-4e9e07d0` | [link](https://mozilladatacollective.com/datasets/cmu1atvfl03z7nx08b8k13791) | ❌ |
+| `cmu1awryj03txnz07lpkb853l` | 🚧Software Engineering & AI Tooling 🚧 | `software-engineering-ai-tooling-fbfe7a25` | [link](https://mozilladatacollective.com/datasets/cmu1awryj03txnz07lpkb853l) | ❌ |
+| `cmu1awzhe03zfnx0833jjubvf` | A Guiziga Muturwa Sociocultural Dataset | `a-guiziga-muturwa-sociocultural-dataset-1671ec81` | [link](https://mozilladatacollective.com/datasets/cmu1awzhe03zfnx0833jjubvf) | ❌ |
+| `cmu1ax60f03zjnx081lh28hty` | TTS - Jepara Javanese Speech Corpus (JJSC) | `tts-jepara-javanese-speech-corpus-jjsc-37e17b42` | [link](https://mozilladatacollective.com/datasets/cmu1ax60f03zjnx081lh28hty) | ❌ |
+| `cmu1b03dq03zrnx08kumwzt3i` | BOSSCO : Bogor Sundanese Speech Corpus | `bossco-bogor-sundanese-speech-corpus-4d8ebb24` | [link](https://mozilladatacollective.com/datasets/cmu1b03dq03zrnx08kumwzt3i) | ❌ |
+| `cmu1b093003ulnz07ewduih9f` | A Kotoko Sociocultural Dataset | `a-kotoko-sociocultural-dataset-8d6a6eb2` | [link](https://mozilladatacollective.com/datasets/cmu1b093003ulnz07ewduih9f) | ❌ |
+| `cmu1iemys0017nv07dif045pk` | IND Bintaro-Jakarta: Urban and Mobility Multimodal Dataset | `ind-bintaro-jakarta-urban-and-mobility-m-db260de5` | [link](https://mozilladatacollective.com/datasets/cmu1iemys0017nv07dif045pk) | ❌ |
+| `cmu1ieso2001bo107h8377g5v` | Indonesian Lip Reading and Visual Speech Dataset | `indonesian-lip-reading-and-visual-speech-83f45e9e` | [link](https://mozilladatacollective.com/datasets/cmu1ieso2001bo107h8377g5v) | ❌ |
+| `cmu1iez97001fo1074hpjwhrj` | A Mandara Sociocultural Dataset | `a-mandara-sociocultural-dataset-2e32f59d` | [link](https://mozilladatacollective.com/datasets/cmu1iez97001fo1074hpjwhrj) | ❌ |
+| `cmu1if5at001bnv07yojsbktt` | A Moundang Sociocultural Dataset | `a-moundang-sociocultural-dataset-518907a9` | [link](https://mozilladatacollective.com/datasets/cmu1if5at001bnv07yojsbktt) | ❌ |
+| `cmu1itr2u0020o107zsw1byew` | A Nvon-Nvon Sociocultural Dataset | `a-nvon-nvon-sociocultural-dataset-c81f7177` | [link](https://mozilladatacollective.com/datasets/cmu1itr2u0020o107zsw1byew) | ❌ |
+| `cmu1ityrc0024o107b4n7rqo6` | Speech Corpus of Javanese-Klaten Regency | `speech-corpus-of-javanese-klaten-regency-96901a23` | [link](https://mozilladatacollective.com/datasets/cmu1ityrc0024o107b4n7rqo6) | ❌ |
+| `cmu1iu4op001ynv076vecqaa2` | A Podoko Sociocultural Dataset | `a-podoko-sociocultural-dataset-eddf98b4` | [link](https://mozilladatacollective.com/datasets/cmu1iu4op001ynv076vecqaa2) | ❌ |
+| `cmu1iu9hk0028o107jo1654q9` | A Yemba Sociocultural Dataset | `a-yemba-sociocultural-dataset-c9517b3c` | [link](https://mozilladatacollective.com/datasets/cmu1iu9hk0028o107jo1654q9) | ❌ |
 
 ## Schemas without a platform dataset
 
@@ -1142,3 +916,243 @@ for testing.
 | ID | Schema |
 |----|--------|
 | `cmiq2s3q5000fo207k9g6g7ou` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmiq2s3q5000fo207k9g6g7ou/schema.yaml) |
+| `cmqi1odot003emf07g3xz66g7` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi1odot003emf07g3xz66g7/schema.yaml) |
+| `cmqi1opsu003io5071cwo8yr4` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi1opsu003io5071cwo8yr4/schema.yaml) |
+| `cmqi1pa9p003imf070cpw1e7f` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi1pa9p003imf070cpw1e7f/schema.yaml) |
+| `cmqi1pu7y003mo507me1eqdyu` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi1pu7y003mo507me1eqdyu/schema.yaml) |
+| `cmqi1qb5q003qo507qp9irtgo` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi1qb5q003qo507qp9irtgo/schema.yaml) |
+| `cmqi1qqvz003mmf07o63fnm4l` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi1qqvz003mmf07o63fnm4l/schema.yaml) |
+| `cmqi1qzhq003qmf07ck89k48p` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi1qzhq003qmf07ck89k48p/schema.yaml) |
+| `cmqi1rc7e003uo5075ige4iyb` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi1rc7e003uo5075ige4iyb/schema.yaml) |
+| `cmqi1rl18003umf07looru9ib` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi1rl18003umf07looru9ib/schema.yaml) |
+| `cmqi23dft0040o507ugxj0tb7` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi23dft0040o507ugxj0tb7/schema.yaml) |
+| `cmqi23l1r0044o507nmp10zgn` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi23l1r0044o507nmp10zgn/schema.yaml) |
+| `cmqi23tst0042mf07vvsp800v` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi23tst0042mf07vvsp800v/schema.yaml) |
+| `cmqi247et0048o5073ahra0x4` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi247et0048o5073ahra0x4/schema.yaml) |
+| `cmqi24eta004co507icej3t0b` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi24eta004co507icej3t0b/schema.yaml) |
+| `cmqi24kf4004io50732dgb3a2` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi24kf4004io50732dgb3a2/schema.yaml) |
+| `cmqi24rxo0046mf07yo82y3ng` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi24rxo0046mf07yo82y3ng/schema.yaml) |
+| `cmqi24z70004mo507f28bygh9` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi24z70004mo507f28bygh9/schema.yaml) |
+| `cmqi25bfw004qo507j776vn95` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi25bfw004qo507j776vn95/schema.yaml) |
+| `cmqi25jho004uo5079kd1erte` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi25jho004uo5079kd1erte/schema.yaml) |
+| `cmqi25q67004yo5075qzb3gxb` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi25q67004yo5075qzb3gxb/schema.yaml) |
+| `cmqi25w5o004amf07o9nfshkj` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi25w5o004amf07o9nfshkj/schema.yaml) |
+| `cmqi266fh004emf071rxzh8r9` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi266fh004emf071rxzh8r9/schema.yaml) |
+| `cmqi289px0056o507wuxujktg` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi289px0056o507wuxujktg/schema.yaml) |
+| `cmqi28grp005ao507shgmx8s0` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi28grp005ao507shgmx8s0/schema.yaml) |
+| `cmqi28lt0005eo507a9ij8l2m` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi28lt0005eo507a9ij8l2m/schema.yaml) |
+| `cmqi28ss6005io507ra8n3p1r` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi28ss6005io507ra8n3p1r/schema.yaml) |
+| `cmqi28y2v004imf076oh7e5zs` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi28y2v004imf076oh7e5zs/schema.yaml) |
+| `cmqi294n3004mmf07wvybp3fn` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi294n3004mmf07wvybp3fn/schema.yaml) |
+| `cmqi29nk5004qmf073hjt7os3` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi29nk5004qmf073hjt7os3/schema.yaml) |
+| `cmqi29u41004umf07amojxtop` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi29u41004umf07amojxtop/schema.yaml) |
+| `cmqi2a11s005qo5071rpd0wc5` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2a11s005qo5071rpd0wc5/schema.yaml) |
+| `cmqi2a71t005uo507j5vzspfu` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2a71t005uo507j5vzspfu/schema.yaml) |
+| `cmqi2adru004ymf07gpvavy84` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2adru004ymf07gpvavy84/schema.yaml) |
+| `cmqi2b8dp0052mf07fbm4hvl9` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2b8dp0052mf07fbm4hvl9/schema.yaml) |
+| `cmqi2bi4u005yo507oqeasn0o` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2bi4u005yo507oqeasn0o/schema.yaml) |
+| `cmqi2c2eu0062o5075atr17rs` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2c2eu0062o5075atr17rs/schema.yaml) |
+| `cmqi2c9180056mf070rlkan5n` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2c9180056mf070rlkan5n/schema.yaml) |
+| `cmqi2ceqf005amf07pa32anv3` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2ceqf005amf07pa32anv3/schema.yaml) |
+| `cmqi2cktl005emf07aglnp538` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2cktl005emf07aglnp538/schema.yaml) |
+| `cmqi2csth0066o507zxd0li0z` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2csth0066o507zxd0li0z/schema.yaml) |
+| `cmqi2dktu005omf072yc3vzy1` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2dktu005omf072yc3vzy1/schema.yaml) |
+| `cmqi2dre0005smf07i0tu8v2m` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2dre0005smf07i0tu8v2m/schema.yaml) |
+| `cmqi2dy1e005wmf07w0fu3mgj` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2dy1e005wmf07w0fu3mgj/schema.yaml) |
+| `cmqi2e4ek006eo5075q8de0cz` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2e4ek006eo5075q8de0cz/schema.yaml) |
+| `cmqi2eahz006io507f0an87yb` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2eahz006io507f0an87yb/schema.yaml) |
+| `cmqi2eglh0060mf0777myw6ip` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2eglh0060mf0777myw6ip/schema.yaml) |
+| `cmqi2enfs006mo5075ek3e91p` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2enfs006mo5075ek3e91p/schema.yaml) |
+| `cmqi2ifza0068mf0704y1s34w` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2ifza0068mf0704y1s34w/schema.yaml) |
+| `cmqi2ikzm006cmf07yam3i21d` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2ikzm006cmf07yam3i21d/schema.yaml) |
+| `cmqi2irgg006uo5076hvghrdl` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2irgg006uo5076hvghrdl/schema.yaml) |
+| `cmqi2ixuj006gmf075elve53t` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2ixuj006gmf075elve53t/schema.yaml) |
+| `cmqi2j48a006yo5073s8f2d2p` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2j48a006yo5073s8f2d2p/schema.yaml) |
+| `cmqi2ja93006kmf07ztetqtmb` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2ja93006kmf07ztetqtmb/schema.yaml) |
+| `cmqi2ml040072o507pfrlx1xo` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2ml040072o507pfrlx1xo/schema.yaml) |
+| `cmqi2mr4z006omf076bl739t9` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2mr4z006omf076bl739t9/schema.yaml) |
+| `cmqi2n4qt0070mf077w1qp9ui` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2n4qt0070mf077w1qp9ui/schema.yaml) |
+| `cmqi2nb2v0078o507egunsihl` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2nb2v0078o507egunsihl/schema.yaml) |
+| `cmqi2ni0v007co507im3jxmyg` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2ni0v007co507im3jxmyg/schema.yaml) |
+| `cmqi2nmwx007go507ze6jrw4n` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi2nmwx007go507ze6jrw4n/schema.yaml) |
+| `cmqi66tdh00d8mf07ysfd1dn8` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi66tdh00d8mf07ysfd1dn8/schema.yaml) |
+| `cmqi66zwo00dcmf07xlhnlt98` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi66zwo00dcmf07xlhnlt98/schema.yaml) |
+| `cmqi678mw00eeo50732xclnoo` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi678mw00eeo50732xclnoo/schema.yaml) |
+| `cmqi6bgfy00emo507ilfm0vhq` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6bgfy00emo507ilfm0vhq/schema.yaml) |
+| `cmqi6frkb00eyo507j3c6xegh` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6frkb00eyo507j3c6xegh/schema.yaml) |
+| `cmqi6fxn400domf07hnzivrfw` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6fxn400domf07hnzivrfw/schema.yaml) |
+| `cmqi6g2nb00f2o5071728oqeu` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6g2nb00f2o5071728oqeu/schema.yaml) |
+| `cmqi6gd4900f6o507ce6lgkw8` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6gd4900f6o507ce6lgkw8/schema.yaml) |
+| `cmqi6gj5v00dwmf07mu79ql0u` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6gj5v00dwmf07mu79ql0u/schema.yaml) |
+| `cmqi6gs5r00e0mf0744yzpm1r` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6gs5r00e0mf0744yzpm1r/schema.yaml) |
+| `cmqi6he3100e8mf07lb3q613v` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6he3100e8mf07lb3q613v/schema.yaml) |
+| `cmqi6htyd00ekmf07d4hygvlc` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6htyd00ekmf07d4hygvlc/schema.yaml) |
+| `cmqi6p5cs00fwo507t622ympz` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6p5cs00fwo507t622ympz/schema.yaml) |
+| `cmqi6pk1n00f4mf07zv5z1buk` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6pk1n00f4mf07zv5z1buk/schema.yaml) |
+| `cmqi6q4st00gao507xmn8mtom` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6q4st00gao507xmn8mtom/schema.yaml) |
+| `cmqi6q9sa00famf07k3t3emq7` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6q9sa00famf07k3t3emq7/schema.yaml) |
+| `cmqi6qe8000geo507h8ij2zj4` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6qe8000geo507h8ij2zj4/schema.yaml) |
+| `cmqi6qj6d00femf07igtwoc45` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6qj6d00femf07igtwoc45/schema.yaml) |
+| `cmqi6qnzx00gio507tpz1lapx` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6qnzx00gio507tpz1lapx/schema.yaml) |
+| `cmqi6smr200gqo5077hxllfn7` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6smr200gqo5077hxllfn7/schema.yaml) |
+| `cmqi6ss2y00guo507u3jsgp4i` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6ss2y00guo507u3jsgp4i/schema.yaml) |
+| `cmqi6t63100h2o507kc8tamm4` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6t63100h2o507kc8tamm4/schema.yaml) |
+| `cmqi6tbhz00h6o507pdm5pv5y` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6tbhz00h6o507pdm5pv5y/schema.yaml) |
+| `cmqi6tgrb00fqmf07hawg79x9` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6tgrb00fqmf07hawg79x9/schema.yaml) |
+| `cmqi6tlxd00fumf07jyqvdyng` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6tlxd00fumf07jyqvdyng/schema.yaml) |
+| `cmqi6zmmo00heo507i7gfdunv` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6zmmo00heo507i7gfdunv/schema.yaml) |
+| `cmqi7005300hio5077wpgg6w9` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi7005300hio5077wpgg6w9/schema.yaml) |
+| `cmqi70u6u00gumf07ual1wr9e` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi70u6u00gumf07ual1wr9e/schema.yaml) |
+| `cmqi726rh00h2mf07u4zxuvng` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi726rh00h2mf07u4zxuvng/schema.yaml) |
+| `cmqi72s6j00hwo5076g5lbvsm` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi72s6j00hwo5076g5lbvsm/schema.yaml) |
+| `cmqi7373i00hmmf07kl72eanc` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi7373i00hmmf07kl72eanc/schema.yaml) |
+| `cmqi8ctpo00igmf07dtmsxren` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi8ctpo00igmf07dtmsxren/schema.yaml) |
+| `cmqi8d93u00iyo5070b0b52cv` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi8d93u00iyo5070b0b52cv/schema.yaml) |
+| `cmqi8u8z7000bnr07xcc21j0a` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi8u8z7000bnr07xcc21j0a/schema.yaml) |
+| `cmqi8udao000fnq0748obh86b` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi8udao000fnq0748obh86b/schema.yaml) |
+| `cmqi8uhp2000jnq072niarffi` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi8uhp2000jnq072niarffi/schema.yaml) |
+| `cmqi8uwkw000hnr07m0t9ntsk` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi8uwkw000hnr07m0t9ntsk/schema.yaml) |
+| `cmqi90ny10019nq07zw2dy7p8` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi90ny10019nq07zw2dy7p8/schema.yaml) |
+| `cmqi90sqx000vnr07ej5uxyct` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi90sqx000vnr07ej5uxyct/schema.yaml) |
+| `cmqi90yhv001dnq07wrimezbl` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi90yhv001dnq07wrimezbl/schema.yaml) |
+| `cmqi922c5001pnq07dmj0oypw` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi922c5001pnq07dmj0oypw/schema.yaml) |
+| `cmqi9278z001tnq07aljibmvm` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9278z001tnq07aljibmvm/schema.yaml) |
+| `cmqi92njs001xnq077hwjj7lq` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi92njs001xnq077hwjj7lq/schema.yaml) |
+| `cmqi92sm70017nr073k30zych` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi92sm70017nr073k30zych/schema.yaml) |
+| `cmqi92xdx0021nq07etytyjx8` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi92xdx0021nq07etytyjx8/schema.yaml) |
+| `cmqi93gkm001bnr071ukbil5k` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi93gkm001bnr071ukbil5k/schema.yaml) |
+| `cmqi94kb50029nq07ybytr068` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi94kb50029nq07ybytr068/schema.yaml) |
+| `cmqi955gy002dnq07g5igcl79` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi955gy002dnq07g5igcl79/schema.yaml) |
+| `cmqi96hox002lnq07pufi5ick` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi96hox002lnq07pufi5ick/schema.yaml) |
+| `cmqi96mjn002pnq07sm7obx3x` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi96mjn002pnq07sm7obx3x/schema.yaml) |
+| `cmqi96rv7002tnq079eha9t4b` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi96rv7002tnq079eha9t4b/schema.yaml) |
+| `cmqi973gr001rnr07dl5jamel` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi973gr001rnr07dl5jamel/schema.yaml) |
+| `cmqi97l490034nq070n59pxed` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi97l490034nq070n59pxed/schema.yaml) |
+| `cmqi97py20025nr07in93znww` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi97py20025nr07in93znww/schema.yaml) |
+| `cmqi97zao002anr07098afaeh` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi97zao002anr07098afaeh/schema.yaml) |
+| `cmqi983k7003knq07284ukx4y` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi983k7003knq07284ukx4y/schema.yaml) |
+| `cmqi988xh002gnr07ld9i4fcx` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi988xh002gnr07ld9i4fcx/schema.yaml) |
+| `cmqi9aphy004jnq07zieih5at` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9aphy004jnq07zieih5at/schema.yaml) |
+| `cmqi9ccl3003xnr07tv378vqt` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9ccl3003xnr07tv378vqt/schema.yaml) |
+| `cmqi9cgeb005dnq07fo06uzxu` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9cgeb005dnq07fo06uzxu/schema.yaml) |
+| `cmqi9ckty005hnq070sk6scrq` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9ckty005hnq070sk6scrq/schema.yaml) |
+| `cmqi9cp5t005tnq07272f8esn` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9cp5t005tnq07272f8esn/schema.yaml) |
+| `cmqi9etym006lnq07pszvx94w` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9etym006lnq07pszvx94w/schema.yaml) |
+| `cmqi9exsj004dnr075i205r2i` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9exsj004dnr075i205r2i/schema.yaml) |
+| `cmqi9f3uj004hnr07sabyb6x2` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9f3uj004hnr07sabyb6x2/schema.yaml) |
+| `cmqi9favy006tnq07xpj4xwy1` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9favy006tnq07xpj4xwy1/schema.yaml) |
+| `cmqi9feii004lnr07neji1yax` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9feii004lnr07neji1yax/schema.yaml) |
+| `cmqi9fht5004pnr07f38p9qee` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9fht5004pnr07f38p9qee/schema.yaml) |
+| `cmqi9x2ms0059nr07v13ljzo1` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9x2ms0059nr07v13ljzo1/schema.yaml) |
+| `cmqi9xbs90071nq076sant845` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9xbs90071nq076sant845/schema.yaml) |
+| `cmqi9xez5005hnr075tivt9gb` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9xez5005hnr075tivt9gb/schema.yaml) |
+| `cmqi9xlxd005lnr07zt0anf5d` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9xlxd005lnr07zt0anf5d/schema.yaml) |
+| `cmqi9xq0c0079nq07uonstwpu` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9xq0c0079nq07uonstwpu/schema.yaml) |
+| `cmqia124y0081nq07b9vjzd28` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqia124y0081nq07b9vjzd28/schema.yaml) |
+| `cmqia143t006hnr07swhjsojt` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqia143t006hnr07swhjsojt/schema.yaml) |
+| `cmqia167q0085nq07crhmfly0` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqia167q0085nq07crhmfly0/schema.yaml) |
+| `cmqia184d006pnr07llqnd4et` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqia184d006pnr07llqnd4et/schema.yaml) |
+| `cmqia1a5k008hnq07gdodg1sm` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqia1a5k008hnq07gdodg1sm/schema.yaml) |
+| `cmqia1cau008lnq07ydv02gu8` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqia1cau008lnq07ydv02gu8/schema.yaml) |
+| `cmqia1ea4008pnq07ltrp8c5s` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqia1ea4008pnq07ltrp8c5s/schema.yaml) |
+| `cmqia1gdd008tnq073dgc4a8h` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqia1gdd008tnq073dgc4a8h/schema.yaml) |
+| `cmqia1ihi008xnq07xygc5c4s` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqia1ihi008xnq07xygc5c4s/schema.yaml) |
+| `cmqia1kdm006tnr073wddnk9o` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqia1kdm006tnr073wddnk9o/schema.yaml) |
+| `cmqialna3006znr07i1pxfwm9` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqialna3006znr07i1pxfwm9/schema.yaml) |
+| `cmqialoe90073nr07kt1ztkxe` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqialoe90073nr07kt1ztkxe/schema.yaml) |
+| `cmqialpeo0077nr077xqdqo0j` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqialpeo0077nr077xqdqo0j/schema.yaml) |
+| `cmqialqsu007bnr07e4se1rl8` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqialqsu007bnr07e4se1rl8/schema.yaml) |
+| `cmqialwmq0091nq07eu28tcau` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqialwmq0091nq07eu28tcau/schema.yaml) |
+| `cmqialxzt0095nq078d2hznc8` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqialxzt0095nq078d2hznc8/schema.yaml) |
+| `cmqiam0y4009dnq07y072vmjk` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiam0y4009dnq07y072vmjk/schema.yaml) |
+| `cmqiam2dh007jnr07i8m96tra` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiam2dh007jnr07i8m96tra/schema.yaml) |
+| `cmqiaq1nn007znr07qss7tcb5` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiaq1nn007znr07qss7tcb5/schema.yaml) |
+| `cmqiaq3ae0083nr07rhacg5x2` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiaq3ae0083nr07rhacg5x2/schema.yaml) |
+| `cmqie5gua00e7nq07i7smz5ac` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqie5gua00e7nq07i7smz5ac/schema.yaml) |
+| `cmqie94oh00ernq07xctk0d8f` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqie94oh00ernq07xctk0d8f/schema.yaml) |
+| `cmqie95uy00evnq07dc9tqagz` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqie95uy00evnq07dc9tqagz/schema.yaml) |
+| `cmqieijjh00d3nr07m9elw7cc` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqieijjh00d3nr07m9elw7cc/schema.yaml) |
+| `cmqieildv00d7nr07oq4hhq5o` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqieildv00d7nr07oq4hhq5o/schema.yaml) |
+| `cmqieiq7n00fnnq07u22l50cj` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqieiq7n00fnnq07u22l50cj/schema.yaml) |
+| `cmqieis2r00dbnr07244wykdx` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqieis2r00dbnr07244wykdx/schema.yaml) |
+| `cmqieiwvr00dfnr07j9lmgzr7` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqieiwvr00dfnr07j9lmgzr7/schema.yaml) |
+| `cmqieiypt00djnr07788g7yv1` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqieiypt00djnr07788g7yv1/schema.yaml) |
+| `cmqiej0w700dnnr07xno2pgy8` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiej0w700dnnr07xno2pgy8/schema.yaml) |
+| `cmqiej2oj00drnr072e5wrare` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiej2oj00drnr072e5wrare/schema.yaml) |
+| `cmqiglff100innq07ytefmv64` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiglff100innq07ytefmv64/schema.yaml) |
+| `cmqiglkma00gznr07blt2l667` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiglkma00gznr07blt2l667/schema.yaml) |
+| `cmqiglmbu00h3nr07e10thtet` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiglmbu00h3nr07e10thtet/schema.yaml) |
+| `cmqiglrbo00hbnr07ck8co7cp` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiglrbo00hbnr07ck8co7cp/schema.yaml) |
+| `cmqigoomq00j1nq07i0126jgl` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqigoomq00j1nq07i0126jgl/schema.yaml) |
+| `cmqigoq6p00j5nq07pwyswtqj` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqigoq6p00j5nq07pwyswtqj/schema.yaml) |
+| `cmqigowzn00hjnr07fqnrmozz` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqigowzn00hjnr07fqnrmozz/schema.yaml) |
+| `cmqigp1b000hrnr073gr5xv52` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqigp1b000hrnr073gr5xv52/schema.yaml) |
+| `cmqigqnxf00hxnr07ffy8dq8x` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqigqnxf00hxnr07ffy8dq8x/schema.yaml) |
+| `cmqigrvys00i3nr07ngkpb6b2` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqigrvys00i3nr07ngkpb6b2/schema.yaml) |
+| `cmqigs2m100ibnr074yws9svf` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqigs2m100ibnr074yws9svf/schema.yaml) |
+| `cmqilxulo00r4nr079y9y8opu` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqilxulo00r4nr079y9y8opu/schema.yaml) |
+| `cmqilxwjm00r8nr07acb9f5i9` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqilxwjm00r8nr07acb9f5i9/schema.yaml) |
+| `cmqily1ud00rknr071s3mdq3h` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqily1ud00rknr071s3mdq3h/schema.yaml) |
+| `cmqily5ow00rsnr078lgrimto` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqily5ow00rsnr078lgrimto/schema.yaml) |
+| `cmqily7uh00rwnr070p6ijw8z` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqily7uh00rwnr070p6ijw8z/schema.yaml) |
+| `cmqilybng00s4nr07zxieouks` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqilybng00s4nr07zxieouks/schema.yaml) |
+| `cmqilyfgd00scnr07t322rro3` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqilyfgd00scnr07t322rro3/schema.yaml) |
+| `cmqim2hn800ssnr07gvmpcnwu` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim2hn800ssnr07gvmpcnwu/schema.yaml) |
+| `cmqim2ln300tcnq070ylazhfe` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim2ln300tcnq070ylazhfe/schema.yaml) |
+| `cmqim2spa00synr071fcp7av0` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim2spa00synr071fcp7av0/schema.yaml) |
+| `cmqim2wa300tonq071u17tlvn` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim2wa300tonq071u17tlvn/schema.yaml) |
+| `cmqim355q00t2nr07fozmjsk9` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim355q00t2nr07fozmjsk9/schema.yaml) |
+| `cmqim3xpi00t6nr07k0myqtkr` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim3xpi00t6nr07k0myqtkr/schema.yaml) |
+| `cmqim41b000tanr07q9btypkc` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim41b000tanr07q9btypkc/schema.yaml) |
+| `cmqim44fo00tinr07mbu70eg7` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim44fo00tinr07mbu70eg7/schema.yaml) |
+| `cmqim4fux00tynq07ljtyhzfh` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim4fux00tynq07ljtyhzfh/schema.yaml) |
+| `cmqim4iw800tqnr07n2gs5mpv` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim4iw800tqnr07n2gs5mpv/schema.yaml) |
+| `cmqim4lxy00tunr07cjkcupeg` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim4lxy00tunr07cjkcupeg/schema.yaml) |
+| `cmqinhruw00vinq07tohj4fd3` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinhruw00vinq07tohj4fd3/schema.yaml) |
+| `cmqinhw5100v8nr07gyg5gi4v` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinhw5100v8nr07gyg5gi4v/schema.yaml) |
+| `cmqini14100vmnq07309ocknr` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqini14100vmnq07309ocknr/schema.yaml) |
+| `cmqini7z900vknr073977qyvh` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqini7z900vknr073977qyvh/schema.yaml) |
+| `cmqiniilg00vunq07zxqfve8a` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiniilg00vunq07zxqfve8a/schema.yaml) |
+| `cmqinjgh200vwnr07wcnb4if5` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinjgh200vwnr07wcnb4if5/schema.yaml) |
+| `cmqinjn4o00w6nq07pyqsmwg7` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinjn4o00w6nq07pyqsmwg7/schema.yaml) |
+| `cmqinjvun00w0nr07mkryrq8n` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinjvun00w0nr07mkryrq8n/schema.yaml) |
+| `cmqinmdik00wanq07o6cqnhps` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinmdik00wanq07o6cqnhps/schema.yaml) |
+| `cmqinmgw400w4nr07r24gw0pm` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinmgw400w4nr07r24gw0pm/schema.yaml) |
+| `cmqinmqu700wcnr07xm7nxh0b` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinmqu700wcnr07xm7nxh0b/schema.yaml) |
+| `cmqinmydk00wgnr07qvgbi8sj` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinmydk00wgnr07qvgbi8sj/schema.yaml) |
+| `cmqino47i00wmnq074t5nscur` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqino47i00wmnq074t5nscur/schema.yaml) |
+| `cmqino7ym00wqnq072h0gab54` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqino7ym00wqnq072h0gab54/schema.yaml) |
+| `cmqinob6900wknr07s6fgcprx` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinob6900wknr07s6fgcprx/schema.yaml) |
+| `cmqinoh7z00wsnr07v5ixz5uo` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinoh7z00wsnr07v5ixz5uo/schema.yaml) |
+| `cmqinq6zs00x8nr07elg0nyrr` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinq6zs00x8nr07elg0nyrr/schema.yaml) |
+| `cmqinqej600xcnr07kx4oxaxf` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinqej600xcnr07kx4oxaxf/schema.yaml) |
+| `cmqinqhul00wynq07koxlxbo5` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinqhul00wynq07koxlxbo5/schema.yaml) |
+| `cmqinqlhq00xgnr07jyuw5pdw` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinqlhq00xgnr07jyuw5pdw/schema.yaml) |
+| `cmqinqp7r00x2nq071z5e06oa` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinqp7r00x2nq071z5e06oa/schema.yaml) |
+| `cmqinqswd00xknr070bnj5oq0` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinqswd00xknr070bnj5oq0/schema.yaml) |
+| `cmqinqwef00xonr07z4vbfovw` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinqwef00xonr07z4vbfovw/schema.yaml) |
+| `cmqinslcc00x6nq07ti1p027x` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinslcc00x6nq07ti1p027x/schema.yaml) |
+| `cmqinsp2y00xsnr07ra8gxfoi` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinsp2y00xsnr07ra8gxfoi/schema.yaml) |
+| `cmqinu7wb00y4nr0747mb29yk` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinu7wb00y4nr0747mb29yk/schema.yaml) |
+| `cmqinxlpx00y8nr07taeqjcfe` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinxlpx00y8nr07taeqjcfe/schema.yaml) |
+| `cmqinxq4700xinq07d7g22h2h` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinxq4700xinq07d7g22h2h/schema.yaml) |
+| `cmqinxu0l00ycnr07obbjovk0` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinxu0l00ycnr07obbjovk0/schema.yaml) |
+| `cmqinxxpp00xmnq078zjqlimw` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinxxpp00xmnq078zjqlimw/schema.yaml) |
+| `cmqiny85c00xunq07lvutf0he` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiny85c00xunq07lvutf0he/schema.yaml) |
+| `cmqinyc0y00yknr07et5hdtdm` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinyc0y00yknr07et5hdtdm/schema.yaml) |
+| `cmqio1o2y00yonr07g0679xv1` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqio1o2y00yonr07g0679xv1/schema.yaml) |
+| `cmqio1zt700ywnr07bfgy7gjx` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqio1zt700ywnr07bfgy7gjx/schema.yaml) |
+| `cmqio23ji00y2nq07g7q2hihm` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqio23ji00y2nq07g7q2hihm/schema.yaml) |
+| `cmqio27ad00z0nr07dqfl3c3m` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqio27ad00z0nr07dqfl3c3m/schema.yaml) |
+| `cmqio2gci00z4nr07njrbei37` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqio2gci00z4nr07njrbei37/schema.yaml) |
+| `cmqiod71900zgnr07uiyw57br` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiod71900zgnr07uiyw57br/schema.yaml) |
+| `cmqiodeas00ygnq07bomw55e4` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiodeas00ygnq07bomw55e4/schema.yaml) |
+| `cmqiodpav00yknq07kfcyu7c0` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiodpav00yknq07kfcyu7c0/schema.yaml) |
+| `cmqioff2b00z4nq079q2hqog1` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqioff2b00z4nq079q2hqog1/schema.yaml) |
+| `cmqiofi6700z8nq07bh41vsb1` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiofi6700z8nq07bh41vsb1/schema.yaml) |
+| `cmqioflak00zwnr073z9m9cra` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqioflak00zwnr073z9m9cra/schema.yaml) |
+| `cmqiofoxn0100nr07w1q1i64q` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiofoxn0100nr07w1q1i64q/schema.yaml) |
+| `cmqiohd070104nr07k0zc3qt6` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiohd070104nr07k0zc3qt6/schema.yaml) |
+| `cmqiohial00zgnq07ybhhu7ni` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiohial00zgnq07ybhhu7ni/schema.yaml) |
+| `cmqiohrxe0108nr07moskb6pu` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiohrxe0108nr07moskb6pu/schema.yaml) |
+| `cmqiohwz000zonq07iycu740l` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiohwz000zonq07iycu740l/schema.yaml) |
