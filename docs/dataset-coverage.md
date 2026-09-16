@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-15  
-**Total datasets in sitemap:** 768  
-**Schemas registered:** 58 ✅  
-**Schemas missing:** 710 ❌  
+**Last updated:** 2026-09-16  
+**Total datasets in sitemap:** 791  
+**Schemas registered:** 44 ✅  
+**Schemas missing:** 747 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -135,7 +135,7 @@ data programmatically.
 | `cml16fpkn009lnt07ht6k406o` | Ewondo-TTS-Dataset | `ewondo-tts-dataset-ef07a0de` | [link](https://mozilladatacollective.com/datasets/cml16fpkn009lnt07ht6k406o) | ❌ |
 | `cml5asbhf009sme079y6sa9hm` | Adamawa Fulfulde-French Parallel Corpus of Narratives 1.2 | `adamawa-fulfulde-french-parallel-corpus-748952a3` | [link](https://mozilladatacollective.com/datasets/cml5asbhf009sme079y6sa9hm) | ❌ |
 | `cml5bgysg00bhkr07g23kewke` | TTS Javanese-Lumajang Dialect | `tts-javanese-lumajang-dialect-ec830842` | [link](https://mozilladatacollective.com/datasets/cml5bgysg00bhkr07g23kewke) | ❌ |
-| `cml5bn4k900aame07u0rwidcg` | TTS Central Javanese  | `tts-central-javanese-18f65d12` | [link](https://mozilladatacollective.com/datasets/cml5bn4k900aame07u0rwidcg) | ❌ |
+| `cml5bn4k900aame07u0rwidcg` | TTS Central Javanese  | `tts-central-javanese-60f745c9` | [link](https://mozilladatacollective.com/datasets/cml5bn4k900aame07u0rwidcg) | ❌ |
 | `cml5e30pd00eskr072e6a4rrh` | Mandar Spontaneous Speech | `mandar-spontaneous-speech-05a6e755` | [link](https://mozilladatacollective.com/datasets/cml5e30pd00eskr072e6a4rrh) | ❌ |
 | `cml6ywgg0007xmn07ppq469gt` | TTS-Tolaki | `tts-tolaki-d48cdaf8` | [link](https://mozilladatacollective.com/datasets/cml6ywgg0007xmn07ppq469gt) | ❌ |
 | `cml8gixh60087o407lfgoumgu` | Tatar Folklore Text Corpus | `tatar-folklore-text-corpus-48dc1a6a` | [link](https://mozilladatacollective.com/datasets/cml8gixh60087o407lfgoumgu) | ❌ |
@@ -433,7 +433,7 @@ data programmatically.
 | `cmpwi0ac200zbo007hebmkzqy` | TTS Javanese-Gresik Dialect | `tts-javanese-gresik-dialect-602f80a3` | [link](https://mozilladatacollective.com/datasets/cmpwi0ac200zbo007hebmkzqy) | ❌ |
 | `cmpwi2f8y00y5nv06lptoxf6n` | Mandar Balanipa Speech Corpus | `mandar-balanipa-speech-corpus-d4da2913` | [link](https://mozilladatacollective.com/datasets/cmpwi2f8y00y5nv06lptoxf6n) | ❌ |
 | `cmpwidn0500zpo0079wsj1phv` | Gbaya-Lay_ALCAM-MultimodalDataset | `gbaya-lay-alcam-multimodaldataset-5ed5cc2e` | [link](https://mozilladatacollective.com/datasets/cmpwidn0500zpo0079wsj1phv) | ❌ |
-| `cmpwkd15w013snv06tb5z0ydr` | Marathi Blog & Literature Corpus | `marathi-blog-literature-corpus-8651940f` | [link](https://mozilladatacollective.com/datasets/cmpwkd15w013snv06tb5z0ydr) | ❌ |
+| `cmpwkd15w013snv06tb5z0ydr` | Marathi Blog & Literature Corpus | `marathi-blog-literature-corpus-b340177c` | [link](https://mozilladatacollective.com/datasets/cmpwkd15w013snv06tb5z0ydr) | ❌ |
 | `cmpzgijrk001cnx0732jcpyc9` | OSHA Severe Injuries by Employer 2015-2025  | `osha-severe-injuries-by-employer-2015-20-d890e565` | [link](https://mozilladatacollective.com/datasets/cmpzgijrk001cnx0732jcpyc9) | ❌ |
 | `cmpzgm29a001hnx07px74x658` | Buscadores Temáticos de la Plataforma Nacional de Transparencia (PNT) de México  | `buscadores-tem-ticos-de-la-plataforma-na-f9a77536` | [link](https://mozilladatacollective.com/datasets/cmpzgm29a001hnx07px74x658) | ❌ |
 | `cmpzkqaqu0065nv070bdv5hfj` | TermOfis terminology database Breton-French | `termofis-terminology-database-breton-fre-bef3c0e5` | [link](https://mozilladatacollective.com/datasets/cmpzkqaqu0065nv070bdv5hfj) | ❌ |
@@ -462,20 +462,6 @@ data programmatically.
 | `cmqf6bpns06gal20726pxld9z` | Sample Tupuri-Bango_TTS-Dataset (male voice) | `sample-tupuri-bango-tts-dataset-male-voi-259b9597` | [link](https://mozilladatacollective.com/datasets/cmqf6bpns06gal20726pxld9z) | ❌ |
 | `cmqf6c04x06gel207o5vjtni7` | Sample Ngiemboon-TTS-Dataset | `sample-ngiemboon-tts-dataset-094984f3` | [link](https://mozilladatacollective.com/datasets/cmqf6c04x06gel207o5vjtni7) | ❌ |
 | `cmqf6c9lc06gil2075rm34xds` | Sample Mbo-TTS-Dataset | `sample-mbo-tts-dataset-121e2846` | [link](https://mozilladatacollective.com/datasets/cmqf6c9lc06gil2075rm34xds) | ❌ |
-| `cmqi6qutc00gmo507myna6k5s` | Common Voice Scripted Speech 26.0 - Yoruba | `common-voice-scripted-speech-26-0-yoruba-44f2a122` | [link](https://mozilladatacollective.com/datasets/cmqi6qutc00gmo507myna6k5s) | ✅ |
-| `cmqi70zqf00gymf0755f66bhd` | Common Voice Scripted Speech 26.0 - Zaza | `common-voice-scripted-speech-26-0-zaza-d5802195` | [link](https://mozilladatacollective.com/datasets/cmqi70zqf00gymf0755f66bhd) | ✅ |
-| `cmqi72hiv00hqo5077ilqlp5y` | Common Voice Scripted Speech 26.0 - Yiddish | `common-voice-scripted-speech-26-0-yiddis-84645ac6` | [link](https://mozilladatacollective.com/datasets/cmqi72hiv00hqo5077ilqlp5y) | ✅ |
-| `cmqi72mr500hamf078fyzfgq1` | Common Voice Scripted Speech 26.0 - Tamazight | `common-voice-scripted-speech-26-0-tamazi-1c2f3fc5` | [link](https://mozilladatacollective.com/datasets/cmqi72mr500hamf078fyzfgq1) | ✅ |
-| `cmqi967xo001nnr07jhrfm19u` | Common Voice Scripted Speech 26.0 - Copainalá Zoque | `common-voice-scripted-speech-26-0-copain-6496853c` | [link](https://mozilladatacollective.com/datasets/cmqi967xo001nnr07jhrfm19u) | ✅ |
-| `cmqi9783o001znr072zwxveon` | Common Voice Scripted Speech 26.0 - Nuasue | `common-voice-scripted-speech-26-0-nuasue-59294b28` | [link](https://mozilladatacollective.com/datasets/cmqi9783o001znr072zwxveon) | ✅ |
-| `cmqi9f7d9006pnq07xrvziuay` | Common Voice Scripted Speech 26.0 - Mingrelian | `common-voice-scripted-speech-26-0-mingre-654eafa1` | [link](https://mozilladatacollective.com/datasets/cmqi9f7d9006pnq07xrvziuay) | ✅ |
-| `cmqiapwcq009tnq075e9981yy` | Common Voice Scripted Speech 26.0 - Zulu | `common-voice-scripted-speech-26-0-zulu-92af6cca` | [link](https://mozilladatacollective.com/datasets/cmqiapwcq009tnq075e9981yy) | ✅ |
-| `cmqiglp6z00h7nr071tvu5sry` | Common Voice Scripted Speech 26.0 - Yadgha | `common-voice-scripted-speech-26-0-yadgha-46428799` | [link](https://mozilladatacollective.com/datasets/cmqiglp6z00h7nr071tvu5sry) | ✅ |
-| `cmqigomx300ixnq070wlu5nov` | Common Voice Scripted Speech 26.0 - Yaqui | `common-voice-scripted-speech-26-0-yaqui-07e42406` | [link](https://mozilladatacollective.com/datasets/cmqigomx300ixnq070wlu5nov) | ✅ |
-| `cmqim47x700tunq074za20dq1` | Common Voice Scripted Speech 26.0 - Chinese (China) | `common-voice-scripted-speech-26-0-chines-18e98647` | [link](https://mozilladatacollective.com/datasets/cmqim47x700tunq074za20dq1) | ✅ |
-| `cmqinjd7x00vynq07pwzo3lmp` | Common Voice Scripted Speech 26.0 - Cantonese | `common-voice-scripted-speech-26-0-canton-3bc2b1fd` | [link](https://mozilladatacollective.com/datasets/cmqinjd7x00vynq07pwzo3lmp) | ✅ |
-| `cmqinoe3p00wonr07fumnrmtg` | Common Voice Scripted Speech 26.0 - Chinese (Hong Kong) | `common-voice-scripted-speech-26-0-chines-0240e64b` | [link](https://mozilladatacollective.com/datasets/cmqinoe3p00wonr07fumnrmtg) | ✅ |
-| `cmqinooq000x0nr07b4p4ct4q` | Common Voice Scripted Speech 26.0 - Chinese (Taiwan) | `common-voice-scripted-speech-26-0-chines-7e787d3b` | [link](https://mozilladatacollective.com/datasets/cmqinooq000x0nr07b4p4ct4q) | ✅ |
 | `cmqj6g7jw01grnr07mfc2zl6s` | EMAC-Dataset-Burundi | `emac-dataset-burundi-f0b4179a` | [link](https://mozilladatacollective.com/datasets/cmqj6g7jw01grnr07mfc2zl6s) | ❌ |
 | `cmqj6jxj401h9nr0766m4b8p0` | EMAC-Dataset-Cameroon | `emac-dataset-cameroon-5ae19153` | [link](https://mozilladatacollective.com/datasets/cmqj6jxj401h9nr0766m4b8p0) | ❌ |
 | `cmqj75zev01i8nq07v1qzjctb` | EMAC-Dataset-CAR | `emac-dataset-car-a7c6754b` | [link](https://mozilladatacollective.com/datasets/cmqj75zev01i8nq07v1qzjctb) | ❌ |
@@ -787,6 +773,43 @@ data programmatically.
 | `cmu1ityrc0024o107b4n7rqo6` | Speech Corpus of Javanese-Klaten Regency | `speech-corpus-of-javanese-klaten-regency-96901a23` | [link](https://mozilladatacollective.com/datasets/cmu1ityrc0024o107b4n7rqo6) | ❌ |
 | `cmu1iu4op001ynv076vecqaa2` | A Podoko Sociocultural Dataset | `a-podoko-sociocultural-dataset-eddf98b4` | [link](https://mozilladatacollective.com/datasets/cmu1iu4op001ynv076vecqaa2) | ❌ |
 | `cmu1iu9hk0028o107jo1654q9` | A Yemba Sociocultural Dataset | `a-yemba-sociocultural-dataset-c9517b3c` | [link](https://mozilladatacollective.com/datasets/cmu1iu9hk0028o107jo1654q9) | ❌ |
+| `cmu2mq96s00ugo1072rf2p6e3` | Indonesian Speech Motion Dataset | `indonesian-speech-motion-dataset-5717870f` | [link](https://mozilladatacollective.com/datasets/cmu2mq96s00ugo1072rf2p6e3) | ❌ |
+| `cmu2n2gqy00uknv07nq1g51mx` | Pemalang Dialect of JAV-IND-ENG-ARB Parallel Corpus | `pemalang-dialect-of-jav-ind-eng-arb-para-ed2b71f1` | [link](https://mozilladatacollective.com/datasets/cmu2n2gqy00uknv07nq1g51mx) | ❌ |
+| `cmu2n2lir00uonv07iqzo4j4b` | JAV IKRAR - Craft and Cultural Heritage Multimodal Corpus | `jav-ikrar-craft-and-cultural-heritage-mu-36651fe4` | [link](https://mozilladatacollective.com/datasets/cmu2n2lir00uonv07iqzo4j4b) | ❌ |
+| `cmu2n2r7m00usnv07zcyldsaa` | An Oroko Sociocultural Dataset | `an-oroko-sociocultural-dataset-c9368e78` | [link](https://mozilladatacollective.com/datasets/cmu2n2r7m00usnv07zcyldsaa) | ❌ |
+| `cmu2n2vuj00uko107b9w409cs` | A Dii Sociocultural Dataset | `a-dii-sociocultural-dataset-c323a900` | [link](https://mozilladatacollective.com/datasets/cmu2n2vuj00uko107b9w409cs) | ❌ |
+| `cmu2n7ss800uso107iwyr30zx` | A Maka Sociocultural Dataset | `a-maka-sociocultural-dataset-98addaf1` | [link](https://mozilladatacollective.com/datasets/cmu2n7ss800uso107iwyr30zx) | ❌ |
+| `cmu2n7xzj00uwnv07q9713hbz` | A Bodiman Sociocultural Dataset | `a-bodiman-sociocultural-dataset-18671cda` | [link](https://mozilladatacollective.com/datasets/cmu2n7xzj00uwnv07q9713hbz) | ❌ |
+| `cmu2n83gs00v0nv07cd66jl5q` | A Pɛrɛ Sociocultural Dataset | `a-p-r-sociocultural-dataset-447fd033` | [link](https://mozilladatacollective.com/datasets/cmu2n83gs00v0nv07cd66jl5q) | ❌ |
+| `cmu2n89qg00uwo107qvz2su1m` | JAV-Culture: Gresik–Surabaya Multimodal Corpus | `jav-culture-gresik-surabaya-multimodal-c-1cb2d6d8` | [link](https://mozilladatacollective.com/datasets/cmu2n89qg00uwo107qvz2su1m) | ❌ |
+| `cmu2nbkff00v6nv07idjcnzlf` | IND-Sign: Gresik–Surabaya Public Space Multimodal Corpus | `ind-sign-gresik-surabaya-public-space-mu-44fe55aa` | [link](https://mozilladatacollective.com/datasets/cmu2nbkff00v6nv07idjcnzlf) | ❌ |
+| `cmu2nc9ec00v2o107i3r52xp6` | A Fondjenti Sociocultural Dataset | `a-fondjenti-sociocultural-dataset-1f999b8c` | [link](https://mozilladatacollective.com/datasets/cmu2nc9ec00v2o107i3r52xp6) | ❌ |
+| `cmu2ncgja00vanv07u206ihmq` | A Vute Sociocultural Dataset | `a-vute-sociocultural-dataset-f71e0edc` | [link](https://mozilladatacollective.com/datasets/cmu2ncgja00vanv07u206ihmq) | ❌ |
+| `cmu2ncknm00venv07eoqfxrzu` | A Manguissa Sociocultural Dataset | `a-manguissa-sociocultural-dataset-6115a7ed` | [link](https://mozilladatacollective.com/datasets/cmu2ncknm00venv07eoqfxrzu) | ❌ |
+| `cmu2nd1lk00v6o10710h910ct` | An Ossananga Sociocultural Dataset | `an-ossananga-sociocultural-dataset-a1de6fc6` | [link](https://mozilladatacollective.com/datasets/cmu2nd1lk00v6o10710h910ct) | ❌ |
+| `cmu2nd71100vinv075o55lvf7` | JAV-Sign: Gresik–Surabaya Public Space Multimodal Corpus | `jav-sign-gresik-surabaya-public-space-mu-56b8e58d` | [link](https://mozilladatacollective.com/datasets/cmu2nd71100vinv075o55lvf7) | ❌ |
+| `cmu2ndeip00vmnv07okjtandg` | IND IKRAR - Craft and Cultural Heritage Multimodal Corpus  | `ind-ikrar-craft-and-cultural-heritage-mu-ed64266f` | [link](https://mozilladatacollective.com/datasets/cmu2ndeip00vmnv07okjtandg) | ❌ |
+| `cmu2ndpni00vqnv07cvocbw4o` | Huni Kuin: Narratives | `huni-kuin-narratives-5c9ebeb8` | [link](https://mozilladatacollective.com/datasets/cmu2ndpni00vqnv07cvocbw4o) | ❌ |
+| `cmu2nhykt00vao10715zjt6lc` | A Fang Sociocultural Dataset | `a-fang-sociocultural-dataset-ea764f09` | [link](https://mozilladatacollective.com/datasets/cmu2nhykt00vao10715zjt6lc) | ❌ |
+| `cmu2q5xt300ybnv073jkgyzfw` | Pano: Comparative Word Lists | `pano-comparative-word-lists-73d1d64f` | [link](https://mozilladatacollective.com/datasets/cmu2q5xt300ybnv073jkgyzfw) | ❌ |
+| `cmu2q67rr00x0o107u9kwmiv0` | Kakataibo: Phonetic Word List | `kakataibo-phonetic-word-list-09bd2f29` | [link](https://mozilladatacollective.com/datasets/cmu2q67rr00x0o107u9kwmiv0) | ❌ |
+| `cmu2rbemb0007nr07nq1sd4kk` | Awajún: Phonetic Word List | `awaj-n-phonetic-word-list-a0f6bcdc` | [link](https://mozilladatacollective.com/datasets/cmu2rbemb0007nr07nq1sd4kk) | ❌ |
+| `cmu2rblau000bnr07tb0yaxku` | Shipibo-Konibo: Mundialito | `shipibo-konibo-mundialito-47aa0f89` | [link](https://mozilladatacollective.com/datasets/cmu2rblau000bnr07tb0yaxku) | ❌ |
+| `cmu2rkf1o000jnr078v0funze` | Aymara: Phonetic Word Lists | `aymara-phonetic-word-lists-6ed07c8c` | [link](https://mozilladatacollective.com/datasets/cmu2rkf1o000jnr078v0funze) | ❌ |
+| `cmu2rlabb0003mr07ckc51iwm` | Shiwilu: Narratives and Songs | `shiwilu-narratives-and-songs-8655e8d6` | [link](https://mozilladatacollective.com/datasets/cmu2rlabb0003mr07ckc51iwm) | ❌ |
+| `cmu2usbdt001omr07iv3ixxe5` | Amahuaca: Narratives and Conversations | `amahuaca-narratives-and-conversations-3a433303` | [link](https://mozilladatacollective.com/datasets/cmu2usbdt001omr07iv3ixxe5) | ❌ |
+| `cmu2usi69001smr07ofl318i7` | Amahuaca: Knowledge and Practices | `amahuaca-knowledge-and-practices-e051d8a9` | [link](https://mozilladatacollective.com/datasets/cmu2usi69001smr07ofl318i7) | ❌ |
+| `cmu2usntw002knr07lkyofqw7` | Amahuaca: Life Stories | `amahuaca-life-stories-a5b8b817` | [link](https://mozilladatacollective.com/datasets/cmu2usntw002knr07lkyofqw7) | ❌ |
+| `cmu2uswge002onr07yn1dlpb1` | Kakataibo:  Traditional songs | `kakataibo-traditional-songs-61715ff6` | [link](https://mozilladatacollective.com/datasets/cmu2uswge002onr07yn1dlpb1) | ❌ |
+| `cmu2ut4p3002snr07bfyuaavn` | Iskonawa: Life and Craftsmanship | `iskonawa-life-and-craftsmanship-24bac101` | [link](https://mozilladatacollective.com/datasets/cmu2ut4p3002snr07bfyuaavn) | ❌ |
+| `cmu2utbcf002wnr07r0amtali` | Kakataibo: Audiovisual Narratives | `kakataibo-audiovisual-narratives-f6e8fec3` | [link](https://mozilladatacollective.com/datasets/cmu2utbcf002wnr07r0amtali) | ❌ |
+| `cmu2uthhq001wmr07xt84bn2n` | Iskonawa: Oral Tradition and Conversations | `iskonawa-oral-tradition-and-conversation-e7f518a1` | [link](https://mozilladatacollective.com/datasets/cmu2uthhq001wmr07xt84bn2n) | ❌ |
+| `cmu2utnca0030nr07c4exrhyn` | Iskonawa: Personal Narratives | `iskonawa-personal-narratives-d0386af9` | [link](https://mozilladatacollective.com/datasets/cmu2utnca0030nr07c4exrhyn) | ❌ |
+| `cmu2utt7z0034nr07hg5xgrc2` | Iskonawa: Traditional Songs | `iskonawa-traditional-songs-294f9745` | [link](https://mozilladatacollective.com/datasets/cmu2utt7z0034nr07hg5xgrc2) | ❌ |
+| `cmu2uu9o40020mr075ms79ock` | Kakataibo: Traditional Stories | `kakataibo-traditional-stories-334ad8c3` | [link](https://mozilladatacollective.com/datasets/cmu2uu9o40020mr075ms79ock) | ❌ |
+| `cmu2uwaio0038nr07we9lo51j` | Kakataibo: Emilio Estrella Book | `kakataibo-emilio-estrella-book-d8cad4aa` | [link](https://mozilladatacollective.com/datasets/cmu2uwaio0038nr07we9lo51j) | ❌ |
+| `cmu2uwh4b0028mr07inaad409` | Iskonawa: Traditional Stories | `iskonawa-traditional-stories-7554e8ca` | [link](https://mozilladatacollective.com/datasets/cmu2uwh4b0028mr07inaad409) | ❌ |
+| `cmu2uwm3f002cmr077w07fj1v` | Kakataibo: Fieldwork 2006-2007 | `kakataibo-fieldwork-2006-2007-d0f8fdfe` | [link](https://mozilladatacollective.com/datasets/cmu2uwm3f002cmr077w07fj1v) | ❌ |
 
 ## Schemas without a platform dataset
 
@@ -893,6 +916,7 @@ for testing.
 | `cmqi6qe8000geo507h8ij2zj4` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6qe8000geo507h8ij2zj4/schema.yaml) |
 | `cmqi6qj6d00femf07igtwoc45` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6qj6d00femf07igtwoc45/schema.yaml) |
 | `cmqi6qnzx00gio507tpz1lapx` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6qnzx00gio507tpz1lapx/schema.yaml) |
+| `cmqi6qutc00gmo507myna6k5s` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6qutc00gmo507myna6k5s/schema.yaml) |
 | `cmqi6smr200gqo5077hxllfn7` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6smr200gqo5077hxllfn7/schema.yaml) |
 | `cmqi6ss2y00guo507u3jsgp4i` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6ss2y00guo507u3jsgp4i/schema.yaml) |
 | `cmqi6swlu00gyo507nzq8vo47` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi6swlu00gyo507nzq8vo47/schema.yaml) |
@@ -914,8 +938,11 @@ for testing.
 | `cmqi70k4000gmmf07qpw9618v` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi70k4000gmmf07qpw9618v/schema.yaml) |
 | `cmqi70oy800gqmf07cp5nlvfc` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi70oy800gqmf07cp5nlvfc/schema.yaml) |
 | `cmqi70u6u00gumf07ual1wr9e` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi70u6u00gumf07ual1wr9e/schema.yaml) |
+| `cmqi70zqf00gymf0755f66bhd` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi70zqf00gymf0755f66bhd/schema.yaml) |
 | `cmqi726rh00h2mf07u4zxuvng` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi726rh00h2mf07u4zxuvng/schema.yaml) |
 | `cmqi72cq900h6mf07dr1ev961` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi72cq900h6mf07dr1ev961/schema.yaml) |
+| `cmqi72hiv00hqo5077ilqlp5y` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi72hiv00hqo5077ilqlp5y/schema.yaml) |
+| `cmqi72mr500hamf078fyzfgq1` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi72mr500hamf078fyzfgq1/schema.yaml) |
 | `cmqi72s6j00hwo5076g5lbvsm` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi72s6j00hwo5076g5lbvsm/schema.yaml) |
 | `cmqi72xiw00hemf07um5n1jk7` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi72xiw00hemf07um5n1jk7/schema.yaml) |
 | `cmqi732rk00himf07x3hy8twt` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi732rk00himf07x3hy8twt/schema.yaml) |
@@ -947,10 +974,12 @@ for testing.
 | `cmqi94p1b001jnr072c649ua7` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi94p1b001jnr072c649ua7/schema.yaml) |
 | `cmqi955gy002dnq07g5igcl79` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi955gy002dnq07g5igcl79/schema.yaml) |
 | `cmqi95ajd002hnq07rgwn05e9` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi95ajd002hnq07rgwn05e9/schema.yaml) |
+| `cmqi967xo001nnr07jhrfm19u` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi967xo001nnr07jhrfm19u/schema.yaml) |
 | `cmqi96hox002lnq07pufi5ick` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi96hox002lnq07pufi5ick/schema.yaml) |
 | `cmqi96mjn002pnq07sm7obx3x` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi96mjn002pnq07sm7obx3x/schema.yaml) |
 | `cmqi96rv7002tnq079eha9t4b` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi96rv7002tnq079eha9t4b/schema.yaml) |
 | `cmqi973gr001rnr07dl5jamel` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi973gr001rnr07dl5jamel/schema.yaml) |
+| `cmqi9783o001znr072zwxveon` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9783o001znr072zwxveon/schema.yaml) |
 | `cmqi97l490034nq070n59pxed` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi97l490034nq070n59pxed/schema.yaml) |
 | `cmqi97py20025nr07in93znww` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi97py20025nr07in93znww/schema.yaml) |
 | `cmqi97uk6003bnq07xafx2l5g` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi97uk6003bnq07xafx2l5g/schema.yaml) |
@@ -970,6 +999,7 @@ for testing.
 | `cmqi9etym006lnq07pszvx94w` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9etym006lnq07pszvx94w/schema.yaml) |
 | `cmqi9exsj004dnr075i205r2i` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9exsj004dnr075i205r2i/schema.yaml) |
 | `cmqi9f3uj004hnr07sabyb6x2` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9f3uj004hnr07sabyb6x2/schema.yaml) |
+| `cmqi9f7d9006pnq07xrvziuay` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9f7d9006pnq07xrvziuay/schema.yaml) |
 | `cmqi9favy006tnq07xpj4xwy1` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9favy006tnq07xpj4xwy1/schema.yaml) |
 | `cmqi9feii004lnr07neji1yax` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9feii004lnr07neji1yax/schema.yaml) |
 | `cmqi9fht5004pnr07f38p9qee` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqi9fht5004pnr07f38p9qee/schema.yaml) |
@@ -1008,6 +1038,7 @@ for testing.
 | `cmqiaps6e009hnq07u7i8ihwu` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiaps6e009hnq07u7i8ihwu/schema.yaml) |
 | `cmqiaptn4009lnq07t6a64c0i` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiaptn4009lnq07t6a64c0i/schema.yaml) |
 | `cmqiapv05009pnq07z0uh28db` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiapv05009pnq07z0uh28db/schema.yaml) |
+| `cmqiapwcq009tnq075e9981yy` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiapwcq009tnq075e9981yy/schema.yaml) |
 | `cmqiaq08m009xnq07wd6pkwtn` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiaq08m009xnq07wd6pkwtn/schema.yaml) |
 | `cmqiaq1nn007znr07qss7tcb5` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiaq1nn007znr07qss7tcb5/schema.yaml) |
 | `cmqiaq3ae0083nr07rhacg5x2` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiaq3ae0083nr07rhacg5x2/schema.yaml) |
@@ -1037,7 +1068,9 @@ for testing.
 | `cmqigliwq00gvnr07zddnx4gp` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqigliwq00gvnr07zddnx4gp/schema.yaml) |
 | `cmqiglkma00gznr07blt2l667` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiglkma00gznr07blt2l667/schema.yaml) |
 | `cmqiglmbu00h3nr07e10thtet` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiglmbu00h3nr07e10thtet/schema.yaml) |
+| `cmqiglp6z00h7nr071tvu5sry` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiglp6z00h7nr071tvu5sry/schema.yaml) |
 | `cmqiglrbo00hbnr07ck8co7cp` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiglrbo00hbnr07ck8co7cp/schema.yaml) |
+| `cmqigomx300ixnq070wlu5nov` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqigomx300ixnq070wlu5nov/schema.yaml) |
 | `cmqigoomq00j1nq07i0126jgl` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqigoomq00j1nq07i0126jgl/schema.yaml) |
 | `cmqigoq6p00j5nq07pwyswtqj` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqigoq6p00j5nq07pwyswtqj/schema.yaml) |
 | `cmqigos0900j9nq07gqz2ch9j` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqigos0900j9nq07gqz2ch9j/schema.yaml) |
@@ -1074,6 +1107,7 @@ for testing.
 | `cmqim3xpi00t6nr07k0myqtkr` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim3xpi00t6nr07k0myqtkr/schema.yaml) |
 | `cmqim41b000tanr07q9btypkc` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim41b000tanr07q9btypkc/schema.yaml) |
 | `cmqim44fo00tinr07mbu70eg7` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim44fo00tinr07mbu70eg7/schema.yaml) |
+| `cmqim47x700tunq074za20dq1` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim47x700tunq074za20dq1/schema.yaml) |
 | `cmqim4c1000tmnr07zq3vwhor` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim4c1000tmnr07zq3vwhor/schema.yaml) |
 | `cmqim4fux00tynq07ljtyhzfh` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim4fux00tynq07ljtyhzfh/schema.yaml) |
 | `cmqim4iw800tqnr07n2gs5mpv` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqim4iw800tqnr07n2gs5mpv/schema.yaml) |
@@ -1087,6 +1121,7 @@ for testing.
 | `cmqiniex600vonr07fzc36etn` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiniex600vonr07fzc36etn/schema.yaml) |
 | `cmqiniilg00vunq07zxqfve8a` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqiniilg00vunq07zxqfve8a/schema.yaml) |
 | `cmqinj9g500vsnr07qf4hmr3j` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinj9g500vsnr07qf4hmr3j/schema.yaml) |
+| `cmqinjd7x00vynq07pwzo3lmp` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinjd7x00vynq07pwzo3lmp/schema.yaml) |
 | `cmqinjgh200vwnr07wcnb4if5` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinjgh200vwnr07wcnb4if5/schema.yaml) |
 | `cmqinjjm100w2nq0773c9r16c` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinjjm100w2nq0773c9r16c/schema.yaml) |
 | `cmqinjn4o00w6nq07pyqsmwg7` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinjn4o00w6nq07pyqsmwg7/schema.yaml) |
@@ -1101,8 +1136,10 @@ for testing.
 | `cmqino47i00wmnq074t5nscur` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqino47i00wmnq074t5nscur/schema.yaml) |
 | `cmqino7ym00wqnq072h0gab54` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqino7ym00wqnq072h0gab54/schema.yaml) |
 | `cmqinob6900wknr07s6fgcprx` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinob6900wknr07s6fgcprx/schema.yaml) |
+| `cmqinoe3p00wonr07fumnrmtg` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinoe3p00wonr07fumnrmtg/schema.yaml) |
 | `cmqinoh7z00wsnr07v5ixz5uo` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinoh7z00wsnr07v5ixz5uo/schema.yaml) |
 | `cmqinokkq00wwnr07hv5oax8l` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinokkq00wwnr07hv5oax8l/schema.yaml) |
+| `cmqinooq000x0nr07b4p4ct4q` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinooq000x0nr07b4p4ct4q/schema.yaml) |
 | `cmqinosfq00x4nr07gnk0rdf9` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinosfq00x4nr07gnk0rdf9/schema.yaml) |
 | `cmqinq6zs00x8nr07elg0nyrr` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinq6zs00x8nr07elg0nyrr/schema.yaml) |
 | `cmqinqaqp00wunq07w9oyei38` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmqinqaqp00wunq07w9oyei38/schema.yaml) |
