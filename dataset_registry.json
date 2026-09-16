@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T06:10:45.138246+00:00",
-  "total": 768,
+  "updated_at": "2026-09-16T05:16:32.554863+00:00",
+  "total": 791,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -817,9 +817,9 @@
     {
       "id": "cml5bn4k900aame07u0rwidcg",
       "url": "https://mozilladatacollective.com/datasets/cml5bn4k900aame07u0rwidcg",
-      "lastmod": "2026-02-02T15:25:24.825Z",
+      "lastmod": "2026-09-15T06:32:52.995Z",
       "name": "TTS Central Javanese ",
-      "slug": "tts-central-javanese-18f65d12"
+      "slug": "tts-central-javanese-60f745c9"
     },
     {
       "id": "cml5e30pd00eskr072e6a4rrh",
@@ -2903,9 +2903,9 @@
     {
       "id": "cmpwkd15w013snv06tb5z0ydr",
       "url": "https://mozilladatacollective.com/datasets/cmpwkd15w013snv06tb5z0ydr",
-      "lastmod": "2026-06-18T16:58:13.017Z",
+      "lastmod": "2026-09-15T11:52:41.221Z",
       "name": "Marathi Blog & Literature Corpus",
-      "slug": "marathi-blog-literature-corpus-8651940f"
+      "slug": "marathi-blog-literature-corpus-b340177c"
     },
     {
       "id": "cmpzgijrk001cnx0732jcpyc9",
@@ -3102,104 +3102,6 @@
       "lastmod": "2026-06-15T13:33:19.515Z",
       "name": "Sample Mbo-TTS-Dataset",
       "slug": "sample-mbo-tts-dataset-121e2846"
-    },
-    {
-      "id": "cmqi6qutc00gmo507myna6k5s",
-      "url": "https://mozilladatacollective.com/datasets/cmqi6qutc00gmo507myna6k5s",
-      "lastmod": "2026-06-17T14:47:52.704Z",
-      "name": "Common Voice Scripted Speech 26.0 - Yoruba",
-      "slug": "common-voice-scripted-speech-26-0-yoruba-44f2a122"
-    },
-    {
-      "id": "cmqi70zqf00gymf0755f66bhd",
-      "url": "https://mozilladatacollective.com/datasets/cmqi70zqf00gymf0755f66bhd",
-      "lastmod": "2026-06-17T14:55:45.639Z",
-      "name": "Common Voice Scripted Speech 26.0 - Zaza",
-      "slug": "common-voice-scripted-speech-26-0-zaza-d5802195"
-    },
-    {
-      "id": "cmqi72hiv00hqo5077ilqlp5y",
-      "url": "https://mozilladatacollective.com/datasets/cmqi72hiv00hqo5077ilqlp5y",
-      "lastmod": "2026-06-17T14:56:55.351Z",
-      "name": "Common Voice Scripted Speech 26.0 - Yiddish",
-      "slug": "common-voice-scripted-speech-26-0-yiddis-84645ac6"
-    },
-    {
-      "id": "cmqi72mr500hamf078fyzfgq1",
-      "url": "https://mozilladatacollective.com/datasets/cmqi72mr500hamf078fyzfgq1",
-      "lastmod": "2026-06-17T14:57:02.129Z",
-      "name": "Common Voice Scripted Speech 26.0 - Tamazight",
-      "slug": "common-voice-scripted-speech-26-0-tamazi-1c2f3fc5"
-    },
-    {
-      "id": "cmqi967xo001nnr07jhrfm19u",
-      "url": "https://mozilladatacollective.com/datasets/cmqi967xo001nnr07jhrfm19u",
-      "lastmod": "2026-06-17T15:55:48.780Z",
-      "name": "Common Voice Scripted Speech 26.0 - Copainalá Zoque",
-      "slug": "common-voice-scripted-speech-26-0-copain-6496853c"
-    },
-    {
-      "id": "cmqi9783o001znr072zwxveon",
-      "url": "https://mozilladatacollective.com/datasets/cmqi9783o001znr072zwxveon",
-      "lastmod": "2026-06-17T15:56:35.652Z",
-      "name": "Common Voice Scripted Speech 26.0 - Nuasue",
-      "slug": "common-voice-scripted-speech-26-0-nuasue-59294b28"
-    },
-    {
-      "id": "cmqi9f7d9006pnq07xrvziuay",
-      "url": "https://mozilladatacollective.com/datasets/cmqi9f7d9006pnq07xrvziuay",
-      "lastmod": "2026-06-17T16:02:47.949Z",
-      "name": "Common Voice Scripted Speech 26.0 - Mingrelian",
-      "slug": "common-voice-scripted-speech-26-0-mingre-654eafa1"
-    },
-    {
-      "id": "cmqiapwcq009tnq075e9981yy",
-      "url": "https://mozilladatacollective.com/datasets/cmqiapwcq009tnq075e9981yy",
-      "lastmod": "2026-06-17T16:39:06.505Z",
-      "name": "Common Voice Scripted Speech 26.0 - Zulu",
-      "slug": "common-voice-scripted-speech-26-0-zulu-92af6cca"
-    },
-    {
-      "id": "cmqiglp6z00h7nr071tvu5sry",
-      "url": "https://mozilladatacollective.com/datasets/cmqiglp6z00h7nr071tvu5sry",
-      "lastmod": "2026-06-17T19:23:48.299Z",
-      "name": "Common Voice Scripted Speech 26.0 - Yadgha",
-      "slug": "common-voice-scripted-speech-26-0-yadgha-46428799"
-    },
-    {
-      "id": "cmqigomx300ixnq070wlu5nov",
-      "url": "https://mozilladatacollective.com/datasets/cmqigomx300ixnq070wlu5nov",
-      "lastmod": "2026-06-17T19:26:05.319Z",
-      "name": "Common Voice Scripted Speech 26.0 - Yaqui",
-      "slug": "common-voice-scripted-speech-26-0-yaqui-07e42406"
-    },
-    {
-      "id": "cmqim47x700tunq074za20dq1",
-      "url": "https://mozilladatacollective.com/datasets/cmqim47x700tunq074za20dq1",
-      "lastmod": "2026-06-17T21:58:10.459Z",
-      "name": "Common Voice Scripted Speech 26.0 - Chinese (China)",
-      "slug": "common-voice-scripted-speech-26-0-chines-18e98647"
-    },
-    {
-      "id": "cmqinjd7x00vynq07pwzo3lmp",
-      "url": "https://mozilladatacollective.com/datasets/cmqinjd7x00vynq07pwzo3lmp",
-      "lastmod": "2026-06-17T22:37:56.781Z",
-      "name": "Common Voice Scripted Speech 26.0 - Cantonese",
-      "slug": "common-voice-scripted-speech-26-0-canton-3bc2b1fd"
-    },
-    {
-      "id": "cmqinoe3p00wonr07fumnrmtg",
-      "url": "https://mozilladatacollective.com/datasets/cmqinoe3p00wonr07fumnrmtg",
-      "lastmod": "2026-06-17T22:41:51.205Z",
-      "name": "Common Voice Scripted Speech 26.0 - Chinese (Hong Kong)",
-      "slug": "common-voice-scripted-speech-26-0-chines-0240e64b"
-    },
-    {
-      "id": "cmqinooq000x0nr07b4p4ct4q",
-      "url": "https://mozilladatacollective.com/datasets/cmqinooq000x0nr07b4p4ct4q",
-      "lastmod": "2026-06-17T22:42:04.968Z",
-      "name": "Common Voice Scripted Speech 26.0 - Chinese (Taiwan)",
-      "slug": "common-voice-scripted-speech-26-0-chines-7e787d3b"
     },
     {
       "id": "cmqj6g7jw01grnr07mfc2zl6s",
@@ -5377,6 +5279,265 @@
       "lastmod": "2026-09-14T17:33:11.433Z",
       "name": "A Yemba Sociocultural Dataset",
       "slug": "a-yemba-sociocultural-dataset-c9517b3c"
+    },
+    {
+      "id": "cmu2mq96s00ugo1072rf2p6e3",
+      "url": "https://mozilladatacollective.com/datasets/cmu2mq96s00ugo1072rf2p6e3",
+      "lastmod": "2026-09-15T12:09:49.060Z",
+      "name": "Indonesian Speech Motion Dataset",
+      "slug": "indonesian-speech-motion-dataset-5717870f"
+    },
+    {
+      "id": "cmu2n2gqy00uknv07nq1g51mx",
+      "url": "https://mozilladatacollective.com/datasets/cmu2n2gqy00uknv07nq1g51mx",
+      "lastmod": "2026-09-15T12:19:18.730Z",
+      "name": "Pemalang Dialect of JAV-IND-ENG-ARB Parallel Corpus",
+      "slug": "pemalang-dialect-of-jav-ind-eng-arb-para-ed2b71f1"
+    },
+    {
+      "id": "cmu2n2lir00uonv07iqzo4j4b",
+      "url": "https://mozilladatacollective.com/datasets/cmu2n2lir00uonv07iqzo4j4b",
+      "lastmod": "2026-09-15T12:19:24.915Z",
+      "name": "JAV IKRAR - Craft and Cultural Heritage Multimodal Corpus",
+      "slug": "jav-ikrar-craft-and-cultural-heritage-mu-36651fe4"
+    },
+    {
+      "id": "cmu2n2r7m00usnv07zcyldsaa",
+      "url": "https://mozilladatacollective.com/datasets/cmu2n2r7m00usnv07zcyldsaa",
+      "lastmod": "2026-09-15T12:19:32.291Z",
+      "name": "An Oroko Sociocultural Dataset",
+      "slug": "an-oroko-sociocultural-dataset-c9368e78"
+    },
+    {
+      "id": "cmu2n2vuj00uko107b9w409cs",
+      "url": "https://mozilladatacollective.com/datasets/cmu2n2vuj00uko107b9w409cs",
+      "lastmod": "2026-09-15T12:19:38.300Z",
+      "name": "A Dii Sociocultural Dataset",
+      "slug": "a-dii-sociocultural-dataset-c323a900"
+    },
+    {
+      "id": "cmu2n7ss800uso107iwyr30zx",
+      "url": "https://mozilladatacollective.com/datasets/cmu2n7ss800uso107iwyr30zx",
+      "lastmod": "2026-09-15T12:23:27.609Z",
+      "name": "A Maka Sociocultural Dataset",
+      "slug": "a-maka-sociocultural-dataset-98addaf1"
+    },
+    {
+      "id": "cmu2n7xzj00uwnv07q9713hbz",
+      "url": "https://mozilladatacollective.com/datasets/cmu2n7xzj00uwnv07q9713hbz",
+      "lastmod": "2026-09-15T12:23:34.351Z",
+      "name": "A Bodiman Sociocultural Dataset",
+      "slug": "a-bodiman-sociocultural-dataset-18671cda"
+    },
+    {
+      "id": "cmu2n83gs00v0nv07cd66jl5q",
+      "url": "https://mozilladatacollective.com/datasets/cmu2n83gs00v0nv07cd66jl5q",
+      "lastmod": "2026-09-15T12:23:41.452Z",
+      "name": "A Pɛrɛ Sociocultural Dataset",
+      "slug": "a-p-r-sociocultural-dataset-447fd033"
+    },
+    {
+      "id": "cmu2n89qg00uwo107qvz2su1m",
+      "url": "https://mozilladatacollective.com/datasets/cmu2n89qg00uwo107qvz2su1m",
+      "lastmod": "2026-09-15T12:23:49.576Z",
+      "name": "JAV-Culture: Gresik–Surabaya Multimodal Corpus",
+      "slug": "jav-culture-gresik-surabaya-multimodal-c-1cb2d6d8"
+    },
+    {
+      "id": "cmu2nbkff00v6nv07idjcnzlf",
+      "url": "https://mozilladatacollective.com/datasets/cmu2nbkff00v6nv07idjcnzlf",
+      "lastmod": "2026-09-15T12:26:23.403Z",
+      "name": "IND-Sign: Gresik–Surabaya Public Space Multimodal Corpus",
+      "slug": "ind-sign-gresik-surabaya-public-space-mu-44fe55aa"
+    },
+    {
+      "id": "cmu2nc9ec00v2o107i3r52xp6",
+      "url": "https://mozilladatacollective.com/datasets/cmu2nc9ec00v2o107i3r52xp6",
+      "lastmod": "2026-09-15T12:26:55.765Z",
+      "name": "A Fondjenti Sociocultural Dataset",
+      "slug": "a-fondjenti-sociocultural-dataset-1f999b8c"
+    },
+    {
+      "id": "cmu2ncgja00vanv07u206ihmq",
+      "url": "https://mozilladatacollective.com/datasets/cmu2ncgja00vanv07u206ihmq",
+      "lastmod": "2026-09-15T12:27:05.014Z",
+      "name": "A Vute Sociocultural Dataset",
+      "slug": "a-vute-sociocultural-dataset-f71e0edc"
+    },
+    {
+      "id": "cmu2ncknm00venv07eoqfxrzu",
+      "url": "https://mozilladatacollective.com/datasets/cmu2ncknm00venv07eoqfxrzu",
+      "lastmod": "2026-09-15T12:27:10.355Z",
+      "name": "A Manguissa Sociocultural Dataset",
+      "slug": "a-manguissa-sociocultural-dataset-6115a7ed"
+    },
+    {
+      "id": "cmu2nd1lk00v6o10710h910ct",
+      "url": "https://mozilladatacollective.com/datasets/cmu2nd1lk00v6o10710h910ct",
+      "lastmod": "2026-09-15T12:27:32.312Z",
+      "name": "An Ossananga Sociocultural Dataset",
+      "slug": "an-ossananga-sociocultural-dataset-a1de6fc6"
+    },
+    {
+      "id": "cmu2nd71100vinv075o55lvf7",
+      "url": "https://mozilladatacollective.com/datasets/cmu2nd71100vinv075o55lvf7",
+      "lastmod": "2026-09-15T12:27:39.349Z",
+      "name": "JAV-Sign: Gresik–Surabaya Public Space Multimodal Corpus",
+      "slug": "jav-sign-gresik-surabaya-public-space-mu-56b8e58d"
+    },
+    {
+      "id": "cmu2ndeip00vmnv07okjtandg",
+      "url": "https://mozilladatacollective.com/datasets/cmu2ndeip00vmnv07okjtandg",
+      "lastmod": "2026-09-15T12:27:49.058Z",
+      "name": "IND IKRAR - Craft and Cultural Heritage Multimodal Corpus ",
+      "slug": "ind-ikrar-craft-and-cultural-heritage-mu-ed64266f"
+    },
+    {
+      "id": "cmu2ndpni00vqnv07cvocbw4o",
+      "url": "https://mozilladatacollective.com/datasets/cmu2ndpni00vqnv07cvocbw4o",
+      "lastmod": "2026-09-15T12:28:03.486Z",
+      "name": "Huni Kuin: Narratives",
+      "slug": "huni-kuin-narratives-5c9ebeb8"
+    },
+    {
+      "id": "cmu2nhykt00vao10715zjt6lc",
+      "url": "https://mozilladatacollective.com/datasets/cmu2nhykt00vao10715zjt6lc",
+      "lastmod": "2026-09-15T12:31:21.678Z",
+      "name": "A Fang Sociocultural Dataset",
+      "slug": "a-fang-sociocultural-dataset-ea764f09"
+    },
+    {
+      "id": "cmu2q5xt300ybnv073jkgyzfw",
+      "url": "https://mozilladatacollective.com/datasets/cmu2q5xt300ybnv073jkgyzfw",
+      "lastmod": "2026-09-15T13:45:59.655Z",
+      "name": "Pano: Comparative Word Lists",
+      "slug": "pano-comparative-word-lists-73d1d64f"
+    },
+    {
+      "id": "cmu2q67rr00x0o107u9kwmiv0",
+      "url": "https://mozilladatacollective.com/datasets/cmu2q67rr00x0o107u9kwmiv0",
+      "lastmod": "2026-09-15T13:46:12.567Z",
+      "name": "Kakataibo: Phonetic Word List",
+      "slug": "kakataibo-phonetic-word-list-09bd2f29"
+    },
+    {
+      "id": "cmu2rbemb0007nr07nq1sd4kk",
+      "url": "https://mozilladatacollective.com/datasets/cmu2rbemb0007nr07nq1sd4kk",
+      "lastmod": "2026-09-15T14:18:14.339Z",
+      "name": "Awajún: Phonetic Word List",
+      "slug": "awaj-n-phonetic-word-list-a0f6bcdc"
+    },
+    {
+      "id": "cmu2rblau000bnr07tb0yaxku",
+      "url": "https://mozilladatacollective.com/datasets/cmu2rblau000bnr07tb0yaxku",
+      "lastmod": "2026-09-15T14:18:22.998Z",
+      "name": "Shipibo-Konibo: Mundialito",
+      "slug": "shipibo-konibo-mundialito-47aa0f89"
+    },
+    {
+      "id": "cmu2rkf1o000jnr078v0funze",
+      "url": "https://mozilladatacollective.com/datasets/cmu2rkf1o000jnr078v0funze",
+      "lastmod": "2026-09-15T14:25:14.796Z",
+      "name": "Aymara: Phonetic Word Lists",
+      "slug": "aymara-phonetic-word-lists-6ed07c8c"
+    },
+    {
+      "id": "cmu2rlabb0003mr07ckc51iwm",
+      "url": "https://mozilladatacollective.com/datasets/cmu2rlabb0003mr07ckc51iwm",
+      "lastmod": "2026-09-15T14:25:55.318Z",
+      "name": "Shiwilu: Narratives and Songs",
+      "slug": "shiwilu-narratives-and-songs-8655e8d6"
+    },
+    {
+      "id": "cmu2usbdt001omr07iv3ixxe5",
+      "url": "https://mozilladatacollective.com/datasets/cmu2usbdt001omr07iv3ixxe5",
+      "lastmod": "2026-09-15T15:55:22.146Z",
+      "name": "Amahuaca: Narratives and Conversations",
+      "slug": "amahuaca-narratives-and-conversations-3a433303"
+    },
+    {
+      "id": "cmu2usi69001smr07ofl318i7",
+      "url": "https://mozilladatacollective.com/datasets/cmu2usi69001smr07ofl318i7",
+      "lastmod": "2026-09-15T15:55:30.945Z",
+      "name": "Amahuaca: Knowledge and Practices",
+      "slug": "amahuaca-knowledge-and-practices-e051d8a9"
+    },
+    {
+      "id": "cmu2usntw002knr07lkyofqw7",
+      "url": "https://mozilladatacollective.com/datasets/cmu2usntw002knr07lkyofqw7",
+      "lastmod": "2026-09-15T15:55:38.276Z",
+      "name": "Amahuaca: Life Stories",
+      "slug": "amahuaca-life-stories-a5b8b817"
+    },
+    {
+      "id": "cmu2uswge002onr07yn1dlpb1",
+      "url": "https://mozilladatacollective.com/datasets/cmu2uswge002onr07yn1dlpb1",
+      "lastmod": "2026-09-15T15:55:49.454Z",
+      "name": "Kakataibo:  Traditional songs",
+      "slug": "kakataibo-traditional-songs-61715ff6"
+    },
+    {
+      "id": "cmu2ut4p3002snr07bfyuaavn",
+      "url": "https://mozilladatacollective.com/datasets/cmu2ut4p3002snr07bfyuaavn",
+      "lastmod": "2026-09-15T15:56:00.136Z",
+      "name": "Iskonawa: Life and Craftsmanship",
+      "slug": "iskonawa-life-and-craftsmanship-24bac101"
+    },
+    {
+      "id": "cmu2utbcf002wnr07r0amtali",
+      "url": "https://mozilladatacollective.com/datasets/cmu2utbcf002wnr07r0amtali",
+      "lastmod": "2026-09-15T15:56:08.751Z",
+      "name": "Kakataibo: Audiovisual Narratives",
+      "slug": "kakataibo-audiovisual-narratives-f6e8fec3"
+    },
+    {
+      "id": "cmu2uthhq001wmr07xt84bn2n",
+      "url": "https://mozilladatacollective.com/datasets/cmu2uthhq001wmr07xt84bn2n",
+      "lastmod": "2026-09-15T15:56:16.718Z",
+      "name": "Iskonawa: Oral Tradition and Conversations",
+      "slug": "iskonawa-oral-tradition-and-conversation-e7f518a1"
+    },
+    {
+      "id": "cmu2utnca0030nr07c4exrhyn",
+      "url": "https://mozilladatacollective.com/datasets/cmu2utnca0030nr07c4exrhyn",
+      "lastmod": "2026-09-15T15:56:24.298Z",
+      "name": "Iskonawa: Personal Narratives",
+      "slug": "iskonawa-personal-narratives-d0386af9"
+    },
+    {
+      "id": "cmu2utt7z0034nr07hg5xgrc2",
+      "url": "https://mozilladatacollective.com/datasets/cmu2utt7z0034nr07hg5xgrc2",
+      "lastmod": "2026-09-15T15:56:31.920Z",
+      "name": "Iskonawa: Traditional Songs",
+      "slug": "iskonawa-traditional-songs-294f9745"
+    },
+    {
+      "id": "cmu2uu9o40020mr075ms79ock",
+      "url": "https://mozilladatacollective.com/datasets/cmu2uu9o40020mr075ms79ock",
+      "lastmod": "2026-09-15T15:56:53.236Z",
+      "name": "Kakataibo: Traditional Stories",
+      "slug": "kakataibo-traditional-stories-334ad8c3"
+    },
+    {
+      "id": "cmu2uwaio0038nr07we9lo51j",
+      "url": "https://mozilladatacollective.com/datasets/cmu2uwaio0038nr07we9lo51j",
+      "lastmod": "2026-09-15T15:58:27.649Z",
+      "name": "Kakataibo: Emilio Estrella Book",
+      "slug": "kakataibo-emilio-estrella-book-d8cad4aa"
+    },
+    {
+      "id": "cmu2uwh4b0028mr07inaad409",
+      "url": "https://mozilladatacollective.com/datasets/cmu2uwh4b0028mr07inaad409",
+      "lastmod": "2026-09-15T15:58:36.203Z",
+      "name": "Iskonawa: Traditional Stories",
+      "slug": "iskonawa-traditional-stories-7554e8ca"
+    },
+    {
+      "id": "cmu2uwm3f002cmr077w07fj1v",
+      "url": "https://mozilladatacollective.com/datasets/cmu2uwm3f002cmr077w07fj1v",
+      "lastmod": "2026-09-15T15:58:42.651Z",
+      "name": "Kakataibo: Fieldwork 2006-2007",
+      "slug": "kakataibo-fieldwork-2006-2007-d0f8fdfe"
     }
   ]
 }
