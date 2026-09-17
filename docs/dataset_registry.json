@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T06:10:46.732372+00:00",
-  "total": 791,
+  "updated_at": "2026-09-17T05:16:41.495779+00:00",
+  "total": 792,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -4280,13 +4280,6 @@
       "slug": "synthetic-urdu-2-04b41149"
     },
     {
-      "id": "cmrxix9a7001rl407d629khq8",
-      "url": "https://mozilladatacollective.com/datasets/cmrxix9a7001rl407d629khq8",
-      "lastmod": "2026-08-17T18:45:18.552Z",
-      "name": "English Medical Speech Dataset",
-      "slug": "english-medical-speech-dataset-aaed4779"
-    },
-    {
       "id": "cmrxj0h4i001xo9079xnlw8fx",
       "url": "https://mozilladatacollective.com/datasets/cmrxj0h4i001xo9079xnlw8fx",
       "lastmod": "2026-08-17T18:52:03.880Z",
@@ -5395,9 +5388,9 @@
     {
       "id": "cmu2ndpni00vqnv07cvocbw4o",
       "url": "https://mozilladatacollective.com/datasets/cmu2ndpni00vqnv07cvocbw4o",
-      "lastmod": "2026-09-15T12:28:03.486Z",
+      "lastmod": "2026-09-16T18:16:35.128Z",
       "name": "Huni Kuin: Narratives",
-      "slug": "huni-kuin-narratives-5c9ebeb8"
+      "slug": "huni-kuin-narratives-3da8115f"
     },
     {
       "id": "cmu2nhykt00vao10715zjt6lc",
@@ -5409,9 +5402,9 @@
     {
       "id": "cmu2q5xt300ybnv073jkgyzfw",
       "url": "https://mozilladatacollective.com/datasets/cmu2q5xt300ybnv073jkgyzfw",
-      "lastmod": "2026-09-15T13:45:59.655Z",
+      "lastmod": "2026-09-16T18:14:20.445Z",
       "name": "Pano: Comparative Word Lists",
-      "slug": "pano-comparative-word-lists-73d1d64f"
+      "slug": "pano-comparative-word-lists-05b03e16"
     },
     {
       "id": "cmu2q67rr00x0o107u9kwmiv0",
@@ -5423,121 +5416,135 @@
     {
       "id": "cmu2rbemb0007nr07nq1sd4kk",
       "url": "https://mozilladatacollective.com/datasets/cmu2rbemb0007nr07nq1sd4kk",
-      "lastmod": "2026-09-15T14:18:14.339Z",
+      "lastmod": "2026-09-16T18:13:48.736Z",
       "name": "Awajún: Phonetic Word List",
-      "slug": "awaj-n-phonetic-word-list-a0f6bcdc"
+      "slug": "awaj-n-phonetic-word-list-69d0a76d"
     },
     {
       "id": "cmu2rblau000bnr07tb0yaxku",
       "url": "https://mozilladatacollective.com/datasets/cmu2rblau000bnr07tb0yaxku",
-      "lastmod": "2026-09-15T14:18:22.998Z",
+      "lastmod": "2026-09-16T18:13:23.010Z",
       "name": "Shipibo-Konibo: Mundialito",
-      "slug": "shipibo-konibo-mundialito-47aa0f89"
+      "slug": "shipibo-konibo-mundialito-bf764c95"
     },
     {
       "id": "cmu2rkf1o000jnr078v0funze",
       "url": "https://mozilladatacollective.com/datasets/cmu2rkf1o000jnr078v0funze",
-      "lastmod": "2026-09-15T14:25:14.796Z",
+      "lastmod": "2026-09-16T18:13:00.538Z",
       "name": "Aymara: Phonetic Word Lists",
-      "slug": "aymara-phonetic-word-lists-6ed07c8c"
+      "slug": "aymara-phonetic-word-lists-1427119a"
     },
     {
       "id": "cmu2rlabb0003mr07ckc51iwm",
       "url": "https://mozilladatacollective.com/datasets/cmu2rlabb0003mr07ckc51iwm",
-      "lastmod": "2026-09-15T14:25:55.318Z",
+      "lastmod": "2026-09-16T18:12:26.980Z",
       "name": "Shiwilu: Narratives and Songs",
-      "slug": "shiwilu-narratives-and-songs-8655e8d6"
+      "slug": "shiwilu-narratives-and-songs-25001b0f"
     },
     {
       "id": "cmu2usbdt001omr07iv3ixxe5",
       "url": "https://mozilladatacollective.com/datasets/cmu2usbdt001omr07iv3ixxe5",
-      "lastmod": "2026-09-15T15:55:22.146Z",
+      "lastmod": "2026-09-16T18:12:01.332Z",
       "name": "Amahuaca: Narratives and Conversations",
-      "slug": "amahuaca-narratives-and-conversations-3a433303"
+      "slug": "amahuaca-narratives-and-conversations-6a6c293d"
     },
     {
       "id": "cmu2usi69001smr07ofl318i7",
       "url": "https://mozilladatacollective.com/datasets/cmu2usi69001smr07ofl318i7",
-      "lastmod": "2026-09-15T15:55:30.945Z",
+      "lastmod": "2026-09-16T18:11:34.242Z",
       "name": "Amahuaca: Knowledge and Practices",
-      "slug": "amahuaca-knowledge-and-practices-e051d8a9"
+      "slug": "amahuaca-knowledge-and-practices-bb02bb1c"
     },
     {
       "id": "cmu2usntw002knr07lkyofqw7",
       "url": "https://mozilladatacollective.com/datasets/cmu2usntw002knr07lkyofqw7",
-      "lastmod": "2026-09-15T15:55:38.276Z",
+      "lastmod": "2026-09-16T18:11:08.429Z",
       "name": "Amahuaca: Life Stories",
-      "slug": "amahuaca-life-stories-a5b8b817"
+      "slug": "amahuaca-life-stories-5cf9b3d0"
     },
     {
       "id": "cmu2uswge002onr07yn1dlpb1",
       "url": "https://mozilladatacollective.com/datasets/cmu2uswge002onr07yn1dlpb1",
-      "lastmod": "2026-09-15T15:55:49.454Z",
+      "lastmod": "2026-09-16T18:10:41.130Z",
       "name": "Kakataibo:  Traditional songs",
-      "slug": "kakataibo-traditional-songs-61715ff6"
+      "slug": "kakataibo-traditional-songs-59b81ac7"
     },
     {
       "id": "cmu2ut4p3002snr07bfyuaavn",
       "url": "https://mozilladatacollective.com/datasets/cmu2ut4p3002snr07bfyuaavn",
-      "lastmod": "2026-09-15T15:56:00.136Z",
+      "lastmod": "2026-09-16T18:10:10.293Z",
       "name": "Iskonawa: Life and Craftsmanship",
-      "slug": "iskonawa-life-and-craftsmanship-24bac101"
+      "slug": "iskonawa-life-and-craftsmanship-30174628"
     },
     {
       "id": "cmu2utbcf002wnr07r0amtali",
       "url": "https://mozilladatacollective.com/datasets/cmu2utbcf002wnr07r0amtali",
-      "lastmod": "2026-09-15T15:56:08.751Z",
+      "lastmod": "2026-09-16T18:09:45.724Z",
       "name": "Kakataibo: Audiovisual Narratives",
-      "slug": "kakataibo-audiovisual-narratives-f6e8fec3"
+      "slug": "kakataibo-audiovisual-narratives-da887314"
     },
     {
       "id": "cmu2uthhq001wmr07xt84bn2n",
       "url": "https://mozilladatacollective.com/datasets/cmu2uthhq001wmr07xt84bn2n",
-      "lastmod": "2026-09-15T15:56:16.718Z",
+      "lastmod": "2026-09-16T18:09:19.580Z",
       "name": "Iskonawa: Oral Tradition and Conversations",
-      "slug": "iskonawa-oral-tradition-and-conversation-e7f518a1"
+      "slug": "iskonawa-oral-tradition-and-conversation-313f4d51"
     },
     {
       "id": "cmu2utnca0030nr07c4exrhyn",
       "url": "https://mozilladatacollective.com/datasets/cmu2utnca0030nr07c4exrhyn",
-      "lastmod": "2026-09-15T15:56:24.298Z",
+      "lastmod": "2026-09-16T18:08:52.948Z",
       "name": "Iskonawa: Personal Narratives",
-      "slug": "iskonawa-personal-narratives-d0386af9"
+      "slug": "iskonawa-personal-narratives-4e288802"
     },
     {
       "id": "cmu2utt7z0034nr07hg5xgrc2",
       "url": "https://mozilladatacollective.com/datasets/cmu2utt7z0034nr07hg5xgrc2",
-      "lastmod": "2026-09-15T15:56:31.920Z",
+      "lastmod": "2026-09-16T18:08:19.540Z",
       "name": "Iskonawa: Traditional Songs",
-      "slug": "iskonawa-traditional-songs-294f9745"
+      "slug": "iskonawa-traditional-songs-eacdb1ff"
     },
     {
       "id": "cmu2uu9o40020mr075ms79ock",
       "url": "https://mozilladatacollective.com/datasets/cmu2uu9o40020mr075ms79ock",
-      "lastmod": "2026-09-15T15:56:53.236Z",
+      "lastmod": "2026-09-16T18:07:53.113Z",
       "name": "Kakataibo: Traditional Stories",
-      "slug": "kakataibo-traditional-stories-334ad8c3"
+      "slug": "kakataibo-traditional-stories-71771033"
     },
     {
       "id": "cmu2uwaio0038nr07we9lo51j",
       "url": "https://mozilladatacollective.com/datasets/cmu2uwaio0038nr07we9lo51j",
-      "lastmod": "2026-09-15T15:58:27.649Z",
+      "lastmod": "2026-09-16T15:35:53.079Z",
       "name": "Kakataibo: Emilio Estrella Book",
-      "slug": "kakataibo-emilio-estrella-book-d8cad4aa"
+      "slug": "kakataibo-emilio-estrella-book-fcbf668f"
     },
     {
       "id": "cmu2uwh4b0028mr07inaad409",
       "url": "https://mozilladatacollective.com/datasets/cmu2uwh4b0028mr07inaad409",
-      "lastmod": "2026-09-15T15:58:36.203Z",
+      "lastmod": "2026-09-16T15:32:48.600Z",
       "name": "Iskonawa: Traditional Stories",
-      "slug": "iskonawa-traditional-stories-7554e8ca"
+      "slug": "iskonawa-traditional-stories-5b2b5d94"
     },
     {
       "id": "cmu2uwm3f002cmr077w07fj1v",
       "url": "https://mozilladatacollective.com/datasets/cmu2uwm3f002cmr077w07fj1v",
-      "lastmod": "2026-09-15T15:58:42.651Z",
+      "lastmod": "2026-09-16T15:31:09.218Z",
       "name": "Kakataibo: Fieldwork 2006-2007",
-      "slug": "kakataibo-fieldwork-2006-2007-d0f8fdfe"
+      "slug": "kakataibo-fieldwork-2006-2007-e341aa93"
+    },
+    {
+      "id": "cmu43jd6u0010mi07kl431xrw",
+      "url": "https://mozilladatacollective.com/datasets/cmu43jd6u0010mi07kl431xrw",
+      "lastmod": "2026-09-16T12:48:07.303Z",
+      "name": "Common Voice Scripted Speech 27.0 - Uzbek",
+      "slug": "common-voice-scripted-speech-27-0-uzbek-b7e9d475"
+    },
+    {
+      "id": "cmu43khxw0014mi074lat13ey",
+      "url": "https://mozilladatacollective.com/datasets/cmu43khxw0014mi074lat13ey",
+      "lastmod": "2026-09-16T12:49:00.117Z",
+      "name": "Common Voice Spontaneous Speech 5.0 - Irish",
+      "slug": "common-voice-spontaneous-speech-5-0-iris-a7c940f7"
     }
   ]
 }
