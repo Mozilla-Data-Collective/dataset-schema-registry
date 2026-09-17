@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-16  
-**Total datasets in sitemap:** 791  
+**Last updated:** 2026-09-17  
+**Total datasets in sitemap:** 792  
 **Schemas registered:** 44 ✅  
-**Schemas missing:** 747 ❌  
+**Schemas missing:** 748 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -630,7 +630,6 @@ data programmatically.
 | `cmrxgplej014vnv07xy4zob5l` | Helpful and Harmless RLHF Urdu | `helpful-and-harmless-rlhf-urdu-9db22f4f` | [link](https://mozilladatacollective.com/datasets/cmrxgplej014vnv07xy4zob5l) | ❌ |
 | `cmrxgqrj8014znv07t3j3psj3` | Urdu Legal Instruct | `urdu-legal-instruct-87c44cae` | [link](https://mozilladatacollective.com/datasets/cmrxgqrj8014znv07t3j3psj3) | ❌ |
 | `cmrxhfzxn0168nu07koc4okl3` | Synthetic Urdu 2 | `synthetic-urdu-2-04b41149` | [link](https://mozilladatacollective.com/datasets/cmrxhfzxn0168nu07koc4okl3) | ❌ |
-| `cmrxix9a7001rl407d629khq8` | English Medical Speech Dataset | `english-medical-speech-dataset-aaed4779` | [link](https://mozilladatacollective.com/datasets/cmrxix9a7001rl407d629khq8) | ❌ |
 | `cmrxj0h4i001xo9079xnlw8fx` | Sindhi Names by Proxima AI | `sindhi-names-by-proxima-ai-b48d6ceb` | [link](https://mozilladatacollective.com/datasets/cmrxj0h4i001xo9079xnlw8fx) | ❌ |
 | `cmrxj3dus002fl407nbjb6lmc` |  Sindhi Alpaca | `sindhi-alpaca-f573013f` | [link](https://mozilladatacollective.com/datasets/cmrxj3dus002fl407nbjb6lmc) | ❌ |
 | `cmrxj3m5q0021o907tnm6c9jp` | A Kanuri Sociocultural Dataset | `a-kanuri-sociocultural-dataset-716f9a4b` | [link](https://mozilladatacollective.com/datasets/cmrxj3m5q0021o907tnm6c9jp) | ❌ |
@@ -789,27 +788,29 @@ data programmatically.
 | `cmu2nd1lk00v6o10710h910ct` | An Ossananga Sociocultural Dataset | `an-ossananga-sociocultural-dataset-a1de6fc6` | [link](https://mozilladatacollective.com/datasets/cmu2nd1lk00v6o10710h910ct) | ❌ |
 | `cmu2nd71100vinv075o55lvf7` | JAV-Sign: Gresik–Surabaya Public Space Multimodal Corpus | `jav-sign-gresik-surabaya-public-space-mu-56b8e58d` | [link](https://mozilladatacollective.com/datasets/cmu2nd71100vinv075o55lvf7) | ❌ |
 | `cmu2ndeip00vmnv07okjtandg` | IND IKRAR - Craft and Cultural Heritage Multimodal Corpus  | `ind-ikrar-craft-and-cultural-heritage-mu-ed64266f` | [link](https://mozilladatacollective.com/datasets/cmu2ndeip00vmnv07okjtandg) | ❌ |
-| `cmu2ndpni00vqnv07cvocbw4o` | Huni Kuin: Narratives | `huni-kuin-narratives-5c9ebeb8` | [link](https://mozilladatacollective.com/datasets/cmu2ndpni00vqnv07cvocbw4o) | ❌ |
+| `cmu2ndpni00vqnv07cvocbw4o` | Huni Kuin: Narratives | `huni-kuin-narratives-3da8115f` | [link](https://mozilladatacollective.com/datasets/cmu2ndpni00vqnv07cvocbw4o) | ❌ |
 | `cmu2nhykt00vao10715zjt6lc` | A Fang Sociocultural Dataset | `a-fang-sociocultural-dataset-ea764f09` | [link](https://mozilladatacollective.com/datasets/cmu2nhykt00vao10715zjt6lc) | ❌ |
-| `cmu2q5xt300ybnv073jkgyzfw` | Pano: Comparative Word Lists | `pano-comparative-word-lists-73d1d64f` | [link](https://mozilladatacollective.com/datasets/cmu2q5xt300ybnv073jkgyzfw) | ❌ |
+| `cmu2q5xt300ybnv073jkgyzfw` | Pano: Comparative Word Lists | `pano-comparative-word-lists-05b03e16` | [link](https://mozilladatacollective.com/datasets/cmu2q5xt300ybnv073jkgyzfw) | ❌ |
 | `cmu2q67rr00x0o107u9kwmiv0` | Kakataibo: Phonetic Word List | `kakataibo-phonetic-word-list-09bd2f29` | [link](https://mozilladatacollective.com/datasets/cmu2q67rr00x0o107u9kwmiv0) | ❌ |
-| `cmu2rbemb0007nr07nq1sd4kk` | Awajún: Phonetic Word List | `awaj-n-phonetic-word-list-a0f6bcdc` | [link](https://mozilladatacollective.com/datasets/cmu2rbemb0007nr07nq1sd4kk) | ❌ |
-| `cmu2rblau000bnr07tb0yaxku` | Shipibo-Konibo: Mundialito | `shipibo-konibo-mundialito-47aa0f89` | [link](https://mozilladatacollective.com/datasets/cmu2rblau000bnr07tb0yaxku) | ❌ |
-| `cmu2rkf1o000jnr078v0funze` | Aymara: Phonetic Word Lists | `aymara-phonetic-word-lists-6ed07c8c` | [link](https://mozilladatacollective.com/datasets/cmu2rkf1o000jnr078v0funze) | ❌ |
-| `cmu2rlabb0003mr07ckc51iwm` | Shiwilu: Narratives and Songs | `shiwilu-narratives-and-songs-8655e8d6` | [link](https://mozilladatacollective.com/datasets/cmu2rlabb0003mr07ckc51iwm) | ❌ |
-| `cmu2usbdt001omr07iv3ixxe5` | Amahuaca: Narratives and Conversations | `amahuaca-narratives-and-conversations-3a433303` | [link](https://mozilladatacollective.com/datasets/cmu2usbdt001omr07iv3ixxe5) | ❌ |
-| `cmu2usi69001smr07ofl318i7` | Amahuaca: Knowledge and Practices | `amahuaca-knowledge-and-practices-e051d8a9` | [link](https://mozilladatacollective.com/datasets/cmu2usi69001smr07ofl318i7) | ❌ |
-| `cmu2usntw002knr07lkyofqw7` | Amahuaca: Life Stories | `amahuaca-life-stories-a5b8b817` | [link](https://mozilladatacollective.com/datasets/cmu2usntw002knr07lkyofqw7) | ❌ |
-| `cmu2uswge002onr07yn1dlpb1` | Kakataibo:  Traditional songs | `kakataibo-traditional-songs-61715ff6` | [link](https://mozilladatacollective.com/datasets/cmu2uswge002onr07yn1dlpb1) | ❌ |
-| `cmu2ut4p3002snr07bfyuaavn` | Iskonawa: Life and Craftsmanship | `iskonawa-life-and-craftsmanship-24bac101` | [link](https://mozilladatacollective.com/datasets/cmu2ut4p3002snr07bfyuaavn) | ❌ |
-| `cmu2utbcf002wnr07r0amtali` | Kakataibo: Audiovisual Narratives | `kakataibo-audiovisual-narratives-f6e8fec3` | [link](https://mozilladatacollective.com/datasets/cmu2utbcf002wnr07r0amtali) | ❌ |
-| `cmu2uthhq001wmr07xt84bn2n` | Iskonawa: Oral Tradition and Conversations | `iskonawa-oral-tradition-and-conversation-e7f518a1` | [link](https://mozilladatacollective.com/datasets/cmu2uthhq001wmr07xt84bn2n) | ❌ |
-| `cmu2utnca0030nr07c4exrhyn` | Iskonawa: Personal Narratives | `iskonawa-personal-narratives-d0386af9` | [link](https://mozilladatacollective.com/datasets/cmu2utnca0030nr07c4exrhyn) | ❌ |
-| `cmu2utt7z0034nr07hg5xgrc2` | Iskonawa: Traditional Songs | `iskonawa-traditional-songs-294f9745` | [link](https://mozilladatacollective.com/datasets/cmu2utt7z0034nr07hg5xgrc2) | ❌ |
-| `cmu2uu9o40020mr075ms79ock` | Kakataibo: Traditional Stories | `kakataibo-traditional-stories-334ad8c3` | [link](https://mozilladatacollective.com/datasets/cmu2uu9o40020mr075ms79ock) | ❌ |
-| `cmu2uwaio0038nr07we9lo51j` | Kakataibo: Emilio Estrella Book | `kakataibo-emilio-estrella-book-d8cad4aa` | [link](https://mozilladatacollective.com/datasets/cmu2uwaio0038nr07we9lo51j) | ❌ |
-| `cmu2uwh4b0028mr07inaad409` | Iskonawa: Traditional Stories | `iskonawa-traditional-stories-7554e8ca` | [link](https://mozilladatacollective.com/datasets/cmu2uwh4b0028mr07inaad409) | ❌ |
-| `cmu2uwm3f002cmr077w07fj1v` | Kakataibo: Fieldwork 2006-2007 | `kakataibo-fieldwork-2006-2007-d0f8fdfe` | [link](https://mozilladatacollective.com/datasets/cmu2uwm3f002cmr077w07fj1v) | ❌ |
+| `cmu2rbemb0007nr07nq1sd4kk` | Awajún: Phonetic Word List | `awaj-n-phonetic-word-list-69d0a76d` | [link](https://mozilladatacollective.com/datasets/cmu2rbemb0007nr07nq1sd4kk) | ❌ |
+| `cmu2rblau000bnr07tb0yaxku` | Shipibo-Konibo: Mundialito | `shipibo-konibo-mundialito-bf764c95` | [link](https://mozilladatacollective.com/datasets/cmu2rblau000bnr07tb0yaxku) | ❌ |
+| `cmu2rkf1o000jnr078v0funze` | Aymara: Phonetic Word Lists | `aymara-phonetic-word-lists-1427119a` | [link](https://mozilladatacollective.com/datasets/cmu2rkf1o000jnr078v0funze) | ❌ |
+| `cmu2rlabb0003mr07ckc51iwm` | Shiwilu: Narratives and Songs | `shiwilu-narratives-and-songs-25001b0f` | [link](https://mozilladatacollective.com/datasets/cmu2rlabb0003mr07ckc51iwm) | ❌ |
+| `cmu2usbdt001omr07iv3ixxe5` | Amahuaca: Narratives and Conversations | `amahuaca-narratives-and-conversations-6a6c293d` | [link](https://mozilladatacollective.com/datasets/cmu2usbdt001omr07iv3ixxe5) | ❌ |
+| `cmu2usi69001smr07ofl318i7` | Amahuaca: Knowledge and Practices | `amahuaca-knowledge-and-practices-bb02bb1c` | [link](https://mozilladatacollective.com/datasets/cmu2usi69001smr07ofl318i7) | ❌ |
+| `cmu2usntw002knr07lkyofqw7` | Amahuaca: Life Stories | `amahuaca-life-stories-5cf9b3d0` | [link](https://mozilladatacollective.com/datasets/cmu2usntw002knr07lkyofqw7) | ❌ |
+| `cmu2uswge002onr07yn1dlpb1` | Kakataibo:  Traditional songs | `kakataibo-traditional-songs-59b81ac7` | [link](https://mozilladatacollective.com/datasets/cmu2uswge002onr07yn1dlpb1) | ❌ |
+| `cmu2ut4p3002snr07bfyuaavn` | Iskonawa: Life and Craftsmanship | `iskonawa-life-and-craftsmanship-30174628` | [link](https://mozilladatacollective.com/datasets/cmu2ut4p3002snr07bfyuaavn) | ❌ |
+| `cmu2utbcf002wnr07r0amtali` | Kakataibo: Audiovisual Narratives | `kakataibo-audiovisual-narratives-da887314` | [link](https://mozilladatacollective.com/datasets/cmu2utbcf002wnr07r0amtali) | ❌ |
+| `cmu2uthhq001wmr07xt84bn2n` | Iskonawa: Oral Tradition and Conversations | `iskonawa-oral-tradition-and-conversation-313f4d51` | [link](https://mozilladatacollective.com/datasets/cmu2uthhq001wmr07xt84bn2n) | ❌ |
+| `cmu2utnca0030nr07c4exrhyn` | Iskonawa: Personal Narratives | `iskonawa-personal-narratives-4e288802` | [link](https://mozilladatacollective.com/datasets/cmu2utnca0030nr07c4exrhyn) | ❌ |
+| `cmu2utt7z0034nr07hg5xgrc2` | Iskonawa: Traditional Songs | `iskonawa-traditional-songs-eacdb1ff` | [link](https://mozilladatacollective.com/datasets/cmu2utt7z0034nr07hg5xgrc2) | ❌ |
+| `cmu2uu9o40020mr075ms79ock` | Kakataibo: Traditional Stories | `kakataibo-traditional-stories-71771033` | [link](https://mozilladatacollective.com/datasets/cmu2uu9o40020mr075ms79ock) | ❌ |
+| `cmu2uwaio0038nr07we9lo51j` | Kakataibo: Emilio Estrella Book | `kakataibo-emilio-estrella-book-fcbf668f` | [link](https://mozilladatacollective.com/datasets/cmu2uwaio0038nr07we9lo51j) | ❌ |
+| `cmu2uwh4b0028mr07inaad409` | Iskonawa: Traditional Stories | `iskonawa-traditional-stories-5b2b5d94` | [link](https://mozilladatacollective.com/datasets/cmu2uwh4b0028mr07inaad409) | ❌ |
+| `cmu2uwm3f002cmr077w07fj1v` | Kakataibo: Fieldwork 2006-2007 | `kakataibo-fieldwork-2006-2007-e341aa93` | [link](https://mozilladatacollective.com/datasets/cmu2uwm3f002cmr077w07fj1v) | ❌ |
+| `cmu43jd6u0010mi07kl431xrw` | Common Voice Scripted Speech 27.0 - Uzbek | `common-voice-scripted-speech-27-0-uzbek-b7e9d475` | [link](https://mozilladatacollective.com/datasets/cmu43jd6u0010mi07kl431xrw) | ❌ |
+| `cmu43khxw0014mi074lat13ey` | Common Voice Spontaneous Speech 5.0 - Irish | `common-voice-spontaneous-speech-5-0-iris-a7c940f7` | [link](https://mozilladatacollective.com/datasets/cmu43khxw0014mi074lat13ey) | ❌ |
 
 ## Schemas without a platform dataset
 
