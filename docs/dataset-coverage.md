@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-18  
-**Total datasets in sitemap:** 1163  
+**Last updated:** 2026-09-19  
+**Total datasets in sitemap:** 1165  
 **Schemas registered:** 416 ✅  
-**Schemas missing:** 747 ❌  
+**Schemas missing:** 749 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1182,6 +1182,8 @@ data programmatically.
 | `cmu62gcol00ohnq0758656ndx` | Common Voice Scripted Speech 27.0 - Slovak | `common-voice-scripted-speech-27-0-slovak-17c0da80` | [link](https://mozilladatacollective.com/datasets/cmu62gcol00ohnq0758656ndx) | ✅ |
 | `cmu62gjbl00nso107n7ct8dyl` | Common Voice Scripted Speech 27.0 - Dutch | `common-voice-scripted-speech-27-0-dutch-75546e19` | [link](https://mozilladatacollective.com/datasets/cmu62gjbl00nso107n7ct8dyl) | ✅ |
 | `cmu62jhk700nwo107l41a2fch` | Common Voice Scripted Speech 27.0 - Bashkir | `common-voice-scripted-speech-27-0-bashki-f3cb0cc0` | [link](https://mozilladatacollective.com/datasets/cmu62jhk700nwo107l41a2fch) | ✅ |
+| `cmu6w974s01ero107nnc64k4f` | Common Voice Scripted Speech 27.0 - Dawoodi | `common-voice-scripted-speech-27-0-dawood-84e1bc48` | [link](https://mozilladatacollective.com/datasets/cmu6w974s01ero107nnc64k4f) | ❌ |
+| `cmu6w9dop01evo107tkrje7so` | Common Voice Scripted Speech 27.0 - Fang | `common-voice-scripted-speech-27-0-fang-7754f9a8` | [link](https://mozilladatacollective.com/datasets/cmu6w9dop01evo107tkrje7so) | ❌ |
 
 ## Schemas without a platform dataset
 

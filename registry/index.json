@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-18T05:53:50.801973+00:00",
+  "generated_at": "2026-09-19T05:14:36.466049+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1163,
+    "listed_datasets": 1165,
     "with_schema": 416,
-    "without_schema": 747,
+    "without_schema": 749,
     "schemas_total": 417,
     "unlisted_schemas": 1
   },
@@ -12814,6 +12814,28 @@
       "lastmod": "2026-09-17T21:55:45.704Z",
       "schema_path": "registry/cmu62jhk700nwo107l41a2fch/schema.yaml",
       "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmu62jhk700nwo107l41a2fch/schema.yaml"
+    },
+    {
+      "id": "cmu6w974s01ero107nnc64k4f",
+      "has_schema": false,
+      "listed": true,
+      "name": "Common Voice Scripted Speech 27.0 - Dawoodi",
+      "slug": "common-voice-scripted-speech-27-0-dawood-84e1bc48",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmu6w974s01ero107nnc64k4f",
+      "lastmod": "2026-09-18T11:47:34.108Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmu6w9dop01evo107tkrje7so",
+      "has_schema": false,
+      "listed": true,
+      "name": "Common Voice Scripted Speech 27.0 - Fang",
+      "slug": "common-voice-scripted-speech-27-0-fang-7754f9a8",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmu6w9dop01evo107tkrje7so",
+      "lastmod": "2026-09-18T11:47:42.601Z",
+      "schema_path": null,
+      "schema_url": null
     }
   ]
 }
