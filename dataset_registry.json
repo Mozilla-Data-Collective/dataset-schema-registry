@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T06:10:29.822465+00:00",
-  "total": 1163,
+  "updated_at": "2026-09-19T05:14:22.913178+00:00",
+  "total": 1165,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8142,6 +8142,20 @@
       "lastmod": "2026-09-17T21:55:45.704Z",
       "name": "Common Voice Scripted Speech 27.0 - Bashkir",
       "slug": "common-voice-scripted-speech-27-0-bashki-f3cb0cc0"
+    },
+    {
+      "id": "cmu6w974s01ero107nnc64k4f",
+      "url": "https://mozilladatacollective.com/datasets/cmu6w974s01ero107nnc64k4f",
+      "lastmod": "2026-09-18T11:47:34.108Z",
+      "name": "Common Voice Scripted Speech 27.0 - Dawoodi",
+      "slug": "common-voice-scripted-speech-27-0-dawood-84e1bc48"
+    },
+    {
+      "id": "cmu6w9dop01evo107tkrje7so",
+      "url": "https://mozilladatacollective.com/datasets/cmu6w9dop01evo107tkrje7so",
+      "lastmod": "2026-09-18T11:47:42.601Z",
+      "name": "Common Voice Scripted Speech 27.0 - Fang",
+      "slug": "common-voice-scripted-speech-27-0-fang-7754f9a8"
     }
   ]
 }
