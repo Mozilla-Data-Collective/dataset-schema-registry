@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-19T05:14:36.466049+00:00",
+  "generated_at": "2026-09-20T05:15:00.348491+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -7683,9 +7683,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Indonesian Acculturation Culture - Image Corpus",
-      "slug": "indonesian-acculturation-culture-image-c-f981f353",
+      "slug": "indonesian-acculturation-culture-image-c-c6e48b37",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmtk9vv1l008nnm07y9vn4q6n",
-      "lastmod": "2026-09-02T15:50:24.489Z",
+      "lastmod": "2026-09-19T13:38:25.831Z",
       "schema_path": null,
       "schema_url": null
     },

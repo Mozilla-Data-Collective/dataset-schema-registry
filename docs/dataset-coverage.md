@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-19  
+**Last updated:** 2026-09-20  
 **Total datasets in sitemap:** 1165  
 **Schemas registered:** 416 ✅  
 **Schemas missing:** 749 ❌  
@@ -715,7 +715,7 @@ data programmatically.
 | `cmtk9ujjq009anv07xvgq779h` | 🚧 Colloquial Parallel Text (English - Hausa) 🚧 | `colloquial-parallel-text-english-hausa-1a011444` | [link](https://mozilladatacollective.com/datasets/cmtk9ujjq009anv07xvgq779h) | ❌ |
 | `cmtk9v2zz009env07w1k4lj3c` | 🚧 Colloquial Parallel Text (English - Hausa) 🚧 | `colloquial-parallel-text-english-hausa-202e5b80` | [link](https://mozilladatacollective.com/datasets/cmtk9v2zz009env07w1k4lj3c) | ❌ |
 | `cmtk9vda8008jnm078cs55rr6` | 🚧 Colloquial Parallel Text (English - Yoruba) 🚧 | `colloquial-parallel-text-english-yoruba-62cb142c` | [link](https://mozilladatacollective.com/datasets/cmtk9vda8008jnm078cs55rr6) | ❌ |
-| `cmtk9vv1l008nnm07y9vn4q6n` | Indonesian Acculturation Culture - Image Corpus | `indonesian-acculturation-culture-image-c-f981f353` | [link](https://mozilladatacollective.com/datasets/cmtk9vv1l008nnm07y9vn4q6n) | ❌ |
+| `cmtk9vv1l008nnm07y9vn4q6n` | Indonesian Acculturation Culture - Image Corpus | `indonesian-acculturation-culture-image-c-c6e48b37` | [link](https://mozilladatacollective.com/datasets/cmtk9vv1l008nnm07y9vn4q6n) | ❌ |
 | `cmtkf877400fnnv073tl63yl8` | Palula Literature Corpus | `palula-literature-corpus-8c44b0d4` | [link](https://mozilladatacollective.com/datasets/cmtkf877400fnnv073tl63yl8) | ❌ |
 | `cmtlk486f01xknv07nr1z8sr8` | Indonesia Lip-Record Speech Dataset | `indonesia-lip-record-speech-dataset-9dee1185` | [link](https://mozilladatacollective.com/datasets/cmtlk486f01xknv07nr1z8sr8) | ❌ |
 | `cmtlk7yzb01wenm07io47vqx2` | Visual Speech Recognition-Audiovisual Indonesian Dataset (VSR-Aid) | `visual-speech-recognition-audiovisual-in-06cfe193` | [link](https://mozilladatacollective.com/datasets/cmtlk7yzb01wenm07io47vqx2) | ❌ |
