@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T06:09:41.301674+00:00",
-  "total": 1165,
+  "updated_at": "2026-09-21T05:17:38.056173+00:00",
+  "total": 1166,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8156,6 +8156,13 @@
       "lastmod": "2026-09-18T11:47:42.601Z",
       "name": "Common Voice Scripted Speech 27.0 - Fang",
       "slug": "common-voice-scripted-speech-27-0-fang-7754f9a8"
+    },
+    {
+      "id": "cmu6xsi8201eenq07hnip96ct",
+      "url": "https://mozilladatacollective.com/datasets/cmu6xsi8201eenq07hnip96ct",
+      "lastmod": "2026-09-20T20:13:53.292Z",
+      "name": "TidyVoiceM_ASV",
+      "slug": "tidyvoicem-asv-ce0e976b"
     }
   ]
 }
