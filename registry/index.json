@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-20T05:15:00.348491+00:00",
+  "generated_at": "2026-09-21T05:17:49.651963+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1165,
+    "listed_datasets": 1166,
     "with_schema": 416,
-    "without_schema": 749,
+    "without_schema": 750,
     "schemas_total": 417,
     "unlisted_schemas": 1
   },
@@ -12834,6 +12834,17 @@
       "slug": "common-voice-scripted-speech-27-0-fang-7754f9a8",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmu6w9dop01evo107tkrje7so",
       "lastmod": "2026-09-18T11:47:42.601Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmu6xsi8201eenq07hnip96ct",
+      "has_schema": false,
+      "listed": true,
+      "name": "TidyVoiceM_ASV",
+      "slug": "tidyvoicem-asv-ce0e976b",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmu6xsi8201eenq07hnip96ct",
+      "lastmod": "2026-09-20T20:13:53.292Z",
       "schema_path": null,
       "schema_url": null
     }
