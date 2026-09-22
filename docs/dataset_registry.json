@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T06:14:29.080920+00:00",
-  "total": 1166,
+  "updated_at": "2026-09-22T05:16:21.876332+00:00",
+  "total": 1167,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8163,6 +8163,13 @@
       "lastmod": "2026-09-20T20:13:53.292Z",
       "name": "TidyVoiceM_ASV",
       "slug": "tidyvoicem-asv-ce0e976b"
+    },
+    {
+      "id": "cmubjs3e500jvnx07n3bpo5i8",
+      "url": "https://mozilladatacollective.com/datasets/cmubjs3e500jvnx07n3bpo5i8",
+      "lastmod": "2026-09-21T17:57:11.597Z",
+      "name": "Public Space and Sign in Javanese-Speaking Regions ",
+      "slug": "public-space-and-sign-in-javanese-speaki-710ba085"
     }
   ]
 }
