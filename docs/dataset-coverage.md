@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-21  
-**Total datasets in sitemap:** 1166  
+**Last updated:** 2026-09-22  
+**Total datasets in sitemap:** 1167  
 **Schemas registered:** 416 ✅  
-**Schemas missing:** 750 ❌  
+**Schemas missing:** 751 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1185,6 +1185,7 @@ data programmatically.
 | `cmu6w974s01ero107nnc64k4f` | Common Voice Scripted Speech 27.0 - Dawoodi | `common-voice-scripted-speech-27-0-dawood-84e1bc48` | [link](https://mozilladatacollective.com/datasets/cmu6w974s01ero107nnc64k4f) | ❌ |
 | `cmu6w9dop01evo107tkrje7so` | Common Voice Scripted Speech 27.0 - Fang | `common-voice-scripted-speech-27-0-fang-7754f9a8` | [link](https://mozilladatacollective.com/datasets/cmu6w9dop01evo107tkrje7so) | ❌ |
 | `cmu6xsi8201eenq07hnip96ct` | TidyVoiceM_ASV | `tidyvoicem-asv-ce0e976b` | [link](https://mozilladatacollective.com/datasets/cmu6xsi8201eenq07hnip96ct) | ❌ |
+| `cmubjs3e500jvnx07n3bpo5i8` | Public Space and Sign in Javanese-Speaking Regions  | `public-space-and-sign-in-javanese-speaki-710ba085` | [link](https://mozilladatacollective.com/datasets/cmubjs3e500jvnx07n3bpo5i8) | ❌ |
 
 ## Schemas without a platform dataset
 

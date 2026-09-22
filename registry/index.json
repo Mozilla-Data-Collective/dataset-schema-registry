@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-21T05:17:49.651963+00:00",
+  "generated_at": "2026-09-22T05:16:35.363907+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1166,
+    "listed_datasets": 1167,
     "with_schema": 416,
-    "without_schema": 750,
+    "without_schema": 751,
     "schemas_total": 417,
     "unlisted_schemas": 1
   },
@@ -12845,6 +12845,17 @@
       "slug": "tidyvoicem-asv-ce0e976b",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmu6xsi8201eenq07hnip96ct",
       "lastmod": "2026-09-20T20:13:53.292Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmubjs3e500jvnx07n3bpo5i8",
+      "has_schema": false,
+      "listed": true,
+      "name": "Public Space and Sign in Javanese-Speaking Regions ",
+      "slug": "public-space-and-sign-in-javanese-speaki-710ba085",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmubjs3e500jvnx07n3bpo5i8",
+      "lastmod": "2026-09-21T17:57:11.597Z",
       "schema_path": null,
       "schema_url": null
     }
