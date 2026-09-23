@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-22T05:16:35.363907+00:00",
+  "generated_at": "2026-09-23T05:16:17.760722+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1167,
+    "listed_datasets": 1169,
     "with_schema": 416,
-    "without_schema": 751,
+    "without_schema": 753,
     "schemas_total": 417,
     "unlisted_schemas": 1
   },
@@ -12856,6 +12856,28 @@
       "slug": "public-space-and-sign-in-javanese-speaki-710ba085",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmubjs3e500jvnx07n3bpo5i8",
       "lastmod": "2026-09-21T17:57:11.597Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmucnw19m01lonx076thnz3gp",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Tagalog Health Domain TTS 25 Hours Single Speaker (Male) 🚧",
+      "slug": "tagalog-health-domain-tts-25-hours-singl-9732dc7f",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmucnw19m01lonx076thnz3gp",
+      "lastmod": "2026-09-22T18:15:30.799Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmucznt9t0007kz08bq99zn2o",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧",
+      "slug": "tagalog-health-domain-tts-20-hours-singl-30d511af",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o",
+      "lastmod": "2026-09-22T18:15:06.647Z",
       "schema_path": null,
       "schema_url": null
     }

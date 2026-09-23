@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-22  
-**Total datasets in sitemap:** 1167  
+**Last updated:** 2026-09-23  
+**Total datasets in sitemap:** 1169  
 **Schemas registered:** 416 ✅  
-**Schemas missing:** 751 ❌  
+**Schemas missing:** 753 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1186,6 +1186,8 @@ data programmatically.
 | `cmu6w9dop01evo107tkrje7so` | Common Voice Scripted Speech 27.0 - Fang | `common-voice-scripted-speech-27-0-fang-7754f9a8` | [link](https://mozilladatacollective.com/datasets/cmu6w9dop01evo107tkrje7so) | ❌ |
 | `cmu6xsi8201eenq07hnip96ct` | TidyVoiceM_ASV | `tidyvoicem-asv-ce0e976b` | [link](https://mozilladatacollective.com/datasets/cmu6xsi8201eenq07hnip96ct) | ❌ |
 | `cmubjs3e500jvnx07n3bpo5i8` | Public Space and Sign in Javanese-Speaking Regions  | `public-space-and-sign-in-javanese-speaki-710ba085` | [link](https://mozilladatacollective.com/datasets/cmubjs3e500jvnx07n3bpo5i8) | ❌ |
+| `cmucnw19m01lonx076thnz3gp` | 🚧 Tagalog Health Domain TTS 25 Hours Single Speaker (Male) 🚧 | `tagalog-health-domain-tts-25-hours-singl-9732dc7f` | [link](https://mozilladatacollective.com/datasets/cmucnw19m01lonx076thnz3gp) | ❌ |
+| `cmucznt9t0007kz08bq99zn2o` | 🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧 | `tagalog-health-domain-tts-20-hours-singl-30d511af` | [link](https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o) | ❌ |
 
 ## Schemas without a platform dataset
 
