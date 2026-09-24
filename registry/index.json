@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-23T05:16:17.760722+00:00",
+  "generated_at": "2026-09-24T05:16:34.951372+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1169,
+    "listed_datasets": 1165,
     "with_schema": 416,
-    "without_schema": 753,
+    "without_schema": 749,
     "schemas_total": 417,
     "unlisted_schemas": 1
   },
@@ -7624,17 +7624,6 @@
       "schema_url": null
     },
     {
-      "id": "cmtk9qr4o008bnm07vrg3cz3t",
-      "has_schema": false,
-      "listed": true,
-      "name": "🚧 Colloquial Parallel Text (English - Yoruba) 🚧",
-      "slug": "colloquial-parallel-text-english-yoruba-228d992b",
-      "dataset_url": "https://mozilladatacollective.com/datasets/cmtk9qr4o008bnm07vrg3cz3t",
-      "lastmod": "2026-09-02T15:46:26.135Z",
-      "schema_path": null,
-      "schema_url": null
-    },
-    {
       "id": "cmtk9u5dn0096nv076kom1a7z",
       "has_schema": false,
       "listed": true,
@@ -7642,39 +7631,6 @@
       "slug": "khowar-english-parallel-corpus-09644052",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmtk9u5dn0096nv076kom1a7z",
       "lastmod": "2026-09-02T15:49:04.571Z",
-      "schema_path": null,
-      "schema_url": null
-    },
-    {
-      "id": "cmtk9ujjq009anv07xvgq779h",
-      "has_schema": false,
-      "listed": true,
-      "name": "🚧 Colloquial Parallel Text (English - Hausa) 🚧",
-      "slug": "colloquial-parallel-text-english-hausa-1a011444",
-      "dataset_url": "https://mozilladatacollective.com/datasets/cmtk9ujjq009anv07xvgq779h",
-      "lastmod": "2026-09-02T15:49:22.935Z",
-      "schema_path": null,
-      "schema_url": null
-    },
-    {
-      "id": "cmtk9v2zz009env07w1k4lj3c",
-      "has_schema": false,
-      "listed": true,
-      "name": "🚧 Colloquial Parallel Text (English - Hausa) 🚧",
-      "slug": "colloquial-parallel-text-english-hausa-202e5b80",
-      "dataset_url": "https://mozilladatacollective.com/datasets/cmtk9v2zz009env07w1k4lj3c",
-      "lastmod": "2026-09-02T15:49:48.144Z",
-      "schema_path": null,
-      "schema_url": null
-    },
-    {
-      "id": "cmtk9vda8008jnm078cs55rr6",
-      "has_schema": false,
-      "listed": true,
-      "name": "🚧 Colloquial Parallel Text (English - Yoruba) 🚧",
-      "slug": "colloquial-parallel-text-english-yoruba-62cb142c",
-      "dataset_url": "https://mozilladatacollective.com/datasets/cmtk9vda8008jnm078cs55rr6",
-      "lastmod": "2026-09-02T15:50:01.473Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12864,9 +12820,9 @@
       "has_schema": false,
       "listed": true,
       "name": "🚧 Tagalog Health Domain TTS 25 Hours Single Speaker (Male) 🚧",
-      "slug": "tagalog-health-domain-tts-25-hours-singl-9732dc7f",
+      "slug": "tagalog-health-domain-tts-25-hours-singl-1b167ec1",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmucnw19m01lonx076thnz3gp",
-      "lastmod": "2026-09-22T18:15:30.799Z",
+      "lastmod": "2026-09-23T17:02:55.648Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12875,9 +12831,9 @@
       "has_schema": false,
       "listed": true,
       "name": "🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧",
-      "slug": "tagalog-health-domain-tts-20-hours-singl-30d511af",
+      "slug": "tagalog-health-domain-tts-20-hours-singl-076884ad",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o",
-      "lastmod": "2026-09-22T18:15:06.647Z",
+      "lastmod": "2026-09-23T17:02:15.762Z",
       "schema_path": null,
       "schema_url": null
     }

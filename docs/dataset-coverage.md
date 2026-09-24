@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-23  
-**Total datasets in sitemap:** 1169  
+**Last updated:** 2026-09-24  
+**Total datasets in sitemap:** 1165  
 **Schemas registered:** 416 ✅  
-**Schemas missing:** 753 ❌  
+**Schemas missing:** 749 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -710,11 +710,7 @@ data programmatically.
 | `cmtk5j4s2004unv07serrr1n8` | Indonesian-Multidialect Lip-Record Speech Corpus | `indonesian-multidialect-lip-record-speec-c17daa27` | [link](https://mozilladatacollective.com/datasets/cmtk5j4s2004unv07serrr1n8) | ❌ |
 | `cmtk5wxm5004ynv07rlamzlif` | Ormuri Bilingual Dictionary by Rozi Khan Burki | `ormuri-bilingual-dictionary-by-rozi-khan-ca006ee1` | [link](https://mozilladatacollective.com/datasets/cmtk5wxm5004ynv07rlamzlif) | ❌ |
 | `cmtk5x5il0052nv07m5unf4w6` | Wakhi Literature Corpus | `wakhi-literature-corpus-a0298c45` | [link](https://mozilladatacollective.com/datasets/cmtk5x5il0052nv07m5unf4w6) | ❌ |
-| `cmtk9qr4o008bnm07vrg3cz3t` | 🚧 Colloquial Parallel Text (English - Yoruba) 🚧 | `colloquial-parallel-text-english-yoruba-228d992b` | [link](https://mozilladatacollective.com/datasets/cmtk9qr4o008bnm07vrg3cz3t) | ❌ |
 | `cmtk9u5dn0096nv076kom1a7z` | 🚧 Khowar-English Parallel Corpus 🚧 | `khowar-english-parallel-corpus-09644052` | [link](https://mozilladatacollective.com/datasets/cmtk9u5dn0096nv076kom1a7z) | ❌ |
-| `cmtk9ujjq009anv07xvgq779h` | 🚧 Colloquial Parallel Text (English - Hausa) 🚧 | `colloquial-parallel-text-english-hausa-1a011444` | [link](https://mozilladatacollective.com/datasets/cmtk9ujjq009anv07xvgq779h) | ❌ |
-| `cmtk9v2zz009env07w1k4lj3c` | 🚧 Colloquial Parallel Text (English - Hausa) 🚧 | `colloquial-parallel-text-english-hausa-202e5b80` | [link](https://mozilladatacollective.com/datasets/cmtk9v2zz009env07w1k4lj3c) | ❌ |
-| `cmtk9vda8008jnm078cs55rr6` | 🚧 Colloquial Parallel Text (English - Yoruba) 🚧 | `colloquial-parallel-text-english-yoruba-62cb142c` | [link](https://mozilladatacollective.com/datasets/cmtk9vda8008jnm078cs55rr6) | ❌ |
 | `cmtk9vv1l008nnm07y9vn4q6n` | Indonesian Acculturation Culture - Image Corpus | `indonesian-acculturation-culture-image-c-c6e48b37` | [link](https://mozilladatacollective.com/datasets/cmtk9vv1l008nnm07y9vn4q6n) | ❌ |
 | `cmtkf877400fnnv073tl63yl8` | Palula Literature Corpus | `palula-literature-corpus-8c44b0d4` | [link](https://mozilladatacollective.com/datasets/cmtkf877400fnnv073tl63yl8) | ❌ |
 | `cmtlk486f01xknv07nr1z8sr8` | Indonesia Lip-Record Speech Dataset | `indonesia-lip-record-speech-dataset-9dee1185` | [link](https://mozilladatacollective.com/datasets/cmtlk486f01xknv07nr1z8sr8) | ❌ |
@@ -1186,8 +1182,8 @@ data programmatically.
 | `cmu6w9dop01evo107tkrje7so` | Common Voice Scripted Speech 27.0 - Fang | `common-voice-scripted-speech-27-0-fang-7754f9a8` | [link](https://mozilladatacollective.com/datasets/cmu6w9dop01evo107tkrje7so) | ❌ |
 | `cmu6xsi8201eenq07hnip96ct` | TidyVoiceM_ASV | `tidyvoicem-asv-ce0e976b` | [link](https://mozilladatacollective.com/datasets/cmu6xsi8201eenq07hnip96ct) | ❌ |
 | `cmubjs3e500jvnx07n3bpo5i8` | Public Space and Sign in Javanese-Speaking Regions  | `public-space-and-sign-in-javanese-speaki-710ba085` | [link](https://mozilladatacollective.com/datasets/cmubjs3e500jvnx07n3bpo5i8) | ❌ |
-| `cmucnw19m01lonx076thnz3gp` | 🚧 Tagalog Health Domain TTS 25 Hours Single Speaker (Male) 🚧 | `tagalog-health-domain-tts-25-hours-singl-9732dc7f` | [link](https://mozilladatacollective.com/datasets/cmucnw19m01lonx076thnz3gp) | ❌ |
-| `cmucznt9t0007kz08bq99zn2o` | 🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧 | `tagalog-health-domain-tts-20-hours-singl-30d511af` | [link](https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o) | ❌ |
+| `cmucnw19m01lonx076thnz3gp` | 🚧 Tagalog Health Domain TTS 25 Hours Single Speaker (Male) 🚧 | `tagalog-health-domain-tts-25-hours-singl-1b167ec1` | [link](https://mozilladatacollective.com/datasets/cmucnw19m01lonx076thnz3gp) | ❌ |
+| `cmucznt9t0007kz08bq99zn2o` | 🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧 | `tagalog-health-domain-tts-20-hours-singl-076884ad` | [link](https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o) | ❌ |
 
 ## Schemas without a platform dataset
 
