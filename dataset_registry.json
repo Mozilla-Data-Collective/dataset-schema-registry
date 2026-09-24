@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T06:10:54.371651+00:00",
-  "total": 1169,
+  "updated_at": "2026-09-24T05:16:20.222601+00:00",
+  "total": 1165,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -4840,39 +4840,11 @@
       "slug": "wakhi-literature-corpus-a0298c45"
     },
     {
-      "id": "cmtk9qr4o008bnm07vrg3cz3t",
-      "url": "https://mozilladatacollective.com/datasets/cmtk9qr4o008bnm07vrg3cz3t",
-      "lastmod": "2026-09-02T15:46:26.135Z",
-      "name": "🚧 Colloquial Parallel Text (English - Yoruba) 🚧",
-      "slug": "colloquial-parallel-text-english-yoruba-228d992b"
-    },
-    {
       "id": "cmtk9u5dn0096nv076kom1a7z",
       "url": "https://mozilladatacollective.com/datasets/cmtk9u5dn0096nv076kom1a7z",
       "lastmod": "2026-09-02T15:49:04.571Z",
       "name": "🚧 Khowar-English Parallel Corpus 🚧",
       "slug": "khowar-english-parallel-corpus-09644052"
-    },
-    {
-      "id": "cmtk9ujjq009anv07xvgq779h",
-      "url": "https://mozilladatacollective.com/datasets/cmtk9ujjq009anv07xvgq779h",
-      "lastmod": "2026-09-02T15:49:22.935Z",
-      "name": "🚧 Colloquial Parallel Text (English - Hausa) 🚧",
-      "slug": "colloquial-parallel-text-english-hausa-1a011444"
-    },
-    {
-      "id": "cmtk9v2zz009env07w1k4lj3c",
-      "url": "https://mozilladatacollective.com/datasets/cmtk9v2zz009env07w1k4lj3c",
-      "lastmod": "2026-09-02T15:49:48.144Z",
-      "name": "🚧 Colloquial Parallel Text (English - Hausa) 🚧",
-      "slug": "colloquial-parallel-text-english-hausa-202e5b80"
-    },
-    {
-      "id": "cmtk9vda8008jnm078cs55rr6",
-      "url": "https://mozilladatacollective.com/datasets/cmtk9vda8008jnm078cs55rr6",
-      "lastmod": "2026-09-02T15:50:01.473Z",
-      "name": "🚧 Colloquial Parallel Text (English - Yoruba) 🚧",
-      "slug": "colloquial-parallel-text-english-yoruba-62cb142c"
     },
     {
       "id": "cmtk9vv1l008nnm07y9vn4q6n",
@@ -8174,16 +8146,16 @@
     {
       "id": "cmucnw19m01lonx076thnz3gp",
       "url": "https://mozilladatacollective.com/datasets/cmucnw19m01lonx076thnz3gp",
-      "lastmod": "2026-09-22T18:15:30.799Z",
+      "lastmod": "2026-09-23T17:02:55.648Z",
       "name": "🚧 Tagalog Health Domain TTS 25 Hours Single Speaker (Male) 🚧",
-      "slug": "tagalog-health-domain-tts-25-hours-singl-9732dc7f"
+      "slug": "tagalog-health-domain-tts-25-hours-singl-1b167ec1"
     },
     {
       "id": "cmucznt9t0007kz08bq99zn2o",
       "url": "https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o",
-      "lastmod": "2026-09-22T18:15:06.647Z",
+      "lastmod": "2026-09-23T17:02:15.762Z",
       "name": "🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧",
-      "slug": "tagalog-health-domain-tts-20-hours-singl-30d511af"
+      "slug": "tagalog-health-domain-tts-20-hours-singl-076884ad"
     }
   ]
 }
