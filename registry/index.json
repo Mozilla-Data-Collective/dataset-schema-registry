@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-24T05:16:34.951372+00:00",
+  "generated_at": "2026-09-25T05:16:47.459195+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1165,
+    "listed_datasets": 1166,
     "with_schema": 416,
-    "without_schema": 749,
+    "without_schema": 750,
     "schemas_total": 417,
     "unlisted_schemas": 1
   },
@@ -1435,9 +1435,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Gawri (گاؤری) Magazine Corpus",
-      "slug": "gawri-magazine-corpus-df4c7a92",
+      "slug": "gawri-magazine-corpus-ff3e9835",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmlgmqqul009lny07rhsa7aey",
-      "lastmod": "2026-02-10T13:21:37.390Z",
+      "lastmod": "2026-09-24T17:29:26.283Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -1886,9 +1886,9 @@
       "has_schema": false,
       "listed": true,
       "name": "IBT Torwali Wordlist",
-      "slug": "ibt-torwali-wordlist-4b1c8ffb",
+      "slug": "ibt-torwali-wordlist-427a6b64",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmmdpbs5z003emh07yvbymzu5",
-      "lastmod": "2026-03-05T16:50:21.911Z",
+      "lastmod": "2026-09-24T17:29:19.088Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -2370,9 +2370,9 @@
       "has_schema": false,
       "listed": true,
       "name": "IBT Torwali Literature Corpus",
-      "slug": "ibt-torwali-literature-corpus-7bb922e0",
+      "slug": "ibt-torwali-literature-corpus-7385fa50",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmnoqtoq900ugmf077kiuny8y",
-      "lastmod": "2026-04-07T14:57:27.153Z",
+      "lastmod": "2026-09-24T17:29:09.826Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -6693,9 +6693,9 @@
       "has_schema": false,
       "listed": true,
       "name": "BAHANA-Speech Corpus of English Learners from Indonesia",
-      "slug": "bahana-speech-corpus-of-english-learners-7ec3c54f",
+      "slug": "bahana-speech-corpus-of-english-learners-81c7a316",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmrxfn05r014znu07ub3muel9",
-      "lastmod": "2026-08-18T08:07:04.103Z",
+      "lastmod": "2026-09-25T03:24:43.623Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -8123,9 +8123,9 @@
       "has_schema": false,
       "listed": true,
       "name": "🚧Software Engineering & AI Tooling 🚧",
-      "slug": "software-engineering-ai-tooling-fbfe7a25",
+      "slug": "software-engineering-ai-tooling-942de6bd",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmu1awryj03txnz07lpkb853l",
-      "lastmod": "2026-09-14T13:51:11.755Z",
+      "lastmod": "2026-09-24T09:45:27.337Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -8233,9 +8233,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Speech Corpus of Javanese-Klaten Regency",
-      "slug": "speech-corpus-of-javanese-klaten-regency-96901a23",
+      "slug": "speech-corpus-of-javanese-klaten-regency-8d068ebe",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmu1ityrc0024o107b4n7rqo6",
-      "lastmod": "2026-09-14T17:32:57.528Z",
+      "lastmod": "2026-09-24T14:17:13.403Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12834,6 +12834,17 @@
       "slug": "tagalog-health-domain-tts-20-hours-singl-076884ad",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o",
       "lastmod": "2026-09-23T17:02:15.762Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmufi5stj02y7ny0727487cu2",
+      "has_schema": false,
+      "listed": true,
+      "name": "LRAC 2.0 Common Voice 26.0 Bundle",
+      "slug": "lrac-2-0-common-voice-26-0-bundle-a628996b",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmufi5stj02y7ny0727487cu2",
+      "lastmod": "2026-09-24T12:22:56.551Z",
       "schema_path": null,
       "schema_url": null
     }

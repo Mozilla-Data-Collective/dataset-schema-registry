@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-24  
-**Total datasets in sitemap:** 1165  
+**Last updated:** 2026-09-25  
+**Total datasets in sitemap:** 1166  
 **Schemas registered:** 416 ✅  
-**Schemas missing:** 749 ❌  
+**Schemas missing:** 750 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -147,7 +147,7 @@ data programmatically.
 | `cmlct0jzu01s4nv07023lv3m3` | Zacatlán Tepetzintla Nahuatl Transcriptions | `zacatl-n-tepetzintla-nahuatl-transcripti-6fdb6e0a` | [link](https://mozilladatacollective.com/datasets/cmlct0jzu01s4nv07023lv3m3) | ❌ |
 | `cmlgm5a94008kny07nz2intus` | Jember Javanese Spontaneous Speech Corpus | `jember-javanese-spontaneous-speech-corpu-d43a201a` | [link](https://mozilladatacollective.com/datasets/cmlgm5a94008kny07nz2intus) | ❌ |
 | `cmlgmf58l0096nx07tahttd6y` | TTS Javanese - Ngapak Dialect  | `tts-javanese-ngapak-dialect-59f7faff` | [link](https://mozilladatacollective.com/datasets/cmlgmf58l0096nx07tahttd6y) | ❌ |
-| `cmlgmqqul009lny07rhsa7aey` | Gawri (گاؤری) Magazine Corpus | `gawri-magazine-corpus-df4c7a92` | [link](https://mozilladatacollective.com/datasets/cmlgmqqul009lny07rhsa7aey) | ❌ |
+| `cmlgmqqul009lny07rhsa7aey` | Gawri (گاؤری) Magazine Corpus | `gawri-magazine-corpus-ff3e9835` | [link](https://mozilladatacollective.com/datasets/cmlgmqqul009lny07rhsa7aey) | ❌ |
 | `cmlgrqom000jrnx07zywfpblb` | NAWA-E-WATAN Balochi Newspaper Corpus | `nawa-e-watan-balochi-newspaper-corpus-31187552` | [link](https://mozilladatacollective.com/datasets/cmlgrqom000jrnx07zywfpblb) | ❌ |
 | `cmlgv2ucp0005nx07wwocbpux` | Western Balochi Literature Cropus | `western-balochi-literature-cropus-1d5c4ede` | [link](https://mozilladatacollective.com/datasets/cmlgv2ucp0005nx07wwocbpux) | ❌ |
 | `cmlgx0s7j000jmg07pr4o635t` | Talar (تلار) Barahui Magazine Corpus | `talar-barahui-magazine-corpus-14d3c8b4` | [link](https://mozilladatacollective.com/datasets/cmlgx0s7j000jmg07pr4o635t) | ❌ |
@@ -188,7 +188,7 @@ data programmatically.
 | `cmmaphscg04t2mk07i1f8yc0q` | Saraiki-English Parallel Corpus | `saraiki-english-parallel-corpus-096ab4eb` | [link](https://mozilladatacollective.com/datasets/cmmaphscg04t2mk07i1f8yc0q) | ❌ |
 | `cmmccfc5000efmu07ommi3zfr` | Bangor Patagonia Welsh-Spanish Corpus | `bangor-patagonia-welsh-spanish-corpus-5440036b` | [link](https://mozilladatacollective.com/datasets/cmmccfc5000efmu07ommi3zfr) | ❌ |
 | `cmmccg5qi00enmu07w9wjpnrn` | Bangor Siarad Welsh-English Corpus | `bangor-siarad-welsh-english-corpus-3f82e3e5` | [link](https://mozilladatacollective.com/datasets/cmmccg5qi00enmu07w9wjpnrn) | ❌ |
-| `cmmdpbs5z003emh07yvbymzu5` | IBT Torwali Wordlist | `ibt-torwali-wordlist-4b1c8ffb` | [link](https://mozilladatacollective.com/datasets/cmmdpbs5z003emh07yvbymzu5) | ❌ |
+| `cmmdpbs5z003emh07yvbymzu5` | IBT Torwali Wordlist | `ibt-torwali-wordlist-427a6b64` | [link](https://mozilladatacollective.com/datasets/cmmdpbs5z003emh07yvbymzu5) | ❌ |
 | `cmmdpikpq003imh077foix53d` | Dari Literature Corpus by Anjuman e Adabi Nayestan | `dari-literature-corpus-by-anjuman-e-adab-b1cd1982` | [link](https://mozilladatacollective.com/datasets/cmmdpikpq003imh077foix53d) | ❌ |
 | `cmmdtenxt0050mh0792d10knv` | Elkhani Hazargi Literature Corpus  | `elkhani-hazargi-literature-corpus-85c403db` | [link](https://mozilladatacollective.com/datasets/cmmdtenxt0050mh0792d10knv) | ❌ |
 | `cmmfulo4r018bnz07py4q9t09` | Bangor Miami Spanish-English Corpus | `bangor-miami-spanish-english-corpus-36d9f971` | [link](https://mozilladatacollective.com/datasets/cmmfulo4r018bnz07py4q9t09) | ❌ |
@@ -232,7 +232,7 @@ data programmatically.
 | `cmnmyptri02glo107p5cx5por` | Tamil Time Aligned Speech Dataset | `tamil-time-aligned-speech-dataset-ded4b0ab` | [link](https://mozilladatacollective.com/datasets/cmnmyptri02glo107p5cx5por) | ❌ |
 | `cmnopto3q00t0mf07v2dtc0ej` | Hausa-TTS-Dataset | `hausa-tts-dataset-b69efbb0` | [link](https://mozilladatacollective.com/datasets/cmnopto3q00t0mf07v2dtc0ej) | ❌ |
 | `cmnopvxxr00t6mf07nm4cp4qs` | Bulu_ALCAM-MultimodalDataset | `bulu-alcam-multimodaldataset-7d63bbe5` | [link](https://mozilladatacollective.com/datasets/cmnopvxxr00t6mf07nm4cp4qs) | ❌ |
-| `cmnoqtoq900ugmf077kiuny8y` | IBT Torwali Literature Corpus | `ibt-torwali-literature-corpus-7bb922e0` | [link](https://mozilladatacollective.com/datasets/cmnoqtoq900ugmf077kiuny8y) | ❌ |
+| `cmnoqtoq900ugmf077kiuny8y` | IBT Torwali Literature Corpus | `ibt-torwali-literature-corpus-7385fa50` | [link](https://mozilladatacollective.com/datasets/cmnoqtoq900ugmf077kiuny8y) | ❌ |
 | `cmnprpfot01khnz07xdjosybq` | CV Korean Test 25.0 - Noise-Augmented (SCAI) | `cv-korean-test-25-0-noise-augmented-scai-2f4f0b65` | [link](https://mozilladatacollective.com/datasets/cmnprpfot01khnz07xdjosybq) | ❌ |
 | `cmnx6375n031gnn07sm6juaz4` | The Daily Jugantor Bengali Language Corpus | `the-daily-jugantor-bengali-language-corp-4c8cadd8` | [link](https://mozilladatacollective.com/datasets/cmnx6375n031gnn07sm6juaz4) | ❌ |
 | `cmnx6rab3032gml07xu2xkwym` | Hindi 10 Million Text Corpus | `hindi-10-million-text-corpus-ae07543b` | [link](https://mozilladatacollective.com/datasets/cmnx6rab3032gml07xu2xkwym) | ❌ |
@@ -625,7 +625,7 @@ data programmatically.
 | `cmrw5311c0046nu0747csrilw` | A Bum Sociocultural Dataset | `a-bum-sociocultural-dataset-99513198` | [link](https://mozilladatacollective.com/datasets/cmrw5311c0046nu0747csrilw) | ❌ |
 | `cmrw6gnqc005pnv073f87ulq7` | Syntheic Urdu Audios | `syntheic-urdu-audios-081134ab` | [link](https://mozilladatacollective.com/datasets/cmrw6gnqc005pnv073f87ulq7) | ❌ |
 | `cmrwm2vcy00hhnu07p3z8lshx` | Kumyk Proverbs and Sayings Text Corpus | `kumyk-proverbs-and-sayings-text-corpus-2f2de21e` | [link](https://mozilladatacollective.com/datasets/cmrwm2vcy00hhnu07p3z8lshx) | ❌ |
-| `cmrxfn05r014znu07ub3muel9` | BAHANA-Speech Corpus of English Learners from Indonesia | `bahana-speech-corpus-of-english-learners-7ec3c54f` | [link](https://mozilladatacollective.com/datasets/cmrxfn05r014znu07ub3muel9) | ❌ |
+| `cmrxfn05r014znu07ub3muel9` | BAHANA-Speech Corpus of English Learners from Indonesia | `bahana-speech-corpus-of-english-learners-81c7a316` | [link](https://mozilladatacollective.com/datasets/cmrxfn05r014znu07ub3muel9) | ❌ |
 | `cmrxgok02015onu07fk8qxx8v` | Urdu Financial Phrasebank | `urdu-financial-phrasebank-d8d345ac` | [link](https://mozilladatacollective.com/datasets/cmrxgok02015onu07fk8qxx8v) | ❌ |
 | `cmrxgplej014vnv07xy4zob5l` | Helpful and Harmless RLHF Urdu | `helpful-and-harmless-rlhf-urdu-9db22f4f` | [link](https://mozilladatacollective.com/datasets/cmrxgplej014vnv07xy4zob5l) | ❌ |
 | `cmrxgqrj8014znv07t3j3psj3` | Urdu Legal Instruct | `urdu-legal-instruct-87c44cae` | [link](https://mozilladatacollective.com/datasets/cmrxgqrj8014znv07t3j3psj3) | ❌ |
@@ -755,7 +755,7 @@ data programmatically.
 | `cmtsqin6x00arl507fdafxq2b` | A Kali Sociocultural Dataset | `a-kali-sociocultural-dataset-1abbe8a6` | [link](https://mozilladatacollective.com/datasets/cmtsqin6x00arl507fdafxq2b) | ❌ |
 | `cmtufo0cx00gant07sgudmy3r` | Demakan Dialect of JAV-IND-ENG-ARB Parallel Corpus | `demakan-dialect-of-jav-ind-eng-arb-paral-8d13c8b1` | [link](https://mozilladatacollective.com/datasets/cmtufo0cx00gant07sgudmy3r) | ❌ |
 | `cmu1atvfl03z7nx08b8k13791` | 🚧 Brazilian Portuguese ASR dataset (140h) 🚧 | `brazilian-portuguese-asr-dataset-140h-4e9e07d0` | [link](https://mozilladatacollective.com/datasets/cmu1atvfl03z7nx08b8k13791) | ❌ |
-| `cmu1awryj03txnz07lpkb853l` | 🚧Software Engineering & AI Tooling 🚧 | `software-engineering-ai-tooling-fbfe7a25` | [link](https://mozilladatacollective.com/datasets/cmu1awryj03txnz07lpkb853l) | ❌ |
+| `cmu1awryj03txnz07lpkb853l` | 🚧Software Engineering & AI Tooling 🚧 | `software-engineering-ai-tooling-942de6bd` | [link](https://mozilladatacollective.com/datasets/cmu1awryj03txnz07lpkb853l) | ❌ |
 | `cmu1awzhe03zfnx0833jjubvf` | A Guiziga Muturwa Sociocultural Dataset | `a-guiziga-muturwa-sociocultural-dataset-1671ec81` | [link](https://mozilladatacollective.com/datasets/cmu1awzhe03zfnx0833jjubvf) | ❌ |
 | `cmu1ax60f03zjnx081lh28hty` | TTS - Jepara Javanese Speech Corpus (JJSC) | `tts-jepara-javanese-speech-corpus-jjsc-37e17b42` | [link](https://mozilladatacollective.com/datasets/cmu1ax60f03zjnx081lh28hty) | ❌ |
 | `cmu1b03dq03zrnx08kumwzt3i` | BOSSCO : Bogor Sundanese Speech Corpus | `bossco-bogor-sundanese-speech-corpus-4d8ebb24` | [link](https://mozilladatacollective.com/datasets/cmu1b03dq03zrnx08kumwzt3i) | ❌ |
@@ -765,7 +765,7 @@ data programmatically.
 | `cmu1iez97001fo1074hpjwhrj` | A Mandara Sociocultural Dataset | `a-mandara-sociocultural-dataset-2e32f59d` | [link](https://mozilladatacollective.com/datasets/cmu1iez97001fo1074hpjwhrj) | ❌ |
 | `cmu1if5at001bnv07yojsbktt` | A Moundang Sociocultural Dataset | `a-moundang-sociocultural-dataset-518907a9` | [link](https://mozilladatacollective.com/datasets/cmu1if5at001bnv07yojsbktt) | ❌ |
 | `cmu1itr2u0020o107zsw1byew` | A Nvon-Nvon Sociocultural Dataset | `a-nvon-nvon-sociocultural-dataset-c81f7177` | [link](https://mozilladatacollective.com/datasets/cmu1itr2u0020o107zsw1byew) | ❌ |
-| `cmu1ityrc0024o107b4n7rqo6` | Speech Corpus of Javanese-Klaten Regency | `speech-corpus-of-javanese-klaten-regency-96901a23` | [link](https://mozilladatacollective.com/datasets/cmu1ityrc0024o107b4n7rqo6) | ❌ |
+| `cmu1ityrc0024o107b4n7rqo6` | Speech Corpus of Javanese-Klaten Regency | `speech-corpus-of-javanese-klaten-regency-8d068ebe` | [link](https://mozilladatacollective.com/datasets/cmu1ityrc0024o107b4n7rqo6) | ❌ |
 | `cmu1iu4op001ynv076vecqaa2` | A Podoko Sociocultural Dataset | `a-podoko-sociocultural-dataset-eddf98b4` | [link](https://mozilladatacollective.com/datasets/cmu1iu4op001ynv076vecqaa2) | ❌ |
 | `cmu1iu9hk0028o107jo1654q9` | A Yemba Sociocultural Dataset | `a-yemba-sociocultural-dataset-c9517b3c` | [link](https://mozilladatacollective.com/datasets/cmu1iu9hk0028o107jo1654q9) | ❌ |
 | `cmu2mq96s00ugo1072rf2p6e3` | Indonesian Speech Motion Dataset | `indonesian-speech-motion-dataset-5717870f` | [link](https://mozilladatacollective.com/datasets/cmu2mq96s00ugo1072rf2p6e3) | ❌ |
@@ -1184,6 +1184,7 @@ data programmatically.
 | `cmubjs3e500jvnx07n3bpo5i8` | Public Space and Sign in Javanese-Speaking Regions  | `public-space-and-sign-in-javanese-speaki-710ba085` | [link](https://mozilladatacollective.com/datasets/cmubjs3e500jvnx07n3bpo5i8) | ❌ |
 | `cmucnw19m01lonx076thnz3gp` | 🚧 Tagalog Health Domain TTS 25 Hours Single Speaker (Male) 🚧 | `tagalog-health-domain-tts-25-hours-singl-1b167ec1` | [link](https://mozilladatacollective.com/datasets/cmucnw19m01lonx076thnz3gp) | ❌ |
 | `cmucznt9t0007kz08bq99zn2o` | 🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧 | `tagalog-health-domain-tts-20-hours-singl-076884ad` | [link](https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o) | ❌ |
+| `cmufi5stj02y7ny0727487cu2` | LRAC 2.0 Common Voice 26.0 Bundle | `lrac-2-0-common-voice-26-0-bundle-a628996b` | [link](https://mozilladatacollective.com/datasets/cmufi5stj02y7ny0727487cu2) | ❌ |
 
 ## Schemas without a platform dataset
 
