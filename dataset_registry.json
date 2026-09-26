@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T06:11:00.477551+00:00",
-  "total": 1166,
+  "updated_at": "2026-09-26T05:15:15.460168+00:00",
+  "total": 1170,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -4870,9 +4870,9 @@
     {
       "id": "cmtlk7yzb01wenm07io47vqx2",
       "url": "https://mozilladatacollective.com/datasets/cmtlk7yzb01wenm07io47vqx2",
-      "lastmod": "2026-09-03T13:27:31.799Z",
+      "lastmod": "2026-09-25T14:35:23.331Z",
       "name": "Visual Speech Recognition-Audiovisual Indonesian Dataset (VSR-Aid)",
-      "slug": "visual-speech-recognition-audiovisual-in-06cfe193"
+      "slug": "visual-speech-recognition-audiovisual-in-8b485132"
     },
     {
       "id": "cmtll36zw01xknm074he6a70i",
@@ -4968,9 +4968,9 @@
     {
       "id": "cmtr89f6505ilo107jwdqu6zg",
       "url": "https://mozilladatacollective.com/datasets/cmtr89f6505ilo107jwdqu6zg",
-      "lastmod": "2026-09-07T12:39:21.101Z",
+      "lastmod": "2026-09-25T14:35:57.303Z",
       "name": "IndoLearner-English Speech Corpus",
-      "slug": "indolearner-english-speech-corpus-d5d6fb97"
+      "slug": "indolearner-english-speech-corpus-73cbf15b"
     },
     {
       "id": "cmtr89ry305csny07rrpxqe9d",
@@ -8163,6 +8163,34 @@
       "lastmod": "2026-09-24T12:22:56.551Z",
       "name": "LRAC 2.0 Common Voice 26.0 Bundle",
       "slug": "lrac-2-0-common-voice-26-0-bundle-a628996b"
+    },
+    {
+      "id": "cmuh4ozy804olny07mu2h0kjm",
+      "url": "https://mozilladatacollective.com/datasets/cmuh4ozy804olny07mu2h0kjm",
+      "lastmod": "2026-09-25T15:41:29.984Z",
+      "name": "🚧 Tagalog Voice Notes ASR Dataset (45 hours) 🚧",
+      "slug": "tagalog-voice-notes-asr-dataset-45-hours-ccdb5cf8"
+    },
+    {
+      "id": "cmuh4z6sw04opny07obm3ze3e",
+      "url": "https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e",
+      "lastmod": "2026-09-25T19:00:14.199Z",
+      "name": "English 10 Hours Medical Speech Evaluation Dataset ",
+      "slug": "english-10-hours-medical-speech-evaluati-9c58938e"
+    },
+    {
+      "id": "cmuh50dte04otny07ot80sg6n",
+      "url": "https://mozilladatacollective.com/datasets/cmuh50dte04otny07ot80sg6n",
+      "lastmod": "2026-09-25T15:50:21.170Z",
+      "name": "🚧 Northern Pashto Corpus for Speech Recognition 🚧",
+      "slug": "northern-pashto-corpus-for-speech-recogn-4f7d8d52"
+    },
+    {
+      "id": "cmuh552z504p4ny0793z6j6a7",
+      "url": "https://mozilladatacollective.com/datasets/cmuh552z504p4ny0793z6j6a7",
+      "lastmod": "2026-09-25T15:54:00.402Z",
+      "name": "BAHANA: Parallel Corpus IND-ENG-ARB ",
+      "slug": "bahana-parallel-corpus-ind-eng-arb-42cc2e7c"
     }
   ]
 }
