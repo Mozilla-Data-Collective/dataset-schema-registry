@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-25  
-**Total datasets in sitemap:** 1166  
+**Last updated:** 2026-09-26  
+**Total datasets in sitemap:** 1170  
 **Schemas registered:** 416 ✅  
-**Schemas missing:** 750 ❌  
+**Schemas missing:** 754 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -714,7 +714,7 @@ data programmatically.
 | `cmtk9vv1l008nnm07y9vn4q6n` | Indonesian Acculturation Culture - Image Corpus | `indonesian-acculturation-culture-image-c-c6e48b37` | [link](https://mozilladatacollective.com/datasets/cmtk9vv1l008nnm07y9vn4q6n) | ❌ |
 | `cmtkf877400fnnv073tl63yl8` | Palula Literature Corpus | `palula-literature-corpus-8c44b0d4` | [link](https://mozilladatacollective.com/datasets/cmtkf877400fnnv073tl63yl8) | ❌ |
 | `cmtlk486f01xknv07nr1z8sr8` | Indonesia Lip-Record Speech Dataset | `indonesia-lip-record-speech-dataset-9dee1185` | [link](https://mozilladatacollective.com/datasets/cmtlk486f01xknv07nr1z8sr8) | ❌ |
-| `cmtlk7yzb01wenm07io47vqx2` | Visual Speech Recognition-Audiovisual Indonesian Dataset (VSR-Aid) | `visual-speech-recognition-audiovisual-in-06cfe193` | [link](https://mozilladatacollective.com/datasets/cmtlk7yzb01wenm07io47vqx2) | ❌ |
+| `cmtlk7yzb01wenm07io47vqx2` | Visual Speech Recognition-Audiovisual Indonesian Dataset (VSR-Aid) | `visual-speech-recognition-audiovisual-in-8b485132` | [link](https://mozilladatacollective.com/datasets/cmtlk7yzb01wenm07io47vqx2) | ❌ |
 | `cmtll36zw01xknm074he6a70i` | A Banoho Sociocultural Dataset | `a-banoho-sociocultural-dataset-0f711903` | [link](https://mozilladatacollective.com/datasets/cmtll36zw01xknm074he6a70i) | ❌ |
 | `cmtll3rp101zqnv07fr9tsj86` | JAV Image Corpus - Yogyakarta Public Space and Signage | `jav-image-corpus-yogyakarta-public-space-bc6163e4` | [link](https://mozilladatacollective.com/datasets/cmtll3rp101zqnv07fr9tsj86) | ❌ |
 | `cmtll5hax01zynv07tipwiuel` | 🚧 Spanish (Castilian) Scripted Film // Rights-Cleared · 20 Hours 🚧 | `spanish-castilian-scripted-film-rights-c-4f30fced` | [link](https://mozilladatacollective.com/datasets/cmtll5hax01zynv07tipwiuel) | ❌ |
@@ -728,7 +728,7 @@ data programmatically.
 | `cmtr7re1p05hso1070lmvjdwx` | A Bafou Sociocultural Dataset | `a-bafou-sociocultural-dataset-51cb31db` | [link](https://mozilladatacollective.com/datasets/cmtr7re1p05hso1070lmvjdwx) | ❌ |
 | `cmtr7rjbb05blny07ec6p7hzj` | A Baka Sociocultural Dataset | `a-baka-sociocultural-dataset-6652adea` | [link](https://mozilladatacollective.com/datasets/cmtr7rjbb05blny07ec6p7hzj) | ❌ |
 | `cmtr7ro9005brny071h9p44a4` | A Balengou Sociocultural Dataset | `a-balengou-sociocultural-dataset-c2907c6b` | [link](https://mozilladatacollective.com/datasets/cmtr7ro9005brny071h9p44a4) | ❌ |
-| `cmtr89f6505ilo107jwdqu6zg` | IndoLearner-English Speech Corpus | `indolearner-english-speech-corpus-d5d6fb97` | [link](https://mozilladatacollective.com/datasets/cmtr89f6505ilo107jwdqu6zg) | ❌ |
+| `cmtr89f6505ilo107jwdqu6zg` | IndoLearner-English Speech Corpus | `indolearner-english-speech-corpus-73cbf15b` | [link](https://mozilladatacollective.com/datasets/cmtr89f6505ilo107jwdqu6zg) | ❌ |
 | `cmtr89ry305csny07rrpxqe9d` | Purworejo Dialect-Javanese Speech Corpus | `purworejo-dialect-javanese-speech-corpus-f3b63b78` | [link](https://mozilladatacollective.com/datasets/cmtr89ry305csny07rrpxqe9d) | ❌ |
 | `cmtr89wzw05ipo1070irq2q9j` | Indonesian Lip-Record Multimodal Corpus | `indonesian-lip-record-multimodal-corpus-9db78ccd` | [link](https://mozilladatacollective.com/datasets/cmtr89wzw05ipo1070irq2q9j) | ❌ |
 | `cmtr8a2r205ito107axtrlbuy` | Speech Corpus of Indonesian Lip-Record | `speech-corpus-of-indonesian-lip-record-10a2d3dd` | [link](https://mozilladatacollective.com/datasets/cmtr8a2r205ito107axtrlbuy) | ❌ |
@@ -1185,6 +1185,10 @@ data programmatically.
 | `cmucnw19m01lonx076thnz3gp` | 🚧 Tagalog Health Domain TTS 25 Hours Single Speaker (Male) 🚧 | `tagalog-health-domain-tts-25-hours-singl-1b167ec1` | [link](https://mozilladatacollective.com/datasets/cmucnw19m01lonx076thnz3gp) | ❌ |
 | `cmucznt9t0007kz08bq99zn2o` | 🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧 | `tagalog-health-domain-tts-20-hours-singl-076884ad` | [link](https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o) | ❌ |
 | `cmufi5stj02y7ny0727487cu2` | LRAC 2.0 Common Voice 26.0 Bundle | `lrac-2-0-common-voice-26-0-bundle-a628996b` | [link](https://mozilladatacollective.com/datasets/cmufi5stj02y7ny0727487cu2) | ❌ |
+| `cmuh4ozy804olny07mu2h0kjm` | 🚧 Tagalog Voice Notes ASR Dataset (45 hours) 🚧 | `tagalog-voice-notes-asr-dataset-45-hours-ccdb5cf8` | [link](https://mozilladatacollective.com/datasets/cmuh4ozy804olny07mu2h0kjm) | ❌ |
+| `cmuh4z6sw04opny07obm3ze3e` | English 10 Hours Medical Speech Evaluation Dataset  | `english-10-hours-medical-speech-evaluati-9c58938e` | [link](https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e) | ❌ |
+| `cmuh50dte04otny07ot80sg6n` | 🚧 Northern Pashto Corpus for Speech Recognition 🚧 | `northern-pashto-corpus-for-speech-recogn-4f7d8d52` | [link](https://mozilladatacollective.com/datasets/cmuh50dte04otny07ot80sg6n) | ❌ |
+| `cmuh552z504p4ny0793z6j6a7` | BAHANA: Parallel Corpus IND-ENG-ARB  | `bahana-parallel-corpus-ind-eng-arb-42cc2e7c` | [link](https://mozilladatacollective.com/datasets/cmuh552z504p4ny0793z6j6a7) | ❌ |
 
 ## Schemas without a platform dataset
 

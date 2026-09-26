@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-25T05:16:47.459195+00:00",
+  "generated_at": "2026-09-26T05:15:28.436145+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1166,
+    "listed_datasets": 1170,
     "with_schema": 416,
-    "without_schema": 750,
+    "without_schema": 754,
     "schemas_total": 417,
     "unlisted_schemas": 1
   },
@@ -7672,9 +7672,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Visual Speech Recognition-Audiovisual Indonesian Dataset (VSR-Aid)",
-      "slug": "visual-speech-recognition-audiovisual-in-06cfe193",
+      "slug": "visual-speech-recognition-audiovisual-in-8b485132",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmtlk7yzb01wenm07io47vqx2",
-      "lastmod": "2026-09-03T13:27:31.799Z",
+      "lastmod": "2026-09-25T14:35:23.331Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -7826,9 +7826,9 @@
       "has_schema": false,
       "listed": true,
       "name": "IndoLearner-English Speech Corpus",
-      "slug": "indolearner-english-speech-corpus-d5d6fb97",
+      "slug": "indolearner-english-speech-corpus-73cbf15b",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmtr89f6505ilo107jwdqu6zg",
-      "lastmod": "2026-09-07T12:39:21.101Z",
+      "lastmod": "2026-09-25T14:35:57.303Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12845,6 +12845,50 @@
       "slug": "lrac-2-0-common-voice-26-0-bundle-a628996b",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmufi5stj02y7ny0727487cu2",
       "lastmod": "2026-09-24T12:22:56.551Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuh4ozy804olny07mu2h0kjm",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Tagalog Voice Notes ASR Dataset (45 hours) 🚧",
+      "slug": "tagalog-voice-notes-asr-dataset-45-hours-ccdb5cf8",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuh4ozy804olny07mu2h0kjm",
+      "lastmod": "2026-09-25T15:41:29.984Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuh4z6sw04opny07obm3ze3e",
+      "has_schema": false,
+      "listed": true,
+      "name": "English 10 Hours Medical Speech Evaluation Dataset ",
+      "slug": "english-10-hours-medical-speech-evaluati-9c58938e",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e",
+      "lastmod": "2026-09-25T19:00:14.199Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuh50dte04otny07ot80sg6n",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Northern Pashto Corpus for Speech Recognition 🚧",
+      "slug": "northern-pashto-corpus-for-speech-recogn-4f7d8d52",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuh50dte04otny07ot80sg6n",
+      "lastmod": "2026-09-25T15:50:21.170Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuh552z504p4ny0793z6j6a7",
+      "has_schema": false,
+      "listed": true,
+      "name": "BAHANA: Parallel Corpus IND-ENG-ARB ",
+      "slug": "bahana-parallel-corpus-ind-eng-arb-42cc2e7c",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuh552z504p4ny0793z6j6a7",
+      "lastmod": "2026-09-25T15:54:00.402Z",
       "schema_path": null,
       "schema_url": null
     }
