@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T06:10:02.495813+00:00",
-  "total": 1170,
+  "updated_at": "2026-09-27T05:15:23.183023+00:00",
+  "total": 1171,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8191,6 +8191,13 @@
       "lastmod": "2026-09-25T15:54:00.402Z",
       "name": "BAHANA: Parallel Corpus IND-ENG-ARB ",
       "slug": "bahana-parallel-corpus-ind-eng-arb-42cc2e7c"
+    },
+    {
+      "id": "cmuincgum05x5ny07fl4h96f9",
+      "url": "https://mozilladatacollective.com/datasets/cmuincgum05x5ny07fl4h96f9",
+      "lastmod": "2026-09-26T17:11:24.239Z",
+      "name": "IND-Magelang Traffic Signs and Facilities",
+      "slug": "ind-magelang-traffic-signs-and-facilitie-9d3d12c8"
     }
   ]
 }
