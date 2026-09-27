@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-26  
-**Total datasets in sitemap:** 1170  
+**Last updated:** 2026-09-27  
+**Total datasets in sitemap:** 1171  
 **Schemas registered:** 416 ✅  
-**Schemas missing:** 754 ❌  
+**Schemas missing:** 755 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1189,6 +1189,7 @@ data programmatically.
 | `cmuh4z6sw04opny07obm3ze3e` | English 10 Hours Medical Speech Evaluation Dataset  | `english-10-hours-medical-speech-evaluati-9c58938e` | [link](https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e) | ❌ |
 | `cmuh50dte04otny07ot80sg6n` | 🚧 Northern Pashto Corpus for Speech Recognition 🚧 | `northern-pashto-corpus-for-speech-recogn-4f7d8d52` | [link](https://mozilladatacollective.com/datasets/cmuh50dte04otny07ot80sg6n) | ❌ |
 | `cmuh552z504p4ny0793z6j6a7` | BAHANA: Parallel Corpus IND-ENG-ARB  | `bahana-parallel-corpus-ind-eng-arb-42cc2e7c` | [link](https://mozilladatacollective.com/datasets/cmuh552z504p4ny0793z6j6a7) | ❌ |
+| `cmuincgum05x5ny07fl4h96f9` | IND-Magelang Traffic Signs and Facilities | `ind-magelang-traffic-signs-and-facilitie-9d3d12c8` | [link](https://mozilladatacollective.com/datasets/cmuincgum05x5ny07fl4h96f9) | ❌ |
 
 ## Schemas without a platform dataset
 
