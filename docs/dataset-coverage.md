@@ -14,8 +14,8 @@ data programmatically.
 
 **Last updated:** 2026-09-28  
 **Total datasets in sitemap:** 1171  
-**Schemas registered:** 416 ✅  
-**Schemas missing:** 755 ❌  
+**Schemas registered:** 418 ✅  
+**Schemas missing:** 753 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1178,8 +1178,8 @@ data programmatically.
 | `cmu62gcol00ohnq0758656ndx` | Common Voice Scripted Speech 27.0 - Slovak | `common-voice-scripted-speech-27-0-slovak-17c0da80` | [link](https://mozilladatacollective.com/datasets/cmu62gcol00ohnq0758656ndx) | ✅ |
 | `cmu62gjbl00nso107n7ct8dyl` | Common Voice Scripted Speech 27.0 - Dutch | `common-voice-scripted-speech-27-0-dutch-75546e19` | [link](https://mozilladatacollective.com/datasets/cmu62gjbl00nso107n7ct8dyl) | ✅ |
 | `cmu62jhk700nwo107l41a2fch` | Common Voice Scripted Speech 27.0 - Bashkir | `common-voice-scripted-speech-27-0-bashki-f3cb0cc0` | [link](https://mozilladatacollective.com/datasets/cmu62jhk700nwo107l41a2fch) | ✅ |
-| `cmu6w974s01ero107nnc64k4f` | Common Voice Scripted Speech 27.0 - Dawoodi | `common-voice-scripted-speech-27-0-dawood-84e1bc48` | [link](https://mozilladatacollective.com/datasets/cmu6w974s01ero107nnc64k4f) | ❌ |
-| `cmu6w9dop01evo107tkrje7so` | Common Voice Scripted Speech 27.0 - Fang | `common-voice-scripted-speech-27-0-fang-7754f9a8` | [link](https://mozilladatacollective.com/datasets/cmu6w9dop01evo107tkrje7so) | ❌ |
+| `cmu6w974s01ero107nnc64k4f` | Common Voice Scripted Speech 27.0 - Dawoodi | `common-voice-scripted-speech-27-0-dawood-84e1bc48` | [link](https://mozilladatacollective.com/datasets/cmu6w974s01ero107nnc64k4f) | ✅ |
+| `cmu6w9dop01evo107tkrje7so` | Common Voice Scripted Speech 27.0 - Fang | `common-voice-scripted-speech-27-0-fang-7754f9a8` | [link](https://mozilladatacollective.com/datasets/cmu6w9dop01evo107tkrje7so) | ✅ |
 | `cmu6xsi8201eenq07hnip96ct` | TidyVoiceM_ASV | `tidyvoicem-asv-ce0e976b` | [link](https://mozilladatacollective.com/datasets/cmu6xsi8201eenq07hnip96ct) | ❌ |
 | `cmubjs3e500jvnx07n3bpo5i8` | Public Space and Sign in Javanese-Speaking Regions  | `public-space-and-sign-in-javanese-speaki-710ba085` | [link](https://mozilladatacollective.com/datasets/cmubjs3e500jvnx07n3bpo5i8) | ❌ |
 | `cmucnw19m01lonx076thnz3gp` | 🚧 Tagalog Health Domain TTS 25 Hours Single Speaker (Male) 🚧 | `tagalog-health-domain-tts-25-hours-singl-1b167ec1` | [link](https://mozilladatacollective.com/datasets/cmucnw19m01lonx076thnz3gp) | ❌ |
@@ -1200,3 +1200,4 @@ for testing.
 | ID | Schema |
 |----|--------|
 | `cmiq2s3q5000fo207k9g6g7ou` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmiq2s3q5000fo207k9g6g7ou/schema.yaml) |
+| `cmul9a3f008diny07cluf265u` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmul9a3f008diny07cluf265u/schema.yaml) |

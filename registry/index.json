@@ -1,14 +1,14 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-28T05:18:22.081722+00:00",
+  "generated_at": "2026-09-28T13:32:20.904118+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
     "listed_datasets": 1171,
-    "with_schema": 416,
-    "without_schema": 755,
-    "schemas_total": 417,
-    "unlisted_schemas": 1
+    "with_schema": 418,
+    "without_schema": 753,
+    "schemas_total": 420,
+    "unlisted_schemas": 2
   },
   "datasets": [
     {
@@ -12773,25 +12773,25 @@
     },
     {
       "id": "cmu6w974s01ero107nnc64k4f",
-      "has_schema": false,
+      "has_schema": true,
       "listed": true,
       "name": "Common Voice Scripted Speech 27.0 - Dawoodi",
       "slug": "common-voice-scripted-speech-27-0-dawood-84e1bc48",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmu6w974s01ero107nnc64k4f",
       "lastmod": "2026-09-18T11:47:34.108Z",
-      "schema_path": null,
-      "schema_url": null
+      "schema_path": "registry/cmu6w974s01ero107nnc64k4f/schema.yaml",
+      "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmu6w974s01ero107nnc64k4f/schema.yaml"
     },
     {
       "id": "cmu6w9dop01evo107tkrje7so",
-      "has_schema": false,
+      "has_schema": true,
       "listed": true,
       "name": "Common Voice Scripted Speech 27.0 - Fang",
       "slug": "common-voice-scripted-speech-27-0-fang-7754f9a8",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmu6w9dop01evo107tkrje7so",
       "lastmod": "2026-09-18T11:47:42.601Z",
-      "schema_path": null,
-      "schema_url": null
+      "schema_path": "registry/cmu6w9dop01evo107tkrje7so/schema.yaml",
+      "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmu6w9dop01evo107tkrje7so/schema.yaml"
     },
     {
       "id": "cmu6xsi8201eenq07hnip96ct",
@@ -12902,6 +12902,17 @@
       "lastmod": "2026-09-26T17:11:24.239Z",
       "schema_path": null,
       "schema_url": null
+    },
+    {
+      "id": "cmul9a3f008diny07cluf265u",
+      "has_schema": true,
+      "listed": false,
+      "name": null,
+      "slug": null,
+      "dataset_url": null,
+      "lastmod": null,
+      "schema_path": "registry/cmul9a3f008diny07cluf265u/schema.yaml",
+      "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmul9a3f008diny07cluf265u/schema.yaml"
     }
   ]
 }
