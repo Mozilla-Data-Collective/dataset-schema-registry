@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-27  
+**Last updated:** 2026-09-28  
 **Total datasets in sitemap:** 1171  
 **Schemas registered:** 416 ✅  
 **Schemas missing:** 755 ❌  
@@ -135,7 +135,7 @@ data programmatically.
 | `cml16fpkn009lnt07ht6k406o` | Ewondo-TTS-Dataset | `ewondo-tts-dataset-ef07a0de` | [link](https://mozilladatacollective.com/datasets/cml16fpkn009lnt07ht6k406o) | ❌ |
 | `cml5asbhf009sme079y6sa9hm` | Adamawa Fulfulde-French Parallel Corpus of Narratives 1.2 | `adamawa-fulfulde-french-parallel-corpus-748952a3` | [link](https://mozilladatacollective.com/datasets/cml5asbhf009sme079y6sa9hm) | ❌ |
 | `cml5bgysg00bhkr07g23kewke` | TTS Javanese-Lumajang Dialect | `tts-javanese-lumajang-dialect-ec830842` | [link](https://mozilladatacollective.com/datasets/cml5bgysg00bhkr07g23kewke) | ❌ |
-| `cml5bn4k900aame07u0rwidcg` | TTS Central Javanese  | `tts-central-javanese-60f745c9` | [link](https://mozilladatacollective.com/datasets/cml5bn4k900aame07u0rwidcg) | ❌ |
+| `cml5bn4k900aame07u0rwidcg` | TTS Central Javanese  | `tts-central-javanese-cbbe9391` | [link](https://mozilladatacollective.com/datasets/cml5bn4k900aame07u0rwidcg) | ❌ |
 | `cml5e30pd00eskr072e6a4rrh` | Mandar Spontaneous Speech | `mandar-spontaneous-speech-05a6e755` | [link](https://mozilladatacollective.com/datasets/cml5e30pd00eskr072e6a4rrh) | ❌ |
 | `cml6ywgg0007xmn07ppq469gt` | TTS-Tolaki | `tts-tolaki-d48cdaf8` | [link](https://mozilladatacollective.com/datasets/cml6ywgg0007xmn07ppq469gt) | ❌ |
 | `cml8gixh60087o407lfgoumgu` | Tatar Folklore Text Corpus | `tatar-folklore-text-corpus-48dc1a6a` | [link](https://mozilladatacollective.com/datasets/cml8gixh60087o407lfgoumgu) | ❌ |
@@ -192,7 +192,7 @@ data programmatically.
 | `cmmdpikpq003imh077foix53d` | Dari Literature Corpus by Anjuman e Adabi Nayestan | `dari-literature-corpus-by-anjuman-e-adab-b1cd1982` | [link](https://mozilladatacollective.com/datasets/cmmdpikpq003imh077foix53d) | ❌ |
 | `cmmdtenxt0050mh0792d10knv` | Elkhani Hazargi Literature Corpus  | `elkhani-hazargi-literature-corpus-85c403db` | [link](https://mozilladatacollective.com/datasets/cmmdtenxt0050mh0792d10knv) | ❌ |
 | `cmmfulo4r018bnz07py4q9t09` | Bangor Miami Spanish-English Corpus | `bangor-miami-spanish-english-corpus-36d9f971` | [link](https://mozilladatacollective.com/datasets/cmmfulo4r018bnz07py4q9t09) | ❌ |
-| `cmmj6vyb902ownz07j4k7cunj` | Sundanese TTS | `sundanese-tts-2ee99d3c` | [link](https://mozilladatacollective.com/datasets/cmmj6vyb902ownz07j4k7cunj) | ❌ |
+| `cmmj6vyb902ownz07j4k7cunj` | Sundanese TTS | `sundanese-tts-84f90cba` | [link](https://mozilladatacollective.com/datasets/cmmj6vyb902ownz07j4k7cunj) | ❌ |
 | `cmmknsho4014wmf087kvq5rc6` | Kokoro Speech Dataset | `kokoro-speech-dataset-74e9c24b` | [link](https://mozilladatacollective.com/datasets/cmmknsho4014wmf087kvq5rc6) | ✅ |
 | `cmmm2ru5r003nmd07p53h9wdw` | TTS Balinese Language | `tts-balinese-language-884fa798` | [link](https://mozilladatacollective.com/datasets/cmmm2ru5r003nmd07p53h9wdw) | ❌ |
 | `cmmm7rvm200b9md07h3pv8uae` | TODa: Tamazight Open Dataset | `toda-tamazight-open-dataset-3eef2658` | [link](https://mozilladatacollective.com/datasets/cmmm7rvm200b9md07h3pv8uae) | ❌ |
@@ -636,7 +636,7 @@ data programmatically.
 | `cmrxo0ayv008vl40743ndzpbr` | MMLU ProX Sndhi | `mmlu-prox-sndhi-7b5de314` | [link](https://mozilladatacollective.com/datasets/cmrxo0ayv008vl40743ndzpbr) | ❌ |
 | `cmrxokivf009bl4076o9i6wx0` | African Actions Annotated Videos for AI (Health Domain) | `african-actions-annotated-videos-for-ai-7a6b307e` | [link](https://mozilladatacollective.com/datasets/cmrxokivf009bl4076o9i6wx0) | ❌ |
 | `cmrxrbueb00bll407nsqplz8t` | A Bakoko Sociocultural Dataset | `a-bakoko-sociocultural-dataset-bff2bde8` | [link](https://mozilladatacollective.com/datasets/cmrxrbueb00bll407nsqplz8t) | ❌ |
-| `cmryvqp3v014ro907pnnrblm6` | Priangan Dialect of Sundanese-IND-ENG-ARB Parallel Corpus | `priangan-dialect-of-sundanese-ind-eng-ar-b0bf7ea4` | [link](https://mozilladatacollective.com/datasets/cmryvqp3v014ro907pnnrblm6) | ❌ |
+| `cmryvqp3v014ro907pnnrblm6` | Priangan Dialect of Sundanese-IND-ENG-ARB Parallel Corpus | `priangan-dialect-of-sundanese-ind-eng-ar-fec67ae0` | [link](https://mozilladatacollective.com/datasets/cmryvqp3v014ro907pnnrblm6) | ❌ |
 | `cmryvrc6i014vo90786kriix5` | Common Voice Scripted Speech 26.0 - Southern American English | `common-voice-scripted-speech-26-0-southe-d50b474b` | [link](https://mozilladatacollective.com/datasets/cmryvrc6i014vo90786kriix5) | ❌ |
 | `cmrywapqg015ho907f9q9hvka` | Sindhi OCR by Proxima AI | `sindhi-ocr-by-proxima-ai-0751107c` | [link](https://mozilladatacollective.com/datasets/cmrywapqg015ho907f9q9hvka) | ❌ |
 | `cmrywn053015xo907gomtlkp8` | Urdu Alpaca | `urdu-alpaca-915fcbff` | [link](https://mozilladatacollective.com/datasets/cmrywn053015xo907gomtlkp8) | ❌ |

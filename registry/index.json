@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-27T05:15:38.642554+00:00",
+  "generated_at": "2026-09-28T05:18:22.081722+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -1303,9 +1303,9 @@
       "has_schema": false,
       "listed": true,
       "name": "TTS Central Javanese ",
-      "slug": "tts-central-javanese-60f745c9",
+      "slug": "tts-central-javanese-cbbe9391",
       "dataset_url": "https://mozilladatacollective.com/datasets/cml5bn4k900aame07u0rwidcg",
-      "lastmod": "2026-09-15T06:32:52.995Z",
+      "lastmod": "2026-09-27T10:07:13.007Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -1930,9 +1930,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Sundanese TTS",
-      "slug": "sundanese-tts-2ee99d3c",
+      "slug": "sundanese-tts-84f90cba",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmmj6vyb902ownz07j4k7cunj",
-      "lastmod": "2026-03-09T13:00:47.350Z",
+      "lastmod": "2026-09-27T10:10:51.383Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -6814,9 +6814,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Priangan Dialect of Sundanese-IND-ENG-ARB Parallel Corpus",
-      "slug": "priangan-dialect-of-sundanese-ind-eng-ar-b0bf7ea4",
+      "slug": "priangan-dialect-of-sundanese-ind-eng-ar-fec67ae0",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmryvqp3v014ro907pnnrblm6",
-      "lastmod": "2026-09-07T08:24:07.301Z",
+      "lastmod": "2026-09-27T10:09:05.657Z",
       "schema_path": null,
       "schema_url": null
     },
