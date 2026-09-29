@@ -1,14 +1,14 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-28T13:32:20.904118+00:00",
+  "generated_at": "2026-09-29T05:17:50.439355+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1171,
-    "with_schema": 418,
+    "listed_datasets": 1172,
+    "with_schema": 419,
     "without_schema": 753,
     "schemas_total": 420,
-    "unlisted_schemas": 2
+    "unlisted_schemas": 1
   },
   "datasets": [
     {
@@ -12906,11 +12906,11 @@
     {
       "id": "cmul9a3f008diny07cluf265u",
       "has_schema": true,
-      "listed": false,
-      "name": null,
-      "slug": null,
-      "dataset_url": null,
-      "lastmod": null,
+      "listed": true,
+      "name": "Common Voice Scripted Speech 27.0 - Pashto",
+      "slug": "common-voice-scripted-speech-27-0-pashto-428b54b8",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmul9a3f008diny07cluf265u",
+      "lastmod": "2026-09-28T13:00:57.420Z",
       "schema_path": "registry/cmul9a3f008diny07cluf265u/schema.yaml",
       "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmul9a3f008diny07cluf265u/schema.yaml"
     }

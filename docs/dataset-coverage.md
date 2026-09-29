@@ -12,9 +12,9 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-28  
-**Total datasets in sitemap:** 1171  
-**Schemas registered:** 418 ✅  
+**Last updated:** 2026-09-29  
+**Total datasets in sitemap:** 1172  
+**Schemas registered:** 419 ✅  
 **Schemas missing:** 753 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
@@ -1190,6 +1190,7 @@ data programmatically.
 | `cmuh50dte04otny07ot80sg6n` | 🚧 Northern Pashto Corpus for Speech Recognition 🚧 | `northern-pashto-corpus-for-speech-recogn-4f7d8d52` | [link](https://mozilladatacollective.com/datasets/cmuh50dte04otny07ot80sg6n) | ❌ |
 | `cmuh552z504p4ny0793z6j6a7` | BAHANA: Parallel Corpus IND-ENG-ARB  | `bahana-parallel-corpus-ind-eng-arb-42cc2e7c` | [link](https://mozilladatacollective.com/datasets/cmuh552z504p4ny0793z6j6a7) | ❌ |
 | `cmuincgum05x5ny07fl4h96f9` | IND-Magelang Traffic Signs and Facilities | `ind-magelang-traffic-signs-and-facilitie-9d3d12c8` | [link](https://mozilladatacollective.com/datasets/cmuincgum05x5ny07fl4h96f9) | ❌ |
+| `cmul9a3f008diny07cluf265u` | Common Voice Scripted Speech 27.0 - Pashto | `common-voice-scripted-speech-27-0-pashto-428b54b8` | [link](https://mozilladatacollective.com/datasets/cmul9a3f008diny07cluf265u) | ✅ |
 
 ## Schemas without a platform dataset
 
@@ -1200,4 +1201,3 @@ for testing.
 | ID | Schema |
 |----|--------|
 | `cmiq2s3q5000fo207k9g6g7ou` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmiq2s3q5000fo207k9g6g7ou/schema.yaml) |
-| `cmul9a3f008diny07cluf265u` | [schema.yaml](https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmul9a3f008diny07cluf265u/schema.yaml) |
