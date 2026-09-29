@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T06:15:09.206040+00:00",
-  "total": 1171,
+  "updated_at": "2026-09-29T05:17:37.371428+00:00",
+  "total": 1172,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8198,6 +8198,13 @@
       "lastmod": "2026-09-26T17:11:24.239Z",
       "name": "IND-Magelang Traffic Signs and Facilities",
       "slug": "ind-magelang-traffic-signs-and-facilitie-9d3d12c8"
+    },
+    {
+      "id": "cmul9a3f008diny07cluf265u",
+      "url": "https://mozilladatacollective.com/datasets/cmul9a3f008diny07cluf265u",
+      "lastmod": "2026-09-28T13:00:57.420Z",
+      "name": "Common Voice Scripted Speech 27.0 - Pashto",
+      "slug": "common-voice-scripted-speech-27-0-pashto-428b54b8"
     }
   ]
 }
