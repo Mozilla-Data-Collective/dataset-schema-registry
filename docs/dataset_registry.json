@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T06:11:13.594739+00:00",
-  "total": 1172,
+  "updated_at": "2026-09-30T05:17:14.840355+00:00",
+  "total": 1174,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -1027,9 +1027,9 @@
     {
       "id": "cmltnzkug0012mh07k1obic7v",
       "url": "https://mozilladatacollective.com/datasets/cmltnzkug0012mh07k1obic7v",
-      "lastmod": "2026-09-11T13:29:26.667Z",
+      "lastmod": "2026-09-29T17:35:55.575Z",
       "name": "Bojonegoro Javanese TTS ",
-      "slug": "bojonegoro-javanese-tts-8b97226c"
+      "slug": "bojonegoro-javanese-tts-87b2bda4"
     },
     {
       "id": "cmm0n37lm000dnq07vpctdtc9",
@@ -2189,9 +2189,9 @@
     {
       "id": "cmp3rmip800ozo30799h7wp6g",
       "url": "https://mozilladatacollective.com/datasets/cmp3rmip800ozo30799h7wp6g",
-      "lastmod": "2026-05-28T18:21:52.772Z",
+      "lastmod": "2026-09-29T18:44:14.208Z",
       "name": "Friulian TTS - female voice",
-      "slug": "friulian-tts-female-voice-a39bcd04"
+      "slug": "friulian-tts-female-voice-3b2f0212"
     },
     {
       "id": "cmp4htii700glmp07syfvo010",
@@ -8153,9 +8153,9 @@
     {
       "id": "cmucznt9t0007kz08bq99zn2o",
       "url": "https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o",
-      "lastmod": "2026-09-23T17:02:15.762Z",
+      "lastmod": "2026-09-30T04:21:03.618Z",
       "name": "🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧",
-      "slug": "tagalog-health-domain-tts-20-hours-singl-076884ad"
+      "slug": "tagalog-health-domain-tts-20-hours-singl-94209e0b"
     },
     {
       "id": "cmufi5stj02y7ny0727487cu2",
@@ -8205,6 +8205,20 @@
       "lastmod": "2026-09-28T13:00:57.420Z",
       "name": "Common Voice Scripted Speech 27.0 - Pashto",
       "slug": "common-voice-scripted-speech-27-0-pashto-428b54b8"
+    },
+    {
+      "id": "cmumoqyzh0a3knl07ktk87b36",
+      "url": "https://mozilladatacollective.com/datasets/cmumoqyzh0a3knl07ktk87b36",
+      "lastmod": "2026-09-29T13:01:45.245Z",
+      "name": "Rohingya Hanifi–Rohingyalish–English Lexicon",
+      "slug": "rohingya-hanifi-rohingyalish-english-lex-9328f3cf"
+    },
+    {
+      "id": "cmumq51mj0aacny078eindv36",
+      "url": "https://mozilladatacollective.com/datasets/cmumq51mj0aacny078eindv36",
+      "lastmod": "2026-09-29T13:40:41.467Z",
+      "name": "ASR Javanese-Lumajang Dialect",
+      "slug": "asr-javanese-lumajang-dialect-ad3d9448"
     }
   ]
 }
