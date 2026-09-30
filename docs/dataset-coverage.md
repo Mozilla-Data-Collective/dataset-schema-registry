@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-29  
-**Total datasets in sitemap:** 1172  
+**Last updated:** 2026-09-30  
+**Total datasets in sitemap:** 1174  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 753 ❌  
+**Schemas missing:** 755 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -165,7 +165,7 @@ data programmatically.
 | `cmlqoukmi000hnr07cprdmxsc` | Kyrgyz Folklore Text Corpus | `kyrgyz-folklore-text-corpus-de2f27ff` | [link](https://mozilladatacollective.com/datasets/cmlqoukmi000hnr07cprdmxsc) | ❌ |
 | `cmls27zfd0043ma07mxvsz8zg` | Zacatlán Tepetzintla Nahuatl ASR Dataset | `zacatl-n-tepetzintla-nahuatl-asr-dataset-2e46ee49` | [link](https://mozilladatacollective.com/datasets/cmls27zfd0043ma07mxvsz8zg) | ❌ |
 | `cmlth9lrp000ams07yjdscjgu` | ATLAS Cross-Lingual Transfer Matrix | `atlas-cross-lingual-transfer-matrix-b3661347` | [link](https://mozilladatacollective.com/datasets/cmlth9lrp000ams07yjdscjgu) | ❌ |
-| `cmltnzkug0012mh07k1obic7v` | Bojonegoro Javanese TTS  | `bojonegoro-javanese-tts-8b97226c` | [link](https://mozilladatacollective.com/datasets/cmltnzkug0012mh07k1obic7v) | ❌ |
+| `cmltnzkug0012mh07k1obic7v` | Bojonegoro Javanese TTS  | `bojonegoro-javanese-tts-87b2bda4` | [link](https://mozilladatacollective.com/datasets/cmltnzkug0012mh07k1obic7v) | ❌ |
 | `cmm0n37lm000dnq07vpctdtc9` | GeoLogicQA: An LLM Benchmark for Logical Reasoning in Georgian | `geologicqa-an-llm-benchmark-for-logical-612b08b2` | [link](https://mozilladatacollective.com/datasets/cmm0n37lm000dnq07vpctdtc9) | ❌ |
 | `cmm0n4ro2000hnq079tknw6gv` | Dolgan Folklore Text Corpus | `dolgan-folklore-text-corpus-d5c4c9ae` | [link](https://mozilladatacollective.com/datasets/cmm0n4ro2000hnq079tknw6gv) | ❌ |
 | `cmm0nm2ua000eo007qs4r3m8q` | Polish Public Domain 20th Century Literature Text Corpus | `polish-public-domain-20th-century-litera-6cb59f65` | [link](https://mozilladatacollective.com/datasets/cmm0nm2ua000eo007qs4r3m8q) | ❌ |
@@ -331,7 +331,7 @@ data programmatically.
 | `cmp2h2jnt00n8mp07lkr11xru` | VoxForge - Albanian | `voxforge-albanian-1bd2e28b` | [link](https://mozilladatacollective.com/datasets/cmp2h2jnt00n8mp07lkr11xru) | ❌ |
 | `cmp2h2som00kzno07n8lwesrr` | VoxForge - Turkish | `voxforge-turkish-788023eb` | [link](https://mozilladatacollective.com/datasets/cmp2h2som00kzno07n8lwesrr) | ❌ |
 | `cmp2hgs2j00nsmp07q9s6g3m0` | Less is More Corpus | `less-is-more-corpus-e6dc1838` | [link](https://mozilladatacollective.com/datasets/cmp2hgs2j00nsmp07q9s6g3m0) | ❌ |
-| `cmp3rmip800ozo30799h7wp6g` | Friulian TTS - female voice | `friulian-tts-female-voice-a39bcd04` | [link](https://mozilladatacollective.com/datasets/cmp3rmip800ozo30799h7wp6g) | ❌ |
+| `cmp3rmip800ozo30799h7wp6g` | Friulian TTS - female voice | `friulian-tts-female-voice-3b2f0212` | [link](https://mozilladatacollective.com/datasets/cmp3rmip800ozo30799h7wp6g) | ❌ |
 | `cmp4htii700glmp07syfvo010` | Bangladesh Traffic Signs Dataset | `bangladesh-traffic-signs-dataset-07c5d6ad` | [link](https://mozilladatacollective.com/datasets/cmp4htii700glmp07syfvo010) | ❌ |
 | `cmp4htkri00hao007kbrbew2h` | India Traffic Signs Dataset | `india-traffic-signs-dataset-b74e4eac` | [link](https://mozilladatacollective.com/datasets/cmp4htkri00hao007kbrbew2h) | ❌ |
 | `cmp4htnf000gpmp07shg6l5v9` | Pakistan Traffic Signs Dataset | `pakistan-traffic-signs-dataset-cf8dab14` | [link](https://mozilladatacollective.com/datasets/cmp4htnf000gpmp07shg6l5v9) | ❌ |
@@ -1183,7 +1183,7 @@ data programmatically.
 | `cmu6xsi8201eenq07hnip96ct` | TidyVoiceM_ASV | `tidyvoicem-asv-ce0e976b` | [link](https://mozilladatacollective.com/datasets/cmu6xsi8201eenq07hnip96ct) | ❌ |
 | `cmubjs3e500jvnx07n3bpo5i8` | Public Space and Sign in Javanese-Speaking Regions  | `public-space-and-sign-in-javanese-speaki-710ba085` | [link](https://mozilladatacollective.com/datasets/cmubjs3e500jvnx07n3bpo5i8) | ❌ |
 | `cmucnw19m01lonx076thnz3gp` | 🚧 Tagalog Health Domain TTS 25 Hours Single Speaker (Male) 🚧 | `tagalog-health-domain-tts-25-hours-singl-1b167ec1` | [link](https://mozilladatacollective.com/datasets/cmucnw19m01lonx076thnz3gp) | ❌ |
-| `cmucznt9t0007kz08bq99zn2o` | 🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧 | `tagalog-health-domain-tts-20-hours-singl-076884ad` | [link](https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o) | ❌ |
+| `cmucznt9t0007kz08bq99zn2o` | 🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧 | `tagalog-health-domain-tts-20-hours-singl-94209e0b` | [link](https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o) | ❌ |
 | `cmufi5stj02y7ny0727487cu2` | LRAC 2.0 Common Voice 26.0 Bundle | `lrac-2-0-common-voice-26-0-bundle-a628996b` | [link](https://mozilladatacollective.com/datasets/cmufi5stj02y7ny0727487cu2) | ❌ |
 | `cmuh4ozy804olny07mu2h0kjm` | 🚧 Tagalog Voice Notes ASR Dataset (45 hours) 🚧 | `tagalog-voice-notes-asr-dataset-45-hours-ccdb5cf8` | [link](https://mozilladatacollective.com/datasets/cmuh4ozy804olny07mu2h0kjm) | ❌ |
 | `cmuh4z6sw04opny07obm3ze3e` | English 10 Hours Medical Speech Evaluation Dataset  | `english-10-hours-medical-speech-evaluati-9c58938e` | [link](https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e) | ❌ |
@@ -1191,6 +1191,8 @@ data programmatically.
 | `cmuh552z504p4ny0793z6j6a7` | BAHANA: Parallel Corpus IND-ENG-ARB  | `bahana-parallel-corpus-ind-eng-arb-42cc2e7c` | [link](https://mozilladatacollective.com/datasets/cmuh552z504p4ny0793z6j6a7) | ❌ |
 | `cmuincgum05x5ny07fl4h96f9` | IND-Magelang Traffic Signs and Facilities | `ind-magelang-traffic-signs-and-facilitie-9d3d12c8` | [link](https://mozilladatacollective.com/datasets/cmuincgum05x5ny07fl4h96f9) | ❌ |
 | `cmul9a3f008diny07cluf265u` | Common Voice Scripted Speech 27.0 - Pashto | `common-voice-scripted-speech-27-0-pashto-428b54b8` | [link](https://mozilladatacollective.com/datasets/cmul9a3f008diny07cluf265u) | ✅ |
+| `cmumoqyzh0a3knl07ktk87b36` | Rohingya Hanifi–Rohingyalish–English Lexicon | `rohingya-hanifi-rohingyalish-english-lex-9328f3cf` | [link](https://mozilladatacollective.com/datasets/cmumoqyzh0a3knl07ktk87b36) | ❌ |
+| `cmumq51mj0aacny078eindv36` | ASR Javanese-Lumajang Dialect | `asr-javanese-lumajang-dialect-ad3d9448` | [link](https://mozilladatacollective.com/datasets/cmumq51mj0aacny078eindv36) | ❌ |
 
 ## Schemas without a platform dataset
 

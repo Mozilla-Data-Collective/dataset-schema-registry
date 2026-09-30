@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-29T05:17:50.439355+00:00",
+  "generated_at": "2026-09-30T05:18:02.689421+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1172,
+    "listed_datasets": 1174,
     "with_schema": 419,
-    "without_schema": 753,
+    "without_schema": 755,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -1633,9 +1633,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Bojonegoro Javanese TTS ",
-      "slug": "bojonegoro-javanese-tts-8b97226c",
+      "slug": "bojonegoro-javanese-tts-87b2bda4",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmltnzkug0012mh07k1obic7v",
-      "lastmod": "2026-09-11T13:29:26.667Z",
+      "lastmod": "2026-09-29T17:35:55.575Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -3459,9 +3459,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Friulian TTS - female voice",
-      "slug": "friulian-tts-female-voice-a39bcd04",
+      "slug": "friulian-tts-female-voice-3b2f0212",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmp3rmip800ozo30799h7wp6g",
-      "lastmod": "2026-05-28T18:21:52.772Z",
+      "lastmod": "2026-09-29T18:44:14.208Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12831,9 +12831,9 @@
       "has_schema": false,
       "listed": true,
       "name": "🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧",
-      "slug": "tagalog-health-domain-tts-20-hours-singl-076884ad",
+      "slug": "tagalog-health-domain-tts-20-hours-singl-94209e0b",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o",
-      "lastmod": "2026-09-23T17:02:15.762Z",
+      "lastmod": "2026-09-30T04:21:03.618Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12913,6 +12913,28 @@
       "lastmod": "2026-09-28T13:00:57.420Z",
       "schema_path": "registry/cmul9a3f008diny07cluf265u/schema.yaml",
       "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmul9a3f008diny07cluf265u/schema.yaml"
+    },
+    {
+      "id": "cmumoqyzh0a3knl07ktk87b36",
+      "has_schema": false,
+      "listed": true,
+      "name": "Rohingya Hanifi–Rohingyalish–English Lexicon",
+      "slug": "rohingya-hanifi-rohingyalish-english-lex-9328f3cf",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmumoqyzh0a3knl07ktk87b36",
+      "lastmod": "2026-09-29T13:01:45.245Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmumq51mj0aacny078eindv36",
+      "has_schema": false,
+      "listed": true,
+      "name": "ASR Javanese-Lumajang Dialect",
+      "slug": "asr-javanese-lumajang-dialect-ad3d9448",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmumq51mj0aacny078eindv36",
+      "lastmod": "2026-09-29T13:40:41.467Z",
+      "schema_path": null,
+      "schema_url": null
     }
   ]
 }
