@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-09-30  
-**Total datasets in sitemap:** 1174  
+**Last updated:** 2026-10-01  
+**Total datasets in sitemap:** 1175  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 755 ❌  
+**Schemas missing:** 756 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -526,7 +526,7 @@ data programmatically.
 | `cmqzgucgt009vmk070046obup` | LezizNet - Turkish food images | `leziznet-turkish-food-images-9e450f4d` | [link](https://mozilladatacollective.com/datasets/cmqzgucgt009vmk070046obup) | ❌ |
 | `cmqzs3yig00eens07hehnewvf` | Tequila Zongolica Nahuatl ASR Dataset | `tequila-zongolica-nahuatl-asr-dataset-4b014750` | [link](https://mozilladatacollective.com/datasets/cmqzs3yig00eens07hehnewvf) | ❌ |
 | `cmr0mhm4l01agns077lq6a5hf` | Ligurian TTS - female voice | `ligurian-tts-female-voice-4d2caa0c` | [link](https://mozilladatacollective.com/datasets/cmr0mhm4l01agns077lq6a5hf) | ❌ |
-| `cmr0mlgjp01bimk07xkdw256s` | Neapolitan TTS - male voice | `neapolitan-tts-male-voice-ecd8c97e` | [link](https://mozilladatacollective.com/datasets/cmr0mlgjp01bimk07xkdw256s) | ❌ |
+| `cmr0mlgjp01bimk07xkdw256s` | Neapolitan TTS - male voice | `neapolitan-tts-male-voice-65ca5968` | [link](https://mozilladatacollective.com/datasets/cmr0mlgjp01bimk07xkdw256s) | ❌ |
 | `cmr0mng9z01bsmk07cuqltz81` | Prompsit D1 - Inline Asset Integrity | `prompsit-d1-inline-asset-integrity-9f282b10` | [link](https://mozilladatacollective.com/datasets/cmr0mng9z01bsmk07cuqltz81) | ❌ |
 | `cmr0mnoo201bwmk07nh4yc04u` | Prompsit D2 - Locale-data Integrity | `prompsit-d2-locale-data-integrity-e6ab4ffb` | [link](https://mozilladatacollective.com/datasets/cmr0mnoo201bwmk07nh4yc04u) | ❌ |
 | `cmr0mny2b01asns073985z0va` | Prompsit D3 - Structured-resource Integrity | `prompsit-d3-structured-resource-integrit-a252ae04` | [link](https://mozilladatacollective.com/datasets/cmr0mny2b01asns073985z0va) | ❌ |
@@ -768,7 +768,7 @@ data programmatically.
 | `cmu1ityrc0024o107b4n7rqo6` | Speech Corpus of Javanese-Klaten Regency | `speech-corpus-of-javanese-klaten-regency-8d068ebe` | [link](https://mozilladatacollective.com/datasets/cmu1ityrc0024o107b4n7rqo6) | ❌ |
 | `cmu1iu4op001ynv076vecqaa2` | A Podoko Sociocultural Dataset | `a-podoko-sociocultural-dataset-eddf98b4` | [link](https://mozilladatacollective.com/datasets/cmu1iu4op001ynv076vecqaa2) | ❌ |
 | `cmu1iu9hk0028o107jo1654q9` | A Yemba Sociocultural Dataset | `a-yemba-sociocultural-dataset-c9517b3c` | [link](https://mozilladatacollective.com/datasets/cmu1iu9hk0028o107jo1654q9) | ❌ |
-| `cmu2mq96s00ugo1072rf2p6e3` | Indonesian Speech Motion Dataset | `indonesian-speech-motion-dataset-5717870f` | [link](https://mozilladatacollective.com/datasets/cmu2mq96s00ugo1072rf2p6e3) | ❌ |
+| `cmu2mq96s00ugo1072rf2p6e3` | Indonesian Speech Motion Dataset | `indonesian-speech-motion-dataset-8bf4e331` | [link](https://mozilladatacollective.com/datasets/cmu2mq96s00ugo1072rf2p6e3) | ❌ |
 | `cmu2n2gqy00uknv07nq1g51mx` | Pemalang Dialect of JAV-IND-ENG-ARB Parallel Corpus | `pemalang-dialect-of-jav-ind-eng-arb-para-ed2b71f1` | [link](https://mozilladatacollective.com/datasets/cmu2n2gqy00uknv07nq1g51mx) | ❌ |
 | `cmu2n2lir00uonv07iqzo4j4b` | JAV IKRAR - Craft and Cultural Heritage Multimodal Corpus | `jav-ikrar-craft-and-cultural-heritage-mu-36651fe4` | [link](https://mozilladatacollective.com/datasets/cmu2n2lir00uonv07iqzo4j4b) | ❌ |
 | `cmu2n2r7m00usnv07zcyldsaa` | An Oroko Sociocultural Dataset | `an-oroko-sociocultural-dataset-c9368e78` | [link](https://mozilladatacollective.com/datasets/cmu2n2r7m00usnv07zcyldsaa) | ❌ |
@@ -941,7 +941,7 @@ data programmatically.
 | `cmu5qp321000fnq07fz013l27` | Common Voice Scripted Speech 27.0 - Ouldémé | `common-voice-scripted-speech-27-0-ould-m-3403751d` | [link](https://mozilladatacollective.com/datasets/cmu5qp321000fnq07fz013l27) | ✅ |
 | `cmu5qpgwi000jnq077ejffa4d` | Common Voice Scripted Speech 27.0 - Tunen | `common-voice-scripted-speech-27-0-tunen-07bdde7a` | [link](https://mozilladatacollective.com/datasets/cmu5qpgwi000jnq077ejffa4d) | ✅ |
 | `cmu5qstfd000wnq07aurb4p6s` | Common Voice Scripted Speech 27.0 - Mbum | `common-voice-scripted-speech-27-0-mbum-cdf9c167` | [link](https://mozilladatacollective.com/datasets/cmu5qstfd000wnq07aurb4p6s) | ✅ |
-| `cmu5qszmu000ho107xkb2diqo` | English Medical Speech Dataset | `english-medical-speech-dataset-2a87e2e5` | [link](https://mozilladatacollective.com/datasets/cmu5qszmu000ho107xkb2diqo) | ❌ |
+| `cmu5qszmu000ho107xkb2diqo` | English Medical Speech Dataset (Synthetic) | `english-medical-speech-dataset-synthetic-73e68489` | [link](https://mozilladatacollective.com/datasets/cmu5qszmu000ho107xkb2diqo) | ❌ |
 | `cmu5qw5mb0016nq07rbpo3ax1` | Common Voice Scripted Speech 27.0 - Brahui | `common-voice-scripted-speech-27-0-brahui-5013c7ae` | [link](https://mozilladatacollective.com/datasets/cmu5qw5mb0016nq07rbpo3ax1) | ✅ |
 | `cmu5qwi9h001anq07g3rd6k1e` | Common Voice Scripted Speech 27.0 - Quechua Chiquián | `common-voice-scripted-speech-27-0-quechu-bcb825ee` | [link](https://mozilladatacollective.com/datasets/cmu5qwi9h001anq07g3rd6k1e) | ✅ |
 | `cmu5qzwev001inq07iz1xotu0` | Common Voice Scripted Speech 27.0 - Kihemba | `common-voice-scripted-speech-27-0-kihemb-dfb02e85` | [link](https://mozilladatacollective.com/datasets/cmu5qzwev001inq07iz1xotu0) | ✅ |
@@ -1186,13 +1186,14 @@ data programmatically.
 | `cmucznt9t0007kz08bq99zn2o` | 🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧 | `tagalog-health-domain-tts-20-hours-singl-94209e0b` | [link](https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o) | ❌ |
 | `cmufi5stj02y7ny0727487cu2` | LRAC 2.0 Common Voice 26.0 Bundle | `lrac-2-0-common-voice-26-0-bundle-a628996b` | [link](https://mozilladatacollective.com/datasets/cmufi5stj02y7ny0727487cu2) | ❌ |
 | `cmuh4ozy804olny07mu2h0kjm` | 🚧 Tagalog Voice Notes ASR Dataset (45 hours) 🚧 | `tagalog-voice-notes-asr-dataset-45-hours-ccdb5cf8` | [link](https://mozilladatacollective.com/datasets/cmuh4ozy804olny07mu2h0kjm) | ❌ |
-| `cmuh4z6sw04opny07obm3ze3e` | English 10 Hours Medical Speech Evaluation Dataset  | `english-10-hours-medical-speech-evaluati-9c58938e` | [link](https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e) | ❌ |
+| `cmuh4z6sw04opny07obm3ze3e` | English 10 Hours Medical Speech Evaluation Dataset  (Synthetic) | `english-10-hours-medical-speech-evaluati-513aef52` | [link](https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e) | ❌ |
 | `cmuh50dte04otny07ot80sg6n` | 🚧 Northern Pashto Corpus for Speech Recognition 🚧 | `northern-pashto-corpus-for-speech-recogn-4f7d8d52` | [link](https://mozilladatacollective.com/datasets/cmuh50dte04otny07ot80sg6n) | ❌ |
 | `cmuh552z504p4ny0793z6j6a7` | BAHANA: Parallel Corpus IND-ENG-ARB  | `bahana-parallel-corpus-ind-eng-arb-42cc2e7c` | [link](https://mozilladatacollective.com/datasets/cmuh552z504p4ny0793z6j6a7) | ❌ |
 | `cmuincgum05x5ny07fl4h96f9` | IND-Magelang Traffic Signs and Facilities | `ind-magelang-traffic-signs-and-facilitie-9d3d12c8` | [link](https://mozilladatacollective.com/datasets/cmuincgum05x5ny07fl4h96f9) | ❌ |
 | `cmul9a3f008diny07cluf265u` | Common Voice Scripted Speech 27.0 - Pashto | `common-voice-scripted-speech-27-0-pashto-428b54b8` | [link](https://mozilladatacollective.com/datasets/cmul9a3f008diny07cluf265u) | ✅ |
 | `cmumoqyzh0a3knl07ktk87b36` | Rohingya Hanifi–Rohingyalish–English Lexicon | `rohingya-hanifi-rohingyalish-english-lex-9328f3cf` | [link](https://mozilladatacollective.com/datasets/cmumoqyzh0a3knl07ktk87b36) | ❌ |
 | `cmumq51mj0aacny078eindv36` | ASR Javanese-Lumajang Dialect | `asr-javanese-lumajang-dialect-ad3d9448` | [link](https://mozilladatacollective.com/datasets/cmumq51mj0aacny078eindv36) | ❌ |
+| `cmuo1rfsj01runn073id66vg7` | Central Kanuri Speech Dataset | `central-kanuri-speech-dataset-6dbd71d4` | [link](https://mozilladatacollective.com/datasets/cmuo1rfsj01runn073id66vg7) | ❌ |
 
 ## Schemas without a platform dataset
 

@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-09-30T05:18:02.689421+00:00",
+  "generated_at": "2026-10-01T05:17:30.858315+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1174,
+    "listed_datasets": 1175,
     "with_schema": 419,
-    "without_schema": 755,
+    "without_schema": 756,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -5604,9 +5604,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Neapolitan TTS - male voice",
-      "slug": "neapolitan-tts-male-voice-ecd8c97e",
+      "slug": "neapolitan-tts-male-voice-65ca5968",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmr0mlgjp01bimk07xkdw256s",
-      "lastmod": "2026-06-30T12:31:25.957Z",
+      "lastmod": "2026-09-30T18:56:00.280Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -8266,9 +8266,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Indonesian Speech Motion Dataset",
-      "slug": "indonesian-speech-motion-dataset-5717870f",
+      "slug": "indonesian-speech-motion-dataset-8bf4e331",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmu2mq96s00ugo1072rf2p6e3",
-      "lastmod": "2026-09-15T12:09:49.060Z",
+      "lastmod": "2026-09-30T13:59:52.888Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -10168,10 +10168,10 @@
       "id": "cmu5qszmu000ho107xkb2diqo",
       "has_schema": false,
       "listed": true,
-      "name": "English Medical Speech Dataset",
-      "slug": "english-medical-speech-dataset-2a87e2e5",
+      "name": "English Medical Speech Dataset (Synthetic)",
+      "slug": "english-medical-speech-dataset-synthetic-73e68489",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmu5qszmu000ho107xkb2diqo",
-      "lastmod": "2026-09-17T17:40:51.100Z",
+      "lastmod": "2026-09-30T16:59:38.106Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12863,10 +12863,10 @@
       "id": "cmuh4z6sw04opny07obm3ze3e",
       "has_schema": false,
       "listed": true,
-      "name": "English 10 Hours Medical Speech Evaluation Dataset ",
-      "slug": "english-10-hours-medical-speech-evaluati-9c58938e",
+      "name": "English 10 Hours Medical Speech Evaluation Dataset  (Synthetic)",
+      "slug": "english-10-hours-medical-speech-evaluati-513aef52",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e",
-      "lastmod": "2026-09-25T19:00:14.199Z",
+      "lastmod": "2026-09-30T16:59:54.474Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12933,6 +12933,17 @@
       "slug": "asr-javanese-lumajang-dialect-ad3d9448",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmumq51mj0aacny078eindv36",
       "lastmod": "2026-09-29T13:40:41.467Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuo1rfsj01runn073id66vg7",
+      "has_schema": false,
+      "listed": true,
+      "name": "Central Kanuri Speech Dataset",
+      "slug": "central-kanuri-speech-dataset-6dbd71d4",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuo1rfsj01runn073id66vg7",
+      "lastmod": "2026-09-30T11:53:48.211Z",
       "schema_path": null,
       "schema_url": null
     }
