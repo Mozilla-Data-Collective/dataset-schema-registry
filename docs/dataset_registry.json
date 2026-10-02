@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T06:11:45.648825+00:00",
-  "total": 1175,
+  "updated_at": "2026-10-02T05:17:08.550854+00:00",
+  "total": 1176,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -2182,9 +2182,9 @@
     {
       "id": "cmp2hgs2j00nsmp07q9s6g3m0",
       "url": "https://mozilladatacollective.com/datasets/cmp2hgs2j00nsmp07q9s6g3m0",
-      "lastmod": "2026-05-12T10:23:57.212Z",
+      "lastmod": "2026-10-01T12:45:21.869Z",
       "name": "Less is More Corpus",
-      "slug": "less-is-more-corpus-e6dc1838"
+      "slug": "less-is-more-corpus-2001670a"
     },
     {
       "id": "cmp3rmip800ozo30799h7wp6g",
@@ -8226,6 +8226,13 @@
       "lastmod": "2026-09-30T11:53:48.211Z",
       "name": "Central Kanuri Speech Dataset",
       "slug": "central-kanuri-speech-dataset-6dbd71d4"
+    },
+    {
+      "id": "cmuppz5bm01s5mg067qo2b8x3",
+      "url": "https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3",
+      "lastmod": "2026-10-01T15:59:24.850Z",
+      "name": "🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧",
+      "slug": "hitch-hiker-mirror-suit-robotics-data-ae0bac0c"
     }
   ]
 }
