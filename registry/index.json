@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-01T05:17:30.858315+00:00",
+  "generated_at": "2026-10-02T05:17:20.674015+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1175,
+    "listed_datasets": 1176,
     "with_schema": 419,
-    "without_schema": 756,
+    "without_schema": 757,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -3448,9 +3448,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Less is More Corpus",
-      "slug": "less-is-more-corpus-e6dc1838",
+      "slug": "less-is-more-corpus-2001670a",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmp2hgs2j00nsmp07q9s6g3m0",
-      "lastmod": "2026-05-12T10:23:57.212Z",
+      "lastmod": "2026-10-01T12:45:21.869Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12944,6 +12944,17 @@
       "slug": "central-kanuri-speech-dataset-6dbd71d4",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmuo1rfsj01runn073id66vg7",
       "lastmod": "2026-09-30T11:53:48.211Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuppz5bm01s5mg067qo2b8x3",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧",
+      "slug": "hitch-hiker-mirror-suit-robotics-data-ae0bac0c",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3",
+      "lastmod": "2026-10-01T15:59:24.850Z",
       "schema_path": null,
       "schema_url": null
     }

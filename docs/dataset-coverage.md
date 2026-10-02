@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-01  
-**Total datasets in sitemap:** 1175  
+**Last updated:** 2026-10-02  
+**Total datasets in sitemap:** 1176  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 756 ❌  
+**Schemas missing:** 757 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -330,7 +330,7 @@ data programmatically.
 | `cmp2h28f400n4mp07aeka38ca` | VoxForge - Ukrainian | `voxforge-ukrainian-6fdcdf1b` | [link](https://mozilladatacollective.com/datasets/cmp2h28f400n4mp07aeka38ca) | ❌ |
 | `cmp2h2jnt00n8mp07lkr11xru` | VoxForge - Albanian | `voxforge-albanian-1bd2e28b` | [link](https://mozilladatacollective.com/datasets/cmp2h2jnt00n8mp07lkr11xru) | ❌ |
 | `cmp2h2som00kzno07n8lwesrr` | VoxForge - Turkish | `voxforge-turkish-788023eb` | [link](https://mozilladatacollective.com/datasets/cmp2h2som00kzno07n8lwesrr) | ❌ |
-| `cmp2hgs2j00nsmp07q9s6g3m0` | Less is More Corpus | `less-is-more-corpus-e6dc1838` | [link](https://mozilladatacollective.com/datasets/cmp2hgs2j00nsmp07q9s6g3m0) | ❌ |
+| `cmp2hgs2j00nsmp07q9s6g3m0` | Less is More Corpus | `less-is-more-corpus-2001670a` | [link](https://mozilladatacollective.com/datasets/cmp2hgs2j00nsmp07q9s6g3m0) | ❌ |
 | `cmp3rmip800ozo30799h7wp6g` | Friulian TTS - female voice | `friulian-tts-female-voice-3b2f0212` | [link](https://mozilladatacollective.com/datasets/cmp3rmip800ozo30799h7wp6g) | ❌ |
 | `cmp4htii700glmp07syfvo010` | Bangladesh Traffic Signs Dataset | `bangladesh-traffic-signs-dataset-07c5d6ad` | [link](https://mozilladatacollective.com/datasets/cmp4htii700glmp07syfvo010) | ❌ |
 | `cmp4htkri00hao007kbrbew2h` | India Traffic Signs Dataset | `india-traffic-signs-dataset-b74e4eac` | [link](https://mozilladatacollective.com/datasets/cmp4htkri00hao007kbrbew2h) | ❌ |
@@ -1194,6 +1194,7 @@ data programmatically.
 | `cmumoqyzh0a3knl07ktk87b36` | Rohingya Hanifi–Rohingyalish–English Lexicon | `rohingya-hanifi-rohingyalish-english-lex-9328f3cf` | [link](https://mozilladatacollective.com/datasets/cmumoqyzh0a3knl07ktk87b36) | ❌ |
 | `cmumq51mj0aacny078eindv36` | ASR Javanese-Lumajang Dialect | `asr-javanese-lumajang-dialect-ad3d9448` | [link](https://mozilladatacollective.com/datasets/cmumq51mj0aacny078eindv36) | ❌ |
 | `cmuo1rfsj01runn073id66vg7` | Central Kanuri Speech Dataset | `central-kanuri-speech-dataset-6dbd71d4` | [link](https://mozilladatacollective.com/datasets/cmuo1rfsj01runn073id66vg7) | ❌ |
+| `cmuppz5bm01s5mg067qo2b8x3` | 🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧 | `hitch-hiker-mirror-suit-robotics-data-ae0bac0c` | [link](https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3) | ❌ |
 
 ## Schemas without a platform dataset
 
