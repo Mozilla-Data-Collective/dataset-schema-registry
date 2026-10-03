@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T06:11:17.000053+00:00",
-  "total": 1176,
+  "updated_at": "2026-10-03T05:15:34.678116+00:00",
+  "total": 1180,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -6459,9 +6459,9 @@
     {
       "id": "cmu5qszmu000ho107xkb2diqo",
       "url": "https://mozilladatacollective.com/datasets/cmu5qszmu000ho107xkb2diqo",
-      "lastmod": "2026-09-30T16:59:38.106Z",
+      "lastmod": "2026-10-02T15:53:57.640Z",
       "name": "English Medical Speech Dataset (Synthetic)",
-      "slug": "english-medical-speech-dataset-synthetic-73e68489"
+      "slug": "english-medical-speech-dataset-synthetic-a8b92bc0"
     },
     {
       "id": "cmu5qw5mb0016nq07rbpo3ax1",
@@ -8174,9 +8174,9 @@
     {
       "id": "cmuh4z6sw04opny07obm3ze3e",
       "url": "https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e",
-      "lastmod": "2026-09-30T16:59:54.474Z",
+      "lastmod": "2026-10-02T15:53:39.000Z",
       "name": "English 10 Hours Medical Speech Evaluation Dataset  (Synthetic)",
-      "slug": "english-10-hours-medical-speech-evaluati-513aef52"
+      "slug": "english-10-hours-medical-speech-evaluati-d9997109"
     },
     {
       "id": "cmuh50dte04otny07ot80sg6n",
@@ -8230,9 +8230,37 @@
     {
       "id": "cmuppz5bm01s5mg067qo2b8x3",
       "url": "https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3",
-      "lastmod": "2026-10-01T15:59:24.850Z",
+      "lastmod": "2026-10-02T19:41:06.809Z",
       "name": "🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧",
-      "slug": "hitch-hiker-mirror-suit-robotics-data-ae0bac0c"
+      "slug": "hitch-hiker-mirror-suit-robotics-data-ddedfb7a"
+    },
+    {
+      "id": "cmuqxko7s007cnu06hmyin16s",
+      "url": "https://mozilladatacollective.com/datasets/cmuqxko7s007cnu06hmyin16s",
+      "lastmod": "2026-10-02T12:19:52.600Z",
+      "name": "Italian female voice reading Italian Penal Code",
+      "slug": "italian-female-voice-reading-italian-pen-2920cbae"
+    },
+    {
+      "id": "cmur9duso00hanu062i17f9j6",
+      "url": "https://mozilladatacollective.com/datasets/cmur9duso00hanu062i17f9j6",
+      "lastmod": "2026-10-02T17:50:29.928Z",
+      "name": "Read Speech in Congolese Swahili (11h)",
+      "slug": "read-speech-in-congolese-swahili-11h-4eeed9ee"
+    },
+    {
+      "id": "cmur9ejxo00henu06xdkexx23",
+      "url": "https://mozilladatacollective.com/datasets/cmur9ejxo00henu06xdkexx23",
+      "lastmod": "2026-10-02T17:51:02.508Z",
+      "name": "TICO-19 (Covid-domain) Speech – Congolese Swahili",
+      "slug": "tico-19-covid-domain-speech-congolese-sw-d21ada76"
+    },
+    {
+      "id": "cmur9gqs000henv07aonkl1sv",
+      "url": "https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv",
+      "lastmod": "2026-10-02T17:52:44.688Z",
+      "name": "MALOBA Lingala OCR transcriptions, harmonised text (v1.1)",
+      "slug": "maloba-lingala-ocr-transcriptions-harmon-b7202647"
     }
   ]
 }
