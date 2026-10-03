@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-02T05:17:20.674015+00:00",
+  "generated_at": "2026-10-03T05:15:48.155552+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1176,
+    "listed_datasets": 1180,
     "with_schema": 419,
-    "without_schema": 757,
+    "without_schema": 761,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -10169,9 +10169,9 @@
       "has_schema": false,
       "listed": true,
       "name": "English Medical Speech Dataset (Synthetic)",
-      "slug": "english-medical-speech-dataset-synthetic-73e68489",
+      "slug": "english-medical-speech-dataset-synthetic-a8b92bc0",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmu5qszmu000ho107xkb2diqo",
-      "lastmod": "2026-09-30T16:59:38.106Z",
+      "lastmod": "2026-10-02T15:53:57.640Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12864,9 +12864,9 @@
       "has_schema": false,
       "listed": true,
       "name": "English 10 Hours Medical Speech Evaluation Dataset  (Synthetic)",
-      "slug": "english-10-hours-medical-speech-evaluati-513aef52",
+      "slug": "english-10-hours-medical-speech-evaluati-d9997109",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e",
-      "lastmod": "2026-09-30T16:59:54.474Z",
+      "lastmod": "2026-10-02T15:53:39.000Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12952,9 +12952,53 @@
       "has_schema": false,
       "listed": true,
       "name": "🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧",
-      "slug": "hitch-hiker-mirror-suit-robotics-data-ae0bac0c",
+      "slug": "hitch-hiker-mirror-suit-robotics-data-ddedfb7a",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3",
-      "lastmod": "2026-10-01T15:59:24.850Z",
+      "lastmod": "2026-10-02T19:41:06.809Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuqxko7s007cnu06hmyin16s",
+      "has_schema": false,
+      "listed": true,
+      "name": "Italian female voice reading Italian Penal Code",
+      "slug": "italian-female-voice-reading-italian-pen-2920cbae",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuqxko7s007cnu06hmyin16s",
+      "lastmod": "2026-10-02T12:19:52.600Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmur9duso00hanu062i17f9j6",
+      "has_schema": false,
+      "listed": true,
+      "name": "Read Speech in Congolese Swahili (11h)",
+      "slug": "read-speech-in-congolese-swahili-11h-4eeed9ee",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmur9duso00hanu062i17f9j6",
+      "lastmod": "2026-10-02T17:50:29.928Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmur9ejxo00henu06xdkexx23",
+      "has_schema": false,
+      "listed": true,
+      "name": "TICO-19 (Covid-domain) Speech – Congolese Swahili",
+      "slug": "tico-19-covid-domain-speech-congolese-sw-d21ada76",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmur9ejxo00henu06xdkexx23",
+      "lastmod": "2026-10-02T17:51:02.508Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmur9gqs000henv07aonkl1sv",
+      "has_schema": false,
+      "listed": true,
+      "name": "MALOBA Lingala OCR transcriptions, harmonised text (v1.1)",
+      "slug": "maloba-lingala-ocr-transcriptions-harmon-b7202647",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv",
+      "lastmod": "2026-10-02T17:52:44.688Z",
       "schema_path": null,
       "schema_url": null
     }

@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-02  
-**Total datasets in sitemap:** 1176  
+**Last updated:** 2026-10-03  
+**Total datasets in sitemap:** 1180  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 757 ❌  
+**Schemas missing:** 761 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -941,7 +941,7 @@ data programmatically.
 | `cmu5qp321000fnq07fz013l27` | Common Voice Scripted Speech 27.0 - Ouldémé | `common-voice-scripted-speech-27-0-ould-m-3403751d` | [link](https://mozilladatacollective.com/datasets/cmu5qp321000fnq07fz013l27) | ✅ |
 | `cmu5qpgwi000jnq077ejffa4d` | Common Voice Scripted Speech 27.0 - Tunen | `common-voice-scripted-speech-27-0-tunen-07bdde7a` | [link](https://mozilladatacollective.com/datasets/cmu5qpgwi000jnq077ejffa4d) | ✅ |
 | `cmu5qstfd000wnq07aurb4p6s` | Common Voice Scripted Speech 27.0 - Mbum | `common-voice-scripted-speech-27-0-mbum-cdf9c167` | [link](https://mozilladatacollective.com/datasets/cmu5qstfd000wnq07aurb4p6s) | ✅ |
-| `cmu5qszmu000ho107xkb2diqo` | English Medical Speech Dataset (Synthetic) | `english-medical-speech-dataset-synthetic-73e68489` | [link](https://mozilladatacollective.com/datasets/cmu5qszmu000ho107xkb2diqo) | ❌ |
+| `cmu5qszmu000ho107xkb2diqo` | English Medical Speech Dataset (Synthetic) | `english-medical-speech-dataset-synthetic-a8b92bc0` | [link](https://mozilladatacollective.com/datasets/cmu5qszmu000ho107xkb2diqo) | ❌ |
 | `cmu5qw5mb0016nq07rbpo3ax1` | Common Voice Scripted Speech 27.0 - Brahui | `common-voice-scripted-speech-27-0-brahui-5013c7ae` | [link](https://mozilladatacollective.com/datasets/cmu5qw5mb0016nq07rbpo3ax1) | ✅ |
 | `cmu5qwi9h001anq07g3rd6k1e` | Common Voice Scripted Speech 27.0 - Quechua Chiquián | `common-voice-scripted-speech-27-0-quechu-bcb825ee` | [link](https://mozilladatacollective.com/datasets/cmu5qwi9h001anq07g3rd6k1e) | ✅ |
 | `cmu5qzwev001inq07iz1xotu0` | Common Voice Scripted Speech 27.0 - Kihemba | `common-voice-scripted-speech-27-0-kihemb-dfb02e85` | [link](https://mozilladatacollective.com/datasets/cmu5qzwev001inq07iz1xotu0) | ✅ |
@@ -1186,7 +1186,7 @@ data programmatically.
 | `cmucznt9t0007kz08bq99zn2o` | 🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧 | `tagalog-health-domain-tts-20-hours-singl-94209e0b` | [link](https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o) | ❌ |
 | `cmufi5stj02y7ny0727487cu2` | LRAC 2.0 Common Voice 26.0 Bundle | `lrac-2-0-common-voice-26-0-bundle-a628996b` | [link](https://mozilladatacollective.com/datasets/cmufi5stj02y7ny0727487cu2) | ❌ |
 | `cmuh4ozy804olny07mu2h0kjm` | 🚧 Tagalog Voice Notes ASR Dataset (45 hours) 🚧 | `tagalog-voice-notes-asr-dataset-45-hours-ccdb5cf8` | [link](https://mozilladatacollective.com/datasets/cmuh4ozy804olny07mu2h0kjm) | ❌ |
-| `cmuh4z6sw04opny07obm3ze3e` | English 10 Hours Medical Speech Evaluation Dataset  (Synthetic) | `english-10-hours-medical-speech-evaluati-513aef52` | [link](https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e) | ❌ |
+| `cmuh4z6sw04opny07obm3ze3e` | English 10 Hours Medical Speech Evaluation Dataset  (Synthetic) | `english-10-hours-medical-speech-evaluati-d9997109` | [link](https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e) | ❌ |
 | `cmuh50dte04otny07ot80sg6n` | 🚧 Northern Pashto Corpus for Speech Recognition 🚧 | `northern-pashto-corpus-for-speech-recogn-4f7d8d52` | [link](https://mozilladatacollective.com/datasets/cmuh50dte04otny07ot80sg6n) | ❌ |
 | `cmuh552z504p4ny0793z6j6a7` | BAHANA: Parallel Corpus IND-ENG-ARB  | `bahana-parallel-corpus-ind-eng-arb-42cc2e7c` | [link](https://mozilladatacollective.com/datasets/cmuh552z504p4ny0793z6j6a7) | ❌ |
 | `cmuincgum05x5ny07fl4h96f9` | IND-Magelang Traffic Signs and Facilities | `ind-magelang-traffic-signs-and-facilitie-9d3d12c8` | [link](https://mozilladatacollective.com/datasets/cmuincgum05x5ny07fl4h96f9) | ❌ |
@@ -1194,7 +1194,11 @@ data programmatically.
 | `cmumoqyzh0a3knl07ktk87b36` | Rohingya Hanifi–Rohingyalish–English Lexicon | `rohingya-hanifi-rohingyalish-english-lex-9328f3cf` | [link](https://mozilladatacollective.com/datasets/cmumoqyzh0a3knl07ktk87b36) | ❌ |
 | `cmumq51mj0aacny078eindv36` | ASR Javanese-Lumajang Dialect | `asr-javanese-lumajang-dialect-ad3d9448` | [link](https://mozilladatacollective.com/datasets/cmumq51mj0aacny078eindv36) | ❌ |
 | `cmuo1rfsj01runn073id66vg7` | Central Kanuri Speech Dataset | `central-kanuri-speech-dataset-6dbd71d4` | [link](https://mozilladatacollective.com/datasets/cmuo1rfsj01runn073id66vg7) | ❌ |
-| `cmuppz5bm01s5mg067qo2b8x3` | 🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧 | `hitch-hiker-mirror-suit-robotics-data-ae0bac0c` | [link](https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3) | ❌ |
+| `cmuppz5bm01s5mg067qo2b8x3` | 🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧 | `hitch-hiker-mirror-suit-robotics-data-ddedfb7a` | [link](https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3) | ❌ |
+| `cmuqxko7s007cnu06hmyin16s` | Italian female voice reading Italian Penal Code | `italian-female-voice-reading-italian-pen-2920cbae` | [link](https://mozilladatacollective.com/datasets/cmuqxko7s007cnu06hmyin16s) | ❌ |
+| `cmur9duso00hanu062i17f9j6` | Read Speech in Congolese Swahili (11h) | `read-speech-in-congolese-swahili-11h-4eeed9ee` | [link](https://mozilladatacollective.com/datasets/cmur9duso00hanu062i17f9j6) | ❌ |
+| `cmur9ejxo00henu06xdkexx23` | TICO-19 (Covid-domain) Speech – Congolese Swahili | `tico-19-covid-domain-speech-congolese-sw-d21ada76` | [link](https://mozilladatacollective.com/datasets/cmur9ejxo00henu06xdkexx23) | ❌ |
+| `cmur9gqs000henv07aonkl1sv` | MALOBA Lingala OCR transcriptions, harmonised text (v1.1) | `maloba-lingala-ocr-transcriptions-harmon-b7202647` | [link](https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv) | ❌ |
 
 ## Schemas without a platform dataset
 
