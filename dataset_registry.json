@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T06:12:58.587207+00:00",
-  "total": 1180,
+  "updated_at": "2026-10-04T06:56:25.647247+00:00",
+  "total": 1181,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8261,6 +8261,13 @@
       "lastmod": "2026-10-02T17:52:44.688Z",
       "name": "MALOBA Lingala OCR transcriptions, harmonised text (v1.1)",
       "slug": "maloba-lingala-ocr-transcriptions-harmon-b7202647"
+    },
+    {
+      "id": "cmut2t2wg02binv074906cueh",
+      "url": "https://mozilladatacollective.com/datasets/cmut2t2wg02binv074906cueh",
+      "lastmod": "2026-10-04T00:21:55.312Z",
+      "name": "Synthetic Javanese–Indonesian Conversational Speech",
+      "slug": "synthetic-javanese-indonesian-conversati-ed6cac7a"
     }
   ]
 }
