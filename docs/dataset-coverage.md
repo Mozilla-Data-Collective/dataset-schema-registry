@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-03  
-**Total datasets in sitemap:** 1180  
+**Last updated:** 2026-10-04  
+**Total datasets in sitemap:** 1181  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 761 ❌  
+**Schemas missing:** 762 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1199,6 +1199,7 @@ data programmatically.
 | `cmur9duso00hanu062i17f9j6` | Read Speech in Congolese Swahili (11h) | `read-speech-in-congolese-swahili-11h-4eeed9ee` | [link](https://mozilladatacollective.com/datasets/cmur9duso00hanu062i17f9j6) | ❌ |
 | `cmur9ejxo00henu06xdkexx23` | TICO-19 (Covid-domain) Speech – Congolese Swahili | `tico-19-covid-domain-speech-congolese-sw-d21ada76` | [link](https://mozilladatacollective.com/datasets/cmur9ejxo00henu06xdkexx23) | ❌ |
 | `cmur9gqs000henv07aonkl1sv` | MALOBA Lingala OCR transcriptions, harmonised text (v1.1) | `maloba-lingala-ocr-transcriptions-harmon-b7202647` | [link](https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv) | ❌ |
+| `cmut2t2wg02binv074906cueh` | Synthetic Javanese–Indonesian Conversational Speech | `synthetic-javanese-indonesian-conversati-ed6cac7a` | [link](https://mozilladatacollective.com/datasets/cmut2t2wg02binv074906cueh) | ❌ |
 
 ## Schemas without a platform dataset
 

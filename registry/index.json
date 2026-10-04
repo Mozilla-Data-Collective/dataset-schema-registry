@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-03T05:15:48.155552+00:00",
+  "generated_at": "2026-10-04T06:56:38.684954+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1180,
+    "listed_datasets": 1181,
     "with_schema": 419,
-    "without_schema": 761,
+    "without_schema": 762,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -12999,6 +12999,17 @@
       "slug": "maloba-lingala-ocr-transcriptions-harmon-b7202647",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv",
       "lastmod": "2026-10-02T17:52:44.688Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmut2t2wg02binv074906cueh",
+      "has_schema": false,
+      "listed": true,
+      "name": "Synthetic Javanese–Indonesian Conversational Speech",
+      "slug": "synthetic-javanese-indonesian-conversati-ed6cac7a",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmut2t2wg02binv074906cueh",
+      "lastmod": "2026-10-04T00:21:55.312Z",
       "schema_path": null,
       "schema_url": null
     }
