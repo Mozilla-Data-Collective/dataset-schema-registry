@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-04  
+**Last updated:** 2026-10-05  
 **Total datasets in sitemap:** 1181  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 762 ❌  
@@ -48,7 +48,7 @@ data programmatically.
 | `cmig0f00m00ynmd07kqzscviy` | Sutsilvan Newspaper Corpus | `sutsilvan-newspaper-corpus-d0c78c1b` | [link](https://mozilladatacollective.com/datasets/cmig0f00m00ynmd07kqzscviy) | ❌ |
 | `cmig0fljr00yrmd075gqlj2qo` | Putèr Newspaper Corpus | `put-r-newspaper-corpus-1814f0ef` | [link](https://mozilladatacollective.com/datasets/cmig0fljr00yrmd075gqlj2qo) | ❌ |
 | `cmihefmde01vxmd07djfchz51` | KyrgyzNER: Human-Annotated NER Dataset for Kyrgyz | `kyrgyzner-human-annotated-ner-dataset-fo-20b82547` | [link](https://mozilladatacollective.com/datasets/cmihefmde01vxmd07djfchz51) | ❌ |
-| `cmihkoth10246md07dtojxehg` | Speech Data Collection for The Nupe Language | `speech-data-collection-for-the-nupe-lang-9e09e0f9` | [link](https://mozilladatacollective.com/datasets/cmihkoth10246md07dtojxehg) | ✅ |
+| `cmihkoth10246md07dtojxehg` | Speech Data Collection for The Nupe Language | `speech-data-collection-for-the-nupe-lang-eddc65c0` | [link](https://mozilladatacollective.com/datasets/cmihkoth10246md07dtojxehg) | ✅ |
 | `cmihqro9h0238o207fgg5cmf6` | Ehugbo TTS: biblical text to speech dataset in Ehugbo Language | `ehugbo-tts-biblical-text-to-speech-datas-054eaa87` | [link](https://mozilladatacollective.com/datasets/cmihqro9h0238o207fgg5cmf6) | ✅ |
 | `cmihtsewu023so207xot1iqqw` | TidyVoiceX_ASV | `tidyvoicex-asv-459e6087` | [link](https://mozilladatacollective.com/datasets/cmihtsewu023so207xot1iqqw) | ✅ |
 | `cmin6i6da001so707uwggcn7a` | Everyday Interactions in Ibọnọ and Obolo Languages | `everyday-interactions-in-ib-n-and-obolo-3df6264d` | [link](https://mozilladatacollective.com/datasets/cmin6i6da001so707uwggcn7a) | ❌ |
@@ -755,7 +755,7 @@ data programmatically.
 | `cmtsqin6x00arl507fdafxq2b` | A Kali Sociocultural Dataset | `a-kali-sociocultural-dataset-1abbe8a6` | [link](https://mozilladatacollective.com/datasets/cmtsqin6x00arl507fdafxq2b) | ❌ |
 | `cmtufo0cx00gant07sgudmy3r` | Demakan Dialect of JAV-IND-ENG-ARB Parallel Corpus | `demakan-dialect-of-jav-ind-eng-arb-paral-8d13c8b1` | [link](https://mozilladatacollective.com/datasets/cmtufo0cx00gant07sgudmy3r) | ❌ |
 | `cmu1atvfl03z7nx08b8k13791` | 🚧 Brazilian Portuguese ASR dataset (140h) 🚧 | `brazilian-portuguese-asr-dataset-140h-4e9e07d0` | [link](https://mozilladatacollective.com/datasets/cmu1atvfl03z7nx08b8k13791) | ❌ |
-| `cmu1awryj03txnz07lpkb853l` | 🚧Software Engineering & AI Tooling 🚧 | `software-engineering-ai-tooling-942de6bd` | [link](https://mozilladatacollective.com/datasets/cmu1awryj03txnz07lpkb853l) | ❌ |
+| `cmu1awryj03txnz07lpkb853l` | 🚧Software Engineering & AI Tooling 🚧 | `software-engineering-ai-tooling-a0f0153c` | [link](https://mozilladatacollective.com/datasets/cmu1awryj03txnz07lpkb853l) | ❌ |
 | `cmu1awzhe03zfnx0833jjubvf` | A Guiziga Muturwa Sociocultural Dataset | `a-guiziga-muturwa-sociocultural-dataset-1671ec81` | [link](https://mozilladatacollective.com/datasets/cmu1awzhe03zfnx0833jjubvf) | ❌ |
 | `cmu1ax60f03zjnx081lh28hty` | TTS - Jepara Javanese Speech Corpus (JJSC) | `tts-jepara-javanese-speech-corpus-jjsc-37e17b42` | [link](https://mozilladatacollective.com/datasets/cmu1ax60f03zjnx081lh28hty) | ❌ |
 | `cmu1b03dq03zrnx08kumwzt3i` | BOSSCO : Bogor Sundanese Speech Corpus | `bossco-bogor-sundanese-speech-corpus-4d8ebb24` | [link](https://mozilladatacollective.com/datasets/cmu1b03dq03zrnx08kumwzt3i) | ❌ |
