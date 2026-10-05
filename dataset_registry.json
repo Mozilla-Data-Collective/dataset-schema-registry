@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T08:00:27.026195+00:00",
+  "updated_at": "2026-10-05T05:30:34.463059+00:00",
   "total": 1181,
   "datasets": [
     {
@@ -208,9 +208,9 @@
     {
       "id": "cmihkoth10246md07dtojxehg",
       "url": "https://mozilladatacollective.com/datasets/cmihkoth10246md07dtojxehg",
-      "lastmod": "2026-01-08T19:15:46.503Z",
+      "lastmod": "2026-10-04T09:37:03.643Z",
       "name": "Speech Data Collection for The Nupe Language",
-      "slug": "speech-data-collection-for-the-nupe-lang-9e09e0f9"
+      "slug": "speech-data-collection-for-the-nupe-lang-eddc65c0"
     },
     {
       "id": "cmihqro9h0238o207fgg5cmf6",
@@ -5157,9 +5157,9 @@
     {
       "id": "cmu1awryj03txnz07lpkb853l",
       "url": "https://mozilladatacollective.com/datasets/cmu1awryj03txnz07lpkb853l",
-      "lastmod": "2026-09-24T09:45:27.337Z",
+      "lastmod": "2026-10-04T08:56:20.305Z",
       "name": "🚧Software Engineering & AI Tooling 🚧",
-      "slug": "software-engineering-ai-tooling-942de6bd"
+      "slug": "software-engineering-ai-tooling-a0f0153c"
     },
     {
       "id": "cmu1awzhe03zfnx0833jjubvf",
