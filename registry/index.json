@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-05T05:30:47.848609+00:00",
+  "generated_at": "2026-10-06T05:16:55.871750+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1181,
+    "listed_datasets": 1183,
     "with_schema": 419,
-    "without_schema": 762,
+    "without_schema": 764,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -1611,9 +1611,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Zacatlán Tepetzintla Nahuatl ASR Dataset",
-      "slug": "zacatl-n-tepetzintla-nahuatl-asr-dataset-2e46ee49",
+      "slug": "zacatl-n-tepetzintla-nahuatl-asr-dataset-9695e909",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmls27zfd0043ma07mxvsz8zg",
-      "lastmod": "2026-06-29T18:06:08.545Z",
+      "lastmod": "2026-10-06T04:00:36.373Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -5582,9 +5582,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Tequila Zongolica Nahuatl ASR Dataset",
-      "slug": "tequila-zongolica-nahuatl-asr-dataset-4b014750",
+      "slug": "tequila-zongolica-nahuatl-asr-dataset-e2161304",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmqzs3yig00eens07hehnewvf",
-      "lastmod": "2026-06-29T22:18:00.952Z",
+      "lastmod": "2026-10-06T04:05:53.405Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13010,6 +13010,28 @@
       "slug": "synthetic-javanese-indonesian-conversati-ed6cac7a",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmut2t2wg02binv074906cueh",
       "lastmod": "2026-10-04T00:21:55.312Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuv814nm0040ns08kyzpnry4",
+      "has_schema": false,
+      "listed": true,
+      "name": "Ukrainian–Russian–Surzhyk Read Speech",
+      "slug": "ukrainian-russian-surzhyk-read-speech-f2bb97e9",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuv814nm0040ns08kyzpnry4",
+      "lastmod": "2026-10-05T12:23:41.267Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuvj8h64005ko107pwsqx7jj",
+      "has_schema": false,
+      "listed": true,
+      "name": "Kanuri Lexicon",
+      "slug": "kanuri-lexicon-beb22f5c",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuvj8h64005ko107pwsqx7jj",
+      "lastmod": "2026-10-05T17:37:19.852Z",
       "schema_path": null,
       "schema_url": null
     }

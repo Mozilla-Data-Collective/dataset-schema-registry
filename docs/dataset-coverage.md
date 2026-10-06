@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-05  
-**Total datasets in sitemap:** 1181  
+**Last updated:** 2026-10-06  
+**Total datasets in sitemap:** 1183  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 762 ❌  
+**Schemas missing:** 764 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -163,7 +163,7 @@ data programmatically.
 | `cmll54ryz00ljl60764ivc60m` | Manggarai Language for NLP | `manggarai-language-for-nlp-82f8bd55` | [link](https://mozilladatacollective.com/datasets/cmll54ryz00ljl60764ivc60m) | ❌ |
 | `cmlqmsm0d00pinx072m0mm3aw` | Finweb-Edu-Chinese-v2.2 | `finweb-edu-chinese-v2-2-17f2368a` | [link](https://mozilladatacollective.com/datasets/cmlqmsm0d00pinx072m0mm3aw) | ❌ |
 | `cmlqoukmi000hnr07cprdmxsc` | Kyrgyz Folklore Text Corpus | `kyrgyz-folklore-text-corpus-de2f27ff` | [link](https://mozilladatacollective.com/datasets/cmlqoukmi000hnr07cprdmxsc) | ❌ |
-| `cmls27zfd0043ma07mxvsz8zg` | Zacatlán Tepetzintla Nahuatl ASR Dataset | `zacatl-n-tepetzintla-nahuatl-asr-dataset-2e46ee49` | [link](https://mozilladatacollective.com/datasets/cmls27zfd0043ma07mxvsz8zg) | ❌ |
+| `cmls27zfd0043ma07mxvsz8zg` | Zacatlán Tepetzintla Nahuatl ASR Dataset | `zacatl-n-tepetzintla-nahuatl-asr-dataset-9695e909` | [link](https://mozilladatacollective.com/datasets/cmls27zfd0043ma07mxvsz8zg) | ❌ |
 | `cmlth9lrp000ams07yjdscjgu` | ATLAS Cross-Lingual Transfer Matrix | `atlas-cross-lingual-transfer-matrix-b3661347` | [link](https://mozilladatacollective.com/datasets/cmlth9lrp000ams07yjdscjgu) | ❌ |
 | `cmltnzkug0012mh07k1obic7v` | Bojonegoro Javanese TTS  | `bojonegoro-javanese-tts-87b2bda4` | [link](https://mozilladatacollective.com/datasets/cmltnzkug0012mh07k1obic7v) | ❌ |
 | `cmm0n37lm000dnq07vpctdtc9` | GeoLogicQA: An LLM Benchmark for Logical Reasoning in Georgian | `geologicqa-an-llm-benchmark-for-logical-612b08b2` | [link](https://mozilladatacollective.com/datasets/cmm0n37lm000dnq07vpctdtc9) | ❌ |
@@ -524,7 +524,7 @@ data programmatically.
 | `cmqtkf6or08dunr07swj2r555` | AIRI AI4TALK Evenki ASR | `airi-ai4talk-evenki-asr-0cdc6f35` | [link](https://mozilladatacollective.com/datasets/cmqtkf6or08dunr07swj2r555) | ❌ |
 | `cmqz8qad200hzmp070fvxru9n` | Ladino TTS Corpus | `ladino-tts-corpus-6f8cbd72` | [link](https://mozilladatacollective.com/datasets/cmqz8qad200hzmp070fvxru9n) | ❌ |
 | `cmqzgucgt009vmk070046obup` | LezizNet - Turkish food images | `leziznet-turkish-food-images-9e450f4d` | [link](https://mozilladatacollective.com/datasets/cmqzgucgt009vmk070046obup) | ❌ |
-| `cmqzs3yig00eens07hehnewvf` | Tequila Zongolica Nahuatl ASR Dataset | `tequila-zongolica-nahuatl-asr-dataset-4b014750` | [link](https://mozilladatacollective.com/datasets/cmqzs3yig00eens07hehnewvf) | ❌ |
+| `cmqzs3yig00eens07hehnewvf` | Tequila Zongolica Nahuatl ASR Dataset | `tequila-zongolica-nahuatl-asr-dataset-e2161304` | [link](https://mozilladatacollective.com/datasets/cmqzs3yig00eens07hehnewvf) | ❌ |
 | `cmr0mhm4l01agns077lq6a5hf` | Ligurian TTS - female voice | `ligurian-tts-female-voice-4d2caa0c` | [link](https://mozilladatacollective.com/datasets/cmr0mhm4l01agns077lq6a5hf) | ❌ |
 | `cmr0mlgjp01bimk07xkdw256s` | Neapolitan TTS - male voice | `neapolitan-tts-male-voice-65ca5968` | [link](https://mozilladatacollective.com/datasets/cmr0mlgjp01bimk07xkdw256s) | ❌ |
 | `cmr0mng9z01bsmk07cuqltz81` | Prompsit D1 - Inline Asset Integrity | `prompsit-d1-inline-asset-integrity-9f282b10` | [link](https://mozilladatacollective.com/datasets/cmr0mng9z01bsmk07cuqltz81) | ❌ |
@@ -1200,6 +1200,8 @@ data programmatically.
 | `cmur9ejxo00henu06xdkexx23` | TICO-19 (Covid-domain) Speech – Congolese Swahili | `tico-19-covid-domain-speech-congolese-sw-d21ada76` | [link](https://mozilladatacollective.com/datasets/cmur9ejxo00henu06xdkexx23) | ❌ |
 | `cmur9gqs000henv07aonkl1sv` | MALOBA Lingala OCR transcriptions, harmonised text (v1.1) | `maloba-lingala-ocr-transcriptions-harmon-b7202647` | [link](https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv) | ❌ |
 | `cmut2t2wg02binv074906cueh` | Synthetic Javanese–Indonesian Conversational Speech | `synthetic-javanese-indonesian-conversati-ed6cac7a` | [link](https://mozilladatacollective.com/datasets/cmut2t2wg02binv074906cueh) | ❌ |
+| `cmuv814nm0040ns08kyzpnry4` | Ukrainian–Russian–Surzhyk Read Speech | `ukrainian-russian-surzhyk-read-speech-f2bb97e9` | [link](https://mozilladatacollective.com/datasets/cmuv814nm0040ns08kyzpnry4) | ❌ |
+| `cmuvj8h64005ko107pwsqx7jj` | Kanuri Lexicon | `kanuri-lexicon-beb22f5c` | [link](https://mozilladatacollective.com/datasets/cmuvj8h64005ko107pwsqx7jj) | ❌ |
 
 ## Schemas without a platform dataset
 
