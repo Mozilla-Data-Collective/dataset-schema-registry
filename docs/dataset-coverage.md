@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-06  
-**Total datasets in sitemap:** 1183  
+**Last updated:** 2026-10-07  
+**Total datasets in sitemap:** 1185  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 764 ❌  
+**Schemas missing:** 766 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1202,6 +1202,8 @@ data programmatically.
 | `cmut2t2wg02binv074906cueh` | Synthetic Javanese–Indonesian Conversational Speech | `synthetic-javanese-indonesian-conversati-ed6cac7a` | [link](https://mozilladatacollective.com/datasets/cmut2t2wg02binv074906cueh) | ❌ |
 | `cmuv814nm0040ns08kyzpnry4` | Ukrainian–Russian–Surzhyk Read Speech | `ukrainian-russian-surzhyk-read-speech-f2bb97e9` | [link](https://mozilladatacollective.com/datasets/cmuv814nm0040ns08kyzpnry4) | ❌ |
 | `cmuvj8h64005ko107pwsqx7jj` | Kanuri Lexicon | `kanuri-lexicon-beb22f5c` | [link](https://mozilladatacollective.com/datasets/cmuvj8h64005ko107pwsqx7jj) | ❌ |
+| `cmuwux5uv009b08o5bjtelh4s` | High quality TTS data for Javanese (OpenSLR 41) | `high-quality-tts-data-for-javanese-opens-dd9ac306` | [link](https://mozilladatacollective.com/datasets/cmuwux5uv009b08o5bjtelh4s) | ❌ |
+| `cmuwuxgta009d07mfzupkk4b0` | Large Javanese ASR training data set (OpenSLR 35), 8,000-utterance subset | `large-javanese-asr-training-data-set-ope-28458110` | [link](https://mozilladatacollective.com/datasets/cmuwuxgta009d07mfzupkk4b0) | ❌ |
 
 ## Schemas without a platform dataset
 

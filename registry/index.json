@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-06T05:16:55.871750+00:00",
+  "generated_at": "2026-10-07T05:18:01.043247+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1183,
+    "listed_datasets": 1185,
     "with_schema": 419,
-    "without_schema": 764,
+    "without_schema": 766,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -13032,6 +13032,28 @@
       "slug": "kanuri-lexicon-beb22f5c",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmuvj8h64005ko107pwsqx7jj",
       "lastmod": "2026-10-05T17:37:19.852Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuwux5uv009b08o5bjtelh4s",
+      "has_schema": false,
+      "listed": true,
+      "name": "High quality TTS data for Javanese (OpenSLR 41)",
+      "slug": "high-quality-tts-data-for-javanese-opens-dd9ac306",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuwux5uv009b08o5bjtelh4s",
+      "lastmod": "2026-10-06T15:52:13.543Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuwuxgta009d07mfzupkk4b0",
+      "has_schema": false,
+      "listed": true,
+      "name": "Large Javanese ASR training data set (OpenSLR 35), 8,000-utterance subset",
+      "slug": "large-javanese-asr-training-data-set-ope-28458110",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuwuxgta009d07mfzupkk4b0",
+      "lastmod": "2026-10-06T15:52:27.742Z",
       "schema_path": null,
       "schema_url": null
     }
