@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T06:11:17.137603+00:00",
-  "total": 1183,
+  "updated_at": "2026-10-07T05:17:47.555689+00:00",
+  "total": 1185,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8282,6 +8282,20 @@
       "lastmod": "2026-10-05T17:37:19.852Z",
       "name": "Kanuri Lexicon",
       "slug": "kanuri-lexicon-beb22f5c"
+    },
+    {
+      "id": "cmuwux5uv009b08o5bjtelh4s",
+      "url": "https://mozilladatacollective.com/datasets/cmuwux5uv009b08o5bjtelh4s",
+      "lastmod": "2026-10-06T15:52:13.543Z",
+      "name": "High quality TTS data for Javanese (OpenSLR 41)",
+      "slug": "high-quality-tts-data-for-javanese-opens-dd9ac306"
+    },
+    {
+      "id": "cmuwuxgta009d07mfzupkk4b0",
+      "url": "https://mozilladatacollective.com/datasets/cmuwuxgta009d07mfzupkk4b0",
+      "lastmod": "2026-10-06T15:52:27.742Z",
+      "name": "Large Javanese ASR training data set (OpenSLR 35), 8,000-utterance subset",
+      "slug": "large-javanese-asr-training-data-set-ope-28458110"
     }
   ]
 }
