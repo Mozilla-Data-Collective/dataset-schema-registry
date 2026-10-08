@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-07  
-**Total datasets in sitemap:** 1185  
+**Last updated:** 2026-10-08  
+**Total datasets in sitemap:** 1193  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 766 ❌  
+**Schemas missing:** 774 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1193,9 +1193,15 @@ data programmatically.
 | `cmul9a3f008diny07cluf265u` | Common Voice Scripted Speech 27.0 - Pashto | `common-voice-scripted-speech-27-0-pashto-428b54b8` | [link](https://mozilladatacollective.com/datasets/cmul9a3f008diny07cluf265u) | ✅ |
 | `cmumoqyzh0a3knl07ktk87b36` | Rohingya Hanifi–Rohingyalish–English Lexicon | `rohingya-hanifi-rohingyalish-english-lex-9328f3cf` | [link](https://mozilladatacollective.com/datasets/cmumoqyzh0a3knl07ktk87b36) | ❌ |
 | `cmumq51mj0aacny078eindv36` | ASR Javanese-Lumajang Dialect | `asr-javanese-lumajang-dialect-ad3d9448` | [link](https://mozilladatacollective.com/datasets/cmumq51mj0aacny078eindv36) | ❌ |
+| `cmunh938900s8nv07978b0bpo` | FHIBE Downsampled | `fhibe-downsampled-48b1efaf` | [link](https://mozilladatacollective.com/datasets/cmunh938900s8nv07978b0bpo) | ❌ |
 | `cmuo1rfsj01runn073id66vg7` | Central Kanuri Speech Dataset | `central-kanuri-speech-dataset-6dbd71d4` | [link](https://mozilladatacollective.com/datasets/cmuo1rfsj01runn073id66vg7) | ❌ |
 | `cmuppz5bm01s5mg067qo2b8x3` | 🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧 | `hitch-hiker-mirror-suit-robotics-data-ddedfb7a` | [link](https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3) | ❌ |
 | `cmuqxko7s007cnu06hmyin16s` | Italian female voice reading Italian Penal Code | `italian-female-voice-reading-italian-pen-2920cbae` | [link](https://mozilladatacollective.com/datasets/cmuqxko7s007cnu06hmyin16s) | ❌ |
+| `cmur3t40n00d2nv07fy3cnbrg` | FHIBE Downsampled Overlays | `fhibe-downsampled-overlays-1561d0a8` | [link](https://mozilladatacollective.com/datasets/cmur3t40n00d2nv07fy3cnbrg) | ❌ |
+| `cmur493eo00cenu06cebwn39k` | FHIBE Face Crop Align | `fhibe-face-crop-align-43c4c7c7` | [link](https://mozilladatacollective.com/datasets/cmur493eo00cenu06cebwn39k) | ❌ |
+| `cmur4skp600d3nu06ap864rnr` | FHIBE Face Crop Only | `fhibe-face-crop-only-8a3b8800` | [link](https://mozilladatacollective.com/datasets/cmur4skp600d3nu06ap864rnr) | ❌ |
+| `cmur4xkmm00e3nv073rtjriqo` | FHIBE Full Resolution | `fhibe-full-resolution-674a7dcf` | [link](https://mozilladatacollective.com/datasets/cmur4xkmm00e3nv073rtjriqo) | ❌ |
+| `cmur52dfr00e9nv07dx0i19dh` | FHIBE Metadata | `fhibe-metadata-195baec4` | [link](https://mozilladatacollective.com/datasets/cmur52dfr00e9nv07dx0i19dh) | ❌ |
 | `cmur9duso00hanu062i17f9j6` | Read Speech in Congolese Swahili (11h) | `read-speech-in-congolese-swahili-11h-4eeed9ee` | [link](https://mozilladatacollective.com/datasets/cmur9duso00hanu062i17f9j6) | ❌ |
 | `cmur9ejxo00henu06xdkexx23` | TICO-19 (Covid-domain) Speech – Congolese Swahili | `tico-19-covid-domain-speech-congolese-sw-d21ada76` | [link](https://mozilladatacollective.com/datasets/cmur9ejxo00henu06xdkexx23) | ❌ |
 | `cmur9gqs000henv07aonkl1sv` | MALOBA Lingala OCR transcriptions, harmonised text (v1.1) | `maloba-lingala-ocr-transcriptions-harmon-b7202647` | [link](https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv) | ❌ |
@@ -1204,6 +1210,8 @@ data programmatically.
 | `cmuvj8h64005ko107pwsqx7jj` | Kanuri Lexicon | `kanuri-lexicon-beb22f5c` | [link](https://mozilladatacollective.com/datasets/cmuvj8h64005ko107pwsqx7jj) | ❌ |
 | `cmuwux5uv009b08o5bjtelh4s` | High quality TTS data for Javanese (OpenSLR 41) | `high-quality-tts-data-for-javanese-opens-dd9ac306` | [link](https://mozilladatacollective.com/datasets/cmuwux5uv009b08o5bjtelh4s) | ❌ |
 | `cmuwuxgta009d07mfzupkk4b0` | Large Javanese ASR training data set (OpenSLR 35), 8,000-utterance subset | `large-javanese-asr-training-data-set-ope-28458110` | [link](https://mozilladatacollective.com/datasets/cmuwuxgta009d07mfzupkk4b0) | ❌ |
+| `cmuy24yjx00vo07mf3azmkkf2` | Synthetic Spanish–English Code-Switching Speech (DS-3) | `synthetic-spanish-english-code-switching-ac671005` | [link](https://mozilladatacollective.com/datasets/cmuy24yjx00vo07mf3azmkkf2) | ❌ |
+| `cmuylmkry00b807ny9w6h78x8` | Faculty Atlas: US Faculty Job Postings (2026-10-01) | `faculty-atlas-us-faculty-job-postings-20-b35f9b88` | [link](https://mozilladatacollective.com/datasets/cmuylmkry00b807ny9w6h78x8) | ❌ |
 
 ## Schemas without a platform dataset
 
