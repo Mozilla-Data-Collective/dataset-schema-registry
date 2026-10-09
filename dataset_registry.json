@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T06:11:30.780559+00:00",
-  "total": 1193,
+  "updated_at": "2026-10-09T05:18:20.408479+00:00",
+  "total": 1197,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8352,6 +8352,34 @@
       "lastmod": "2026-10-07T21:07:35.470Z",
       "name": "Faculty Atlas: US Faculty Job Postings (2026-10-01)",
       "slug": "faculty-atlas-us-faculty-job-postings-20-b35f9b88"
+    },
+    {
+      "id": "cmuzpqhlt003h07o1lfzsoye0",
+      "url": "https://mozilladatacollective.com/datasets/cmuzpqhlt003h07o1lfzsoye0",
+      "lastmod": "2026-10-08T15:50:22.625Z",
+      "name": "Yaayuwee Gbaya Medicinal Plants 18",
+      "slug": "yaayuwee-gbaya-medicinal-plants-18-d23643b4"
+    },
+    {
+      "id": "cmuzrhfbd006l07nxoe3inrzq",
+      "url": "https://mozilladatacollective.com/datasets/cmuzrhfbd006l07nxoe3inrzq",
+      "lastmod": "2026-10-08T17:32:32.840Z",
+      "name": "Pashto Audio-Visual Speech Corpus",
+      "slug": "pashto-audio-visual-speech-corpus-647156b6"
+    },
+    {
+      "id": "cmuzsrkif007m07nxz97doh8l",
+      "url": "https://mozilladatacollective.com/datasets/cmuzsrkif007m07nxz97doh8l",
+      "lastmod": "2026-10-08T17:15:11.895Z",
+      "name": "UyghurDF",
+      "slug": "uyghurdf-c7c24b42"
+    },
+    {
+      "id": "cmuzv3veu00a207nxe6lb3gxd",
+      "url": "https://mozilladatacollective.com/datasets/cmuzv3veu00a207nxe6lb3gxd",
+      "lastmod": "2026-10-08T18:20:45.126Z",
+      "name": "IDN - Spanish Corpus Learner",
+      "slug": "idn-spanish-corpus-learner-27e2ada4"
     }
   ]
 }
