@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-08  
-**Total datasets in sitemap:** 1193  
+**Last updated:** 2026-10-09  
+**Total datasets in sitemap:** 1197  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 774 ❌  
+**Schemas missing:** 778 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1212,6 +1212,10 @@ data programmatically.
 | `cmuwuxgta009d07mfzupkk4b0` | Large Javanese ASR training data set (OpenSLR 35), 8,000-utterance subset | `large-javanese-asr-training-data-set-ope-28458110` | [link](https://mozilladatacollective.com/datasets/cmuwuxgta009d07mfzupkk4b0) | ❌ |
 | `cmuy24yjx00vo07mf3azmkkf2` | Synthetic Spanish–English Code-Switching Speech (DS-3) | `synthetic-spanish-english-code-switching-ac671005` | [link](https://mozilladatacollective.com/datasets/cmuy24yjx00vo07mf3azmkkf2) | ❌ |
 | `cmuylmkry00b807ny9w6h78x8` | Faculty Atlas: US Faculty Job Postings (2026-10-01) | `faculty-atlas-us-faculty-job-postings-20-b35f9b88` | [link](https://mozilladatacollective.com/datasets/cmuylmkry00b807ny9w6h78x8) | ❌ |
+| `cmuzpqhlt003h07o1lfzsoye0` | Yaayuwee Gbaya Medicinal Plants 18 | `yaayuwee-gbaya-medicinal-plants-18-d23643b4` | [link](https://mozilladatacollective.com/datasets/cmuzpqhlt003h07o1lfzsoye0) | ❌ |
+| `cmuzrhfbd006l07nxoe3inrzq` | Pashto Audio-Visual Speech Corpus | `pashto-audio-visual-speech-corpus-647156b6` | [link](https://mozilladatacollective.com/datasets/cmuzrhfbd006l07nxoe3inrzq) | ❌ |
+| `cmuzsrkif007m07nxz97doh8l` | UyghurDF | `uyghurdf-c7c24b42` | [link](https://mozilladatacollective.com/datasets/cmuzsrkif007m07nxz97doh8l) | ❌ |
+| `cmuzv3veu00a207nxe6lb3gxd` | IDN - Spanish Corpus Learner | `idn-spanish-corpus-learner-27e2ada4` | [link](https://mozilladatacollective.com/datasets/cmuzv3veu00a207nxe6lb3gxd) | ❌ |
 
 ## Schemas without a platform dataset
 

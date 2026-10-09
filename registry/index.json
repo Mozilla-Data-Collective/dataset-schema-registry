@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-08T05:18:32.355386+00:00",
+  "generated_at": "2026-10-09T05:18:32.871647+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1193,
+    "listed_datasets": 1197,
     "with_schema": 419,
-    "without_schema": 774,
+    "without_schema": 778,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -13142,6 +13142,50 @@
       "slug": "faculty-atlas-us-faculty-job-postings-20-b35f9b88",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmuylmkry00b807ny9w6h78x8",
       "lastmod": "2026-10-07T21:07:35.470Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuzpqhlt003h07o1lfzsoye0",
+      "has_schema": false,
+      "listed": true,
+      "name": "Yaayuwee Gbaya Medicinal Plants 18",
+      "slug": "yaayuwee-gbaya-medicinal-plants-18-d23643b4",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuzpqhlt003h07o1lfzsoye0",
+      "lastmod": "2026-10-08T15:50:22.625Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuzrhfbd006l07nxoe3inrzq",
+      "has_schema": false,
+      "listed": true,
+      "name": "Pashto Audio-Visual Speech Corpus",
+      "slug": "pashto-audio-visual-speech-corpus-647156b6",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuzrhfbd006l07nxoe3inrzq",
+      "lastmod": "2026-10-08T17:32:32.840Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuzsrkif007m07nxz97doh8l",
+      "has_schema": false,
+      "listed": true,
+      "name": "UyghurDF",
+      "slug": "uyghurdf-c7c24b42",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuzsrkif007m07nxz97doh8l",
+      "lastmod": "2026-10-08T17:15:11.895Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmuzv3veu00a207nxe6lb3gxd",
+      "has_schema": false,
+      "listed": true,
+      "name": "IDN - Spanish Corpus Learner",
+      "slug": "idn-spanish-corpus-learner-27e2ada4",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmuzv3veu00a207nxe6lb3gxd",
+      "lastmod": "2026-10-08T18:20:45.126Z",
       "schema_path": null,
       "schema_url": null
     }
