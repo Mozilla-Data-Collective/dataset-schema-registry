@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-09  
+**Last updated:** 2026-10-10  
 **Total datasets in sitemap:** 1197  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 778 ❌  
@@ -134,7 +134,7 @@ data programmatically.
 | `cml16bz8v008pnt07scfh66p5` | Bamun-French Parallel Corpus 1.1 | `bamun-french-parallel-corpus-1-1-64fe9ff1` | [link](https://mozilladatacollective.com/datasets/cml16bz8v008pnt07scfh66p5) | ❌ |
 | `cml16fpkn009lnt07ht6k406o` | Ewondo-TTS-Dataset | `ewondo-tts-dataset-ef07a0de` | [link](https://mozilladatacollective.com/datasets/cml16fpkn009lnt07ht6k406o) | ❌ |
 | `cml5asbhf009sme079y6sa9hm` | Adamawa Fulfulde-French Parallel Corpus of Narratives 1.2 | `adamawa-fulfulde-french-parallel-corpus-748952a3` | [link](https://mozilladatacollective.com/datasets/cml5asbhf009sme079y6sa9hm) | ❌ |
-| `cml5bgysg00bhkr07g23kewke` | TTS Javanese-Lumajang Dialect | `tts-javanese-lumajang-dialect-ec830842` | [link](https://mozilladatacollective.com/datasets/cml5bgysg00bhkr07g23kewke) | ❌ |
+| `cml5bgysg00bhkr07g23kewke` | TTS Javanese-Lumajang Dialect | `tts-javanese-lumajang-dialect-eb3fef81` | [link](https://mozilladatacollective.com/datasets/cml5bgysg00bhkr07g23kewke) | ❌ |
 | `cml5bn4k900aame07u0rwidcg` | TTS Central Javanese  | `tts-central-javanese-cbbe9391` | [link](https://mozilladatacollective.com/datasets/cml5bn4k900aame07u0rwidcg) | ❌ |
 | `cml5e30pd00eskr072e6a4rrh` | Mandar Spontaneous Speech | `mandar-spontaneous-speech-05a6e755` | [link](https://mozilladatacollective.com/datasets/cml5e30pd00eskr072e6a4rrh) | ❌ |
 | `cml6ywgg0007xmn07ppq469gt` | TTS-Tolaki | `tts-tolaki-d48cdaf8` | [link](https://mozilladatacollective.com/datasets/cml6ywgg0007xmn07ppq469gt) | ❌ |
@@ -730,7 +730,7 @@ data programmatically.
 | `cmtr7ro9005brny071h9p44a4` | A Balengou Sociocultural Dataset | `a-balengou-sociocultural-dataset-c2907c6b` | [link](https://mozilladatacollective.com/datasets/cmtr7ro9005brny071h9p44a4) | ❌ |
 | `cmtr89f6505ilo107jwdqu6zg` | IndoLearner-English Speech Corpus | `indolearner-english-speech-corpus-73cbf15b` | [link](https://mozilladatacollective.com/datasets/cmtr89f6505ilo107jwdqu6zg) | ❌ |
 | `cmtr89ry305csny07rrpxqe9d` | Purworejo Dialect-Javanese Speech Corpus | `purworejo-dialect-javanese-speech-corpus-f3b63b78` | [link](https://mozilladatacollective.com/datasets/cmtr89ry305csny07rrpxqe9d) | ❌ |
-| `cmtr89wzw05ipo1070irq2q9j` | Indonesian Lip-Record Multimodal Corpus | `indonesian-lip-record-multimodal-corpus-9db78ccd` | [link](https://mozilladatacollective.com/datasets/cmtr89wzw05ipo1070irq2q9j) | ❌ |
+| `cmtr89wzw05ipo1070irq2q9j` | Indonesian Lip-Record Multimodal Corpus | `indonesian-lip-record-multimodal-corpus-6ed198d5` | [link](https://mozilladatacollective.com/datasets/cmtr89wzw05ipo1070irq2q9j) | ❌ |
 | `cmtr8a2r205ito107axtrlbuy` | Speech Corpus of Indonesian Lip-Record | `speech-corpus-of-indonesian-lip-record-10a2d3dd` | [link](https://mozilladatacollective.com/datasets/cmtr8a2r205ito107axtrlbuy) | ❌ |
 | `cmtr8a84t05cwny0781bspmv1` | A Fombo Sociocultural Dataset | `a-fombo-sociocultural-dataset-b0099a05` | [link](https://mozilladatacollective.com/datasets/cmtr8a84t05cwny0781bspmv1) | ❌ |
 | `cmtr8adh505ixo107x4wbbl4t` | A Mvumbo Sociocultural Dataset | `a-mvumbo-sociocultural-dataset-6c6102ea` | [link](https://mozilladatacollective.com/datasets/cmtr8adh505ixo107x4wbbl4t) | ❌ |

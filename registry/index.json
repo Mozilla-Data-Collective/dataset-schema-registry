@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-09T05:18:32.871647+00:00",
+  "generated_at": "2026-10-10T05:16:02.733649+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -1292,9 +1292,9 @@
       "has_schema": false,
       "listed": true,
       "name": "TTS Javanese-Lumajang Dialect",
-      "slug": "tts-javanese-lumajang-dialect-ec830842",
+      "slug": "tts-javanese-lumajang-dialect-eb3fef81",
       "dataset_url": "https://mozilladatacollective.com/datasets/cml5bgysg00bhkr07g23kewke",
-      "lastmod": "2026-08-28T12:10:29.983Z",
+      "lastmod": "2026-10-10T01:51:48.249Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -7848,9 +7848,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Indonesian Lip-Record Multimodal Corpus",
-      "slug": "indonesian-lip-record-multimodal-corpus-9db78ccd",
+      "slug": "indonesian-lip-record-multimodal-corpus-6ed198d5",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmtr89wzw05ipo1070irq2q9j",
-      "lastmod": "2026-09-07T12:39:44.204Z",
+      "lastmod": "2026-10-10T01:52:25.033Z",
       "schema_path": null,
       "schema_url": null
     },
