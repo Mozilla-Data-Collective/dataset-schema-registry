@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T06:11:26.114082+00:00",
+  "updated_at": "2026-10-10T05:15:50.181323+00:00",
   "total": 1197,
   "datasets": [
     {
@@ -810,9 +810,9 @@
     {
       "id": "cml5bgysg00bhkr07g23kewke",
       "url": "https://mozilladatacollective.com/datasets/cml5bgysg00bhkr07g23kewke",
-      "lastmod": "2026-08-28T12:10:29.983Z",
+      "lastmod": "2026-10-10T01:51:48.249Z",
       "name": "TTS Javanese-Lumajang Dialect",
-      "slug": "tts-javanese-lumajang-dialect-ec830842"
+      "slug": "tts-javanese-lumajang-dialect-eb3fef81"
     },
     {
       "id": "cml5bn4k900aame07u0rwidcg",
@@ -4982,9 +4982,9 @@
     {
       "id": "cmtr89wzw05ipo1070irq2q9j",
       "url": "https://mozilladatacollective.com/datasets/cmtr89wzw05ipo1070irq2q9j",
-      "lastmod": "2026-09-07T12:39:44.204Z",
+      "lastmod": "2026-10-10T01:52:25.033Z",
       "name": "Indonesian Lip-Record Multimodal Corpus",
-      "slug": "indonesian-lip-record-multimodal-corpus-9db78ccd"
+      "slug": "indonesian-lip-record-multimodal-corpus-6ed198d5"
     },
     {
       "id": "cmtr8a2r205ito107axtrlbuy",
