@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T06:17:58.941374+00:00",
-  "total": 1197,
+  "updated_at": "2026-10-13T05:19:57.595836+00:00",
+  "total": 1200,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -3554,9 +3554,9 @@
     {
       "id": "cmr0mlgjp01bimk07xkdw256s",
       "url": "https://mozilladatacollective.com/datasets/cmr0mlgjp01bimk07xkdw256s",
-      "lastmod": "2026-09-30T18:56:00.280Z",
+      "lastmod": "2026-10-12T15:01:38.736Z",
       "name": "Neapolitan TTS - male voice",
-      "slug": "neapolitan-tts-male-voice-65ca5968"
+      "slug": "neapolitan-tts-male-voice-f312134b"
     },
     {
       "id": "cmr0mng9z01bsmk07cuqltz81",
@@ -8380,6 +8380,27 @@
       "lastmod": "2026-10-08T18:20:45.126Z",
       "name": "IDN - Spanish Corpus Learner",
       "slug": "idn-spanish-corpus-learner-27e2ada4"
+    },
+    {
+      "id": "cmv5ejv7r004j07nw0msaehaq",
+      "url": "https://mozilladatacollective.com/datasets/cmv5ejv7r004j07nw0msaehaq",
+      "lastmod": "2026-10-12T15:23:54.951Z",
+      "name": "MALOBA French-Lingala translation pairs (h2)",
+      "slug": "maloba-french-lingala-translation-pairs-fc44b3fd"
+    },
+    {
+      "id": "cmv5enx99004707ntkne42vaq",
+      "url": "https://mozilladatacollective.com/datasets/cmv5enx99004707ntkne42vaq",
+      "lastmod": "2026-10-12T15:27:04.221Z",
+      "name": "Hausa Multispeaker Read Speech (6.7h)",
+      "slug": "hausa-multispeaker-read-speech-6-7h-514c6df6"
+    },
+    {
+      "id": "cmv5jm2au001q08nwtvj2f4bq",
+      "url": "https://mozilladatacollective.com/datasets/cmv5jm2au001q08nwtvj2f4bq",
+      "lastmod": "2026-10-12T17:45:35.526Z",
+      "name": "MALOBA Lingala Speech Corpus (ASR), v3.2",
+      "slug": "maloba-lingala-speech-corpus-asr-v3-2-4cbeef47"
     }
   ]
 }
