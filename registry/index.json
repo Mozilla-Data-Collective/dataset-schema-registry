@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-10T05:16:02.733649+00:00",
+  "generated_at": "2026-10-13T05:20:10.026825+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1197,
+    "listed_datasets": 1200,
     "with_schema": 419,
-    "without_schema": 778,
+    "without_schema": 781,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -5604,9 +5604,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Neapolitan TTS - male voice",
-      "slug": "neapolitan-tts-male-voice-65ca5968",
+      "slug": "neapolitan-tts-male-voice-f312134b",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmr0mlgjp01bimk07xkdw256s",
-      "lastmod": "2026-09-30T18:56:00.280Z",
+      "lastmod": "2026-10-12T15:01:38.736Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13186,6 +13186,39 @@
       "slug": "idn-spanish-corpus-learner-27e2ada4",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmuzv3veu00a207nxe6lb3gxd",
       "lastmod": "2026-10-08T18:20:45.126Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmv5ejv7r004j07nw0msaehaq",
+      "has_schema": false,
+      "listed": true,
+      "name": "MALOBA French-Lingala translation pairs (h2)",
+      "slug": "maloba-french-lingala-translation-pairs-fc44b3fd",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmv5ejv7r004j07nw0msaehaq",
+      "lastmod": "2026-10-12T15:23:54.951Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmv5enx99004707ntkne42vaq",
+      "has_schema": false,
+      "listed": true,
+      "name": "Hausa Multispeaker Read Speech (6.7h)",
+      "slug": "hausa-multispeaker-read-speech-6-7h-514c6df6",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmv5enx99004707ntkne42vaq",
+      "lastmod": "2026-10-12T15:27:04.221Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmv5jm2au001q08nwtvj2f4bq",
+      "has_schema": false,
+      "listed": true,
+      "name": "MALOBA Lingala Speech Corpus (ASR), v3.2",
+      "slug": "maloba-lingala-speech-corpus-asr-v3-2-4cbeef47",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmv5jm2au001q08nwtvj2f4bq",
+      "lastmod": "2026-10-12T17:45:35.526Z",
       "schema_path": null,
       "schema_url": null
     }

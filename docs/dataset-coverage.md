@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-10  
-**Total datasets in sitemap:** 1197  
+**Last updated:** 2026-10-13  
+**Total datasets in sitemap:** 1200  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 778 ❌  
+**Schemas missing:** 781 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -526,7 +526,7 @@ data programmatically.
 | `cmqzgucgt009vmk070046obup` | LezizNet - Turkish food images | `leziznet-turkish-food-images-9e450f4d` | [link](https://mozilladatacollective.com/datasets/cmqzgucgt009vmk070046obup) | ❌ |
 | `cmqzs3yig00eens07hehnewvf` | Tequila Zongolica Nahuatl ASR Dataset | `tequila-zongolica-nahuatl-asr-dataset-e2161304` | [link](https://mozilladatacollective.com/datasets/cmqzs3yig00eens07hehnewvf) | ❌ |
 | `cmr0mhm4l01agns077lq6a5hf` | Ligurian TTS - female voice | `ligurian-tts-female-voice-4d2caa0c` | [link](https://mozilladatacollective.com/datasets/cmr0mhm4l01agns077lq6a5hf) | ❌ |
-| `cmr0mlgjp01bimk07xkdw256s` | Neapolitan TTS - male voice | `neapolitan-tts-male-voice-65ca5968` | [link](https://mozilladatacollective.com/datasets/cmr0mlgjp01bimk07xkdw256s) | ❌ |
+| `cmr0mlgjp01bimk07xkdw256s` | Neapolitan TTS - male voice | `neapolitan-tts-male-voice-f312134b` | [link](https://mozilladatacollective.com/datasets/cmr0mlgjp01bimk07xkdw256s) | ❌ |
 | `cmr0mng9z01bsmk07cuqltz81` | Prompsit D1 - Inline Asset Integrity | `prompsit-d1-inline-asset-integrity-9f282b10` | [link](https://mozilladatacollective.com/datasets/cmr0mng9z01bsmk07cuqltz81) | ❌ |
 | `cmr0mnoo201bwmk07nh4yc04u` | Prompsit D2 - Locale-data Integrity | `prompsit-d2-locale-data-integrity-e6ab4ffb` | [link](https://mozilladatacollective.com/datasets/cmr0mnoo201bwmk07nh4yc04u) | ❌ |
 | `cmr0mny2b01asns073985z0va` | Prompsit D3 - Structured-resource Integrity | `prompsit-d3-structured-resource-integrit-a252ae04` | [link](https://mozilladatacollective.com/datasets/cmr0mny2b01asns073985z0va) | ❌ |
@@ -1216,6 +1216,9 @@ data programmatically.
 | `cmuzrhfbd006l07nxoe3inrzq` | Pashto Audio-Visual Speech Corpus | `pashto-audio-visual-speech-corpus-647156b6` | [link](https://mozilladatacollective.com/datasets/cmuzrhfbd006l07nxoe3inrzq) | ❌ |
 | `cmuzsrkif007m07nxz97doh8l` | UyghurDF | `uyghurdf-c7c24b42` | [link](https://mozilladatacollective.com/datasets/cmuzsrkif007m07nxz97doh8l) | ❌ |
 | `cmuzv3veu00a207nxe6lb3gxd` | IDN - Spanish Corpus Learner | `idn-spanish-corpus-learner-27e2ada4` | [link](https://mozilladatacollective.com/datasets/cmuzv3veu00a207nxe6lb3gxd) | ❌ |
+| `cmv5ejv7r004j07nw0msaehaq` | MALOBA French-Lingala translation pairs (h2) | `maloba-french-lingala-translation-pairs-fc44b3fd` | [link](https://mozilladatacollective.com/datasets/cmv5ejv7r004j07nw0msaehaq) | ❌ |
+| `cmv5enx99004707ntkne42vaq` | Hausa Multispeaker Read Speech (6.7h) | `hausa-multispeaker-read-speech-6-7h-514c6df6` | [link](https://mozilladatacollective.com/datasets/cmv5enx99004707ntkne42vaq) | ❌ |
+| `cmv5jm2au001q08nwtvj2f4bq` | MALOBA Lingala Speech Corpus (ASR), v3.2 | `maloba-lingala-speech-corpus-asr-v3-2-4cbeef47` | [link](https://mozilladatacollective.com/datasets/cmv5jm2au001q08nwtvj2f4bq) | ❌ |
 
 ## Schemas without a platform dataset
 
