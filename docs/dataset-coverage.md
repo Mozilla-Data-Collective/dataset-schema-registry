@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-13  
+**Last updated:** 2026-10-15  
 **Total datasets in sitemap:** 1200  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 781 ❌  
@@ -439,7 +439,7 @@ data programmatically.
 | `cmpzkqaqu0065nv070bdv5hfj` | TermOfis terminology database Breton-French | `termofis-terminology-database-breton-fre-bef3c0e5` | [link](https://mozilladatacollective.com/datasets/cmpzkqaqu0065nv070bdv5hfj) | ❌ |
 | `cmq16k8qa01bvnr07i2x92yry` | Brazilian Sign Language (Libras) Healthcare Corpus (Non Commercial) | `brazilian-sign-language-libras-healthcar-d400cf18` | [link](https://mozilladatacollective.com/datasets/cmq16k8qa01bvnr07i2x92yry) | ❌ |
 | `cmq5ga41w007xmg07i73vv0j0` | CoVoST 2 English - Mongolian | `covost-2-english-mongolian-ae5954b4` | [link](https://mozilladatacollective.com/datasets/cmq5ga41w007xmg07i73vv0j0) | ❌ |
-| `cmq6q6tjz0195o3078oodsoeu` | AIRI AI4TALK Meadow Mari-Russian Translation | `airi-ai4talk-meadow-mari-russian-transla-c20ca463` | [link](https://mozilladatacollective.com/datasets/cmq6q6tjz0195o3078oodsoeu) | ❌ |
+| `cmq6q6tjz0195o3078oodsoeu` | AIRI AI4TALK Meadow Mari-Russian Translation | `airi-ai4talk-meadow-mari-russian-transla-dd0c744c` | [link](https://mozilladatacollective.com/datasets/cmq6q6tjz0195o3078oodsoeu) | ❌ |
 | `cmq80dcwp00xrl20740m9o1k5` | Public Company Federal Compliance Records — Q3 2026 | `public-company-federal-compliance-record-e28404f3` | [link](https://mozilladatacollective.com/datasets/cmq80dcwp00xrl20740m9o1k5) | ❌ |
 | `cmq820k3b010cl2074kdxjsj3` | Hindi Literature & News Corpus | `hindi-literature-news-corpus-f98b1374` | [link](https://mozilladatacollective.com/datasets/cmq820k3b010cl2074kdxjsj3) | ❌ |
 | `cmq822h8z011mmk075b4mxi6t` | Tamil Literature Corpus | `tamil-literature-corpus-8aa31bc7` | [link](https://mozilladatacollective.com/datasets/cmq822h8z011mmk075b4mxi6t) | ❌ |
@@ -447,8 +447,8 @@ data programmatically.
 | `cmq82rl5i012ymk07yii2lzya` | Afaan Oromoo-TTS-Dataset | `afaan-oromoo-tts-dataset-b47c9c48` | [link](https://mozilladatacollective.com/datasets/cmq82rl5i012ymk07yii2lzya) | ❌ |
 | `cmq83jqac0141mk07gpu4vit2` | Ghomala-MultimodalDataset | `ghomala-multimodaldataset-41aae2c7` | [link](https://mozilladatacollective.com/datasets/cmq83jqac0141mk07gpu4vit2) | ❌ |
 | `cmq83m9h00145mk07g2kanq2s` | Sample Dagbani-TTS-Dataset | `sample-dagbani-tts-dataset-50430a6a` | [link](https://mozilladatacollective.com/datasets/cmq83m9h00145mk07g2kanq2s) | ❌ |
-| `cmq8fbsco01i5l207zvaorg0m` | AIRI AI4TALK Khakas-Russian Translation | `airi-ai4talk-khakas-russian-translation-1be0c384` | [link](https://mozilladatacollective.com/datasets/cmq8fbsco01i5l207zvaorg0m) | ❌ |
-| `cmq9hfevy02j3l207h80wyon8` | AIRI AI4TALK Meadow Mari ASR | `airi-ai4talk-meadow-mari-asr-b00cb00d` | [link](https://mozilladatacollective.com/datasets/cmq9hfevy02j3l207h80wyon8) | ❌ |
+| `cmq8fbsco01i5l207zvaorg0m` | AIRI AI4TALK Khakas-Russian Translation | `airi-ai4talk-khakas-russian-translation-3866347a` | [link](https://mozilladatacollective.com/datasets/cmq8fbsco01i5l207zvaorg0m) | ❌ |
+| `cmq9hfevy02j3l207h80wyon8` | AIRI AI4TALK Meadow Mari ASR | `airi-ai4talk-meadow-mari-asr-44f74bdf` | [link](https://mozilladatacollective.com/datasets/cmq9hfevy02j3l207h80wyon8) | ❌ |
 | `cmq9hqu3k02jbl2074u0yvk2i` | Bulu-ASR-Dataset | `bulu-asr-dataset-8aff566d` | [link](https://mozilladatacollective.com/datasets/cmq9hqu3k02jbl2074u0yvk2i) | ❌ |
 | `cmq9htcx402gbmk07g00d1u67` | Batanga-ALCAM-MultimodalDataset | `batanga-alcam-multimodaldataset-ed1009ee` | [link](https://mozilladatacollective.com/datasets/cmq9htcx402gbmk07g00d1u67) | ❌ |
 | `cmq9hwfbr02gfmk07m1jgvwje` | Basaa-ASR-Dataset | `basaa-asr-dataset-dd3e2174` | [link](https://mozilladatacollective.com/datasets/cmq9hwfbr02gfmk07m1jgvwje) | ❌ |
@@ -507,7 +507,7 @@ data programmatically.
 | `cmqoxh2ej0470nr07fd8ndmnu` | StackOverflow Vector Dataset - Python | `stackoverflow-vector-dataset-python-d4e9e70e` | [link](https://mozilladatacollective.com/datasets/cmqoxh2ej0470nr07fd8ndmnu) | ❌ |
 | `cmqoxhgnj04ilmm07zo4l05g4` | StackOverflow Vector Dataset - Prolog | `stackoverflow-vector-dataset-prolog-8160bb5f` | [link](https://mozilladatacollective.com/datasets/cmqoxhgnj04ilmm07zo4l05g4) | ❌ |
 | `cmqoxho3d0474nr073c9xzind` | StackOverflow Vector Dataset - Powershell | `stackoverflow-vector-dataset-powershell-7a3afb48` | [link](https://mozilladatacollective.com/datasets/cmqoxho3d0474nr073c9xzind) | ❌ |
-| `cmqqcarob05pymm07c3u3jhoj` | AIRI AI4TALK Evenki-Russian Translation | `airi-ai4talk-evenki-russian-translation-37e4547d` | [link](https://mozilladatacollective.com/datasets/cmqqcarob05pymm07c3u3jhoj) | ❌ |
+| `cmqqcarob05pymm07c3u3jhoj` | AIRI AI4TALK Evenki-Russian Translation | `airi-ai4talk-evenki-russian-translation-92317432` | [link](https://mozilladatacollective.com/datasets/cmqqcarob05pymm07c3u3jhoj) | ❌ |
 | `cmqqsong506h9mm07z7cgqxvh` | StackOverflow Vector Dataset - Java | `stackoverflow-vector-dataset-java-2c8229ea` | [link](https://mozilladatacollective.com/datasets/cmqqsong506h9mm07z7cgqxvh) | ❌ |
 | `cmqqsrs8i063pnr073a185hhu` | StackOverflow Vector Dataset - Dart | `stackoverflow-vector-dataset-dart-6743b86e` | [link](https://mozilladatacollective.com/datasets/cmqqsrs8i063pnr073a185hhu) | ❌ |
 | `cmqqt9r2f064fnr07rk65sz6y` | StackOverflow Vector Dataset - CSS | `stackoverflow-vector-dataset-css-e9f18e62` | [link](https://mozilladatacollective.com/datasets/cmqqt9r2f064fnr07rk65sz6y) | ❌ |
@@ -521,7 +521,7 @@ data programmatically.
 | `cmqt5v7bp0886mm07qd5mdxta` | RAPNIC - Catalan Impaired Speech (Example Set) | `rapnic-catalan-impaired-speech-example-s-8b8ddf8b` | [link](https://mozilladatacollective.com/datasets/cmqt5v7bp0886mm07qd5mdxta) | ❌ |
 | `cmqt5xc4l07xwnr07l227et8j` | Corpus paralelo multimodal Lengua de Señas Mexicana – Español MX | `corpus-paralelo-multimodal-lengua-de-se-314fd89f` | [link](https://mozilladatacollective.com/datasets/cmqt5xc4l07xwnr07l227et8j) | ❌ |
 | `cmqtketrh08dqnr07c30po7zb` | Burushaski-English Speech Translation Corpus | `burushaski-english-speech-translation-co-831896e3` | [link](https://mozilladatacollective.com/datasets/cmqtketrh08dqnr07c30po7zb) | ❌ |
-| `cmqtkf6or08dunr07swj2r555` | AIRI AI4TALK Evenki ASR | `airi-ai4talk-evenki-asr-0cdc6f35` | [link](https://mozilladatacollective.com/datasets/cmqtkf6or08dunr07swj2r555) | ❌ |
+| `cmqtkf6or08dunr07swj2r555` | AIRI AI4TALK Evenki ASR | `airi-ai4talk-evenki-asr-8b0aad52` | [link](https://mozilladatacollective.com/datasets/cmqtkf6or08dunr07swj2r555) | ❌ |
 | `cmqz8qad200hzmp070fvxru9n` | Ladino TTS Corpus | `ladino-tts-corpus-6f8cbd72` | [link](https://mozilladatacollective.com/datasets/cmqz8qad200hzmp070fvxru9n) | ❌ |
 | `cmqzgucgt009vmk070046obup` | LezizNet - Turkish food images | `leziznet-turkish-food-images-9e450f4d` | [link](https://mozilladatacollective.com/datasets/cmqzgucgt009vmk070046obup) | ❌ |
 | `cmqzs3yig00eens07hehnewvf` | Tequila Zongolica Nahuatl ASR Dataset | `tequila-zongolica-nahuatl-asr-dataset-e2161304` | [link](https://mozilladatacollective.com/datasets/cmqzs3yig00eens07hehnewvf) | ❌ |

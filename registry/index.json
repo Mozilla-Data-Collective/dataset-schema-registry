@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-13T05:20:10.026825+00:00",
+  "generated_at": "2026-10-15T05:16:05.853753+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -4647,9 +4647,9 @@
       "has_schema": false,
       "listed": true,
       "name": "AIRI AI4TALK Meadow Mari-Russian Translation",
-      "slug": "airi-ai4talk-meadow-mari-russian-transla-c20ca463",
+      "slug": "airi-ai4talk-meadow-mari-russian-transla-dd0c744c",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmq6q6tjz0195o3078oodsoeu",
-      "lastmod": "2026-06-09T14:18:56.160Z",
+      "lastmod": "2026-10-14T09:24:38.829Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4735,9 +4735,9 @@
       "has_schema": false,
       "listed": true,
       "name": "AIRI AI4TALK Khakas-Russian Translation",
-      "slug": "airi-ai4talk-khakas-russian-translation-1be0c384",
+      "slug": "airi-ai4talk-khakas-russian-translation-3866347a",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmq8fbsco01i5l207zvaorg0m",
-      "lastmod": "2026-06-10T18:50:24.457Z",
+      "lastmod": "2026-10-14T09:24:33.193Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4746,9 +4746,9 @@
       "has_schema": false,
       "listed": true,
       "name": "AIRI AI4TALK Meadow Mari ASR",
-      "slug": "airi-ai4talk-meadow-mari-asr-b00cb00d",
+      "slug": "airi-ai4talk-meadow-mari-asr-44f74bdf",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmq9hfevy02j3l207h80wyon8",
-      "lastmod": "2026-06-11T13:36:00.679Z",
+      "lastmod": "2026-10-14T09:24:10.210Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -5395,9 +5395,9 @@
       "has_schema": false,
       "listed": true,
       "name": "AIRI AI4TALK Evenki-Russian Translation",
-      "slug": "airi-ai4talk-evenki-russian-translation-37e4547d",
+      "slug": "airi-ai4talk-evenki-russian-translation-92317432",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmqqcarob05pymm07c3u3jhoj",
-      "lastmod": "2026-06-23T07:45:29.243Z",
+      "lastmod": "2026-10-14T09:24:26.862Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -5549,9 +5549,9 @@
       "has_schema": false,
       "listed": true,
       "name": "AIRI AI4TALK Evenki ASR",
-      "slug": "airi-ai4talk-evenki-asr-0cdc6f35",
+      "slug": "airi-ai4talk-evenki-asr-8b0aad52",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmqtkf6or08dunr07swj2r555",
-      "lastmod": "2026-06-25T13:56:10.780Z",
+      "lastmod": "2026-10-14T09:24:19.368Z",
       "schema_path": null,
       "schema_url": null
     },
