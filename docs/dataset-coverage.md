@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-15  
+**Last updated:** 2026-10-16  
 **Total datasets in sitemap:** 1200  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 781 ❌  
@@ -182,7 +182,7 @@ data programmatically.
 | `cmm4ddcsx00npmh07hxmlax2b` | Thorsten-Voice Dataset 2023.09 Hessisch | `thorsten-voice-dataset-2023-09-hessisch-c003eb5c` | [link](https://mozilladatacollective.com/datasets/cmm4ddcsx00npmh07hxmlax2b) | ❌ |
 | `cmm4de9w500ntmh073nx14k7p` | Thorsten-Voice-44kHz-Full | `thorsten-voice-44khz-full-ded7f701` | [link](https://mozilladatacollective.com/datasets/cmm4de9w500ntmh073nx14k7p) | ❌ |
 | `cmm5078n50168mk07v64792sf` | Finnish Public Domain 20th Century Literature Text Corpus | `finnish-public-domain-20th-century-liter-294fe404` | [link](https://mozilladatacollective.com/datasets/cmm5078n50168mk07v64792sf) | ❌ |
-| `cmmamtaf104nemh07xa9e7sdx` | Javanese TTS of Banyumasan Dialect | `javanese-tts-of-banyumasan-dialect-5b8387ee` | [link](https://mozilladatacollective.com/datasets/cmmamtaf104nemh07xa9e7sdx) | ❌ |
+| `cmmamtaf104nemh07xa9e7sdx` | Javanese TTS of Banyumasan Dialect | `javanese-tts-of-banyumasan-dialect-107f8d06` | [link](https://mozilladatacollective.com/datasets/cmmamtaf104nemh07xa9e7sdx) | ❌ |
 | `cmmamvzrz04qtmk077j1k99vt` | Mada-French Parallel Corpus 1.0 | `mada-french-parallel-corpus-1-0-55f89ce6` | [link](https://mozilladatacollective.com/datasets/cmmamvzrz04qtmk077j1k99vt) | ❌ |
 | `cmmao7dc504oamh0710j4wau1` | Jhoke Publisher Multan’s Saraiki Newspaper Corpus | `jhoke-publisher-multan-s-saraiki-newspap-e0350169` | [link](https://mozilladatacollective.com/datasets/cmmao7dc504oamh0710j4wau1) | ❌ |
 | `cmmaphscg04t2mk07i1f8yc0q` | Saraiki-English Parallel Corpus | `saraiki-english-parallel-corpus-096ab4eb` | [link](https://mozilladatacollective.com/datasets/cmmaphscg04t2mk07i1f8yc0q) | ❌ |
@@ -1204,7 +1204,7 @@ data programmatically.
 | `cmur52dfr00e9nv07dx0i19dh` | FHIBE Metadata | `fhibe-metadata-195baec4` | [link](https://mozilladatacollective.com/datasets/cmur52dfr00e9nv07dx0i19dh) | ❌ |
 | `cmur9duso00hanu062i17f9j6` | Read Speech in Congolese Swahili (11h) | `read-speech-in-congolese-swahili-11h-4eeed9ee` | [link](https://mozilladatacollective.com/datasets/cmur9duso00hanu062i17f9j6) | ❌ |
 | `cmur9ejxo00henu06xdkexx23` | TICO-19 (Covid-domain) Speech – Congolese Swahili | `tico-19-covid-domain-speech-congolese-sw-d21ada76` | [link](https://mozilladatacollective.com/datasets/cmur9ejxo00henu06xdkexx23) | ❌ |
-| `cmur9gqs000henv07aonkl1sv` | MALOBA Lingala OCR transcriptions, harmonised text (v1.1) | `maloba-lingala-ocr-transcriptions-harmon-b7202647` | [link](https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv) | ❌ |
+| `cmur9gqs000henv07aonkl1sv` | MALOBA Lingala OCR transcriptions, harmonised text (v1.1) | `maloba-lingala-ocr-transcriptions-harmon-bc830b43` | [link](https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv) | ❌ |
 | `cmut2t2wg02binv074906cueh` | Synthetic Javanese–Indonesian Conversational Speech | `synthetic-javanese-indonesian-conversati-ed6cac7a` | [link](https://mozilladatacollective.com/datasets/cmut2t2wg02binv074906cueh) | ❌ |
 | `cmuv814nm0040ns08kyzpnry4` | Ukrainian–Russian–Surzhyk Read Speech | `ukrainian-russian-surzhyk-read-speech-f2bb97e9` | [link](https://mozilladatacollective.com/datasets/cmuv814nm0040ns08kyzpnry4) | ❌ |
 | `cmuvj8h64005ko107pwsqx7jj` | Kanuri Lexicon | `kanuri-lexicon-beb22f5c` | [link](https://mozilladatacollective.com/datasets/cmuvj8h64005ko107pwsqx7jj) | ❌ |
@@ -1216,9 +1216,9 @@ data programmatically.
 | `cmuzrhfbd006l07nxoe3inrzq` | Pashto Audio-Visual Speech Corpus | `pashto-audio-visual-speech-corpus-647156b6` | [link](https://mozilladatacollective.com/datasets/cmuzrhfbd006l07nxoe3inrzq) | ❌ |
 | `cmuzsrkif007m07nxz97doh8l` | UyghurDF | `uyghurdf-c7c24b42` | [link](https://mozilladatacollective.com/datasets/cmuzsrkif007m07nxz97doh8l) | ❌ |
 | `cmuzv3veu00a207nxe6lb3gxd` | IDN - Spanish Corpus Learner | `idn-spanish-corpus-learner-27e2ada4` | [link](https://mozilladatacollective.com/datasets/cmuzv3veu00a207nxe6lb3gxd) | ❌ |
-| `cmv5ejv7r004j07nw0msaehaq` | MALOBA French-Lingala translation pairs (h2) | `maloba-french-lingala-translation-pairs-fc44b3fd` | [link](https://mozilladatacollective.com/datasets/cmv5ejv7r004j07nw0msaehaq) | ❌ |
+| `cmv5ejv7r004j07nw0msaehaq` | MALOBA French-Lingala translation pairs (h2) | `maloba-french-lingala-translation-pairs-eeaef9a8` | [link](https://mozilladatacollective.com/datasets/cmv5ejv7r004j07nw0msaehaq) | ❌ |
 | `cmv5enx99004707ntkne42vaq` | Hausa Multispeaker Read Speech (6.7h) | `hausa-multispeaker-read-speech-6-7h-514c6df6` | [link](https://mozilladatacollective.com/datasets/cmv5enx99004707ntkne42vaq) | ❌ |
-| `cmv5jm2au001q08nwtvj2f4bq` | MALOBA Lingala Speech Corpus (ASR), v3.2 | `maloba-lingala-speech-corpus-asr-v3-2-4cbeef47` | [link](https://mozilladatacollective.com/datasets/cmv5jm2au001q08nwtvj2f4bq) | ❌ |
+| `cmv5jm2au001q08nwtvj2f4bq` | MALOBA Lingala Speech Corpus (ASR), v3.2 | `maloba-lingala-speech-corpus-asr-v3-2-e72c100a` | [link](https://mozilladatacollective.com/datasets/cmv5jm2au001q08nwtvj2f4bq) | ❌ |
 
 ## Schemas without a platform dataset
 

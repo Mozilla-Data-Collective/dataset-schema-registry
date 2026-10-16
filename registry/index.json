@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-15T05:16:05.853753+00:00",
+  "generated_at": "2026-10-16T05:15:43.355312+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -1820,9 +1820,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Javanese TTS of Banyumasan Dialect",
-      "slug": "javanese-tts-of-banyumasan-dialect-5b8387ee",
+      "slug": "javanese-tts-of-banyumasan-dialect-107f8d06",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmmamtaf104nemh07xa9e7sdx",
-      "lastmod": "2026-09-11T11:00:53.718Z",
+      "lastmod": "2026-10-16T03:30:38.604Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13062,9 +13062,9 @@
       "has_schema": false,
       "listed": true,
       "name": "MALOBA Lingala OCR transcriptions, harmonised text (v1.1)",
-      "slug": "maloba-lingala-ocr-transcriptions-harmon-b7202647",
+      "slug": "maloba-lingala-ocr-transcriptions-harmon-bc830b43",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv",
-      "lastmod": "2026-10-02T17:52:44.688Z",
+      "lastmod": "2026-10-15T11:03:13.296Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13194,9 +13194,9 @@
       "has_schema": false,
       "listed": true,
       "name": "MALOBA French-Lingala translation pairs (h2)",
-      "slug": "maloba-french-lingala-translation-pairs-fc44b3fd",
+      "slug": "maloba-french-lingala-translation-pairs-eeaef9a8",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmv5ejv7r004j07nw0msaehaq",
-      "lastmod": "2026-10-12T15:23:54.951Z",
+      "lastmod": "2026-10-15T11:02:22.954Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13216,9 +13216,9 @@
       "has_schema": false,
       "listed": true,
       "name": "MALOBA Lingala Speech Corpus (ASR), v3.2",
-      "slug": "maloba-lingala-speech-corpus-asr-v3-2-4cbeef47",
+      "slug": "maloba-lingala-speech-corpus-asr-v3-2-e72c100a",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmv5jm2au001q08nwtvj2f4bq",
-      "lastmod": "2026-10-12T17:45:35.526Z",
+      "lastmod": "2026-10-15T11:01:17.866Z",
       "schema_path": null,
       "schema_url": null
     }
