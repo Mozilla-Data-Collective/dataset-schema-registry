@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T06:10:15.232886+00:00",
-  "total": 1200,
+  "updated_at": "2026-10-21T05:15:18.640618+00:00",
+  "total": 1204,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -19,9 +19,9 @@
     {
       "id": "cmhlvswz200fio007c7szypw8",
       "url": "https://mozilladatacollective.com/datasets/cmhlvswz200fio007c7szypw8",
-      "lastmod": "2026-01-08T18:54:46.535Z",
+      "lastmod": "2026-10-20T15:58:39.161Z",
       "name": "Podcast Hari Minggoean (Indonesia)",
-      "slug": "podcast-hari-minggoean-indonesia-3b077582"
+      "slug": "podcast-hari-minggoean-indonesia-cf9dcb2e"
     },
     {
       "id": "cmhnlbtx401ihmr07co7x8ptw",
@@ -166,9 +166,9 @@
     {
       "id": "cmiepnyu1001jo207hzslvb5m",
       "url": "https://mozilladatacollective.com/datasets/cmiepnyu1001jo207hzslvb5m",
-      "lastmod": "2026-01-08T19:15:46.503Z",
+      "lastmod": "2026-10-20T15:57:58.525Z",
       "name": "Podcast Homostoria (Indonesia)",
-      "slug": "podcast-homostoria-indonesia-6dff568f"
+      "slug": "podcast-homostoria-indonesia-189c7100"
     },
     {
       "id": "cmifzczuo00w6o207wgmqb97m",
@@ -8401,6 +8401,34 @@
       "lastmod": "2026-10-15T11:01:17.866Z",
       "name": "MALOBA Lingala Speech Corpus (ASR), v3.2",
       "slug": "maloba-lingala-speech-corpus-asr-v3-2-e72c100a"
+    },
+    {
+      "id": "cmvgmgp23000307o493m81s8i",
+      "url": "https://mozilladatacollective.com/datasets/cmvgmgp23000307o493m81s8i",
+      "lastmod": "2026-10-20T11:50:51.867Z",
+      "name": "BibleTTS Chichewa studio-quality speech",
+      "slug": "bibletts-chichewa-studio-quality-speech-5c0a046d"
+    },
+    {
+      "id": "cmvgmhrqq000507o45zuvldtn",
+      "url": "https://mozilladatacollective.com/datasets/cmvgmhrqq000507o45zuvldtn",
+      "lastmod": "2026-10-20T11:51:42.002Z",
+      "name": "Synthetic Chichewa ASR Dataset",
+      "slug": "synthetic-chichewa-asr-dataset-4797143d"
+    },
+    {
+      "id": "cmvgn8l8u000t08nwtq4u9tr6",
+      "url": "https://mozilladatacollective.com/datasets/cmvgn8l8u000t08nwtq4u9tr6",
+      "lastmod": "2026-10-20T12:12:33.294Z",
+      "name": "Pashto Book Summaries and Reviews TTS Corpus",
+      "slug": "pashto-book-summaries-and-reviews-tts-co-260970ab"
+    },
+    {
+      "id": "cmvgn9zo7000x07o4w7lexs8z",
+      "url": "https://mozilladatacollective.com/datasets/cmvgn9zo7000x07o4w7lexs8z",
+      "lastmod": "2026-10-20T12:13:38.647Z",
+      "name": "Pashto Multi-Speaker Informational Speech Corpus",
+      "slug": "pashto-multi-speaker-informational-speec-1a457b19"
     }
   ]
 }
