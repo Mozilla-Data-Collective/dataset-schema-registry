@@ -12,16 +12,16 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-18  
-**Total datasets in sitemap:** 1200  
+**Last updated:** 2026-10-21  
+**Total datasets in sitemap:** 1204  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 781 ❌  
+**Schemas missing:** 785 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
 | `cmfzu8u8wa555eq8onrk334h4` | Mozilla Common Voice Spontaneous Speech ASR Shared Task Train/Dev Data | `mcv-sps-st-09-2025` | [link](https://mozilladatacollective.com/datasets/cmfzu8u8wa555eq8onrk334h4) | ❌ |
 | `cmhkl8z2a007rnr07p9bm5kmz` | Tetelancingo Nahuatl | `tetelancingo-nahuatl-e09ceab4` | [link](https://mozilladatacollective.com/datasets/cmhkl8z2a007rnr07p9bm5kmz) | ✅ |
-| `cmhlvswz200fio007c7szypw8` | Podcast Hari Minggoean (Indonesia) | `podcast-hari-minggoean-indonesia-3b077582` | [link](https://mozilladatacollective.com/datasets/cmhlvswz200fio007c7szypw8) | ❌ |
+| `cmhlvswz200fio007c7szypw8` | Podcast Hari Minggoean (Indonesia) | `podcast-hari-minggoean-indonesia-cf9dcb2e` | [link](https://mozilladatacollective.com/datasets/cmhlvswz200fio007c7szypw8) | ❌ |
 | `cmhnlbtx401ihmr07co7x8ptw` | Saraiki Literature Corpus | `saraiki-literature-corpus-bca56858` | [link](https://mozilladatacollective.com/datasets/cmhnlbtx401ihmr07co7x8ptw) | ❌ |
 | `cmhp3jurx00afmk07z5z4fktu` | Urdu Literature Corpus | `urdu-literature-corpus-2a2877f9` | [link](https://mozilladatacollective.com/datasets/cmhp3jurx00afmk07z5z4fktu) | ❌ |
 | `cmhp3uclf00ammk07nnd1m0bj` | Saraiki Quarterly Magazine Wasson Wehray Corpus | `saraiki-quarterly-magazine-wasson-wehray-cf997cbd` | [link](https://mozilladatacollective.com/datasets/cmhp3uclf00ammk07nnd1m0bj) | ❌ |
@@ -42,7 +42,7 @@ data programmatically.
 | `cmid4jner00hnnv072tkwlbps` | Anna 1.0 | `anna-1-0-93530100` | [link](https://mozilladatacollective.com/datasets/cmid4jner00hnnv072tkwlbps) | ✅ |
 | `cmid4vszk00hrnv07ljzu2xsa` | Berta 1.0 | `berta-1-0-3fdd40dc` | [link](https://mozilladatacollective.com/datasets/cmid4vszk00hrnv07ljzu2xsa) | ✅ |
 | `cmid4wbrc00hvnv07e448rwv3` | Imre 1.0 | `imre-1-0-1886265d` | [link](https://mozilladatacollective.com/datasets/cmid4wbrc00hvnv07e448rwv3) | ✅ |
-| `cmiepnyu1001jo207hzslvb5m` | Podcast Homostoria (Indonesia) | `podcast-homostoria-indonesia-6dff568f` | [link](https://mozilladatacollective.com/datasets/cmiepnyu1001jo207hzslvb5m) | ❌ |
+| `cmiepnyu1001jo207hzslvb5m` | Podcast Homostoria (Indonesia) | `podcast-homostoria-indonesia-189c7100` | [link](https://mozilladatacollective.com/datasets/cmiepnyu1001jo207hzslvb5m) | ❌ |
 | `cmifzczuo00w6o207wgmqb97m` | Rumantsch Grischun Newspaper Corpus | `rumantsch-grischun-newspaper-corpus-ac210cc7` | [link](https://mozilladatacollective.com/datasets/cmifzczuo00w6o207wgmqb97m) | ❌ |
 | `cmig0eqj700x6o207tp8pb5za` | Sursilvan Newspaper Corpus | `sursilvan-newspaper-corpus-0443b4e6` | [link](https://mozilladatacollective.com/datasets/cmig0eqj700x6o207tp8pb5za) | ❌ |
 | `cmig0f00m00ynmd07kqzscviy` | Sutsilvan Newspaper Corpus | `sutsilvan-newspaper-corpus-d0c78c1b` | [link](https://mozilladatacollective.com/datasets/cmig0f00m00ynmd07kqzscviy) | ❌ |
@@ -1219,6 +1219,10 @@ data programmatically.
 | `cmv5ejv7r004j07nw0msaehaq` | MALOBA French-Lingala translation pairs (h2) | `maloba-french-lingala-translation-pairs-eeaef9a8` | [link](https://mozilladatacollective.com/datasets/cmv5ejv7r004j07nw0msaehaq) | ❌ |
 | `cmv5enx99004707ntkne42vaq` | Hausa Multispeaker Read Speech (6.7h) | `hausa-multispeaker-read-speech-6-7h-514c6df6` | [link](https://mozilladatacollective.com/datasets/cmv5enx99004707ntkne42vaq) | ❌ |
 | `cmv5jm2au001q08nwtvj2f4bq` | MALOBA Lingala Speech Corpus (ASR), v3.2 | `maloba-lingala-speech-corpus-asr-v3-2-e72c100a` | [link](https://mozilladatacollective.com/datasets/cmv5jm2au001q08nwtvj2f4bq) | ❌ |
+| `cmvgmgp23000307o493m81s8i` | BibleTTS Chichewa studio-quality speech | `bibletts-chichewa-studio-quality-speech-5c0a046d` | [link](https://mozilladatacollective.com/datasets/cmvgmgp23000307o493m81s8i) | ❌ |
+| `cmvgmhrqq000507o45zuvldtn` | Synthetic Chichewa ASR Dataset | `synthetic-chichewa-asr-dataset-4797143d` | [link](https://mozilladatacollective.com/datasets/cmvgmhrqq000507o45zuvldtn) | ❌ |
+| `cmvgn8l8u000t08nwtq4u9tr6` | Pashto Book Summaries and Reviews TTS Corpus | `pashto-book-summaries-and-reviews-tts-co-260970ab` | [link](https://mozilladatacollective.com/datasets/cmvgn8l8u000t08nwtq4u9tr6) | ❌ |
+| `cmvgn9zo7000x07o4w7lexs8z` | Pashto Multi-Speaker Informational Speech Corpus | `pashto-multi-speaker-informational-speec-1a457b19` | [link](https://mozilladatacollective.com/datasets/cmvgn9zo7000x07o4w7lexs8z) | ❌ |
 
 ## Schemas without a platform dataset
 

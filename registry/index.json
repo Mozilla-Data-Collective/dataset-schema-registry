@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-18T05:14:22.909250+00:00",
+  "generated_at": "2026-10-21T05:15:31.243146+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1200,
+    "listed_datasets": 1204,
     "with_schema": 419,
-    "without_schema": 781,
+    "without_schema": 785,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -38,9 +38,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Podcast Hari Minggoean (Indonesia)",
-      "slug": "podcast-hari-minggoean-indonesia-3b077582",
+      "slug": "podcast-hari-minggoean-indonesia-cf9dcb2e",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmhlvswz200fio007c7szypw8",
-      "lastmod": "2026-01-08T18:54:46.535Z",
+      "lastmod": "2026-10-20T15:58:39.161Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -269,9 +269,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Podcast Homostoria (Indonesia)",
-      "slug": "podcast-homostoria-indonesia-6dff568f",
+      "slug": "podcast-homostoria-indonesia-189c7100",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmiepnyu1001jo207hzslvb5m",
-      "lastmod": "2026-01-08T19:15:46.503Z",
+      "lastmod": "2026-10-20T15:57:58.525Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13219,6 +13219,50 @@
       "slug": "maloba-lingala-speech-corpus-asr-v3-2-e72c100a",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmv5jm2au001q08nwtvj2f4bq",
       "lastmod": "2026-10-15T11:01:17.866Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmvgmgp23000307o493m81s8i",
+      "has_schema": false,
+      "listed": true,
+      "name": "BibleTTS Chichewa studio-quality speech",
+      "slug": "bibletts-chichewa-studio-quality-speech-5c0a046d",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmvgmgp23000307o493m81s8i",
+      "lastmod": "2026-10-20T11:50:51.867Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmvgmhrqq000507o45zuvldtn",
+      "has_schema": false,
+      "listed": true,
+      "name": "Synthetic Chichewa ASR Dataset",
+      "slug": "synthetic-chichewa-asr-dataset-4797143d",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmvgmhrqq000507o45zuvldtn",
+      "lastmod": "2026-10-20T11:51:42.002Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmvgn8l8u000t08nwtq4u9tr6",
+      "has_schema": false,
+      "listed": true,
+      "name": "Pashto Book Summaries and Reviews TTS Corpus",
+      "slug": "pashto-book-summaries-and-reviews-tts-co-260970ab",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmvgn8l8u000t08nwtq4u9tr6",
+      "lastmod": "2026-10-20T12:12:33.294Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmvgn9zo7000x07o4w7lexs8z",
+      "has_schema": false,
+      "listed": true,
+      "name": "Pashto Multi-Speaker Informational Speech Corpus",
+      "slug": "pashto-multi-speaker-informational-speec-1a457b19",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmvgn9zo7000x07o4w7lexs8z",
+      "lastmod": "2026-10-20T12:13:38.647Z",
       "schema_path": null,
       "schema_url": null
     }
