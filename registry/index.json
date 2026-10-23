@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-22T05:16:09.467209+00:00",
+  "generated_at": "2026-10-23T05:15:32.310785+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -863,9 +863,9 @@
       "has_schema": false,
       "listed": true,
       "name": "AI on the Frontline: Evaluating Large Language Models in Real-World Conflict Resolution",
-      "slug": "ai-on-the-frontline-evaluating-large-lan-a2f0d099",
+      "slug": "ai-on-the-frontline-evaluating-large-lan-b3891396",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmj8mjbas02lmmk07glipgg79",
-      "lastmod": "2026-01-08T21:56:44.824Z",
+      "lastmod": "2026-10-22T08:41:28.001Z",
       "schema_path": null,
       "schema_url": null
     },

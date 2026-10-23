@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-22  
+**Last updated:** 2026-10-23  
 **Total datasets in sitemap:** 1206  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 787 ❌  
@@ -95,7 +95,7 @@ data programmatically.
 | `cmj8ddapc02c8mb07l6wyr882` | Mozilla Common Voice Text Language Identification dataset | `mozilla-common-voice-text-language-ident-b1b3aae0` | [link](https://mozilladatacollective.com/datasets/cmj8ddapc02c8mb07l6wyr882) | ✅ |
 | `cmj8fdiyv02egmb07m2wfdltm` | Bati-MultiDialectalASR-Dataset | `bati-multidialectalasr-dataset-fd003ed0` | [link](https://mozilladatacollective.com/datasets/cmj8fdiyv02egmb07m2wfdltm) | ❌ |
 | `cmj8g2kw902fwmb07hub8puq8` | Teke-Laali-TTS-Dataset | `teke-laali-tts-dataset-7e5379fe` | [link](https://mozilladatacollective.com/datasets/cmj8g2kw902fwmb07hub8puq8) | ❌ |
-| `cmj8mjbas02lmmk07glipgg79` | AI on the Frontline: Evaluating Large Language Models in Real-World Conflict Resolution | `ai-on-the-frontline-evaluating-large-lan-a2f0d099` | [link](https://mozilladatacollective.com/datasets/cmj8mjbas02lmmk07glipgg79) | ❌ |
+| `cmj8mjbas02lmmk07glipgg79` | AI on the Frontline: Evaluating Large Language Models in Real-World Conflict Resolution | `ai-on-the-frontline-evaluating-large-lan-b3891396` | [link](https://mozilladatacollective.com/datasets/cmj8mjbas02lmmk07glipgg79) | ❌ |
 | `cmj8mkwot02ltmb07a8pyg3ne` | Improving AI Conflict Resolution Capacities: A Prompts-Based Evaluation | `improving-ai-conflict-resolution-capacit-3564750a` | [link](https://mozilladatacollective.com/datasets/cmj8mkwot02ltmb07a8pyg3ne) | ❌ |
 | `cmjcc6g9z06c7mk07yolcdyjr` | Archivo de la Comisionada María de los Ángeles Guzmán García (COTAI Nuevo León / InfoNL) | `archivo-de-la-comisionada-mar-a-de-los-n-86187fb6` | [link](https://mozilladatacollective.com/datasets/cmjcc6g9z06c7mk07yolcdyjr) | ❌ |
 | `cmjepxo6t08nmmk07iauvua6v` | DhoNam: Dholuo Speech dataset | `dhonam-dholuo-speech-dataset-b06e2acf` | [link](https://mozilladatacollective.com/datasets/cmjepxo6t08nmmk07iauvua6v) | ❌ |
