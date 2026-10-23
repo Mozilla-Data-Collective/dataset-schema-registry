@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T06:10:11.867190+00:00",
+  "updated_at": "2026-10-23T05:15:18.342796+00:00",
   "total": 1206,
   "datasets": [
     {
@@ -537,9 +537,9 @@
     {
       "id": "cmj8mjbas02lmmk07glipgg79",
       "url": "https://mozilladatacollective.com/datasets/cmj8mjbas02lmmk07glipgg79",
-      "lastmod": "2026-01-08T21:56:44.824Z",
+      "lastmod": "2026-10-22T08:41:28.001Z",
       "name": "AI on the Frontline: Evaluating Large Language Models in Real-World Conflict Resolution",
-      "slug": "ai-on-the-frontline-evaluating-large-lan-a2f0d099"
+      "slug": "ai-on-the-frontline-evaluating-large-lan-b3891396"
     },
     {
       "id": "cmj8mkwot02ltmb07a8pyg3ne",
