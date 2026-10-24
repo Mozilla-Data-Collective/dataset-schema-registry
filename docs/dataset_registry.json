@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T06:10:25.146857+00:00",
-  "total": 1206,
+  "updated_at": "2026-10-24T05:14:26.934526+00:00",
+  "total": 1207,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8405,16 +8405,16 @@
     {
       "id": "cmvgmgp23000307o493m81s8i",
       "url": "https://mozilladatacollective.com/datasets/cmvgmgp23000307o493m81s8i",
-      "lastmod": "2026-10-21T10:40:11.136Z",
+      "lastmod": "2026-10-23T09:58:16.461Z",
       "name": "BibleTTS Chichewa - Aligned Bible speech",
-      "slug": "bibletts-chichewa-aligned-bible-speech-ec1ea53f"
+      "slug": "bibletts-chichewa-aligned-bible-speech-9d31eb08"
     },
     {
       "id": "cmvgmhrqq000507o45zuvldtn",
       "url": "https://mozilladatacollective.com/datasets/cmvgmhrqq000507o45zuvldtn",
-      "lastmod": "2026-10-21T13:41:09.414Z",
+      "lastmod": "2026-10-23T09:59:09.301Z",
       "name": "Synthetic Chichewa ASR Dataset",
-      "slug": "synthetic-chichewa-asr-dataset-ecfdfede"
+      "slug": "synthetic-chichewa-asr-dataset-9cb6e313"
     },
     {
       "id": "cmvgn8l8u000t08nwtq4u9tr6",
@@ -8433,9 +8433,9 @@
     {
       "id": "cmvi269po002607mi7oaodk1z",
       "url": "https://mozilladatacollective.com/datasets/cmvi269po002607mi7oaodk1z",
-      "lastmod": "2026-10-21T11:58:25.452Z",
+      "lastmod": "2026-10-23T10:03:22.396Z",
       "name": "BibleTTS Luo - Aligned Bible Speech",
-      "slug": "bibletts-luo-aligned-bible-speech-4118962a"
+      "slug": "bibletts-luo-aligned-bible-speech-0fdee902"
     },
     {
       "id": "cmvijrnaa001y07mpqn9528vv",
@@ -8443,6 +8443,13 @@
       "lastmod": "2026-10-21T20:10:56.290Z",
       "name": "wordfreq Spanish word-frequency list — as used in Lost in Transcription (Spanish–Nahuatl)",
       "slug": "wordfreq-spanish-word-frequency-list-as-1a828939"
+    },
+    {
+      "id": "cmvl58msc01v807o52scz27un",
+      "url": "https://mozilladatacollective.com/datasets/cmvl58msc01v807o52scz27un",
+      "lastmod": "2026-10-23T15:47:33.084Z",
+      "name": "UrduSpeech",
+      "slug": "urduspeech-27172f48"
     }
   ]
 }
