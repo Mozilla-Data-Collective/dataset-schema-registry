@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-23  
-**Total datasets in sitemap:** 1206  
+**Last updated:** 2026-10-24  
+**Total datasets in sitemap:** 1207  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 787 ❌  
+**Schemas missing:** 788 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1219,12 +1219,13 @@ data programmatically.
 | `cmv5ejv7r004j07nw0msaehaq` | MALOBA French-Lingala translation pairs (h2) | `maloba-french-lingala-translation-pairs-eeaef9a8` | [link](https://mozilladatacollective.com/datasets/cmv5ejv7r004j07nw0msaehaq) | ❌ |
 | `cmv5enx99004707ntkne42vaq` | Hausa Multispeaker Read Speech (6.7h) | `hausa-multispeaker-read-speech-6-7h-514c6df6` | [link](https://mozilladatacollective.com/datasets/cmv5enx99004707ntkne42vaq) | ❌ |
 | `cmv5jm2au001q08nwtvj2f4bq` | MALOBA Lingala Speech Corpus (ASR), v3.2 | `maloba-lingala-speech-corpus-asr-v3-2-e72c100a` | [link](https://mozilladatacollective.com/datasets/cmv5jm2au001q08nwtvj2f4bq) | ❌ |
-| `cmvgmgp23000307o493m81s8i` | BibleTTS Chichewa - Aligned Bible speech | `bibletts-chichewa-aligned-bible-speech-ec1ea53f` | [link](https://mozilladatacollective.com/datasets/cmvgmgp23000307o493m81s8i) | ❌ |
-| `cmvgmhrqq000507o45zuvldtn` | Synthetic Chichewa ASR Dataset | `synthetic-chichewa-asr-dataset-ecfdfede` | [link](https://mozilladatacollective.com/datasets/cmvgmhrqq000507o45zuvldtn) | ❌ |
+| `cmvgmgp23000307o493m81s8i` | BibleTTS Chichewa - Aligned Bible speech | `bibletts-chichewa-aligned-bible-speech-9d31eb08` | [link](https://mozilladatacollective.com/datasets/cmvgmgp23000307o493m81s8i) | ❌ |
+| `cmvgmhrqq000507o45zuvldtn` | Synthetic Chichewa ASR Dataset | `synthetic-chichewa-asr-dataset-9cb6e313` | [link](https://mozilladatacollective.com/datasets/cmvgmhrqq000507o45zuvldtn) | ❌ |
 | `cmvgn8l8u000t08nwtq4u9tr6` | Pashto Book Summaries and Reviews TTS Corpus | `pashto-book-summaries-and-reviews-tts-co-260970ab` | [link](https://mozilladatacollective.com/datasets/cmvgn8l8u000t08nwtq4u9tr6) | ❌ |
 | `cmvgn9zo7000x07o4w7lexs8z` | Pashto Multi-Speaker Informational Speech Corpus | `pashto-multi-speaker-informational-speec-1a457b19` | [link](https://mozilladatacollective.com/datasets/cmvgn9zo7000x07o4w7lexs8z) | ❌ |
-| `cmvi269po002607mi7oaodk1z` | BibleTTS Luo - Aligned Bible Speech | `bibletts-luo-aligned-bible-speech-4118962a` | [link](https://mozilladatacollective.com/datasets/cmvi269po002607mi7oaodk1z) | ❌ |
+| `cmvi269po002607mi7oaodk1z` | BibleTTS Luo - Aligned Bible Speech | `bibletts-luo-aligned-bible-speech-0fdee902` | [link](https://mozilladatacollective.com/datasets/cmvi269po002607mi7oaodk1z) | ❌ |
 | `cmvijrnaa001y07mpqn9528vv` | wordfreq Spanish word-frequency list — as used in Lost in Transcription (Spanish–Nahuatl) | `wordfreq-spanish-word-frequency-list-as-1a828939` | [link](https://mozilladatacollective.com/datasets/cmvijrnaa001y07mpqn9528vv) | ❌ |
+| `cmvl58msc01v807o52scz27un` | UrduSpeech | `urduspeech-27172f48` | [link](https://mozilladatacollective.com/datasets/cmvl58msc01v807o52scz27un) | ❌ |
 
 ## Schemas without a platform dataset
 
