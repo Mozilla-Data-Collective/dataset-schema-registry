@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T06:09:50.100076+00:00",
+  "updated_at": "2026-10-25T05:14:26.437850+00:00",
   "total": 1207,
   "datasets": [
     {
@@ -8447,9 +8447,9 @@
     {
       "id": "cmvl58msc01v807o52scz27un",
       "url": "https://mozilladatacollective.com/datasets/cmvl58msc01v807o52scz27un",
-      "lastmod": "2026-10-23T15:47:33.084Z",
+      "lastmod": "2026-10-24T11:07:01.326Z",
       "name": "UrduSpeech",
-      "slug": "urduspeech-27172f48"
+      "slug": "urduspeech-b51b03bb"
     }
   ]
 }
