@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-24T05:14:39.099205+00:00",
+  "generated_at": "2026-10-25T05:14:38.803197+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -13293,9 +13293,9 @@
       "has_schema": false,
       "listed": true,
       "name": "UrduSpeech",
-      "slug": "urduspeech-27172f48",
+      "slug": "urduspeech-b51b03bb",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmvl58msc01v807o52scz27un",
-      "lastmod": "2026-10-23T15:47:33.084Z",
+      "lastmod": "2026-10-24T11:07:01.326Z",
       "schema_path": null,
       "schema_url": null
     }

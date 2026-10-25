@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-24  
+**Last updated:** 2026-10-25  
 **Total datasets in sitemap:** 1207  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 788 ❌  
@@ -1225,7 +1225,7 @@ data programmatically.
 | `cmvgn9zo7000x07o4w7lexs8z` | Pashto Multi-Speaker Informational Speech Corpus | `pashto-multi-speaker-informational-speec-1a457b19` | [link](https://mozilladatacollective.com/datasets/cmvgn9zo7000x07o4w7lexs8z) | ❌ |
 | `cmvi269po002607mi7oaodk1z` | BibleTTS Luo - Aligned Bible Speech | `bibletts-luo-aligned-bible-speech-0fdee902` | [link](https://mozilladatacollective.com/datasets/cmvi269po002607mi7oaodk1z) | ❌ |
 | `cmvijrnaa001y07mpqn9528vv` | wordfreq Spanish word-frequency list — as used in Lost in Transcription (Spanish–Nahuatl) | `wordfreq-spanish-word-frequency-list-as-1a828939` | [link](https://mozilladatacollective.com/datasets/cmvijrnaa001y07mpqn9528vv) | ❌ |
-| `cmvl58msc01v807o52scz27un` | UrduSpeech | `urduspeech-27172f48` | [link](https://mozilladatacollective.com/datasets/cmvl58msc01v807o52scz27un) | ❌ |
+| `cmvl58msc01v807o52scz27un` | UrduSpeech | `urduspeech-b51b03bb` | [link](https://mozilladatacollective.com/datasets/cmvl58msc01v807o52scz27un) | ❌ |
 
 ## Schemas without a platform dataset
 
