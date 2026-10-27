@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-25T05:14:38.803197+00:00",
+  "generated_at": "2026-10-27T05:16:08.532427+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -1413,9 +1413,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Jember Javanese Spontaneous Speech Corpus",
-      "slug": "jember-javanese-spontaneous-speech-corpu-d43a201a",
+      "slug": "jember-javanese-spontaneous-speech-corpu-8474af44",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmlgm5a94008kny07nz2intus",
-      "lastmod": "2026-02-10T13:04:56.104Z",
+      "lastmod": "2026-10-27T01:02:10.446Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -3923,7 +3923,7 @@
       "name": "StackOverflow Knowledge Graph - Python",
       "slug": "stackoverflow-knowledge-graph-python-2f1963f0",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdye1q800mnnu07toknnvps",
-      "lastmod": "2026-10-21T15:09:25.036Z",
+      "lastmod": "2026-10-26T14:42:59.218Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13124,17 +13124,6 @@
       "schema_url": null
     },
     {
-      "id": "cmuy24yjx00vo07mf3azmkkf2",
-      "has_schema": false,
-      "listed": true,
-      "name": "Synthetic Spanish–English Code-Switching Speech (DS-3)",
-      "slug": "synthetic-spanish-english-code-switching-ac671005",
-      "dataset_url": "https://mozilladatacollective.com/datasets/cmuy24yjx00vo07mf3azmkkf2",
-      "lastmod": "2026-10-07T12:02:00.813Z",
-      "schema_path": null,
-      "schema_url": null
-    },
-    {
       "id": "cmuylmkry00b807ny9w6h78x8",
       "has_schema": false,
       "listed": true,
@@ -13296,6 +13285,17 @@
       "slug": "urduspeech-b51b03bb",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmvl58msc01v807o52scz27un",
       "lastmod": "2026-10-24T11:07:01.326Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmvpdp0dq001x07nvr2kl8gqw",
+      "has_schema": false,
+      "listed": true,
+      "name": "Speaking, Fast and Slow Competition - Development Data",
+      "slug": "speaking-fast-and-slow-competition-devel-07d11ea9",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmvpdp0dq001x07nvr2kl8gqw",
+      "lastmod": "2026-10-26T14:55:18.830Z",
       "schema_path": null,
       "schema_url": null
     }

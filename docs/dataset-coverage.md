@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-25  
+**Last updated:** 2026-10-27  
 **Total datasets in sitemap:** 1207  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 788 ❌  
@@ -145,7 +145,7 @@ data programmatically.
 | `cml9iik7d01efmn07miuf8yof` | Bulu-TTS-Dataset 1.0 | `bulu-tts-dataset-1-0-6b9ee29d` | [link](https://mozilladatacollective.com/datasets/cml9iik7d01efmn07miuf8yof) | ❌ |
 | `cmlcqxjwl01t8mm07wz7c08bz` | Zacatlán Tepetzintla Nahuatl Audio | `zacatl-n-tepetzintla-nahuatl-audio-f7c7ae62` | [link](https://mozilladatacollective.com/datasets/cmlcqxjwl01t8mm07wz7c08bz) | ❌ |
 | `cmlct0jzu01s4nv07023lv3m3` | Zacatlán Tepetzintla Nahuatl Transcriptions | `zacatl-n-tepetzintla-nahuatl-transcripti-6fdb6e0a` | [link](https://mozilladatacollective.com/datasets/cmlct0jzu01s4nv07023lv3m3) | ❌ |
-| `cmlgm5a94008kny07nz2intus` | Jember Javanese Spontaneous Speech Corpus | `jember-javanese-spontaneous-speech-corpu-d43a201a` | [link](https://mozilladatacollective.com/datasets/cmlgm5a94008kny07nz2intus) | ❌ |
+| `cmlgm5a94008kny07nz2intus` | Jember Javanese Spontaneous Speech Corpus | `jember-javanese-spontaneous-speech-corpu-8474af44` | [link](https://mozilladatacollective.com/datasets/cmlgm5a94008kny07nz2intus) | ❌ |
 | `cmlgmf58l0096nx07tahttd6y` | TTS Javanese - Ngapak Dialect | `tts-javanese-ngapak-dialect-c91d74fc` | [link](https://mozilladatacollective.com/datasets/cmlgmf58l0096nx07tahttd6y) | ❌ |
 | `cmlgmqqul009lny07rhsa7aey` | Gawri (گاؤری) Magazine Corpus | `gawri-magazine-corpus-ff3e9835` | [link](https://mozilladatacollective.com/datasets/cmlgmqqul009lny07rhsa7aey) | ❌ |
 | `cmlgrqom000jrnx07zywfpblb` | NAWA-E-WATAN Balochi Newspaper Corpus | `nawa-e-watan-balochi-newspaper-corpus-31187552` | [link](https://mozilladatacollective.com/datasets/cmlgrqom000jrnx07zywfpblb) | ❌ |
@@ -1210,7 +1210,6 @@ data programmatically.
 | `cmuvj8h64005ko107pwsqx7jj` | Kanuri Lexicon | `kanuri-lexicon-beb22f5c` | [link](https://mozilladatacollective.com/datasets/cmuvj8h64005ko107pwsqx7jj) | ❌ |
 | `cmuwux5uv009b08o5bjtelh4s` | High quality TTS data for Javanese (OpenSLR 41) | `high-quality-tts-data-for-javanese-opens-dd9ac306` | [link](https://mozilladatacollective.com/datasets/cmuwux5uv009b08o5bjtelh4s) | ❌ |
 | `cmuwuxgta009d07mfzupkk4b0` | Large Javanese ASR training data set (OpenSLR 35), 8,000-utterance subset | `large-javanese-asr-training-data-set-ope-28458110` | [link](https://mozilladatacollective.com/datasets/cmuwuxgta009d07mfzupkk4b0) | ❌ |
-| `cmuy24yjx00vo07mf3azmkkf2` | Synthetic Spanish–English Code-Switching Speech (DS-3) | `synthetic-spanish-english-code-switching-ac671005` | [link](https://mozilladatacollective.com/datasets/cmuy24yjx00vo07mf3azmkkf2) | ❌ |
 | `cmuylmkry00b807ny9w6h78x8` | Faculty Atlas: US Faculty Job Postings (2026-10-01) | `faculty-atlas-us-faculty-job-postings-20-b35f9b88` | [link](https://mozilladatacollective.com/datasets/cmuylmkry00b807ny9w6h78x8) | ❌ |
 | `cmuzpqhlt003h07o1lfzsoye0` | Yaayuwee Gbaya Medicinal Plants 18 | `yaayuwee-gbaya-medicinal-plants-18-d23643b4` | [link](https://mozilladatacollective.com/datasets/cmuzpqhlt003h07o1lfzsoye0) | ❌ |
 | `cmuzrhfbd006l07nxoe3inrzq` | Pashto Audio-Visual Speech Corpus | `pashto-audio-visual-speech-corpus-647156b6` | [link](https://mozilladatacollective.com/datasets/cmuzrhfbd006l07nxoe3inrzq) | ❌ |
@@ -1226,6 +1225,7 @@ data programmatically.
 | `cmvi269po002607mi7oaodk1z` | BibleTTS Luo - Aligned Bible Speech | `bibletts-luo-aligned-bible-speech-0fdee902` | [link](https://mozilladatacollective.com/datasets/cmvi269po002607mi7oaodk1z) | ❌ |
 | `cmvijrnaa001y07mpqn9528vv` | wordfreq Spanish word-frequency list — as used in Lost in Transcription (Spanish–Nahuatl) | `wordfreq-spanish-word-frequency-list-as-1a828939` | [link](https://mozilladatacollective.com/datasets/cmvijrnaa001y07mpqn9528vv) | ❌ |
 | `cmvl58msc01v807o52scz27un` | UrduSpeech | `urduspeech-b51b03bb` | [link](https://mozilladatacollective.com/datasets/cmvl58msc01v807o52scz27un) | ❌ |
+| `cmvpdp0dq001x07nvr2kl8gqw` | Speaking, Fast and Slow Competition - Development Data | `speaking-fast-and-slow-competition-devel-07d11ea9` | [link](https://mozilladatacollective.com/datasets/cmvpdp0dq001x07nvr2kl8gqw) | ❌ |
 
 ## Schemas without a platform dataset
 
