@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T06:13:43.868782+00:00",
+  "updated_at": "2026-10-27T05:15:56.561823+00:00",
   "total": 1207,
   "datasets": [
     {
@@ -887,9 +887,9 @@
     {
       "id": "cmlgm5a94008kny07nz2intus",
       "url": "https://mozilladatacollective.com/datasets/cmlgm5a94008kny07nz2intus",
-      "lastmod": "2026-02-10T13:04:56.104Z",
+      "lastmod": "2026-10-27T01:02:10.446Z",
       "name": "Jember Javanese Spontaneous Speech Corpus",
-      "slug": "jember-javanese-spontaneous-speech-corpu-d43a201a"
+      "slug": "jember-javanese-spontaneous-speech-corpu-8474af44"
     },
     {
       "id": "cmlgmf58l0096nx07tahttd6y",
@@ -2483,7 +2483,7 @@
     {
       "id": "cmpdye1q800mnnu07toknnvps",
       "url": "https://mozilladatacollective.com/datasets/cmpdye1q800mnnu07toknnvps",
-      "lastmod": "2026-10-21T15:09:25.036Z",
+      "lastmod": "2026-10-26T14:42:59.218Z",
       "name": "StackOverflow Knowledge Graph - Python",
       "slug": "stackoverflow-knowledge-graph-python-2f1963f0"
     },
@@ -8340,13 +8340,6 @@
       "slug": "large-javanese-asr-training-data-set-ope-28458110"
     },
     {
-      "id": "cmuy24yjx00vo07mf3azmkkf2",
-      "url": "https://mozilladatacollective.com/datasets/cmuy24yjx00vo07mf3azmkkf2",
-      "lastmod": "2026-10-07T12:02:00.813Z",
-      "name": "Synthetic Spanish–English Code-Switching Speech (DS-3)",
-      "slug": "synthetic-spanish-english-code-switching-ac671005"
-    },
-    {
       "id": "cmuylmkry00b807ny9w6h78x8",
       "url": "https://mozilladatacollective.com/datasets/cmuylmkry00b807ny9w6h78x8",
       "lastmod": "2026-10-07T21:07:35.470Z",
@@ -8450,6 +8443,13 @@
       "lastmod": "2026-10-24T11:07:01.326Z",
       "name": "UrduSpeech",
       "slug": "urduspeech-b51b03bb"
+    },
+    {
+      "id": "cmvpdp0dq001x07nvr2kl8gqw",
+      "url": "https://mozilladatacollective.com/datasets/cmvpdp0dq001x07nvr2kl8gqw",
+      "lastmod": "2026-10-26T14:55:18.830Z",
+      "name": "Speaking, Fast and Slow Competition - Development Data",
+      "slug": "speaking-fast-and-slow-competition-devel-07d11ea9"
     }
   ]
 }
