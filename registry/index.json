@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-27T05:16:08.532427+00:00",
+  "generated_at": "2026-10-28T05:12:14.237878+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -3868,7 +3868,7 @@
       "name": "StackOverflow Knowledge Graph - C++",
       "slug": "stackoverflow-knowledge-graph-c-141ce5ef",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdycv7k00m7nu07co3jmxt8",
-      "lastmod": "2026-06-17T13:05:40.515Z",
+      "lastmod": "2026-10-27T10:48:51.691Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -3934,7 +3934,7 @@
       "name": "StackOverflow Knowledge Graph - Assembly",
       "slug": "stackoverflow-knowledge-graph-assembly-75835f5b",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdye7xc00mjnv07ug7zhu9k",
-      "lastmod": "2026-05-20T11:03:19.201Z",
+      "lastmod": "2026-10-27T10:43:32.950Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -3945,7 +3945,7 @@
       "name": "StackOverflow Knowledge Graph - Abap",
       "slug": "stackoverflow-knowledge-graph-abap-6709aa4e",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdyefi900mrnu076a7ge28i",
-      "lastmod": "2026-05-20T11:03:29.025Z",
+      "lastmod": "2026-10-27T10:43:09.366Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -3953,10 +3953,10 @@
       "id": "cmpdyeljq00mvnu07y0s26kw5",
       "has_schema": false,
       "listed": true,
-      "name": "StackOverflow Knowledge Graph - .Net",
-      "slug": "stackoverflow-knowledge-graph-net-a70d45f5",
+      "name": "StackOverflow Knowledge Graph - .NET",
+      "slug": "stackoverflow-knowledge-graph-net-0f7f2467",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdyeljq00mvnu07y0s26kw5",
-      "lastmod": "2026-05-20T11:03:36.854Z",
+      "lastmod": "2026-10-27T10:42:48.997Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4121,7 +4121,7 @@
       "name": "StackOverflow Knowledge Graph - Julia",
       "slug": "stackoverflow-knowledge-graph-julia-1c182c47",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdylr4p00nxnu07j6vnqwl6",
-      "lastmod": "2026-06-17T13:06:20.860Z",
+      "lastmod": "2026-10-27T13:15:30.354Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4132,7 +4132,7 @@
       "name": "StackOverflow Knowledge Graph - Javascript",
       "slug": "stackoverflow-knowledge-graph-javascript-c7ed92dd",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdylxq900nlnv07sobvszik",
-      "lastmod": "2026-06-17T13:06:18.031Z",
+      "lastmod": "2026-10-27T13:15:08.385Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4143,7 +4143,7 @@
       "name": "StackOverflow Knowledge Graph - Java",
       "slug": "stackoverflow-knowledge-graph-java-a089dbd7",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdym5uw00o1nu071kqpz3vw",
-      "lastmod": "2026-06-17T13:06:15.199Z",
+      "lastmod": "2026-10-27T13:11:33.138Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4154,7 +4154,7 @@
       "name": "StackOverflow Knowledge Graph - Html",
       "slug": "stackoverflow-knowledge-graph-html-a0d2cdbe",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdymcul00npnv07amwfj0zq",
-      "lastmod": "2026-06-17T13:06:12.398Z",
+      "lastmod": "2026-10-27T13:08:49.020Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4165,7 +4165,7 @@
       "name": "StackOverflow Knowledge Graph - Haskell",
       "slug": "stackoverflow-knowledge-graph-haskell-50d95a23",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdymk8t00ntnv07vw6h2zhr",
-      "lastmod": "2026-06-17T13:06:09.477Z",
+      "lastmod": "2026-10-27T13:06:59.719Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4173,10 +4173,10 @@
       "id": "cmpdymqte00o9nu07mzkxwxfb",
       "has_schema": false,
       "listed": true,
-      "name": "StackOverflow Knowledge Graph - GO",
-      "slug": "stackoverflow-knowledge-graph-go-6a765e96",
+      "name": "StackOverflow Knowledge Graph - Go",
+      "slug": "stackoverflow-knowledge-graph-go-e1059728",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdymqte00o9nu07mzkxwxfb",
-      "lastmod": "2026-06-17T13:06:06.668Z",
+      "lastmod": "2026-10-27T13:06:36.698Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4187,7 +4187,7 @@
       "name": "StackOverflow Knowledge Graph - F#",
       "slug": "stackoverflow-knowledge-graph-f-730fbf79",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdymy7o00ofnu0743zb36hs",
-      "lastmod": "2026-06-17T13:06:03.832Z",
+      "lastmod": "2026-10-27T13:05:51.656Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4198,7 +4198,7 @@
       "name": "StackOverflow Knowledge Graph - Fortran",
       "slug": "stackoverflow-knowledge-graph-fortran-d5891b3f",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdyn3lc00ojnu07qfq4ff3h",
-      "lastmod": "2026-06-17T13:06:01.030Z",
+      "lastmod": "2026-10-27T13:06:12.169Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4209,7 +4209,7 @@
       "name": "StackOverflow Knowledge Graph - Erlang",
       "slug": "stackoverflow-knowledge-graph-erlang-97d66107",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdynb1g00onnu0783qgrvdr",
-      "lastmod": "2026-06-17T13:05:58.156Z",
+      "lastmod": "2026-10-27T13:05:31.979Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4220,7 +4220,7 @@
       "name": "StackOverflow Knowledge Graph - Elixir",
       "slug": "stackoverflow-knowledge-graph-elixir-36cd62bf",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdyng3300nxnv07p9nlq3na",
-      "lastmod": "2026-06-17T13:05:55.333Z",
+      "lastmod": "2026-10-27T12:58:44.974Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4231,7 +4231,7 @@
       "name": "StackOverflow Knowledge Graph - Dart",
       "slug": "stackoverflow-knowledge-graph-dart-b555cf94",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdynmf900o1nv07s9a3fopl",
-      "lastmod": "2026-06-17T13:05:52.432Z",
+      "lastmod": "2026-10-27T10:50:57.037Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4239,10 +4239,10 @@
       "id": "cmpdyntcn00o5nv07wwkgz5x7",
       "has_schema": false,
       "listed": true,
-      "name": "StackOverflow Knowledge Graph - CSS",
-      "slug": "stackoverflow-knowledge-graph-css-7cbf7052",
+      "name": "StackOverflow Knowledge Graph - Css",
+      "slug": "stackoverflow-knowledge-graph-css-99692021",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdyntcn00o5nv07wwkgz5x7",
-      "lastmod": "2026-06-17T13:05:49.629Z",
+      "lastmod": "2026-10-27T10:50:31.881Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4253,7 +4253,7 @@
       "name": "StackOverflow Knowledge Graph - C#",
       "slug": "stackoverflow-knowledge-graph-c-98a1e062",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdynyzu00ornu074r3i2ndm",
-      "lastmod": "2026-06-17T13:05:46.301Z",
+      "lastmod": "2026-10-27T10:47:18.410Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4264,7 +4264,7 @@
       "name": "StackOverflow Knowledge Graph - Cobol",
       "slug": "stackoverflow-knowledge-graph-cobol-aae66736",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdyo45100o9nv07np0uqmpm",
-      "lastmod": "2026-06-17T13:05:43.527Z",
+      "lastmod": "2026-10-27T10:49:12.575Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4275,7 +4275,7 @@
       "name": "StackOverflow Knowledge Graph - C",
       "slug": "stackoverflow-knowledge-graph-c-8eae0fa1",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdyoaa300ovnu07ruxpomwb",
-      "lastmod": "2026-06-17T13:05:37.572Z",
+      "lastmod": "2026-10-27T10:44:58.521Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -4286,7 +4286,7 @@
       "name": "StackOverflow Knowledge Graph - Bash",
       "slug": "stackoverflow-knowledge-graph-bash-cf03ef97",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmpdyogk700ohnv07aasx1q4f",
-      "lastmod": "2026-06-17T13:05:34.719Z",
+      "lastmod": "2026-10-27T10:44:03.236Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -5813,9 +5813,9 @@
       "has_schema": true,
       "listed": true,
       "name": "Medical Domain Mexican Spanish Speech Corpus (MEDMEX)",
-      "slug": "medical-domain-mexican-spanish-speech-co-a6a06774",
+      "slug": "medical-domain-mexican-spanish-speech-co-7727e3ee",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km",
-      "lastmod": "2026-08-17T15:01:04.967Z",
+      "lastmod": "2026-10-27T16:28:42.104Z",
       "schema_path": "registry/cmrdfjave008uo307ett7d4km/schema.yaml",
       "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmrdfjave008uo307ett7d4km/schema.yaml"
     },
@@ -6264,9 +6264,9 @@
       "has_schema": true,
       "listed": true,
       "name": "Singaporean Tamil Speech Collection",
-      "slug": "singaporean-tamil-speech-collection-7fe0b372",
+      "slug": "singaporean-tamil-speech-collection-bcf228b3",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968",
-      "lastmod": "2026-09-01T17:11:36.386Z",
+      "lastmod": "2026-10-27T20:19:39.301Z",
       "schema_path": "registry/cmrp1sdsj00zemm0822j75968/schema.yaml",
       "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmrp1sdsj00zemm0822j75968/schema.yaml"
     },
@@ -6275,9 +6275,9 @@
       "has_schema": true,
       "listed": true,
       "name": "Burmese Speech Collection",
-      "slug": "burmese-speech-collection-b1e2e0d5",
+      "slug": "burmese-speech-collection-d55fe52c",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc",
-      "lastmod": "2026-09-01T17:11:45.587Z",
+      "lastmod": "2026-10-27T22:44:15.428Z",
       "schema_path": "registry/cmrp30fdp0120o007a69s3nfc/schema.yaml",
       "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmrp30fdp0120o007a69s3nfc/schema.yaml"
     },
@@ -6792,9 +6792,9 @@
       "has_schema": false,
       "listed": true,
       "name": "African Actions Annotated Videos for AI (Health Domain)",
-      "slug": "african-actions-annotated-videos-for-ai-7a6b307e",
+      "slug": "african-actions-annotated-videos-for-ai-747ab3d0",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmrxokivf009bl4076o9i6wx0",
-      "lastmod": "2026-09-01T17:11:15.694Z",
+      "lastmod": "2026-10-27T21:23:44.090Z",
       "schema_path": null,
       "schema_url": null
     },

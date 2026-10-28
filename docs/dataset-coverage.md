@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-27  
+**Last updated:** 2026-10-28  
 **Total datasets in sitemap:** 1207  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 788 ❌  
@@ -376,7 +376,7 @@ data programmatically.
 | `cmpdye1q800mnnu07toknnvps` | StackOverflow Knowledge Graph - Python | `stackoverflow-knowledge-graph-python-2f1963f0` | [link](https://mozilladatacollective.com/datasets/cmpdye1q800mnnu07toknnvps) | ❌ |
 | `cmpdye7xc00mjnv07ug7zhu9k` | StackOverflow Knowledge Graph - Assembly | `stackoverflow-knowledge-graph-assembly-75835f5b` | [link](https://mozilladatacollective.com/datasets/cmpdye7xc00mjnv07ug7zhu9k) | ❌ |
 | `cmpdyefi900mrnu076a7ge28i` | StackOverflow Knowledge Graph - Abap | `stackoverflow-knowledge-graph-abap-6709aa4e` | [link](https://mozilladatacollective.com/datasets/cmpdyefi900mrnu076a7ge28i) | ❌ |
-| `cmpdyeljq00mvnu07y0s26kw5` | StackOverflow Knowledge Graph - .Net | `stackoverflow-knowledge-graph-net-a70d45f5` | [link](https://mozilladatacollective.com/datasets/cmpdyeljq00mvnu07y0s26kw5) | ❌ |
+| `cmpdyeljq00mvnu07y0s26kw5` | StackOverflow Knowledge Graph - .NET | `stackoverflow-knowledge-graph-net-0f7f2467` | [link](https://mozilladatacollective.com/datasets/cmpdyeljq00mvnu07y0s26kw5) | ❌ |
 | `cmpdyes6u00mnnv07wyjjzpgg` | StackOverflow Knowledge Graph - Vb.Net | `stackoverflow-knowledge-graph-vb-net-c0ed255b` | [link](https://mozilladatacollective.com/datasets/cmpdyes6u00mnnv07wyjjzpgg) | ❌ |
 | `cmpdyhlyw00mrnv07va1jwwko` | StackOverflow Knowledge Graph - Shell | `stackoverflow-knowledge-graph-shell-20c87694` | [link](https://mozilladatacollective.com/datasets/cmpdyhlyw00mrnv07va1jwwko) | ❌ |
 | `cmpdyhww200n5nu07ez4y7ppw` | StackOverflow Knowledge Graph - Scala | `stackoverflow-knowledge-graph-scala-055d8995` | [link](https://mozilladatacollective.com/datasets/cmpdyhww200n5nu07ez4y7ppw) | ❌ |
@@ -396,13 +396,13 @@ data programmatically.
 | `cmpdym5uw00o1nu071kqpz3vw` | StackOverflow Knowledge Graph - Java | `stackoverflow-knowledge-graph-java-a089dbd7` | [link](https://mozilladatacollective.com/datasets/cmpdym5uw00o1nu071kqpz3vw) | ❌ |
 | `cmpdymcul00npnv07amwfj0zq` | StackOverflow Knowledge Graph - Html | `stackoverflow-knowledge-graph-html-a0d2cdbe` | [link](https://mozilladatacollective.com/datasets/cmpdymcul00npnv07amwfj0zq) | ❌ |
 | `cmpdymk8t00ntnv07vw6h2zhr` | StackOverflow Knowledge Graph - Haskell | `stackoverflow-knowledge-graph-haskell-50d95a23` | [link](https://mozilladatacollective.com/datasets/cmpdymk8t00ntnv07vw6h2zhr) | ❌ |
-| `cmpdymqte00o9nu07mzkxwxfb` | StackOverflow Knowledge Graph - GO | `stackoverflow-knowledge-graph-go-6a765e96` | [link](https://mozilladatacollective.com/datasets/cmpdymqte00o9nu07mzkxwxfb) | ❌ |
+| `cmpdymqte00o9nu07mzkxwxfb` | StackOverflow Knowledge Graph - Go | `stackoverflow-knowledge-graph-go-e1059728` | [link](https://mozilladatacollective.com/datasets/cmpdymqte00o9nu07mzkxwxfb) | ❌ |
 | `cmpdymy7o00ofnu0743zb36hs` | StackOverflow Knowledge Graph - F# | `stackoverflow-knowledge-graph-f-730fbf79` | [link](https://mozilladatacollective.com/datasets/cmpdymy7o00ofnu0743zb36hs) | ❌ |
 | `cmpdyn3lc00ojnu07qfq4ff3h` | StackOverflow Knowledge Graph - Fortran | `stackoverflow-knowledge-graph-fortran-d5891b3f` | [link](https://mozilladatacollective.com/datasets/cmpdyn3lc00ojnu07qfq4ff3h) | ❌ |
 | `cmpdynb1g00onnu0783qgrvdr` | StackOverflow Knowledge Graph - Erlang | `stackoverflow-knowledge-graph-erlang-97d66107` | [link](https://mozilladatacollective.com/datasets/cmpdynb1g00onnu0783qgrvdr) | ❌ |
 | `cmpdyng3300nxnv07p9nlq3na` | StackOverflow Knowledge Graph - Elixir | `stackoverflow-knowledge-graph-elixir-36cd62bf` | [link](https://mozilladatacollective.com/datasets/cmpdyng3300nxnv07p9nlq3na) | ❌ |
 | `cmpdynmf900o1nv07s9a3fopl` | StackOverflow Knowledge Graph - Dart | `stackoverflow-knowledge-graph-dart-b555cf94` | [link](https://mozilladatacollective.com/datasets/cmpdynmf900o1nv07s9a3fopl) | ❌ |
-| `cmpdyntcn00o5nv07wwkgz5x7` | StackOverflow Knowledge Graph - CSS | `stackoverflow-knowledge-graph-css-7cbf7052` | [link](https://mozilladatacollective.com/datasets/cmpdyntcn00o5nv07wwkgz5x7) | ❌ |
+| `cmpdyntcn00o5nv07wwkgz5x7` | StackOverflow Knowledge Graph - Css | `stackoverflow-knowledge-graph-css-99692021` | [link](https://mozilladatacollective.com/datasets/cmpdyntcn00o5nv07wwkgz5x7) | ❌ |
 | `cmpdynyzu00ornu074r3i2ndm` | StackOverflow Knowledge Graph - C# | `stackoverflow-knowledge-graph-c-98a1e062` | [link](https://mozilladatacollective.com/datasets/cmpdynyzu00ornu074r3i2ndm) | ❌ |
 | `cmpdyo45100o9nv07np0uqmpm` | StackOverflow Knowledge Graph - Cobol | `stackoverflow-knowledge-graph-cobol-aae66736` | [link](https://mozilladatacollective.com/datasets/cmpdyo45100o9nv07np0uqmpm) | ❌ |
 | `cmpdyoaa300ovnu07ruxpomwb` | StackOverflow Knowledge Graph - C | `stackoverflow-knowledge-graph-c-8eae0fa1` | [link](https://mozilladatacollective.com/datasets/cmpdyoaa300ovnu07ruxpomwb) | ❌ |
@@ -545,7 +545,7 @@ data programmatically.
 | `cmrbac56k00lbmm070txylq42` | Eton-TTS-Dataset | `eton-tts-dataset-511d7dbe` | [link](https://mozilladatacollective.com/datasets/cmrbac56k00lbmm070txylq42) | ❌ |
 | `cmrbacjej00lfmm07miqrz23s` | Tupuri-Bango_TTS-Dataset (female voice) | `tupuri-bango-tts-dataset-female-voice-1f09dd2c` | [link](https://mozilladatacollective.com/datasets/cmrbacjej00lfmm07miqrz23s) | ❌ |
 | `cmrbad2ho00o5nz07t3vjmdnd` | Adjuntos Solicitudes Información — Aguascalientes | `adjuntos-solicitudes-informaci-n-aguasca-fa5dc9c0` | [link](https://mozilladatacollective.com/datasets/cmrbad2ho00o5nz07t3vjmdnd) | ❌ |
-| `cmrdfjave008uo307ett7d4km` | Medical Domain Mexican Spanish Speech Corpus (MEDMEX) | `medical-domain-mexican-spanish-speech-co-a6a06774` | [link](https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km) | ✅ |
+| `cmrdfjave008uo307ett7d4km` | Medical Domain Mexican Spanish Speech Corpus (MEDMEX) | `medical-domain-mexican-spanish-speech-co-7727e3ee` | [link](https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km) | ✅ |
 | `cmrdfk4ao007po1070z5f4kem` | Conversational Speech in Gujarati in the Medical Domain | `conversational-speech-in-gujarati-in-the-7cd8a046` | [link](https://mozilladatacollective.com/datasets/cmrdfk4ao007po1070z5f4kem) | ✅ |
 | `cmrftle0s01fsnv0755jw602i` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-454a9bd4` | [link](https://mozilladatacollective.com/datasets/cmrftle0s01fsnv0755jw602i) | ❌ |
 | `cmrkqy18t006imm074waw5jbg` | Kannada Text Corpus | `kannada-text-corpus-b95eb8c6` | [link](https://mozilladatacollective.com/datasets/cmrkqy18t006imm074waw5jbg) | ❌ |
@@ -586,8 +586,8 @@ data programmatically.
 | `cmrnmk9ux000hmc07llq1targ` | Adjuntos Solicitudes Información — Federación — VFQ | `adjuntos-solicitudes-informaci-n-federac-966df728` | [link](https://mozilladatacollective.com/datasets/cmrnmk9ux000hmc07llq1targ) | ❌ |
 | `cmroyatmb00wko007rt1g1hr2` | SKAD Ladino Parallel Corpus | `skad-ladino-parallel-corpus-dafb16b2` | [link](https://mozilladatacollective.com/datasets/cmroyatmb00wko007rt1g1hr2) | ❌ |
 | `cmroyc7m900wqo007okjs2jp3` | 🚧 Multi-Subject Human Pose & Facial Expression Dataset (Studio, 4K) 🚧 | `multi-subject-human-pose-facial-expressi-a86a7482` | [link](https://mozilladatacollective.com/datasets/cmroyc7m900wqo007okjs2jp3) | ❌ |
-| `cmrp1sdsj00zemm0822j75968` | Singaporean Tamil Speech Collection | `singaporean-tamil-speech-collection-7fe0b372` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ✅ |
-| `cmrp30fdp0120o007a69s3nfc` | Burmese Speech Collection | `burmese-speech-collection-b1e2e0d5` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ✅ |
+| `cmrp1sdsj00zemm0822j75968` | Singaporean Tamil Speech Collection | `singaporean-tamil-speech-collection-bcf228b3` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ✅ |
+| `cmrp30fdp0120o007a69s3nfc` | Burmese Speech Collection | `burmese-speech-collection-d55fe52c` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ✅ |
 | `cmrt6zbgx000vmm07hfuefigk` | Common Voice Scripted Speech 26.0 - American English (Male) | `common-voice-scripted-speech-26-0-americ-34c3c133` | [link](https://mozilladatacollective.com/datasets/cmrt6zbgx000vmm07hfuefigk) | ❌ |
 | `cmrt6zrob000zmm07yqwjlpwi` | Common Voice Scripted Speech 26.0 - British English | `common-voice-scripted-speech-26-0-britis-0fe481c3` | [link](https://mozilladatacollective.com/datasets/cmrt6zrob000zmm07yqwjlpwi) | ❌ |
 | `cmrt70j4z001qmm07nvfsmgmr` | Common Voice Scripted Speech 26.0 - American English (Female) | `common-voice-scripted-speech-26-0-americ-079c33be` | [link](https://mozilladatacollective.com/datasets/cmrt70j4z001qmm07nvfsmgmr) | ❌ |
@@ -634,7 +634,7 @@ data programmatically.
 | `cmrxj3dus002fl407nbjb6lmc` |  Sindhi Alpaca | `sindhi-alpaca-f573013f` | [link](https://mozilladatacollective.com/datasets/cmrxj3dus002fl407nbjb6lmc) | ❌ |
 | `cmrxj3m5q0021o907tnm6c9jp` | A Kanuri Sociocultural Dataset | `a-kanuri-sociocultural-dataset-716f9a4b` | [link](https://mozilladatacollective.com/datasets/cmrxj3m5q0021o907tnm6c9jp) | ❌ |
 | `cmrxo0ayv008vl40743ndzpbr` | MMLU ProX Sndhi | `mmlu-prox-sndhi-7b5de314` | [link](https://mozilladatacollective.com/datasets/cmrxo0ayv008vl40743ndzpbr) | ❌ |
-| `cmrxokivf009bl4076o9i6wx0` | African Actions Annotated Videos for AI (Health Domain) | `african-actions-annotated-videos-for-ai-7a6b307e` | [link](https://mozilladatacollective.com/datasets/cmrxokivf009bl4076o9i6wx0) | ❌ |
+| `cmrxokivf009bl4076o9i6wx0` | African Actions Annotated Videos for AI (Health Domain) | `african-actions-annotated-videos-for-ai-747ab3d0` | [link](https://mozilladatacollective.com/datasets/cmrxokivf009bl4076o9i6wx0) | ❌ |
 | `cmrxrbueb00bll407nsqplz8t` | A Bakoko Sociocultural Dataset | `a-bakoko-sociocultural-dataset-bff2bde8` | [link](https://mozilladatacollective.com/datasets/cmrxrbueb00bll407nsqplz8t) | ❌ |
 | `cmryvqp3v014ro907pnnrblm6` | Priangan Dialect of Sundanese-IND-ENG-ARB Parallel Corpus | `priangan-dialect-of-sundanese-ind-eng-ar-fec67ae0` | [link](https://mozilladatacollective.com/datasets/cmryvqp3v014ro907pnnrblm6) | ❌ |
 | `cmryvrc6i014vo90786kriix5` | Common Voice Scripted Speech 26.0 - Southern American English | `common-voice-scripted-speech-26-0-southe-d50b474b` | [link](https://mozilladatacollective.com/datasets/cmryvrc6i014vo90786kriix5) | ❌ |
