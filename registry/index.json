@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-29T05:12:12.664180+00:00",
+  "generated_at": "2026-10-30T05:11:49.632738+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -6275,9 +6275,9 @@
       "has_schema": true,
       "listed": true,
       "name": "Burmese Speech Collection",
-      "slug": "burmese-speech-collection-d55fe52c",
+      "slug": "burmese-speech-collection-cbdda6bf",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc",
-      "lastmod": "2026-10-27T22:44:15.428Z",
+      "lastmod": "2026-10-29T22:42:50.931Z",
       "schema_path": "registry/cmrp30fdp0120o007a69s3nfc/schema.yaml",
       "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmrp30fdp0120o007a69s3nfc/schema.yaml"
     },
