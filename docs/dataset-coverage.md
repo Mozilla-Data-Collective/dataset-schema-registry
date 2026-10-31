@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-30  
+**Last updated:** 2026-10-31  
 **Total datasets in sitemap:** 1207  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 788 ❌  
@@ -369,7 +369,7 @@ data programmatically.
 | `cmpdy14ka00lhnu07yzk3ixyn` | Khmer ASR Cultural Dataset (Version 3 - Part 2) | `khmer-asr-cultural-dataset-version-3-par-acc271d3` | [link](https://mozilladatacollective.com/datasets/cmpdy14ka00lhnu07yzk3ixyn) | ❌ |
 | `cmpdy19nn00llnu07y94pzeu4` | Khmer ASR Cultural Dataset (Version 3 - Part 5) | `khmer-asr-cultural-dataset-version-3-par-114b001c` | [link](https://mozilladatacollective.com/datasets/cmpdy19nn00llnu07y94pzeu4) | ❌ |
 | `cmpdycv7k00m7nu07co3jmxt8` | StackOverflow Knowledge Graph - C++ | `stackoverflow-knowledge-graph-c-141ce5ef` | [link](https://mozilladatacollective.com/datasets/cmpdycv7k00m7nu07co3jmxt8) | ❌ |
-| `cmpdyd5r500mbnu07ntygcv16` | StackOverflow Knowledge Graph - SQL | `stackoverflow-knowledge-graph-sql-eb74fa16` | [link](https://mozilladatacollective.com/datasets/cmpdyd5r500mbnu07ntygcv16) | ❌ |
+| `cmpdyd5r500mbnu07ntygcv16` | StackOverflow Knowledge Graph - Sql | `stackoverflow-knowledge-graph-sql-a526cdd7` | [link](https://mozilladatacollective.com/datasets/cmpdyd5r500mbnu07ntygcv16) | ❌ |
 | `cmpdydc4o00mfnu0761rbiv86` | StackOverflow Knowledge Graph - R | `stackoverflow-knowledge-graph-r-98793fad` | [link](https://mozilladatacollective.com/datasets/cmpdydc4o00mfnu0761rbiv86) | ❌ |
 | `cmpdydl4400mbnv07rzc2sf56` | StackOverflow Knowledge Graph - Swift | `stackoverflow-knowledge-graph-swift-d56fb91a` | [link](https://mozilladatacollective.com/datasets/cmpdydl4400mbnv07rzc2sf56) | ❌ |
 | `cmpdydrp600mfnv07yake2j40` | StackOverflow Knowledge Graph - Typescript | `stackoverflow-knowledge-graph-typescript-bdb9a10a` | [link](https://mozilladatacollective.com/datasets/cmpdydrp600mfnv07yake2j40) | ❌ |
@@ -377,18 +377,18 @@ data programmatically.
 | `cmpdye7xc00mjnv07ug7zhu9k` | StackOverflow Knowledge Graph - Assembly | `stackoverflow-knowledge-graph-assembly-75835f5b` | [link](https://mozilladatacollective.com/datasets/cmpdye7xc00mjnv07ug7zhu9k) | ❌ |
 | `cmpdyefi900mrnu076a7ge28i` | StackOverflow Knowledge Graph - Abap | `stackoverflow-knowledge-graph-abap-6709aa4e` | [link](https://mozilladatacollective.com/datasets/cmpdyefi900mrnu076a7ge28i) | ❌ |
 | `cmpdyeljq00mvnu07y0s26kw5` | StackOverflow Knowledge Graph - .NET | `stackoverflow-knowledge-graph-net-0f7f2467` | [link](https://mozilladatacollective.com/datasets/cmpdyeljq00mvnu07y0s26kw5) | ❌ |
-| `cmpdyes6u00mnnv07wyjjzpgg` | StackOverflow Knowledge Graph - Vb.Net | `stackoverflow-knowledge-graph-vb-net-c0ed255b` | [link](https://mozilladatacollective.com/datasets/cmpdyes6u00mnnv07wyjjzpgg) | ❌ |
+| `cmpdyes6u00mnnv07wyjjzpgg` | StackOverflow Knowledge Graph - VB.NET | `stackoverflow-knowledge-graph-vb-net-371f0e60` | [link](https://mozilladatacollective.com/datasets/cmpdyes6u00mnnv07wyjjzpgg) | ❌ |
 | `cmpdyhlyw00mrnv07va1jwwko` | StackOverflow Knowledge Graph - Shell | `stackoverflow-knowledge-graph-shell-20c87694` | [link](https://mozilladatacollective.com/datasets/cmpdyhlyw00mrnv07va1jwwko) | ❌ |
 | `cmpdyhww200n5nu07ez4y7ppw` | StackOverflow Knowledge Graph - Scala | `stackoverflow-knowledge-graph-scala-055d8995` | [link](https://mozilladatacollective.com/datasets/cmpdyhww200n5nu07ez4y7ppw) | ❌ |
 | `cmpdyi6wl00mvnv077tm2mqdf` | StackOverflow Knowledge Graph - Rust | `stackoverflow-knowledge-graph-rust-d2142f08` | [link](https://mozilladatacollective.com/datasets/cmpdyi6wl00mvnv077tm2mqdf) | ❌ |
 | `cmpdyjegk00ndnu07rq7ai8g7` | StackOverflow Knowledge Graph - Ruby | `stackoverflow-knowledge-graph-ruby-c91c093f` | [link](https://mozilladatacollective.com/datasets/cmpdyjegk00ndnu07rq7ai8g7) | ❌ |
 | `cmpdyjnp900n1nv079ccqu2x3` | StackOverflow Knowledge Graph - Prolog | `stackoverflow-knowledge-graph-prolog-6985774a` | [link](https://mozilladatacollective.com/datasets/cmpdyjnp900n1nv079ccqu2x3) | ❌ |
 | `cmpdyjvuj00nhnu07sbmm4giq` | StackOverflow Knowledge Graph - Powershell | `stackoverflow-knowledge-graph-powershell-74cf48f0` | [link](https://mozilladatacollective.com/datasets/cmpdyjvuj00nhnu07sbmm4giq) | ❌ |
-| `cmpdyk3ap00n5nv078lcz7evy` | StackOverflow Knowledge Graph - PHP | `stackoverflow-knowledge-graph-php-18027f11` | [link](https://mozilladatacollective.com/datasets/cmpdyk3ap00n5nv078lcz7evy) | ❌ |
+| `cmpdyk3ap00n5nv078lcz7evy` | StackOverflow Knowledge Graph - Php | `stackoverflow-knowledge-graph-php-a5237d49` | [link](https://mozilladatacollective.com/datasets/cmpdyk3ap00n5nv078lcz7evy) | ❌ |
 | `cmpdyk9yd00n9nv073odu03go` | StackOverflow Knowledge Graph - Perl | `stackoverflow-knowledge-graph-perl-c5647859` | [link](https://mozilladatacollective.com/datasets/cmpdyk9yd00n9nv073odu03go) | ❌ |
 | `cmpdykii200ndnv07wkw14oqa` | StackOverflow Knowledge Graph - Objective-C | `stackoverflow-knowledge-graph-objective-3d8f7139` | [link](https://mozilladatacollective.com/datasets/cmpdykii200ndnv07wkw14oqa) | ❌ |
 | `cmpdyknrh00nhnv07ohqk1hrc` | StackOverflow Knowledge Graph - Matlab | `stackoverflow-knowledge-graph-matlab-17b262a1` | [link](https://mozilladatacollective.com/datasets/cmpdyknrh00nhnv07ohqk1hrc) | ❌ |
-| `cmpdykw5h00nlnu079ty86xbw` | StackOverflow Knowledge Graph - LUA | `stackoverflow-knowledge-graph-lua-e81874d5` | [link](https://mozilladatacollective.com/datasets/cmpdykw5h00nlnu079ty86xbw) | ❌ |
+| `cmpdykw5h00nlnu079ty86xbw` | StackOverflow Knowledge Graph - Lua | `stackoverflow-knowledge-graph-lua-256f4bec` | [link](https://mozilladatacollective.com/datasets/cmpdykw5h00nlnu079ty86xbw) | ❌ |
 | `cmpdyl2wk00npnu0727nrkvfk` | StackOverflow Knowledge Graph - Lisp | `stackoverflow-knowledge-graph-lisp-8bf13c71` | [link](https://mozilladatacollective.com/datasets/cmpdyl2wk00npnu0727nrkvfk) | ❌ |
 | `cmpdyl8p800ntnu07od7r1u51` | StackOverflow Knowledge Graph - Kotlin | `stackoverflow-knowledge-graph-kotlin-295eaf3a` | [link](https://mozilladatacollective.com/datasets/cmpdyl8p800ntnu07od7r1u51) | ❌ |
 | `cmpdylr4p00nxnu07j6vnqwl6` | StackOverflow Knowledge Graph - Julia | `stackoverflow-knowledge-graph-julia-1c182c47` | [link](https://mozilladatacollective.com/datasets/cmpdylr4p00nxnu07j6vnqwl6) | ❌ |
