@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-10-31  
+**Last updated:** 2026-11-02  
 **Total datasets in sitemap:** 1207  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 788 ❌  
@@ -1195,7 +1195,7 @@ data programmatically.
 | `cmumq51mj0aacny078eindv36` | ASR Javanese-Lumajang Dialect | `asr-javanese-lumajang-dialect-ad3d9448` | [link](https://mozilladatacollective.com/datasets/cmumq51mj0aacny078eindv36) | ❌ |
 | `cmunh938900s8nv07978b0bpo` | FHIBE Downsampled | `fhibe-downsampled-48b1efaf` | [link](https://mozilladatacollective.com/datasets/cmunh938900s8nv07978b0bpo) | ❌ |
 | `cmuo1rfsj01runn073id66vg7` | Central Kanuri Speech Dataset | `central-kanuri-speech-dataset-6dbd71d4` | [link](https://mozilladatacollective.com/datasets/cmuo1rfsj01runn073id66vg7) | ❌ |
-| `cmuppz5bm01s5mg067qo2b8x3` | 🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧 | `hitch-hiker-mirror-suit-robotics-data-ddedfb7a` | [link](https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3) | ❌ |
+| `cmuppz5bm01s5mg067qo2b8x3` | 🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧 | `hitch-hiker-mirror-suit-robotics-data-cacff88f` | [link](https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3) | ❌ |
 | `cmuqxko7s007cnu06hmyin16s` | Italian female voice reading Italian Penal Code | `italian-female-voice-reading-italian-pen-2920cbae` | [link](https://mozilladatacollective.com/datasets/cmuqxko7s007cnu06hmyin16s) | ❌ |
 | `cmur3t40n00d2nv07fy3cnbrg` | FHIBE Downsampled Overlays | `fhibe-downsampled-overlays-1561d0a8` | [link](https://mozilladatacollective.com/datasets/cmur3t40n00d2nv07fy3cnbrg) | ❌ |
 | `cmur493eo00cenu06cebwn39k` | FHIBE Face Crop Align | `fhibe-face-crop-align-43c4c7c7` | [link](https://mozilladatacollective.com/datasets/cmur493eo00cenu06cebwn39k) | ❌ |
@@ -1206,7 +1206,7 @@ data programmatically.
 | `cmur9ejxo00henu06xdkexx23` | TICO-19 (Covid-domain) Speech – Congolese Swahili | `tico-19-covid-domain-speech-congolese-sw-d21ada76` | [link](https://mozilladatacollective.com/datasets/cmur9ejxo00henu06xdkexx23) | ❌ |
 | `cmur9gqs000henv07aonkl1sv` | MALOBA Lingala OCR transcriptions, harmonised text (v1.1) | `maloba-lingala-ocr-transcriptions-harmon-bc830b43` | [link](https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv) | ❌ |
 | `cmut2t2wg02binv074906cueh` | Synthetic Javanese–Indonesian Conversational Speech | `synthetic-javanese-indonesian-conversati-ed6cac7a` | [link](https://mozilladatacollective.com/datasets/cmut2t2wg02binv074906cueh) | ❌ |
-| `cmuv814nm0040ns08kyzpnry4` | Ukrainian–Russian–Surzhyk Read Speech | `ukrainian-russian-surzhyk-read-speech-f2bb97e9` | [link](https://mozilladatacollective.com/datasets/cmuv814nm0040ns08kyzpnry4) | ❌ |
+| `cmuv814nm0040ns08kyzpnry4` | Ukrainian–Russian–Surzhyk Read Speech | `ukrainian-russian-surzhyk-read-speech-f9a401df` | [link](https://mozilladatacollective.com/datasets/cmuv814nm0040ns08kyzpnry4) | ❌ |
 | `cmuvj8h64005ko107pwsqx7jj` | Kanuri Lexicon | `kanuri-lexicon-beb22f5c` | [link](https://mozilladatacollective.com/datasets/cmuvj8h64005ko107pwsqx7jj) | ❌ |
 | `cmuwux5uv009b08o5bjtelh4s` | High quality TTS data for Javanese (OpenSLR 41) | `high-quality-tts-data-for-javanese-opens-dd9ac306` | [link](https://mozilladatacollective.com/datasets/cmuwux5uv009b08o5bjtelh4s) | ❌ |
 | `cmuwuxgta009d07mfzupkk4b0` | Large Javanese ASR training data set (OpenSLR 35), 8,000-utterance subset | `large-javanese-asr-training-data-set-ope-28458110` | [link](https://mozilladatacollective.com/datasets/cmuwuxgta009d07mfzupkk4b0) | ❌ |

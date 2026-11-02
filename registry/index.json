@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-10-31T05:09:34.778207+00:00",
+  "generated_at": "2026-11-02T05:11:55.287416+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -12963,9 +12963,9 @@
       "has_schema": false,
       "listed": true,
       "name": "🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧",
-      "slug": "hitch-hiker-mirror-suit-robotics-data-ddedfb7a",
+      "slug": "hitch-hiker-mirror-suit-robotics-data-cacff88f",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3",
-      "lastmod": "2026-10-02T19:41:06.809Z",
+      "lastmod": "2026-11-01T12:45:32.597Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13084,9 +13084,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Ukrainian–Russian–Surzhyk Read Speech",
-      "slug": "ukrainian-russian-surzhyk-read-speech-f2bb97e9",
+      "slug": "ukrainian-russian-surzhyk-read-speech-f9a401df",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmuv814nm0040ns08kyzpnry4",
-      "lastmod": "2026-10-05T12:23:41.267Z",
+      "lastmod": "2026-11-01T15:16:41.915Z",
       "schema_path": null,
       "schema_url": null
     },
