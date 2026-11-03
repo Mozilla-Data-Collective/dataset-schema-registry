@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-02  
+**Last updated:** 2026-11-03  
 **Total datasets in sitemap:** 1207  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 788 ❌  
@@ -477,35 +477,35 @@ data programmatically.
 | `cmqnyh34j03qynr07nhstiajm` | Sindhi Figurative Language Dataset (SiNFluD) | `sindhi-figurative-language-dataset-sinfl-07c2498f` | [link](https://mozilladatacollective.com/datasets/cmqnyh34j03qynr07nhstiajm) | ❌ |
 | `cmqnyiefo03r2nr07t906b7fg` | Sindhi Parts Of Speech (SiPOS) | `sindhi-parts-of-speech-sipos-78f03aa2` | [link](https://mozilladatacollective.com/datasets/cmqnyiefo03r2nr07t906b7fg) | ❌ |
 | `cmqnyjp9j0407mm07nolj3h4h` | Biomedical Urdu Named Entity Recognition (BioUNER) | `biomedical-urdu-named-entity-recognition-64967abc` | [link](https://mozilladatacollective.com/datasets/cmqnyjp9j0407mm07nolj3h4h) | ❌ |
-| `cmqorqzbc0416nr076ph6688d` | StackOverflow Vector Dataset - Elixir | `stackoverflow-vector-dataset-elixir-4a386bf9` | [link](https://mozilladatacollective.com/datasets/cmqorqzbc0416nr076ph6688d) | ❌ |
-| `cmqorrbkw04bfmm07jewd4c1b` | StackOverflow Vector Dataset - Vb.Net | `stackoverflow-vector-dataset-vb-net-0de527cd` | [link](https://mozilladatacollective.com/datasets/cmqorrbkw04bfmm07jewd4c1b) | ❌ |
-| `cmqors3dy04bjmm07sha0nug2` | StackOverflow Vector Dataset - Typescript | `stackoverflow-vector-dataset-typescript-fa6a256c` | [link](https://mozilladatacollective.com/datasets/cmqors3dy04bjmm07sha0nug2) | ❌ |
-| `cmqorss9a041anr07r06xlutv` | StackOverflow Vector Dataset - Swift | `stackoverflow-vector-dataset-swift-1c2ab2bf` | [link](https://mozilladatacollective.com/datasets/cmqorss9a041anr07r06xlutv) | ❌ |
-| `cmqort3bz041enr07jt5ko8tf` | StackOverflow Vector Dataset - SQL | `stackoverflow-vector-dataset-sql-95d57016` | [link](https://mozilladatacollective.com/datasets/cmqort3bz041enr07jt5ko8tf) | ❌ |
-| `cmqow5ozf0456nr07aoed2rgz` | StackOverflow Vector Dataset - Shell | `stackoverflow-vector-dataset-shell-10261767` | [link](https://mozilladatacollective.com/datasets/cmqow5ozf0456nr07aoed2rgz) | ❌ |
-| `cmqow63hi04fxmm0738oysre7` | StackOverflow Vector Dataset - Abap | `stackoverflow-vector-dataset-abap-9584f39d` | [link](https://mozilladatacollective.com/datasets/cmqow63hi04fxmm0738oysre7) | ❌ |
-| `cmqow70ai04g1mm077r6pkfe0` | StackOverflow Vector Dataset - Erlang | `stackoverflow-vector-dataset-erlang-ecd33263` | [link](https://mozilladatacollective.com/datasets/cmqow70ai04g1mm077r6pkfe0) | ❌ |
-| `cmqow7du304g5mm07bx3blas4` | StackOverflow Vector Dataset - Fortran | `stackoverflow-vector-dataset-fortran-094e17ae` | [link](https://mozilladatacollective.com/datasets/cmqow7du304g5mm07bx3blas4) | ❌ |
-| `cmqow7mfh04g9mm07fennsvgt` | StackOverflow Vector Dataset - F# | `stackoverflow-vector-dataset-f-69a71fd3` | [link](https://mozilladatacollective.com/datasets/cmqow7mfh04g9mm07fennsvgt) | ❌ |
-| `cmqow7w6i04gdmm07u142hmbr` | StackOverflow Vector Dataset - .Net | `stackoverflow-vector-dataset-net-741c24a5` | [link](https://mozilladatacollective.com/datasets/cmqow7w6i04gdmm07u142hmbr) | ❌ |
-| `cmqow86pk045enr07tiz71bqc` | StackOverflow Vector Dataset - GO | `stackoverflow-vector-dataset-go-e8ccf77f` | [link](https://mozilladatacollective.com/datasets/cmqow86pk045enr07tiz71bqc) | ❌ |
-| `cmqow8e87045inr07b6pmk5ct` | StackOverflow Vector Dataset - Haskell | `stackoverflow-vector-dataset-haskell-6547af7a` | [link](https://mozilladatacollective.com/datasets/cmqow8e87045inr07b6pmk5ct) | ❌ |
-| `cmqow8lrd045mnr07cuzqet8x` | StackOverflow Vector Dataset - Html | `stackoverflow-vector-dataset-html-bc291c4d` | [link](https://mozilladatacollective.com/datasets/cmqow8lrd045mnr07cuzqet8x) | ❌ |
-| `cmqow8u0q045qnr07lfv6w12m` | StackOverflow Vector Dataset - Javascript | `stackoverflow-vector-dataset-javascript-f509a66b` | [link](https://mozilladatacollective.com/datasets/cmqow8u0q045qnr07lfv6w12m) | ❌ |
-| `cmqow92ft045unr07xwtjbmv7` | StackOverflow Vector Dataset - Julia | `stackoverflow-vector-dataset-julia-ec23030a` | [link](https://mozilladatacollective.com/datasets/cmqow92ft045unr07xwtjbmv7) | ❌ |
-| `cmqow9ckh04gjmm07oxedr358` | StackOverflow Vector Dataset - Kotlin | `stackoverflow-vector-dataset-kotlin-3b14c5b5` | [link](https://mozilladatacollective.com/datasets/cmqow9ckh04gjmm07oxedr358) | ❌ |
-| `cmqowa5rz04gnmm078l3hr2by` | StackOverflow Vector Dataset - Lisp | `stackoverflow-vector-dataset-lisp-b67c87bb` | [link](https://mozilladatacollective.com/datasets/cmqowa5rz04gnmm078l3hr2by) | ❌ |
-| `cmqowaied04grmm07l7ozbrmo` | StackOverflow Vector Dataset - LUA | `stackoverflow-vector-dataset-lua-91962f9d` | [link](https://mozilladatacollective.com/datasets/cmqowaied04grmm07l7ozbrmo) | ❌ |
-| `cmqox0usf046anr07fykkjdtm` | StackOverflow Vector Dataset - Objective-C | `stackoverflow-vector-dataset-objective-c-03b158b4` | [link](https://mozilladatacollective.com/datasets/cmqox0usf046anr07fykkjdtm) | ❌ |
-| `cmqox12j904h5mm07wldoslw8` | StackOverflow Vector Dataset - Matlab | `stackoverflow-vector-dataset-matlab-3d53b9c1` | [link](https://mozilladatacollective.com/datasets/cmqox12j904h5mm07wldoslw8) | ❌ |
-| `cmqox1aeq046enr07b53hg6gm` | StackOverflow Vector Dataset - Perl | `stackoverflow-vector-dataset-perl-a6fe16e9` | [link](https://mozilladatacollective.com/datasets/cmqox1aeq046enr07b53hg6gm) | ❌ |
-| `cmqoxdl3h04htmm07ykko1b14` | StackOverflow Vector Dataset - Scala | `stackoverflow-vector-dataset-scala-2c4ba66e` | [link](https://mozilladatacollective.com/datasets/cmqoxdl3h04htmm07ykko1b14) | ❌ |
-| `cmqoxdu6p046wnr07coxxm2az` | StackOverflow Vector Dataset - PHP | `stackoverflow-vector-dataset-php-e2acb5f2` | [link](https://mozilladatacollective.com/datasets/cmqoxdu6p046wnr07coxxm2az) | ❌ |
-| `cmqoxe60x04i1mm07n42p8u9g` | StackOverflow Vector Dataset - Rust | `stackoverflow-vector-dataset-rust-7b204afe` | [link](https://mozilladatacollective.com/datasets/cmqoxe60x04i1mm07n42p8u9g) | ❌ |
-| `cmqoxees004i5mm07ldikrbx8` | StackOverflow Vector Dataset - R | `stackoverflow-vector-dataset-r-9007e598` | [link](https://mozilladatacollective.com/datasets/cmqoxees004i5mm07ldikrbx8) | ❌ |
-| `cmqoxeo1304i9mm0786tci05c` | StackOverflow Vector Dataset - Ruby | `stackoverflow-vector-dataset-ruby-c914b445` | [link](https://mozilladatacollective.com/datasets/cmqoxeo1304i9mm0786tci05c) | ❌ |
-| `cmqoxh2ej0470nr07fd8ndmnu` | StackOverflow Vector Dataset - Python | `stackoverflow-vector-dataset-python-d4e9e70e` | [link](https://mozilladatacollective.com/datasets/cmqoxh2ej0470nr07fd8ndmnu) | ❌ |
-| `cmqoxhgnj04ilmm07zo4l05g4` | StackOverflow Vector Dataset - Prolog | `stackoverflow-vector-dataset-prolog-8160bb5f` | [link](https://mozilladatacollective.com/datasets/cmqoxhgnj04ilmm07zo4l05g4) | ❌ |
+| `cmqorqzbc0416nr076ph6688d` | StackOverflow Vector Database - elixir | `stackoverflow-vector-database-elixir-0caa2fbc` | [link](https://mozilladatacollective.com/datasets/cmqorqzbc0416nr076ph6688d) | ❌ |
+| `cmqorrbkw04bfmm07jewd4c1b` | StackOverflow Vector Database - vb.net | `stackoverflow-vector-database-vb-net-51a096a7` | [link](https://mozilladatacollective.com/datasets/cmqorrbkw04bfmm07jewd4c1b) | ❌ |
+| `cmqors3dy04bjmm07sha0nug2` | StackOverflow Vector Database - typescript | `stackoverflow-vector-database-typescript-8900b324` | [link](https://mozilladatacollective.com/datasets/cmqors3dy04bjmm07sha0nug2) | ❌ |
+| `cmqorss9a041anr07r06xlutv` | StackOverflow Vector Database - swift | `stackoverflow-vector-database-swift-3c5f9cf1` | [link](https://mozilladatacollective.com/datasets/cmqorss9a041anr07r06xlutv) | ❌ |
+| `cmqort3bz041enr07jt5ko8tf` | StackOverflow Vector Database - sql | `stackoverflow-vector-database-sql-f805b3c9` | [link](https://mozilladatacollective.com/datasets/cmqort3bz041enr07jt5ko8tf) | ❌ |
+| `cmqow5ozf0456nr07aoed2rgz` | StackOverflow Vector Database - shell | `stackoverflow-vector-database-shell-176b4803` | [link](https://mozilladatacollective.com/datasets/cmqow5ozf0456nr07aoed2rgz) | ❌ |
+| `cmqow63hi04fxmm0738oysre7` | StackOverflow Vector Database - abap | `stackoverflow-vector-database-abap-aac17d4c` | [link](https://mozilladatacollective.com/datasets/cmqow63hi04fxmm0738oysre7) | ❌ |
+| `cmqow70ai04g1mm077r6pkfe0` | StackOverflow Vector Database - erlang | `stackoverflow-vector-database-erlang-c345dd65` | [link](https://mozilladatacollective.com/datasets/cmqow70ai04g1mm077r6pkfe0) | ❌ |
+| `cmqow7du304g5mm07bx3blas4` | StackOverflow Vector Database - fortran | `stackoverflow-vector-database-fortran-73f0f7b3` | [link](https://mozilladatacollective.com/datasets/cmqow7du304g5mm07bx3blas4) | ❌ |
+| `cmqow7mfh04g9mm07fennsvgt` | StackOverflow Vector Database - f# | `stackoverflow-vector-database-f-7e0d67db` | [link](https://mozilladatacollective.com/datasets/cmqow7mfh04g9mm07fennsvgt) | ❌ |
+| `cmqow7w6i04gdmm07u142hmbr` | StackOverflow Vector Database - .net | `stackoverflow-vector-database-net-642973d0` | [link](https://mozilladatacollective.com/datasets/cmqow7w6i04gdmm07u142hmbr) | ❌ |
+| `cmqow86pk045enr07tiz71bqc` | StackOverflow Vector Database - go | `stackoverflow-vector-database-go-8b0eccea` | [link](https://mozilladatacollective.com/datasets/cmqow86pk045enr07tiz71bqc) | ❌ |
+| `cmqow8e87045inr07b6pmk5ct` | StackOverflow Vector Database - haskell | `stackoverflow-vector-database-haskell-ac5e3c9b` | [link](https://mozilladatacollective.com/datasets/cmqow8e87045inr07b6pmk5ct) | ❌ |
+| `cmqow8lrd045mnr07cuzqet8x` | StackOverflow Vector Database - html | `stackoverflow-vector-database-html-a4d10e06` | [link](https://mozilladatacollective.com/datasets/cmqow8lrd045mnr07cuzqet8x) | ❌ |
+| `cmqow8u0q045qnr07lfv6w12m` | StackOverflow Vector Database - javascript | `stackoverflow-vector-database-javascript-20182dd0` | [link](https://mozilladatacollective.com/datasets/cmqow8u0q045qnr07lfv6w12m) | ❌ |
+| `cmqow92ft045unr07xwtjbmv7` | StackOverflow Vector Database - julia | `stackoverflow-vector-database-julia-f2c7e012` | [link](https://mozilladatacollective.com/datasets/cmqow92ft045unr07xwtjbmv7) | ❌ |
+| `cmqow9ckh04gjmm07oxedr358` | StackOverflow Vector Database - kotlin | `stackoverflow-vector-database-kotlin-b80d11d0` | [link](https://mozilladatacollective.com/datasets/cmqow9ckh04gjmm07oxedr358) | ❌ |
+| `cmqowa5rz04gnmm078l3hr2by` | StackOverflow Vector Database - lisp | `stackoverflow-vector-database-lisp-7f71d4bb` | [link](https://mozilladatacollective.com/datasets/cmqowa5rz04gnmm078l3hr2by) | ❌ |
+| `cmqowaied04grmm07l7ozbrmo` | StackOverflow Vector Database - lua | `stackoverflow-vector-database-lua-0b3241c1` | [link](https://mozilladatacollective.com/datasets/cmqowaied04grmm07l7ozbrmo) | ❌ |
+| `cmqox0usf046anr07fykkjdtm` | StackOverflow Vector Database - objective-c | `stackoverflow-vector-database-objective-3efab4f3` | [link](https://mozilladatacollective.com/datasets/cmqox0usf046anr07fykkjdtm) | ❌ |
+| `cmqox12j904h5mm07wldoslw8` | StackOverflow Vector Database - matlab | `stackoverflow-vector-database-matlab-31907498` | [link](https://mozilladatacollective.com/datasets/cmqox12j904h5mm07wldoslw8) | ❌ |
+| `cmqox1aeq046enr07b53hg6gm` | StackOverflow Vector Database - perl | `stackoverflow-vector-database-perl-ead834ae` | [link](https://mozilladatacollective.com/datasets/cmqox1aeq046enr07b53hg6gm) | ❌ |
+| `cmqoxdl3h04htmm07ykko1b14` | StackOverflow Vector Database - scala | `stackoverflow-vector-database-scala-20c7ed8a` | [link](https://mozilladatacollective.com/datasets/cmqoxdl3h04htmm07ykko1b14) | ❌ |
+| `cmqoxdu6p046wnr07coxxm2az` | StackOverflow Vector Database - php | `stackoverflow-vector-database-php-61e19fd1` | [link](https://mozilladatacollective.com/datasets/cmqoxdu6p046wnr07coxxm2az) | ❌ |
+| `cmqoxe60x04i1mm07n42p8u9g` | StackOverflow Vector Database - rust | `stackoverflow-vector-database-rust-761b100f` | [link](https://mozilladatacollective.com/datasets/cmqoxe60x04i1mm07n42p8u9g) | ❌ |
+| `cmqoxees004i5mm07ldikrbx8` | StackOverflow Vector Database - r | `stackoverflow-vector-database-r-99b8f0df` | [link](https://mozilladatacollective.com/datasets/cmqoxees004i5mm07ldikrbx8) | ❌ |
+| `cmqoxeo1304i9mm0786tci05c` | StackOverflow Vector Database - ruby | `stackoverflow-vector-database-ruby-7f4f28f8` | [link](https://mozilladatacollective.com/datasets/cmqoxeo1304i9mm0786tci05c) | ❌ |
+| `cmqoxh2ej0470nr07fd8ndmnu` | StackOverflow Vector Database - python | `stackoverflow-vector-database-python-8f27f6fc` | [link](https://mozilladatacollective.com/datasets/cmqoxh2ej0470nr07fd8ndmnu) | ❌ |
+| `cmqoxhgnj04ilmm07zo4l05g4` | StackOverflow Vector Database - prolog | `stackoverflow-vector-database-prolog-6f1af4cc` | [link](https://mozilladatacollective.com/datasets/cmqoxhgnj04ilmm07zo4l05g4) | ❌ |
 | `cmqoxho3d0474nr073c9xzind` | StackOverflow Vector Dataset - Powershell | `stackoverflow-vector-dataset-powershell-7a3afb48` | [link](https://mozilladatacollective.com/datasets/cmqoxho3d0474nr073c9xzind) | ❌ |
 | `cmqqcarob05pymm07c3u3jhoj` | AIRI AI4TALK Evenki-Russian Translation | `airi-ai4talk-evenki-russian-translation-92317432` | [link](https://mozilladatacollective.com/datasets/cmqqcarob05pymm07c3u3jhoj) | ❌ |
 | `cmqqsong506h9mm07z7cgqxvh` | StackOverflow Vector Dataset - Java | `stackoverflow-vector-dataset-java-2c8229ea` | [link](https://mozilladatacollective.com/datasets/cmqqsong506h9mm07z7cgqxvh) | ❌ |
@@ -515,7 +515,7 @@ data programmatically.
 | `cmqqtaa79064rnr07l6t8c0w9` | StackOverflow Vector Dataset - Cobol | `stackoverflow-vector-dataset-cobol-4a33b06d` | [link](https://mozilladatacollective.com/datasets/cmqqtaa79064rnr07l6t8c0w9) | ❌ |
 | `cmqqtami6064vnr07umepdmsq` | StackOverflow Vector Dataset - C++ | `stackoverflow-vector-dataset-c-d3cda664` | [link](https://mozilladatacollective.com/datasets/cmqqtami6064vnr07umepdmsq) | ❌ |
 | `cmqqtaums064znr07pyj776r3` | StackOverflow Vector Dataset - C | `stackoverflow-vector-dataset-c-b279001a` | [link](https://mozilladatacollective.com/datasets/cmqqtaums064znr07pyj776r3) | ❌ |
-| `cmqqtbdf306irmm07ngpfy4pw` | StackOverflow Vector Dataset - Assembly | `stackoverflow-vector-dataset-assembly-d4065ac2` | [link](https://mozilladatacollective.com/datasets/cmqqtbdf306irmm07ngpfy4pw) | ❌ |
+| `cmqqtbdf306irmm07ngpfy4pw` | StackOverflow Vector Database - assembly | `stackoverflow-vector-database-assembly-ff52b8cb` | [link](https://mozilladatacollective.com/datasets/cmqqtbdf306irmm07ngpfy4pw) | ❌ |
 | `cmqqtblr70657nr074im9aheh` | StackOverflow Vector Dataset - Bash | `stackoverflow-vector-dataset-bash-ad146072` | [link](https://mozilladatacollective.com/datasets/cmqqtblr70657nr074im9aheh) | ❌ |
 | `cmqs1irj8075snr07i69uvzo3` | Tequila Zongolica Nahuatl Transcriptions | `tequila-zongolica-nahuatl-transcriptions-153a9acf` | [link](https://mozilladatacollective.com/datasets/cmqs1irj8075snr07i69uvzo3) | ❌ |
 | `cmqt5v7bp0886mm07qd5mdxta` | RAPNIC - Catalan Impaired Speech (Example Set) | `rapnic-catalan-impaired-speech-example-s-8b8ddf8b` | [link](https://mozilladatacollective.com/datasets/cmqt5v7bp0886mm07qd5mdxta) | ❌ |
@@ -707,7 +707,7 @@ data programmatically.
 | `cmtk59j4a0043nv07toiemii6` | INALVS (Indonesian Lip-reading & Visual Speech Dataset) | `inalvs-indonesian-lip-reading-visual-spe-e20dad98` | [link](https://mozilladatacollective.com/datasets/cmtk59j4a0043nv07toiemii6) | ❌ |
 | `cmtk5d6vu004hnv07jxqtde3j` | IND-Jabodetabek Signage and Public Places | `ind-jabodetabek-signage-and-public-place-4a83604f` | [link](https://mozilladatacollective.com/datasets/cmtk5d6vu004hnv07jxqtde3j) | ❌ |
 | `cmtk5ilpu004qnv07uv3tammq` | 🚧 Thai Episodic Television // Rights-Cleared · 100 Hours 🚧 | `thai-episodic-television-rights-cleared-358dccaa` | [link](https://mozilladatacollective.com/datasets/cmtk5ilpu004qnv07uv3tammq) | ❌ |
-| `cmtk5j4s2004unv07serrr1n8` | Indonesian-Multidialect Lip-Record Speech Corpus | `indonesian-multidialect-lip-record-speec-c17daa27` | [link](https://mozilladatacollective.com/datasets/cmtk5j4s2004unv07serrr1n8) | ❌ |
+| `cmtk5j4s2004unv07serrr1n8` | Indonesian-Multidialect Lip-Record Speech Corpus | `indonesian-multidialect-lip-record-speec-513c8330` | [link](https://mozilladatacollective.com/datasets/cmtk5j4s2004unv07serrr1n8) | ❌ |
 | `cmtk5wxm5004ynv07rlamzlif` | Ormuri Bilingual Dictionary by Rozi Khan Burki | `ormuri-bilingual-dictionary-by-rozi-khan-ca006ee1` | [link](https://mozilladatacollective.com/datasets/cmtk5wxm5004ynv07rlamzlif) | ❌ |
 | `cmtk5x5il0052nv07m5unf4w6` | Wakhi Literature Corpus | `wakhi-literature-corpus-a0298c45` | [link](https://mozilladatacollective.com/datasets/cmtk5x5il0052nv07m5unf4w6) | ❌ |
 | `cmtk9u5dn0096nv076kom1a7z` | 🚧 Khowar-English Parallel Corpus 🚧 | `khowar-english-parallel-corpus-09644052` | [link](https://mozilladatacollective.com/datasets/cmtk9u5dn0096nv076kom1a7z) | ❌ |
