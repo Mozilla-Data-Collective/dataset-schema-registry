@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-03  
+**Last updated:** 2026-11-04  
 **Total datasets in sitemap:** 1207  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 788 ❌  
@@ -96,7 +96,7 @@ data programmatically.
 | `cmj8fdiyv02egmb07m2wfdltm` | Bati-MultiDialectalASR-Dataset | `bati-multidialectalasr-dataset-fd003ed0` | [link](https://mozilladatacollective.com/datasets/cmj8fdiyv02egmb07m2wfdltm) | ❌ |
 | `cmj8g2kw902fwmb07hub8puq8` | Teke-Laali-TTS-Dataset | `teke-laali-tts-dataset-7e5379fe` | [link](https://mozilladatacollective.com/datasets/cmj8g2kw902fwmb07hub8puq8) | ❌ |
 | `cmj8mjbas02lmmk07glipgg79` | AI on the Frontline: Evaluating Large Language Models in Real-World Conflict Resolution | `ai-on-the-frontline-evaluating-large-lan-b3891396` | [link](https://mozilladatacollective.com/datasets/cmj8mjbas02lmmk07glipgg79) | ❌ |
-| `cmj8mkwot02ltmb07a8pyg3ne` | Improving AI Conflict Resolution Capacities: A Prompts-Based Evaluation | `improving-ai-conflict-resolution-capacit-3564750a` | [link](https://mozilladatacollective.com/datasets/cmj8mkwot02ltmb07a8pyg3ne) | ❌ |
+| `cmj8mkwot02ltmb07a8pyg3ne` | Improving AI Conflict Resolution Capacities: A Prompts-Based Evaluation | `improving-ai-conflict-resolution-capacit-ec1c087e` | [link](https://mozilladatacollective.com/datasets/cmj8mkwot02ltmb07a8pyg3ne) | ❌ |
 | `cmjcc6g9z06c7mk07yolcdyjr` | Archivo de la Comisionada María de los Ángeles Guzmán García (COTAI Nuevo León / InfoNL) | `archivo-de-la-comisionada-mar-a-de-los-n-86187fb6` | [link](https://mozilladatacollective.com/datasets/cmjcc6g9z06c7mk07yolcdyjr) | ❌ |
 | `cmjepxo6t08nmmk07iauvua6v` | DhoNam: Dholuo Speech dataset | `dhonam-dholuo-speech-dataset-b06e2acf` | [link](https://mozilladatacollective.com/datasets/cmjepxo6t08nmmk07iauvua6v) | ❌ |
 | `cmjhe0xap09gamb078g9loi3q` | Surmiran Newspaper Corpus | `surmiran-newspaper-corpus-83df8952` | [link](https://mozilladatacollective.com/datasets/cmjhe0xap09gamb078g9loi3q) | ❌ |
@@ -361,13 +361,13 @@ data programmatically.
 | `cmpbfyxlc002nmj07k67e3ok2` | CoVoST 2 French - English | `covost-2-french-english-d459549b` | [link](https://mozilladatacollective.com/datasets/cmpbfyxlc002nmj07k67e3ok2) | ❌ |
 | `cmpbmhj4i0067nw07tk46v2jp` | Synthetic Ladino Parallel Corpus | `synthetic-ladino-parallel-corpus-c1dbf629` | [link](https://mozilladatacollective.com/datasets/cmpbmhj4i0067nw07tk46v2jp) | ❌ |
 | `cmpcp7cl800ydmg077wte52mv` | LegendNER-ID (Javanese) | `legendner-id-javanese-62d5a93d` | [link](https://mozilladatacollective.com/datasets/cmpcp7cl800ydmg077wte52mv) | ❌ |
-| `cmpdy07op00l1nu07lucrntkj` | Khmer ASR Cultural Dataset (Version 3 - Part 4) | `khmer-asr-cultural-dataset-version-3-par-e346427c` | [link](https://mozilladatacollective.com/datasets/cmpdy07op00l1nu07lucrntkj) | ❌ |
-| `cmpdy0a9h00l5nu078u4y91x1` | Khmer ASR Cultural Dataset (Version 3 - Part 3) | `khmer-asr-cultural-dataset-version-3-par-1a7b086a` | [link](https://mozilladatacollective.com/datasets/cmpdy0a9h00l5nu078u4y91x1) | ❌ |
-| `cmpdy0e2c00lxnv071292ocxf` | Khmer ASR Cultural Dataset (Version 3 - Part 6) | `khmer-asr-cultural-dataset-version-3-par-b089ab09` | [link](https://mozilladatacollective.com/datasets/cmpdy0e2c00lxnv071292ocxf) | ❌ |
-| `cmpdy0icy00l9nu07zo5hl1m3` | Khmer ASR Cultural Dataset (Version 3 - Part 7) | `khmer-asr-cultural-dataset-version-3-par-45a95fdf` | [link](https://mozilladatacollective.com/datasets/cmpdy0icy00l9nu07zo5hl1m3) | ❌ |
+| `cmpdy07op00l1nu07lucrntkj` | Khmer ASR Cultural Dataset (Version 3 - Part 4) | `khmer-asr-cultural-dataset-version-3-par-c41bb172` | [link](https://mozilladatacollective.com/datasets/cmpdy07op00l1nu07lucrntkj) | ❌ |
+| `cmpdy0a9h00l5nu078u4y91x1` | Khmer ASR Cultural Dataset (Version 3 - Part 3) | `khmer-asr-cultural-dataset-version-3-par-3b7e6b02` | [link](https://mozilladatacollective.com/datasets/cmpdy0a9h00l5nu078u4y91x1) | ❌ |
+| `cmpdy0e2c00lxnv071292ocxf` | Khmer ASR Cultural Dataset (Version 3 - Part 6) | `khmer-asr-cultural-dataset-version-3-par-101dda67` | [link](https://mozilladatacollective.com/datasets/cmpdy0e2c00lxnv071292ocxf) | ❌ |
+| `cmpdy0icy00l9nu07zo5hl1m3` | Khmer ASR Cultural Dataset (Version 3 - Part 7) | `khmer-asr-cultural-dataset-version-3-par-62e21ab5` | [link](https://mozilladatacollective.com/datasets/cmpdy0icy00l9nu07zo5hl1m3) | ❌ |
 | `cmpdy0si400ldnu07rs6zwql4` | Khmer ASR Cultural Dataset (Version 3 - Part 1) | `khmer-asr-cultural-dataset-version-3-par-500f679e` | [link](https://mozilladatacollective.com/datasets/cmpdy0si400ldnu07rs6zwql4) | ❌ |
-| `cmpdy14ka00lhnu07yzk3ixyn` | Khmer ASR Cultural Dataset (Version 3 - Part 2) | `khmer-asr-cultural-dataset-version-3-par-acc271d3` | [link](https://mozilladatacollective.com/datasets/cmpdy14ka00lhnu07yzk3ixyn) | ❌ |
-| `cmpdy19nn00llnu07y94pzeu4` | Khmer ASR Cultural Dataset (Version 3 - Part 5) | `khmer-asr-cultural-dataset-version-3-par-114b001c` | [link](https://mozilladatacollective.com/datasets/cmpdy19nn00llnu07y94pzeu4) | ❌ |
+| `cmpdy14ka00lhnu07yzk3ixyn` | Khmer ASR Cultural Dataset (Version 3 - Part 2) | `khmer-asr-cultural-dataset-version-3-par-553df1ef` | [link](https://mozilladatacollective.com/datasets/cmpdy14ka00lhnu07yzk3ixyn) | ❌ |
+| `cmpdy19nn00llnu07y94pzeu4` | Khmer ASR Cultural Dataset (Version 3 - Part 5) | `khmer-asr-cultural-dataset-version-3-par-94445d47` | [link](https://mozilladatacollective.com/datasets/cmpdy19nn00llnu07y94pzeu4) | ❌ |
 | `cmpdycv7k00m7nu07co3jmxt8` | StackOverflow Knowledge Graph - C++ | `stackoverflow-knowledge-graph-c-141ce5ef` | [link](https://mozilladatacollective.com/datasets/cmpdycv7k00m7nu07co3jmxt8) | ❌ |
 | `cmpdyd5r500mbnu07ntygcv16` | StackOverflow Knowledge Graph - Sql | `stackoverflow-knowledge-graph-sql-a526cdd7` | [link](https://mozilladatacollective.com/datasets/cmpdyd5r500mbnu07ntygcv16) | ❌ |
 | `cmpdydc4o00mfnu0761rbiv86` | StackOverflow Knowledge Graph - R | `stackoverflow-knowledge-graph-r-98793fad` | [link](https://mozilladatacollective.com/datasets/cmpdydc4o00mfnu0761rbiv86) | ❌ |
@@ -506,17 +506,17 @@ data programmatically.
 | `cmqoxeo1304i9mm0786tci05c` | StackOverflow Vector Database - ruby | `stackoverflow-vector-database-ruby-7f4f28f8` | [link](https://mozilladatacollective.com/datasets/cmqoxeo1304i9mm0786tci05c) | ❌ |
 | `cmqoxh2ej0470nr07fd8ndmnu` | StackOverflow Vector Database - python | `stackoverflow-vector-database-python-8f27f6fc` | [link](https://mozilladatacollective.com/datasets/cmqoxh2ej0470nr07fd8ndmnu) | ❌ |
 | `cmqoxhgnj04ilmm07zo4l05g4` | StackOverflow Vector Database - prolog | `stackoverflow-vector-database-prolog-6f1af4cc` | [link](https://mozilladatacollective.com/datasets/cmqoxhgnj04ilmm07zo4l05g4) | ❌ |
-| `cmqoxho3d0474nr073c9xzind` | StackOverflow Vector Dataset - Powershell | `stackoverflow-vector-dataset-powershell-7a3afb48` | [link](https://mozilladatacollective.com/datasets/cmqoxho3d0474nr073c9xzind) | ❌ |
+| `cmqoxho3d0474nr073c9xzind` | StackOverflow Vector Database - powershell | `stackoverflow-vector-database-powershell-ff48b433` | [link](https://mozilladatacollective.com/datasets/cmqoxho3d0474nr073c9xzind) | ❌ |
 | `cmqqcarob05pymm07c3u3jhoj` | AIRI AI4TALK Evenki-Russian Translation | `airi-ai4talk-evenki-russian-translation-92317432` | [link](https://mozilladatacollective.com/datasets/cmqqcarob05pymm07c3u3jhoj) | ❌ |
-| `cmqqsong506h9mm07z7cgqxvh` | StackOverflow Vector Dataset - Java | `stackoverflow-vector-dataset-java-2c8229ea` | [link](https://mozilladatacollective.com/datasets/cmqqsong506h9mm07z7cgqxvh) | ❌ |
-| `cmqqsrs8i063pnr073a185hhu` | StackOverflow Vector Dataset - Dart | `stackoverflow-vector-dataset-dart-6743b86e` | [link](https://mozilladatacollective.com/datasets/cmqqsrs8i063pnr073a185hhu) | ❌ |
-| `cmqqt9r2f064fnr07rk65sz6y` | StackOverflow Vector Dataset - CSS | `stackoverflow-vector-dataset-css-e9f18e62` | [link](https://mozilladatacollective.com/datasets/cmqqt9r2f064fnr07rk65sz6y) | ❌ |
-| `cmqqt9zq3064jnr0758o86feu` | StackOverflow Vector Dataset - C# | `stackoverflow-vector-dataset-c-f8706a7e` | [link](https://mozilladatacollective.com/datasets/cmqqt9zq3064jnr0758o86feu) | ❌ |
-| `cmqqtaa79064rnr07l6t8c0w9` | StackOverflow Vector Dataset - Cobol | `stackoverflow-vector-dataset-cobol-4a33b06d` | [link](https://mozilladatacollective.com/datasets/cmqqtaa79064rnr07l6t8c0w9) | ❌ |
-| `cmqqtami6064vnr07umepdmsq` | StackOverflow Vector Dataset - C++ | `stackoverflow-vector-dataset-c-d3cda664` | [link](https://mozilladatacollective.com/datasets/cmqqtami6064vnr07umepdmsq) | ❌ |
-| `cmqqtaums064znr07pyj776r3` | StackOverflow Vector Dataset - C | `stackoverflow-vector-dataset-c-b279001a` | [link](https://mozilladatacollective.com/datasets/cmqqtaums064znr07pyj776r3) | ❌ |
+| `cmqqsong506h9mm07z7cgqxvh` | StackOverflow Vector Database - java | `stackoverflow-vector-database-java-f8110689` | [link](https://mozilladatacollective.com/datasets/cmqqsong506h9mm07z7cgqxvh) | ❌ |
+| `cmqqsrs8i063pnr073a185hhu` | StackOverflow Vector Database - dart | `stackoverflow-vector-database-dart-66ce1f26` | [link](https://mozilladatacollective.com/datasets/cmqqsrs8i063pnr073a185hhu) | ❌ |
+| `cmqqt9r2f064fnr07rk65sz6y` | StackOverflow Vector Database - css | `stackoverflow-vector-database-css-50aee969` | [link](https://mozilladatacollective.com/datasets/cmqqt9r2f064fnr07rk65sz6y) | ❌ |
+| `cmqqt9zq3064jnr0758o86feu` | StackOverflow Vector Database - c# | `stackoverflow-vector-database-c-838c4880` | [link](https://mozilladatacollective.com/datasets/cmqqt9zq3064jnr0758o86feu) | ❌ |
+| `cmqqtaa79064rnr07l6t8c0w9` | StackOverflow Vector Database - cobol | `stackoverflow-vector-database-cobol-0f94f60f` | [link](https://mozilladatacollective.com/datasets/cmqqtaa79064rnr07l6t8c0w9) | ❌ |
+| `cmqqtami6064vnr07umepdmsq` | StackOverflow Vector Database - c++ | `stackoverflow-vector-database-c-949f7156` | [link](https://mozilladatacollective.com/datasets/cmqqtami6064vnr07umepdmsq) | ❌ |
+| `cmqqtaums064znr07pyj776r3` | StackOverflow Vector Database - c | `stackoverflow-vector-database-c-035ff038` | [link](https://mozilladatacollective.com/datasets/cmqqtaums064znr07pyj776r3) | ❌ |
 | `cmqqtbdf306irmm07ngpfy4pw` | StackOverflow Vector Database - assembly | `stackoverflow-vector-database-assembly-ff52b8cb` | [link](https://mozilladatacollective.com/datasets/cmqqtbdf306irmm07ngpfy4pw) | ❌ |
-| `cmqqtblr70657nr074im9aheh` | StackOverflow Vector Dataset - Bash | `stackoverflow-vector-dataset-bash-ad146072` | [link](https://mozilladatacollective.com/datasets/cmqqtblr70657nr074im9aheh) | ❌ |
+| `cmqqtblr70657nr074im9aheh` | StackOverflow Vector Database - bash | `stackoverflow-vector-database-bash-6cf3cebd` | [link](https://mozilladatacollective.com/datasets/cmqqtblr70657nr074im9aheh) | ❌ |
 | `cmqs1irj8075snr07i69uvzo3` | Tequila Zongolica Nahuatl Transcriptions | `tequila-zongolica-nahuatl-transcriptions-153a9acf` | [link](https://mozilladatacollective.com/datasets/cmqs1irj8075snr07i69uvzo3) | ❌ |
 | `cmqt5v7bp0886mm07qd5mdxta` | RAPNIC - Catalan Impaired Speech (Example Set) | `rapnic-catalan-impaired-speech-example-s-8b8ddf8b` | [link](https://mozilladatacollective.com/datasets/cmqt5v7bp0886mm07qd5mdxta) | ❌ |
 | `cmqt5xc4l07xwnr07l227et8j` | Corpus paralelo multimodal Lengua de Señas Mexicana – Español MX | `corpus-paralelo-multimodal-lengua-de-se-314fd89f` | [link](https://mozilladatacollective.com/datasets/cmqt5xc4l07xwnr07l227et8j) | ❌ |
