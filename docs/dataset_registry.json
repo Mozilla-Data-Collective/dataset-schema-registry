@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T06:06:25.125992+00:00",
-  "total": 1207,
+  "updated_at": "2026-11-05T05:10:28.302239+00:00",
+  "total": 1220,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -1172,20 +1172,6 @@
       "slug": "saraiki-english-parallel-corpus-096ab4eb"
     },
     {
-      "id": "cmmccfc5000efmu07ommi3zfr",
-      "url": "https://mozilladatacollective.com/datasets/cmmccfc5000efmu07ommi3zfr",
-      "lastmod": "2026-03-04T18:01:26.581Z",
-      "name": "Bangor Patagonia Welsh-Spanish Corpus",
-      "slug": "bangor-patagonia-welsh-spanish-corpus-5440036b"
-    },
-    {
-      "id": "cmmccg5qi00enmu07w9wjpnrn",
-      "url": "https://mozilladatacollective.com/datasets/cmmccg5qi00enmu07w9wjpnrn",
-      "lastmod": "2026-03-04T18:04:01.950Z",
-      "name": "Bangor Siarad Welsh-English Corpus",
-      "slug": "bangor-siarad-welsh-english-corpus-3f82e3e5"
-    },
-    {
       "id": "cmmdpbs5z003emh07yvbymzu5",
       "url": "https://mozilladatacollective.com/datasets/cmmdpbs5z003emh07yvbymzu5",
       "lastmod": "2026-09-24T17:29:19.088Z",
@@ -1205,13 +1191,6 @@
       "lastmod": "2026-03-05T18:44:34.866Z",
       "name": "Elkhani Hazargi Literature Corpus ",
       "slug": "elkhani-hazargi-literature-corpus-85c403db"
-    },
-    {
-      "id": "cmmfulo4r018bnz07py4q9t09",
-      "url": "https://mozilladatacollective.com/datasets/cmmfulo4r018bnz07py4q9t09",
-      "lastmod": "2026-04-08T22:31:22.955Z",
-      "name": "Bangor Miami Spanish-English Corpus",
-      "slug": "bangor-miami-spanish-english-corpus-36d9f971"
     },
     {
       "id": "cmmj6vyb902ownz07j4k7cunj",
@@ -8450,6 +8429,118 @@
       "lastmod": "2026-10-26T14:55:18.830Z",
       "name": "Speaking, Fast and Slow Competition - Development Data",
       "slug": "speaking-fast-and-slow-competition-devel-07d11ea9"
+    },
+    {
+      "id": "cmw2174yi003407nppco6w4lw",
+      "url": "https://mozilladatacollective.com/datasets/cmw2174yi003407nppco6w4lw",
+      "lastmod": "2026-11-04T11:26:29.850Z",
+      "name": "Synthetic Luo (Dholuo) ASR Dataset",
+      "slug": "synthetic-luo-dholuo-asr-dataset-9d8ea93c"
+    },
+    {
+      "id": "cmw24dnk8000q08mqbqk2x6kz",
+      "url": "https://mozilladatacollective.com/datasets/cmw24dnk8000q08mqbqk2x6kz",
+      "lastmod": "2026-11-04T12:55:32.744Z",
+      "name": "Pashto Hekmat Aryan Poetry Recitation Corpus",
+      "slug": "pashto-hekmat-aryan-poetry-recitation-co-6041fc40"
+    },
+    {
+      "id": "cmw24fhe1000o07nxyqhcm3vi",
+      "url": "https://mozilladatacollective.com/datasets/cmw24fhe1000o07nxyqhcm3vi",
+      "lastmod": "2026-11-04T12:56:58.057Z",
+      "name": "PashtoAI Vision Corpus — OCR, Handwriting and Document Scans",
+      "slug": "pashtoai-vision-corpus-ocr-handwriting-a-c2879601"
+    },
+    {
+      "id": "cmw24kz1l000t08mq85brsgcz",
+      "url": "https://mozilladatacollective.com/datasets/cmw24kz1l000t08mq85brsgcz",
+      "lastmod": "2026-11-04T13:01:14.217Z",
+      "name": "StackOverflow Knowledge Graph - Extra languages",
+      "slug": "stackoverflow-knowledge-graph-extra-lang-cf744e41"
+    },
+    {
+      "id": "cmw25u1er001807nx7rygx81z",
+      "url": "https://mozilladatacollective.com/datasets/cmw25u1er001807nx7rygx81z",
+      "lastmod": "2026-11-04T13:36:16.803Z",
+      "name": "BibleTTS Ewe - Aligned Bible Speech",
+      "slug": "bibletts-ewe-aligned-bible-speech-4462ffae"
+    },
+    {
+      "id": "cmw25u6df001a07nxqy4ziejx",
+      "url": "https://mozilladatacollective.com/datasets/cmw25u6df001a07nxqy4ziejx",
+      "lastmod": "2026-11-04T13:36:23.235Z",
+      "name": "BibleTTS Akuapem Twi - Aligned Bible Speech",
+      "slug": "bibletts-akuapem-twi-aligned-bible-speec-08ba1ec8"
+    },
+    {
+      "id": "cmw25uaxy001j08mqjbdovi98",
+      "url": "https://mozilladatacollective.com/datasets/cmw25uaxy001j08mqjbdovi98",
+      "lastmod": "2026-11-04T13:36:29.158Z",
+      "name": "BibleTTS Asante Twi - Aligned Bible Speech",
+      "slug": "bibletts-asante-twi-aligned-bible-speech-fa234c15"
+    },
+    {
+      "id": "cmw25ufxe001l08mqkbd727zp",
+      "url": "https://mozilladatacollective.com/datasets/cmw25ufxe001l08mqkbd727zp",
+      "lastmod": "2026-11-04T13:36:35.618Z",
+      "name": "BibleTTS Lingala - Aligned Bible Speech",
+      "slug": "bibletts-lingala-aligned-bible-speech-d557f562"
+    },
+    {
+      "id": "cmw25uk7q001n08mqyd4dokez",
+      "url": "https://mozilladatacollective.com/datasets/cmw25uk7q001n08mqyd4dokez",
+      "lastmod": "2026-11-04T13:36:41.174Z",
+      "name": "Synthetic Hausa ASR Dataset (YourTTS)",
+      "slug": "synthetic-hausa-asr-dataset-yourtts-a8786da7"
+    },
+    {
+      "id": "cmw25upe9001p08mqq4z5duxa",
+      "url": "https://mozilladatacollective.com/datasets/cmw25upe9001p08mqq4z5duxa",
+      "lastmod": "2026-11-04T13:36:47.889Z",
+      "name": "BibleTTS Yoruba - Aligned Bible Speech",
+      "slug": "bibletts-yoruba-aligned-bible-speech-8d5b593d"
+    },
+    {
+      "id": "cmw25vhb8001r08mqv2rhzlvu",
+      "url": "https://mozilladatacollective.com/datasets/cmw25vhb8001r08mqv2rhzlvu",
+      "lastmod": "2026-11-04T14:26:08.942Z",
+      "name": "SPDMX (part 1 of 2)",
+      "slug": "spdmx-part-1-of-2-c4acfe71"
+    },
+    {
+      "id": "cmw25vlq9001c07nx0f2l090a",
+      "url": "https://mozilladatacollective.com/datasets/cmw25vlq9001c07nx0f2l090a",
+      "lastmod": "2026-11-04T14:26:20.919Z",
+      "name": "SPDMX (part 2 of 2)",
+      "slug": "spdmx-part-2-of-2-af6dfe60"
+    },
+    {
+      "id": "cmw25vtj7001e07nxyp5yo9ml",
+      "url": "https://mozilladatacollective.com/datasets/cmw25vtj7001e07nxyp5yo9ml",
+      "lastmod": "2026-11-04T13:37:39.907Z",
+      "name": "Synthetic Hausa ASR Dataset (XTTS)",
+      "slug": "synthetic-hausa-asr-dataset-xtts-d0f811a6"
+    },
+    {
+      "id": "cmw2605ub002008mqdoto85pg",
+      "url": "https://mozilladatacollective.com/datasets/cmw2605ub002008mqdoto85pg",
+      "lastmod": "2026-11-04T13:41:02.483Z",
+      "name": "Sistema de Alertas Tempranas de la Defensoría del Pueblo de Colombia (2026)",
+      "slug": "sistema-de-alertas-tempranas-de-la-defen-20684663"
+    },
+    {
+      "id": "cmw27i5lm000708moo1vjjdql",
+      "url": "https://mozilladatacollective.com/datasets/cmw27i5lm000708moo1vjjdql",
+      "lastmod": "2026-11-04T14:23:01.594Z",
+      "name": "Biblioteca Digital del Ministerio de Educación de Chile (2026)",
+      "slug": "biblioteca-digital-del-ministerio-de-edu-cf3e4c7a"
+    },
+    {
+      "id": "cmw2gjt1j004007mlwpkfmp3v",
+      "url": "https://mozilladatacollective.com/datasets/cmw2gjt1j004007mlwpkfmp3v",
+      "lastmod": "2026-11-04T18:36:15.175Z",
+      "name": "Dholuo Agricultural Spontaneous Speech Dataset",
+      "slug": "dholuo-agricultural-spontaneous-speech-d-4004ff08"
     }
   ]
 }
