@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-04  
-**Total datasets in sitemap:** 1207  
+**Last updated:** 2026-11-05  
+**Total datasets in sitemap:** 1220  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 788 ❌  
+**Schemas missing:** 801 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -186,12 +186,9 @@ data programmatically.
 | `cmmamvzrz04qtmk077j1k99vt` | Mada-French Parallel Corpus 1.0 | `mada-french-parallel-corpus-1-0-55f89ce6` | [link](https://mozilladatacollective.com/datasets/cmmamvzrz04qtmk077j1k99vt) | ❌ |
 | `cmmao7dc504oamh0710j4wau1` | Jhoke Publisher Multan’s Saraiki Newspaper Corpus | `jhoke-publisher-multan-s-saraiki-newspap-e0350169` | [link](https://mozilladatacollective.com/datasets/cmmao7dc504oamh0710j4wau1) | ❌ |
 | `cmmaphscg04t2mk07i1f8yc0q` | Saraiki-English Parallel Corpus | `saraiki-english-parallel-corpus-096ab4eb` | [link](https://mozilladatacollective.com/datasets/cmmaphscg04t2mk07i1f8yc0q) | ❌ |
-| `cmmccfc5000efmu07ommi3zfr` | Bangor Patagonia Welsh-Spanish Corpus | `bangor-patagonia-welsh-spanish-corpus-5440036b` | [link](https://mozilladatacollective.com/datasets/cmmccfc5000efmu07ommi3zfr) | ❌ |
-| `cmmccg5qi00enmu07w9wjpnrn` | Bangor Siarad Welsh-English Corpus | `bangor-siarad-welsh-english-corpus-3f82e3e5` | [link](https://mozilladatacollective.com/datasets/cmmccg5qi00enmu07w9wjpnrn) | ❌ |
 | `cmmdpbs5z003emh07yvbymzu5` | IBT Torwali Wordlist | `ibt-torwali-wordlist-427a6b64` | [link](https://mozilladatacollective.com/datasets/cmmdpbs5z003emh07yvbymzu5) | ❌ |
 | `cmmdpikpq003imh077foix53d` | Dari Literature Corpus by Anjuman e Adabi Nayestan | `dari-literature-corpus-by-anjuman-e-adab-b1cd1982` | [link](https://mozilladatacollective.com/datasets/cmmdpikpq003imh077foix53d) | ❌ |
 | `cmmdtenxt0050mh0792d10knv` | Elkhani Hazargi Literature Corpus  | `elkhani-hazargi-literature-corpus-85c403db` | [link](https://mozilladatacollective.com/datasets/cmmdtenxt0050mh0792d10knv) | ❌ |
-| `cmmfulo4r018bnz07py4q9t09` | Bangor Miami Spanish-English Corpus | `bangor-miami-spanish-english-corpus-36d9f971` | [link](https://mozilladatacollective.com/datasets/cmmfulo4r018bnz07py4q9t09) | ❌ |
 | `cmmj6vyb902ownz07j4k7cunj` | Sundanese TTS | `sundanese-tts-84f90cba` | [link](https://mozilladatacollective.com/datasets/cmmj6vyb902ownz07j4k7cunj) | ❌ |
 | `cmmknsho4014wmf087kvq5rc6` | Kokoro Speech Dataset | `kokoro-speech-dataset-74e9c24b` | [link](https://mozilladatacollective.com/datasets/cmmknsho4014wmf087kvq5rc6) | ✅ |
 | `cmmm2ru5r003nmd07p53h9wdw` | TTS Balinese Language | `tts-balinese-language-884fa798` | [link](https://mozilladatacollective.com/datasets/cmmm2ru5r003nmd07p53h9wdw) | ❌ |
@@ -1226,6 +1223,22 @@ data programmatically.
 | `cmvijrnaa001y07mpqn9528vv` | wordfreq Spanish word-frequency list — as used in Lost in Transcription (Spanish–Nahuatl) | `wordfreq-spanish-word-frequency-list-as-1a828939` | [link](https://mozilladatacollective.com/datasets/cmvijrnaa001y07mpqn9528vv) | ❌ |
 | `cmvl58msc01v807o52scz27un` | UrduSpeech | `urduspeech-b51b03bb` | [link](https://mozilladatacollective.com/datasets/cmvl58msc01v807o52scz27un) | ❌ |
 | `cmvpdp0dq001x07nvr2kl8gqw` | Speaking, Fast and Slow Competition - Development Data | `speaking-fast-and-slow-competition-devel-07d11ea9` | [link](https://mozilladatacollective.com/datasets/cmvpdp0dq001x07nvr2kl8gqw) | ❌ |
+| `cmw2174yi003407nppco6w4lw` | Synthetic Luo (Dholuo) ASR Dataset | `synthetic-luo-dholuo-asr-dataset-9d8ea93c` | [link](https://mozilladatacollective.com/datasets/cmw2174yi003407nppco6w4lw) | ❌ |
+| `cmw24dnk8000q08mqbqk2x6kz` | Pashto Hekmat Aryan Poetry Recitation Corpus | `pashto-hekmat-aryan-poetry-recitation-co-6041fc40` | [link](https://mozilladatacollective.com/datasets/cmw24dnk8000q08mqbqk2x6kz) | ❌ |
+| `cmw24fhe1000o07nxyqhcm3vi` | PashtoAI Vision Corpus — OCR, Handwriting and Document Scans | `pashtoai-vision-corpus-ocr-handwriting-a-c2879601` | [link](https://mozilladatacollective.com/datasets/cmw24fhe1000o07nxyqhcm3vi) | ❌ |
+| `cmw24kz1l000t08mq85brsgcz` | StackOverflow Knowledge Graph - Extra languages | `stackoverflow-knowledge-graph-extra-lang-cf744e41` | [link](https://mozilladatacollective.com/datasets/cmw24kz1l000t08mq85brsgcz) | ❌ |
+| `cmw25u1er001807nx7rygx81z` | BibleTTS Ewe - Aligned Bible Speech | `bibletts-ewe-aligned-bible-speech-4462ffae` | [link](https://mozilladatacollective.com/datasets/cmw25u1er001807nx7rygx81z) | ❌ |
+| `cmw25u6df001a07nxqy4ziejx` | BibleTTS Akuapem Twi - Aligned Bible Speech | `bibletts-akuapem-twi-aligned-bible-speec-08ba1ec8` | [link](https://mozilladatacollective.com/datasets/cmw25u6df001a07nxqy4ziejx) | ❌ |
+| `cmw25uaxy001j08mqjbdovi98` | BibleTTS Asante Twi - Aligned Bible Speech | `bibletts-asante-twi-aligned-bible-speech-fa234c15` | [link](https://mozilladatacollective.com/datasets/cmw25uaxy001j08mqjbdovi98) | ❌ |
+| `cmw25ufxe001l08mqkbd727zp` | BibleTTS Lingala - Aligned Bible Speech | `bibletts-lingala-aligned-bible-speech-d557f562` | [link](https://mozilladatacollective.com/datasets/cmw25ufxe001l08mqkbd727zp) | ❌ |
+| `cmw25uk7q001n08mqyd4dokez` | Synthetic Hausa ASR Dataset (YourTTS) | `synthetic-hausa-asr-dataset-yourtts-a8786da7` | [link](https://mozilladatacollective.com/datasets/cmw25uk7q001n08mqyd4dokez) | ❌ |
+| `cmw25upe9001p08mqq4z5duxa` | BibleTTS Yoruba - Aligned Bible Speech | `bibletts-yoruba-aligned-bible-speech-8d5b593d` | [link](https://mozilladatacollective.com/datasets/cmw25upe9001p08mqq4z5duxa) | ❌ |
+| `cmw25vhb8001r08mqv2rhzlvu` | SPDMX (part 1 of 2) | `spdmx-part-1-of-2-c4acfe71` | [link](https://mozilladatacollective.com/datasets/cmw25vhb8001r08mqv2rhzlvu) | ❌ |
+| `cmw25vlq9001c07nx0f2l090a` | SPDMX (part 2 of 2) | `spdmx-part-2-of-2-af6dfe60` | [link](https://mozilladatacollective.com/datasets/cmw25vlq9001c07nx0f2l090a) | ❌ |
+| `cmw25vtj7001e07nxyp5yo9ml` | Synthetic Hausa ASR Dataset (XTTS) | `synthetic-hausa-asr-dataset-xtts-d0f811a6` | [link](https://mozilladatacollective.com/datasets/cmw25vtj7001e07nxyp5yo9ml) | ❌ |
+| `cmw2605ub002008mqdoto85pg` | Sistema de Alertas Tempranas de la Defensoría del Pueblo de Colombia (2026) | `sistema-de-alertas-tempranas-de-la-defen-20684663` | [link](https://mozilladatacollective.com/datasets/cmw2605ub002008mqdoto85pg) | ❌ |
+| `cmw27i5lm000708moo1vjjdql` | Biblioteca Digital del Ministerio de Educación de Chile (2026) | `biblioteca-digital-del-ministerio-de-edu-cf3e4c7a` | [link](https://mozilladatacollective.com/datasets/cmw27i5lm000708moo1vjjdql) | ❌ |
+| `cmw2gjt1j004007mlwpkfmp3v` | Dholuo Agricultural Spontaneous Speech Dataset | `dholuo-agricultural-spontaneous-speech-d-4004ff08` | [link](https://mozilladatacollective.com/datasets/cmw2gjt1j004007mlwpkfmp3v) | ❌ |
 
 ## Schemas without a platform dataset
 
