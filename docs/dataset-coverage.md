@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-05  
-**Total datasets in sitemap:** 1220  
+**Last updated:** 2026-11-06  
+**Total datasets in sitemap:** 1222  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 801 ❌  
+**Schemas missing:** 803 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1239,6 +1239,8 @@ data programmatically.
 | `cmw2605ub002008mqdoto85pg` | Sistema de Alertas Tempranas de la Defensoría del Pueblo de Colombia (2026) | `sistema-de-alertas-tempranas-de-la-defen-20684663` | [link](https://mozilladatacollective.com/datasets/cmw2605ub002008mqdoto85pg) | ❌ |
 | `cmw27i5lm000708moo1vjjdql` | Biblioteca Digital del Ministerio de Educación de Chile (2026) | `biblioteca-digital-del-ministerio-de-edu-cf3e4c7a` | [link](https://mozilladatacollective.com/datasets/cmw27i5lm000708moo1vjjdql) | ❌ |
 | `cmw2gjt1j004007mlwpkfmp3v` | Dholuo Agricultural Spontaneous Speech Dataset | `dholuo-agricultural-spontaneous-speech-d-4004ff08` | [link](https://mozilladatacollective.com/datasets/cmw2gjt1j004007mlwpkfmp3v) | ❌ |
+| `cmw3utp0g005b06modoh1r9cp` | Synthetic Spanish–English Code-Switching Speech (DS-3) | `synthetic-spanish-english-code-switching-c488a000` | [link](https://mozilladatacollective.com/datasets/cmw3utp0g005b06modoh1r9cp) | ❌ |
+| `cmw3vtz9k006e07nu9rzewuh7` | Saraiki Studio TTS Dataset — 68 Hours, 3 Speakers | `saraiki-studio-tts-dataset-68-hours-3-sp-85815d0b` | [link](https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7) | ❌ |
 
 ## Schemas without a platform dataset
 

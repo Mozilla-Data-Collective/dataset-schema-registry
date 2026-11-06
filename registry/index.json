@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-11-05T05:10:41.619074+00:00",
+  "generated_at": "2026-11-06T05:10:32.433189+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1220,
+    "listed_datasets": 1222,
     "with_schema": 419,
-    "without_schema": 801,
+    "without_schema": 803,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -13439,6 +13439,28 @@
       "slug": "dholuo-agricultural-spontaneous-speech-d-4004ff08",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmw2gjt1j004007mlwpkfmp3v",
       "lastmod": "2026-11-04T18:36:15.175Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmw3utp0g005b06modoh1r9cp",
+      "has_schema": false,
+      "listed": true,
+      "name": "Synthetic Spanish–English Code-Switching Speech (DS-3)",
+      "slug": "synthetic-spanish-english-code-switching-c488a000",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmw3utp0g005b06modoh1r9cp",
+      "lastmod": "2026-11-05T18:03:37.312Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmw3vtz9k006e07nu9rzewuh7",
+      "has_schema": false,
+      "listed": true,
+      "name": "Saraiki Studio TTS Dataset — 68 Hours, 3 Speakers",
+      "slug": "saraiki-studio-tts-dataset-68-hours-3-sp-85815d0b",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7",
+      "lastmod": "2026-11-05T18:31:50.216Z",
       "schema_path": null,
       "schema_url": null
     }
