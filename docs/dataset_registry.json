@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T06:06:34.544700+00:00",
-  "total": 1220,
+  "updated_at": "2026-11-06T05:10:18.618445+00:00",
+  "total": 1222,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8541,6 +8541,20 @@
       "lastmod": "2026-11-04T18:36:15.175Z",
       "name": "Dholuo Agricultural Spontaneous Speech Dataset",
       "slug": "dholuo-agricultural-spontaneous-speech-d-4004ff08"
+    },
+    {
+      "id": "cmw3utp0g005b06modoh1r9cp",
+      "url": "https://mozilladatacollective.com/datasets/cmw3utp0g005b06modoh1r9cp",
+      "lastmod": "2026-11-05T18:03:37.312Z",
+      "name": "Synthetic Spanish–English Code-Switching Speech (DS-3)",
+      "slug": "synthetic-spanish-english-code-switching-c488a000"
+    },
+    {
+      "id": "cmw3vtz9k006e07nu9rzewuh7",
+      "url": "https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7",
+      "lastmod": "2026-11-05T18:31:50.216Z",
+      "name": "Saraiki Studio TTS Dataset — 68 Hours, 3 Speakers",
+      "slug": "saraiki-studio-tts-dataset-68-hours-3-sp-85815d0b"
     }
   ]
 }
