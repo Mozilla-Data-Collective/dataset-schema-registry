@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-06  
-**Total datasets in sitemap:** 1222  
+**Last updated:** 2026-11-07  
+**Total datasets in sitemap:** 1229  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 803 ❌  
+**Schemas missing:** 810 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -112,7 +112,7 @@ data programmatically.
 | `cmkcy8in2004umo0775mye43g` | Khmer ASR Cultural Dataset | `khmer-asr-cultural-dataset-7f42ad25` | [link](https://mozilladatacollective.com/datasets/cmkcy8in2004umo0775mye43g) | ✅ |
 | `cmkfm6xtw00k2nv07oakesnix` | DataTrust Africa: Speech Corpus of Public Radio Recordings from Northern Uganda | `datatrust-africa-speech-corpus-of-public-84630945` | [link](https://mozilladatacollective.com/datasets/cmkfm6xtw00k2nv07oakesnix) | ❌ |
 | `cmkfm9fbl00nto0070sdcrak2` | Effect AI Scripted Speech 1.0 - English | `effect-ai-scripted-speech-1-0-english-6feecf00` | [link](https://mozilladatacollective.com/datasets/cmkfm9fbl00nto0070sdcrak2) | ✅ |
-| `cmkh2stj6004mmj0751rn8vq6` | ddd-kenya-luhya-70hrs-asr | `ddd-kenya-luhya-70hrs-asr-6a0a25c7` | [link](https://mozilladatacollective.com/datasets/cmkh2stj6004mmj0751rn8vq6) | ❌ |
+| `cmkh2stj6004mmj0751rn8vq6` | DDD Luhya ASR Speech Dataset (70 hours), Research | `ddd-luhya-asr-speech-dataset-70-hours-re-0e24399b` | [link](https://mozilladatacollective.com/datasets/cmkh2stj6004mmj0751rn8vq6) | ❌ |
 | `cmkh3nwms0052nv07997y38zx` | RFE/RL Tatar-Bashkir News Text Corpus | `rfe-rl-tatar-bashkir-news-text-corpus-81671cd4` | [link](https://mozilladatacollective.com/datasets/cmkh3nwms0052nv07997y38zx) | ❌ |
 | `cmkh3vrob005pmj07vgm55iha` | HESEIA Sentence Bias Dataset | `heseia-sentence-bias-dataset-9caa8462` | [link](https://mozilladatacollective.com/datasets/cmkh3vrob005pmj07vgm55iha) | ❌ |
 | `cmkh9rso90076nv076jwxgjv3` | English–Punjabi (Shahmukhi) Parallel Sentences Corpus (Mediamen Archives) | `english-punjabi-shahmukhi-parallel-sente-b370d74f` | [link](https://mozilladatacollective.com/datasets/cmkh9rso90076nv076jwxgjv3) | ❌ |
@@ -193,9 +193,9 @@ data programmatically.
 | `cmmknsho4014wmf087kvq5rc6` | Kokoro Speech Dataset | `kokoro-speech-dataset-74e9c24b` | [link](https://mozilladatacollective.com/datasets/cmmknsho4014wmf087kvq5rc6) | ✅ |
 | `cmmm2ru5r003nmd07p53h9wdw` | TTS Balinese Language | `tts-balinese-language-884fa798` | [link](https://mozilladatacollective.com/datasets/cmmm2ru5r003nmd07p53h9wdw) | ❌ |
 | `cmmm7rvm200b9md07h3pv8uae` | TODa: Tamazight Open Dataset | `toda-tamazight-open-dataset-3eef2658` | [link](https://mozilladatacollective.com/datasets/cmmm7rvm200b9md07h3pv8uae) | ❌ |
-| `cmmng8btl000yl807k8qtx891` | ddd-kenya-somali-68hrs-asr-part1 | `ddd-kenya-somali-68hrs-asr-part1-41a99fae` | [link](https://mozilladatacollective.com/datasets/cmmng8btl000yl807k8qtx891) | ❌ |
-| `cmmnixx2d0043ml07zbq1i7oi` | ddd-kenya-somali-68hrs-asr-part2 | `ddd-kenya-somali-68hrs-asr-part2-019894e7` | [link](https://mozilladatacollective.com/datasets/cmmnixx2d0043ml07zbq1i7oi) | ❌ |
-| `cmmniydvi0047ml07nt6z5xud` | ddd-kenya-somali-68hrs-asr-part3 | `ddd-kenya-somali-68hrs-asr-part3-ceb2b9db` | [link](https://mozilladatacollective.com/datasets/cmmniydvi0047ml07nt6z5xud) | ❌ |
+| `cmmng8btl000yl807k8qtx891` | DDD Somali ASR Speech Dataset (68 hours), Part 1 of 3, Research | `ddd-somali-asr-speech-dataset-68-hours-p-f680c21a` | [link](https://mozilladatacollective.com/datasets/cmmng8btl000yl807k8qtx891) | ❌ |
+| `cmmnixx2d0043ml07zbq1i7oi` | DDD Somali ASR Speech Dataset (68 hours), Part 2 of 3, Research | `ddd-somali-asr-speech-dataset-68-hours-p-7fbc2cc5` | [link](https://mozilladatacollective.com/datasets/cmmnixx2d0043ml07zbq1i7oi) | ❌ |
+| `cmmniydvi0047ml07nt6z5xud` | DDD Somali ASR Speech Dataset (68 hours), Part 3 of 3, Research | `ddd-somali-asr-speech-dataset-68-hours-p-02650907` | [link](https://mozilladatacollective.com/datasets/cmmniydvi0047ml07nt6z5xud) | ❌ |
 | `cmmno795h009hml07dh7uefvp` | Malayalam Time-Aligned Speech Corpus | `malayalam-time-aligned-speech-corpus-7e1aa43f` | [link](https://mozilladatacollective.com/datasets/cmmno795h009hml07dh7uefvp) | ❌ |
 | `cmmus79780030ms07vyi4dsr5` | BECO Brahui Literature Corpus | `beco-brahui-literature-corpus-3f63fc56` | [link](https://mozilladatacollective.com/datasets/cmmus79780030ms07vyi4dsr5) | ❌ |
 | `cmmvykcrs0050ny07vkwww5gi` | Urdu Multi-Speaker TTS Dataset | `urdu-multi-speaker-tts-dataset-d0701b9b` | [link](https://mozilladatacollective.com/datasets/cmmvykcrs0050ny07vkwww5gi) | ❌ |
@@ -1240,7 +1240,14 @@ data programmatically.
 | `cmw27i5lm000708moo1vjjdql` | Biblioteca Digital del Ministerio de Educación de Chile (2026) | `biblioteca-digital-del-ministerio-de-edu-cf3e4c7a` | [link](https://mozilladatacollective.com/datasets/cmw27i5lm000708moo1vjjdql) | ❌ |
 | `cmw2gjt1j004007mlwpkfmp3v` | Dholuo Agricultural Spontaneous Speech Dataset | `dholuo-agricultural-spontaneous-speech-d-4004ff08` | [link](https://mozilladatacollective.com/datasets/cmw2gjt1j004007mlwpkfmp3v) | ❌ |
 | `cmw3utp0g005b06modoh1r9cp` | Synthetic Spanish–English Code-Switching Speech (DS-3) | `synthetic-spanish-english-code-switching-c488a000` | [link](https://mozilladatacollective.com/datasets/cmw3utp0g005b06modoh1r9cp) | ❌ |
-| `cmw3vtz9k006e07nu9rzewuh7` | Saraiki Studio TTS Dataset — 68 Hours, 3 Speakers | `saraiki-studio-tts-dataset-68-hours-3-sp-85815d0b` | [link](https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7) | ❌ |
+| `cmw3vtz9k006e07nu9rzewuh7` | Saraiki Studio TTS Dataset — 63 Hours, 3 Speakers | `saraiki-studio-tts-dataset-63-hours-3-sp-fbecca55` | [link](https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7) | ❌ |
+| `cmw55bnm300vs07nukjj2iykd` | Pashto Single-Speaker Spontaneous Vlog Speech Corpus | `pashto-single-speaker-spontaneous-vlog-s-9e157f9b` | [link](https://mozilladatacollective.com/datasets/cmw55bnm300vs07nukjj2iykd) | ❌ |
+| `cmw574b6z00xi06mo4dchu497` | 🚧 Demographically-balanced Urdu Read-Speech TTS Corpus (500 hours) 🚧 | `demographically-balanced-urdu-read-speec-8a148f7c` | [link](https://mozilladatacollective.com/datasets/cmw574b6z00xi06mo4dchu497) | ❌ |
+| `cmw5a9y2y00zs06moeni1lt98` | BibleTTS Hausa - Aligned Bible Speech | `bibletts-hausa-aligned-bible-speech-ff7b9295` | [link](https://mozilladatacollective.com/datasets/cmw5a9y2y00zs06moeni1lt98) | ❌ |
+| `cmw5aayxt00z307nuem1ezfzl` | Colecciones del Museo Nacional de Colombia (2026) | `colecciones-del-museo-nacional-de-colomb-b3bda8ce` | [link](https://mozilladatacollective.com/datasets/cmw5aayxt00z307nuem1ezfzl) | ❌ |
+| `cmw5abzmi00zv06mo7xrvdmei` | Estadísticas con enfoque diferencial e interseccional del DANE de Colombia (2026) | `estad-sticas-con-enfoque-diferencial-e-i-50fa9f44` | [link](https://mozilladatacollective.com/datasets/cmw5abzmi00zv06mo7xrvdmei) | ❌ |
+| `cmw5ad3b100z807num987otgs` | Encuesta Nacional de Calidad de Vida 2023 a 2025 del DANE de Colombia (2026) | `encuesta-nacional-de-calidad-de-vida-202-77aed369` | [link](https://mozilladatacollective.com/datasets/cmw5ad3b100z807num987otgs) | ❌ |
+| `cmw5adcc900zx06moku6z4ivg` | Encuesta de Cultura Política 2021 y 2023 del DANE de Colombia (2026) | `encuesta-de-cultura-pol-tica-2021-y-2023-89dc9c8d` | [link](https://mozilladatacollective.com/datasets/cmw5adcc900zx06moku6z4ivg) | ❌ |
 
 ## Schemas without a platform dataset
 
