@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T06:07:14.083604+00:00",
-  "total": 1222,
+  "updated_at": "2026-11-07T05:09:23.475274+00:00",
+  "total": 1229,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -656,9 +656,9 @@
     {
       "id": "cmkh2stj6004mmj0751rn8vq6",
       "url": "https://mozilladatacollective.com/datasets/cmkh2stj6004mmj0751rn8vq6",
-      "lastmod": "2026-03-12T11:34:45.517Z",
-      "name": "ddd-kenya-luhya-70hrs-asr",
-      "slug": "ddd-kenya-luhya-70hrs-asr-6a0a25c7"
+      "lastmod": "2026-11-06T18:55:10.122Z",
+      "name": "DDD Luhya ASR Speech Dataset (70 hours), Research",
+      "slug": "ddd-luhya-asr-speech-dataset-70-hours-re-0e24399b"
     },
     {
       "id": "cmkh3nwms0052nv07997y38zx",
@@ -1223,23 +1223,23 @@
     {
       "id": "cmmng8btl000yl807k8qtx891",
       "url": "https://mozilladatacollective.com/datasets/cmmng8btl000yl807k8qtx891",
-      "lastmod": "2026-03-13T05:46:46.168Z",
-      "name": "ddd-kenya-somali-68hrs-asr-part1",
-      "slug": "ddd-kenya-somali-68hrs-asr-part1-41a99fae"
+      "lastmod": "2026-11-06T19:00:10.928Z",
+      "name": "DDD Somali ASR Speech Dataset (68 hours), Part 1 of 3, Research",
+      "slug": "ddd-somali-asr-speech-dataset-68-hours-p-f680c21a"
     },
     {
       "id": "cmmnixx2d0043ml07zbq1i7oi",
       "url": "https://mozilladatacollective.com/datasets/cmmnixx2d0043ml07zbq1i7oi",
-      "lastmod": "2026-03-12T13:49:19.142Z",
-      "name": "ddd-kenya-somali-68hrs-asr-part2",
-      "slug": "ddd-kenya-somali-68hrs-asr-part2-019894e7"
+      "lastmod": "2026-11-06T19:00:31.834Z",
+      "name": "DDD Somali ASR Speech Dataset (68 hours), Part 2 of 3, Research",
+      "slug": "ddd-somali-asr-speech-dataset-68-hours-p-7fbc2cc5"
     },
     {
       "id": "cmmniydvi0047ml07nt6z5xud",
       "url": "https://mozilladatacollective.com/datasets/cmmniydvi0047ml07nt6z5xud",
-      "lastmod": "2026-03-12T13:49:40.926Z",
-      "name": "ddd-kenya-somali-68hrs-asr-part3",
-      "slug": "ddd-kenya-somali-68hrs-asr-part3-ceb2b9db"
+      "lastmod": "2026-11-06T19:00:23.449Z",
+      "name": "DDD Somali ASR Speech Dataset (68 hours), Part 3 of 3, Research",
+      "slug": "ddd-somali-asr-speech-dataset-68-hours-p-02650907"
     },
     {
       "id": "cmmno795h009hml07dh7uefvp",
@@ -8552,9 +8552,58 @@
     {
       "id": "cmw3vtz9k006e07nu9rzewuh7",
       "url": "https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7",
-      "lastmod": "2026-11-05T18:31:50.216Z",
-      "name": "Saraiki Studio TTS Dataset — 68 Hours, 3 Speakers",
-      "slug": "saraiki-studio-tts-dataset-68-hours-3-sp-85815d0b"
+      "lastmod": "2026-11-06T17:26:21.310Z",
+      "name": "Saraiki Studio TTS Dataset — 63 Hours, 3 Speakers",
+      "slug": "saraiki-studio-tts-dataset-63-hours-3-sp-fbecca55"
+    },
+    {
+      "id": "cmw55bnm300vs07nukjj2iykd",
+      "url": "https://mozilladatacollective.com/datasets/cmw55bnm300vs07nukjj2iykd",
+      "lastmod": "2026-11-06T15:45:17.643Z",
+      "name": "Pashto Single-Speaker Spontaneous Vlog Speech Corpus",
+      "slug": "pashto-single-speaker-spontaneous-vlog-s-9e157f9b"
+    },
+    {
+      "id": "cmw574b6z00xi06mo4dchu497",
+      "url": "https://mozilladatacollective.com/datasets/cmw574b6z00xi06mo4dchu497",
+      "lastmod": "2026-11-06T16:35:34.187Z",
+      "name": "🚧 Demographically-balanced Urdu Read-Speech TTS Corpus (500 hours) 🚧",
+      "slug": "demographically-balanced-urdu-read-speec-8a148f7c"
+    },
+    {
+      "id": "cmw5a9y2y00zs06moeni1lt98",
+      "url": "https://mozilladatacollective.com/datasets/cmw5a9y2y00zs06moeni1lt98",
+      "lastmod": "2026-11-06T18:03:55.978Z",
+      "name": "BibleTTS Hausa - Aligned Bible Speech",
+      "slug": "bibletts-hausa-aligned-bible-speech-ff7b9295"
+    },
+    {
+      "id": "cmw5aayxt00z307nuem1ezfzl",
+      "url": "https://mozilladatacollective.com/datasets/cmw5aayxt00z307nuem1ezfzl",
+      "lastmod": "2026-11-06T18:04:43.745Z",
+      "name": "Colecciones del Museo Nacional de Colombia (2026)",
+      "slug": "colecciones-del-museo-nacional-de-colomb-b3bda8ce"
+    },
+    {
+      "id": "cmw5abzmi00zv06mo7xrvdmei",
+      "url": "https://mozilladatacollective.com/datasets/cmw5abzmi00zv06mo7xrvdmei",
+      "lastmod": "2026-11-06T18:05:31.290Z",
+      "name": "Estadísticas con enfoque diferencial e interseccional del DANE de Colombia (2026)",
+      "slug": "estad-sticas-con-enfoque-diferencial-e-i-50fa9f44"
+    },
+    {
+      "id": "cmw5ad3b100z807num987otgs",
+      "url": "https://mozilladatacollective.com/datasets/cmw5ad3b100z807num987otgs",
+      "lastmod": "2026-11-06T18:06:22.717Z",
+      "name": "Encuesta Nacional de Calidad de Vida 2023 a 2025 del DANE de Colombia (2026)",
+      "slug": "encuesta-nacional-de-calidad-de-vida-202-77aed369"
+    },
+    {
+      "id": "cmw5adcc900zx06moku6z4ivg",
+      "url": "https://mozilladatacollective.com/datasets/cmw5adcc900zx06moku6z4ivg",
+      "lastmod": "2026-11-06T18:06:34.425Z",
+      "name": "Encuesta de Cultura Política 2021 y 2023 del DANE de Colombia (2026)",
+      "slug": "encuesta-de-cultura-pol-tica-2021-y-2023-89dc9c8d"
     }
   ]
 }
