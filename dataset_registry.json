@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T06:05:27.058428+00:00",
-  "total": 1229,
+  "updated_at": "2026-11-08T05:09:26.597825+00:00",
+  "total": 1233,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -4352,9 +4352,9 @@
     {
       "id": "cms4tcqvl01lyo207p6j1ykng",
       "url": "https://mozilladatacollective.com/datasets/cms4tcqvl01lyo207p6j1ykng",
-      "lastmod": "2026-07-28T15:31:23.794Z",
-      "name": "English Stuttered Speech",
-      "slug": "english-stuttered-speech-59da8b2c"
+      "lastmod": "2026-11-07T23:45:39.126Z",
+      "name": "AImpower.org English Stuttered Speech",
+      "slug": "aimpower-org-english-stuttered-speech-fdeb00df"
     },
     {
       "id": "cms7gsjz700owny077q9emzsa",
@@ -8552,9 +8552,9 @@
     {
       "id": "cmw3vtz9k006e07nu9rzewuh7",
       "url": "https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7",
-      "lastmod": "2026-11-06T17:26:21.310Z",
+      "lastmod": "2026-11-07T14:19:38.799Z",
       "name": "Saraiki Studio TTS Dataset — 63 Hours, 3 Speakers",
-      "slug": "saraiki-studio-tts-dataset-63-hours-3-sp-fbecca55"
+      "slug": "saraiki-studio-tts-dataset-63-hours-3-sp-125e98ee"
     },
     {
       "id": "cmw55bnm300vs07nukjj2iykd",
@@ -8604,6 +8604,34 @@
       "lastmod": "2026-11-06T18:06:34.425Z",
       "name": "Encuesta de Cultura Política 2021 y 2023 del DANE de Colombia (2026)",
       "slug": "encuesta-de-cultura-pol-tica-2021-y-2023-89dc9c8d"
+    },
+    {
+      "id": "cmw6od0qp01pe06mo3ot0unri",
+      "url": "https://mozilladatacollective.com/datasets/cmw6od0qp01pe06mo3ot0unri",
+      "lastmod": "2026-11-07T17:37:16.606Z",
+      "name": "🚧 Urdu Female Voices TTS Corpus 🚧",
+      "slug": "urdu-female-voices-tts-corpus-d44b33e8"
+    },
+    {
+      "id": "cmw6od8wr01p507nueoj9oubb",
+      "url": "https://mozilladatacollective.com/datasets/cmw6od8wr01p507nueoj9oubb",
+      "lastmod": "2026-11-07T17:36:59.946Z",
+      "name": "🚧 Urdu Speech Evaluation Set 🚧",
+      "slug": "urdu-speech-evaluation-set-b065c050"
+    },
+    {
+      "id": "cmw6oddd301p707nu71g2foid",
+      "url": "https://mozilladatacollective.com/datasets/cmw6oddd301p707nu71g2foid",
+      "lastmod": "2026-11-07T17:37:47.323Z",
+      "name": "🚧 Urdu Voice-Agent and Public-Service Speech Corpus 🚧",
+      "slug": "urdu-voice-agent-and-public-service-spee-5d10e5a2"
+    },
+    {
+      "id": "cmw6otiei01p907nu7td7zrc1",
+      "url": "https://mozilladatacollective.com/datasets/cmw6otiei01p907nu7td7zrc1",
+      "lastmod": "2026-11-07T17:38:49.578Z",
+      "name": "🚧 Urdu Pro Voices TTS Corpus 🚧",
+      "slug": "urdu-pro-voices-tts-corpus-cadb3262"
     }
   ]
 }
