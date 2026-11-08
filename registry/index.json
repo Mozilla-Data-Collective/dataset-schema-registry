@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-11-07T05:09:38.100261+00:00",
+  "generated_at": "2026-11-08T05:09:38.607652+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1229,
+    "listed_datasets": 1233,
     "with_schema": 419,
-    "without_schema": 810,
+    "without_schema": 814,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -6857,10 +6857,10 @@
       "id": "cms4tcqvl01lyo207p6j1ykng",
       "has_schema": false,
       "listed": true,
-      "name": "English Stuttered Speech",
-      "slug": "english-stuttered-speech-59da8b2c",
+      "name": "AImpower.org English Stuttered Speech",
+      "slug": "aimpower-org-english-stuttered-speech-fdeb00df",
       "dataset_url": "https://mozilladatacollective.com/datasets/cms4tcqvl01lyo207p6j1ykng",
-      "lastmod": "2026-07-28T15:31:23.794Z",
+      "lastmod": "2026-11-07T23:45:39.126Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13458,9 +13458,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Saraiki Studio TTS Dataset — 63 Hours, 3 Speakers",
-      "slug": "saraiki-studio-tts-dataset-63-hours-3-sp-fbecca55",
+      "slug": "saraiki-studio-tts-dataset-63-hours-3-sp-125e98ee",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7",
-      "lastmod": "2026-11-06T17:26:21.310Z",
+      "lastmod": "2026-11-07T14:19:38.799Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13538,6 +13538,50 @@
       "slug": "encuesta-de-cultura-pol-tica-2021-y-2023-89dc9c8d",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmw5adcc900zx06moku6z4ivg",
       "lastmod": "2026-11-06T18:06:34.425Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmw6od0qp01pe06mo3ot0unri",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Urdu Female Voices TTS Corpus 🚧",
+      "slug": "urdu-female-voices-tts-corpus-d44b33e8",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmw6od0qp01pe06mo3ot0unri",
+      "lastmod": "2026-11-07T17:37:16.606Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmw6od8wr01p507nueoj9oubb",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Urdu Speech Evaluation Set 🚧",
+      "slug": "urdu-speech-evaluation-set-b065c050",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmw6od8wr01p507nueoj9oubb",
+      "lastmod": "2026-11-07T17:36:59.946Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmw6oddd301p707nu71g2foid",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Urdu Voice-Agent and Public-Service Speech Corpus 🚧",
+      "slug": "urdu-voice-agent-and-public-service-spee-5d10e5a2",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmw6oddd301p707nu71g2foid",
+      "lastmod": "2026-11-07T17:37:47.323Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmw6otiei01p907nu7td7zrc1",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Urdu Pro Voices TTS Corpus 🚧",
+      "slug": "urdu-pro-voices-tts-corpus-cadb3262",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmw6otiei01p907nu7td7zrc1",
+      "lastmod": "2026-11-07T17:38:49.578Z",
       "schema_path": null,
       "schema_url": null
     }

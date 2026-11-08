@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-07  
-**Total datasets in sitemap:** 1229  
+**Last updated:** 2026-11-08  
+**Total datasets in sitemap:** 1233  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 810 ❌  
+**Schemas missing:** 814 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -640,7 +640,7 @@ data programmatically.
 | `cmrywzoyv014il40712wgvypf` | CoVoST 2 English - Swedish | `covost-2-english-swedish-a2d3ed39` | [link](https://mozilladatacollective.com/datasets/cmrywzoyv014il40712wgvypf) | ❌ |
 | `cmryx3uvp016ro907e97sfa4i` | Ralámuli Ra’icháala TTS | `ral-muli-ra-ich-ala-tts-d2ae00d5` | [link](https://mozilladatacollective.com/datasets/cmryx3uvp016ro907e97sfa4i) | ❌ |
 | `cms4tcf7s01luo207u7bzbqul` | Mandarin Stuttered Speech (StammerTalk) | `mandarin-stuttered-speech-stammertalk-535763c5` | [link](https://mozilladatacollective.com/datasets/cms4tcf7s01luo207u7bzbqul) | ❌ |
-| `cms4tcqvl01lyo207p6j1ykng` | English Stuttered Speech | `english-stuttered-speech-59da8b2c` | [link](https://mozilladatacollective.com/datasets/cms4tcqvl01lyo207p6j1ykng) | ❌ |
+| `cms4tcqvl01lyo207p6j1ykng` | AImpower.org English Stuttered Speech | `aimpower-org-english-stuttered-speech-fdeb00df` | [link](https://mozilladatacollective.com/datasets/cms4tcqvl01lyo207p6j1ykng) | ❌ |
 | `cms7gsjz700owny077q9emzsa` | CoVoST 2 Swedish - English | `covost-2-swedish-english-3f735eb3` | [link](https://mozilladatacollective.com/datasets/cms7gsjz700owny077q9emzsa) | ❌ |
 | `cmsgbzj8d00nlnq08a90220nd` | Urdu OCR Multi Source Dataset (Proxima AI) | `urdu-ocr-multi-source-dataset-proxima-ai-e32b32ec` | [link](https://mozilladatacollective.com/datasets/cmsgbzj8d00nlnq08a90220nd) | ❌ |
 | `cmsgc343n00opnu07ozx4087d` | Urdu AI Generated Quotes & Aphorisms | `urdu-ai-generated-quotes-aphorisms-afd765b8` | [link](https://mozilladatacollective.com/datasets/cmsgc343n00opnu07ozx4087d) | ❌ |
@@ -1240,7 +1240,7 @@ data programmatically.
 | `cmw27i5lm000708moo1vjjdql` | Biblioteca Digital del Ministerio de Educación de Chile (2026) | `biblioteca-digital-del-ministerio-de-edu-cf3e4c7a` | [link](https://mozilladatacollective.com/datasets/cmw27i5lm000708moo1vjjdql) | ❌ |
 | `cmw2gjt1j004007mlwpkfmp3v` | Dholuo Agricultural Spontaneous Speech Dataset | `dholuo-agricultural-spontaneous-speech-d-4004ff08` | [link](https://mozilladatacollective.com/datasets/cmw2gjt1j004007mlwpkfmp3v) | ❌ |
 | `cmw3utp0g005b06modoh1r9cp` | Synthetic Spanish–English Code-Switching Speech (DS-3) | `synthetic-spanish-english-code-switching-c488a000` | [link](https://mozilladatacollective.com/datasets/cmw3utp0g005b06modoh1r9cp) | ❌ |
-| `cmw3vtz9k006e07nu9rzewuh7` | Saraiki Studio TTS Dataset — 63 Hours, 3 Speakers | `saraiki-studio-tts-dataset-63-hours-3-sp-fbecca55` | [link](https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7) | ❌ |
+| `cmw3vtz9k006e07nu9rzewuh7` | Saraiki Studio TTS Dataset — 63 Hours, 3 Speakers | `saraiki-studio-tts-dataset-63-hours-3-sp-125e98ee` | [link](https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7) | ❌ |
 | `cmw55bnm300vs07nukjj2iykd` | Pashto Single-Speaker Spontaneous Vlog Speech Corpus | `pashto-single-speaker-spontaneous-vlog-s-9e157f9b` | [link](https://mozilladatacollective.com/datasets/cmw55bnm300vs07nukjj2iykd) | ❌ |
 | `cmw574b6z00xi06mo4dchu497` | 🚧 Demographically-balanced Urdu Read-Speech TTS Corpus (500 hours) 🚧 | `demographically-balanced-urdu-read-speec-8a148f7c` | [link](https://mozilladatacollective.com/datasets/cmw574b6z00xi06mo4dchu497) | ❌ |
 | `cmw5a9y2y00zs06moeni1lt98` | BibleTTS Hausa - Aligned Bible Speech | `bibletts-hausa-aligned-bible-speech-ff7b9295` | [link](https://mozilladatacollective.com/datasets/cmw5a9y2y00zs06moeni1lt98) | ❌ |
@@ -1248,6 +1248,10 @@ data programmatically.
 | `cmw5abzmi00zv06mo7xrvdmei` | Estadísticas con enfoque diferencial e interseccional del DANE de Colombia (2026) | `estad-sticas-con-enfoque-diferencial-e-i-50fa9f44` | [link](https://mozilladatacollective.com/datasets/cmw5abzmi00zv06mo7xrvdmei) | ❌ |
 | `cmw5ad3b100z807num987otgs` | Encuesta Nacional de Calidad de Vida 2023 a 2025 del DANE de Colombia (2026) | `encuesta-nacional-de-calidad-de-vida-202-77aed369` | [link](https://mozilladatacollective.com/datasets/cmw5ad3b100z807num987otgs) | ❌ |
 | `cmw5adcc900zx06moku6z4ivg` | Encuesta de Cultura Política 2021 y 2023 del DANE de Colombia (2026) | `encuesta-de-cultura-pol-tica-2021-y-2023-89dc9c8d` | [link](https://mozilladatacollective.com/datasets/cmw5adcc900zx06moku6z4ivg) | ❌ |
+| `cmw6od0qp01pe06mo3ot0unri` | 🚧 Urdu Female Voices TTS Corpus 🚧 | `urdu-female-voices-tts-corpus-d44b33e8` | [link](https://mozilladatacollective.com/datasets/cmw6od0qp01pe06mo3ot0unri) | ❌ |
+| `cmw6od8wr01p507nueoj9oubb` | 🚧 Urdu Speech Evaluation Set 🚧 | `urdu-speech-evaluation-set-b065c050` | [link](https://mozilladatacollective.com/datasets/cmw6od8wr01p507nueoj9oubb) | ❌ |
+| `cmw6oddd301p707nu71g2foid` | 🚧 Urdu Voice-Agent and Public-Service Speech Corpus 🚧 | `urdu-voice-agent-and-public-service-spee-5d10e5a2` | [link](https://mozilladatacollective.com/datasets/cmw6oddd301p707nu71g2foid) | ❌ |
+| `cmw6otiei01p907nu7td7zrc1` | 🚧 Urdu Pro Voices TTS Corpus 🚧 | `urdu-pro-voices-tts-corpus-cadb3262` | [link](https://mozilladatacollective.com/datasets/cmw6otiei01p907nu7td7zrc1) | ❌ |
 
 ## Schemas without a platform dataset
 
