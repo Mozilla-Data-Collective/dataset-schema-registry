@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T06:09:28.718678+00:00",
-  "total": 1233,
+  "updated_at": "2026-11-10T05:10:23.662718+00:00",
+  "total": 1237,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8552,9 +8552,9 @@
     {
       "id": "cmw3vtz9k006e07nu9rzewuh7",
       "url": "https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7",
-      "lastmod": "2026-11-07T14:19:38.799Z",
+      "lastmod": "2026-11-09T16:05:36.641Z",
       "name": "Saraiki Studio TTS Dataset — 63 Hours, 3 Speakers",
-      "slug": "saraiki-studio-tts-dataset-63-hours-3-sp-125e98ee"
+      "slug": "saraiki-studio-tts-dataset-63-hours-3-sp-d8bacd97"
     },
     {
       "id": "cmw55bnm300vs07nukjj2iykd",
@@ -8632,6 +8632,34 @@
       "lastmod": "2026-11-07T17:38:49.578Z",
       "name": "🚧 Urdu Pro Voices TTS Corpus 🚧",
       "slug": "urdu-pro-voices-tts-corpus-cadb3262"
+    },
+    {
+      "id": "cmw9dylci002007mj4iuategf",
+      "url": "https://mozilladatacollective.com/datasets/cmw9dylci002007mj4iuategf",
+      "lastmod": "2026-11-09T14:58:55.155Z",
+      "name": "🚧 Urdu Regional Voices TTS Corpus: Sindh, KP and Balochistan 🚧",
+      "slug": "urdu-regional-voices-tts-corpus-sindh-kp-907892b7"
+    },
+    {
+      "id": "cmw9ol4wv009507mqcj7r0e1y",
+      "url": "https://mozilladatacollective.com/datasets/cmw9ol4wv009507mqcj7r0e1y",
+      "lastmod": "2026-11-09T19:55:37.375Z",
+      "name": "TWB Voice Kanuri TTS Sample Set",
+      "slug": "twb-voice-kanuri-tts-sample-set-0390746b"
+    },
+    {
+      "id": "cmw9ol8vk009007mjhqnp4yl0",
+      "url": "https://mozilladatacollective.com/datasets/cmw9ol8vk009007mjhqnp4yl0",
+      "lastmod": "2026-11-09T19:55:42.512Z",
+      "name": "TWB Voice Hausa TTS Sample Set",
+      "slug": "twb-voice-hausa-tts-sample-set-08a76883"
+    },
+    {
+      "id": "cmw9u45nj00ca07mj117ksdfx",
+      "url": "https://mozilladatacollective.com/datasets/cmw9u45nj00ca07mj117ksdfx",
+      "lastmod": "2026-11-09T22:30:22.879Z",
+      "name": "FLEURS Javanese + Indonesian read speech (training subset used by UHM, Lost In Transcription IN-JV)",
+      "slug": "fleurs-javanese-indonesian-read-speech-t-68a9dc7e"
     }
   ]
 }
