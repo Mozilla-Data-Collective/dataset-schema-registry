@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-08  
-**Total datasets in sitemap:** 1233  
+**Last updated:** 2026-11-10  
+**Total datasets in sitemap:** 1237  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 814 ❌  
+**Schemas missing:** 818 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1240,7 +1240,7 @@ data programmatically.
 | `cmw27i5lm000708moo1vjjdql` | Biblioteca Digital del Ministerio de Educación de Chile (2026) | `biblioteca-digital-del-ministerio-de-edu-cf3e4c7a` | [link](https://mozilladatacollective.com/datasets/cmw27i5lm000708moo1vjjdql) | ❌ |
 | `cmw2gjt1j004007mlwpkfmp3v` | Dholuo Agricultural Spontaneous Speech Dataset | `dholuo-agricultural-spontaneous-speech-d-4004ff08` | [link](https://mozilladatacollective.com/datasets/cmw2gjt1j004007mlwpkfmp3v) | ❌ |
 | `cmw3utp0g005b06modoh1r9cp` | Synthetic Spanish–English Code-Switching Speech (DS-3) | `synthetic-spanish-english-code-switching-c488a000` | [link](https://mozilladatacollective.com/datasets/cmw3utp0g005b06modoh1r9cp) | ❌ |
-| `cmw3vtz9k006e07nu9rzewuh7` | Saraiki Studio TTS Dataset — 63 Hours, 3 Speakers | `saraiki-studio-tts-dataset-63-hours-3-sp-125e98ee` | [link](https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7) | ❌ |
+| `cmw3vtz9k006e07nu9rzewuh7` | Saraiki Studio TTS Dataset — 63 Hours, 3 Speakers | `saraiki-studio-tts-dataset-63-hours-3-sp-d8bacd97` | [link](https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7) | ❌ |
 | `cmw55bnm300vs07nukjj2iykd` | Pashto Single-Speaker Spontaneous Vlog Speech Corpus | `pashto-single-speaker-spontaneous-vlog-s-9e157f9b` | [link](https://mozilladatacollective.com/datasets/cmw55bnm300vs07nukjj2iykd) | ❌ |
 | `cmw574b6z00xi06mo4dchu497` | 🚧 Demographically-balanced Urdu Read-Speech TTS Corpus (500 hours) 🚧 | `demographically-balanced-urdu-read-speec-8a148f7c` | [link](https://mozilladatacollective.com/datasets/cmw574b6z00xi06mo4dchu497) | ❌ |
 | `cmw5a9y2y00zs06moeni1lt98` | BibleTTS Hausa - Aligned Bible Speech | `bibletts-hausa-aligned-bible-speech-ff7b9295` | [link](https://mozilladatacollective.com/datasets/cmw5a9y2y00zs06moeni1lt98) | ❌ |
@@ -1252,6 +1252,10 @@ data programmatically.
 | `cmw6od8wr01p507nueoj9oubb` | 🚧 Urdu Speech Evaluation Set 🚧 | `urdu-speech-evaluation-set-b065c050` | [link](https://mozilladatacollective.com/datasets/cmw6od8wr01p507nueoj9oubb) | ❌ |
 | `cmw6oddd301p707nu71g2foid` | 🚧 Urdu Voice-Agent and Public-Service Speech Corpus 🚧 | `urdu-voice-agent-and-public-service-spee-5d10e5a2` | [link](https://mozilladatacollective.com/datasets/cmw6oddd301p707nu71g2foid) | ❌ |
 | `cmw6otiei01p907nu7td7zrc1` | 🚧 Urdu Pro Voices TTS Corpus 🚧 | `urdu-pro-voices-tts-corpus-cadb3262` | [link](https://mozilladatacollective.com/datasets/cmw6otiei01p907nu7td7zrc1) | ❌ |
+| `cmw9dylci002007mj4iuategf` | 🚧 Urdu Regional Voices TTS Corpus: Sindh, KP and Balochistan 🚧 | `urdu-regional-voices-tts-corpus-sindh-kp-907892b7` | [link](https://mozilladatacollective.com/datasets/cmw9dylci002007mj4iuategf) | ❌ |
+| `cmw9ol4wv009507mqcj7r0e1y` | TWB Voice Kanuri TTS Sample Set | `twb-voice-kanuri-tts-sample-set-0390746b` | [link](https://mozilladatacollective.com/datasets/cmw9ol4wv009507mqcj7r0e1y) | ❌ |
+| `cmw9ol8vk009007mjhqnp4yl0` | TWB Voice Hausa TTS Sample Set | `twb-voice-hausa-tts-sample-set-08a76883` | [link](https://mozilladatacollective.com/datasets/cmw9ol8vk009007mjhqnp4yl0) | ❌ |
+| `cmw9u45nj00ca07mj117ksdfx` | FLEURS Javanese + Indonesian read speech (training subset used by UHM, Lost In Transcription IN-JV) | `fleurs-javanese-indonesian-read-speech-t-68a9dc7e` | [link](https://mozilladatacollective.com/datasets/cmw9u45nj00ca07mj117ksdfx) | ❌ |
 
 ## Schemas without a platform dataset
 

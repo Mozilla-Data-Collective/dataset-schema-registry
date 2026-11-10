@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-11-08T05:09:38.607652+00:00",
+  "generated_at": "2026-11-10T05:10:35.513469+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1233,
+    "listed_datasets": 1237,
     "with_schema": 419,
-    "without_schema": 814,
+    "without_schema": 818,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -13458,9 +13458,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Saraiki Studio TTS Dataset — 63 Hours, 3 Speakers",
-      "slug": "saraiki-studio-tts-dataset-63-hours-3-sp-125e98ee",
+      "slug": "saraiki-studio-tts-dataset-63-hours-3-sp-d8bacd97",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmw3vtz9k006e07nu9rzewuh7",
-      "lastmod": "2026-11-07T14:19:38.799Z",
+      "lastmod": "2026-11-09T16:05:36.641Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13582,6 +13582,50 @@
       "slug": "urdu-pro-voices-tts-corpus-cadb3262",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmw6otiei01p907nu7td7zrc1",
       "lastmod": "2026-11-07T17:38:49.578Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmw9dylci002007mj4iuategf",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Urdu Regional Voices TTS Corpus: Sindh, KP and Balochistan 🚧",
+      "slug": "urdu-regional-voices-tts-corpus-sindh-kp-907892b7",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmw9dylci002007mj4iuategf",
+      "lastmod": "2026-11-09T14:58:55.155Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmw9ol4wv009507mqcj7r0e1y",
+      "has_schema": false,
+      "listed": true,
+      "name": "TWB Voice Kanuri TTS Sample Set",
+      "slug": "twb-voice-kanuri-tts-sample-set-0390746b",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmw9ol4wv009507mqcj7r0e1y",
+      "lastmod": "2026-11-09T19:55:37.375Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmw9ol8vk009007mjhqnp4yl0",
+      "has_schema": false,
+      "listed": true,
+      "name": "TWB Voice Hausa TTS Sample Set",
+      "slug": "twb-voice-hausa-tts-sample-set-08a76883",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmw9ol8vk009007mjhqnp4yl0",
+      "lastmod": "2026-11-09T19:55:42.512Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmw9u45nj00ca07mj117ksdfx",
+      "has_schema": false,
+      "listed": true,
+      "name": "FLEURS Javanese + Indonesian read speech (training subset used by UHM, Lost In Transcription IN-JV)",
+      "slug": "fleurs-javanese-indonesian-read-speech-t-68a9dc7e",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmw9u45nj00ca07mj117ksdfx",
+      "lastmod": "2026-11-09T22:30:22.879Z",
       "schema_path": null,
       "schema_url": null
     }
