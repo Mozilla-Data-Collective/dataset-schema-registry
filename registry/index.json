@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-11-10T05:10:35.513469+00:00",
+  "generated_at": "2026-11-11T05:10:50.409889+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1237,
+    "listed_datasets": 1239,
     "with_schema": 419,
-    "without_schema": 818,
+    "without_schema": 820,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -13029,9 +13029,9 @@
       "has_schema": false,
       "listed": true,
       "name": "MALOBA Lingala OCR transcriptions, harmonised text (v1.1)",
-      "slug": "maloba-lingala-ocr-transcriptions-harmon-bc830b43",
+      "slug": "maloba-lingala-ocr-transcriptions-harmon-d9c28e09",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv",
-      "lastmod": "2026-10-15T11:03:13.296Z",
+      "lastmod": "2026-11-10T08:18:25.216Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13150,9 +13150,9 @@
       "has_schema": false,
       "listed": true,
       "name": "MALOBA French-Lingala translation pairs (h2)",
-      "slug": "maloba-french-lingala-translation-pairs-eeaef9a8",
+      "slug": "maloba-french-lingala-translation-pairs-eca72773",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmv5ejv7r004j07nw0msaehaq",
-      "lastmod": "2026-10-15T11:02:22.954Z",
+      "lastmod": "2026-11-10T08:19:17.663Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13172,9 +13172,9 @@
       "has_schema": false,
       "listed": true,
       "name": "MALOBA Lingala Speech Corpus (ASR), v3.2",
-      "slug": "maloba-lingala-speech-corpus-asr-v3-2-e72c100a",
+      "slug": "maloba-lingala-speech-corpus-asr-v3-2-7656667f",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmv5jm2au001q08nwtvj2f4bq",
-      "lastmod": "2026-10-15T11:01:17.866Z",
+      "lastmod": "2026-11-10T08:20:03.672Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13626,6 +13626,28 @@
       "slug": "fleurs-javanese-indonesian-read-speech-t-68a9dc7e",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmw9u45nj00ca07mj117ksdfx",
       "lastmod": "2026-11-09T22:30:22.879Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmwazp5gf000n07o4fdjnm7mq",
+      "has_schema": false,
+      "listed": true,
+      "name": "Urdu Multi-Speaker TTS Corpus: 7 Voices, 150 Hours",
+      "slug": "urdu-multi-speaker-tts-corpus-7-voices-1-2f26c110",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmwazp5gf000n07o4fdjnm7mq",
+      "lastmod": "2026-11-10T18:05:10.898Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmwb89oct004907o4vw03i654",
+      "has_schema": false,
+      "listed": true,
+      "name": "CC-BY YouTube Javanese/Indonesian speech segments with pseudo-labels, agreement-filtered (tier80c; used by UHM, Lost In Transcription IN-JV)",
+      "slug": "cc-by-youtube-javanese-indonesian-speech-4906b1ac",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmwb89oct004907o4vw03i654",
+      "lastmod": "2026-11-10T21:54:21.197Z",
       "schema_path": null,
       "schema_url": null
     }
