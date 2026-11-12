@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T06:06:48.301661+00:00",
-  "total": 1239,
+  "updated_at": "2026-11-12T05:10:19.219835+00:00",
+  "total": 1243,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8674,6 +8674,34 @@
       "lastmod": "2026-11-10T21:54:21.197Z",
       "name": "CC-BY YouTube Javanese/Indonesian speech segments with pseudo-labels, agreement-filtered (tier80c; used by UHM, Lost In Transcription IN-JV)",
       "slug": "cc-by-youtube-javanese-indonesian-speech-4906b1ac"
+    },
+    {
+      "id": "cmwc5rvfm002d07np4jfdmwhb",
+      "url": "https://mozilladatacollective.com/datasets/cmwc5rvfm002d07np4jfdmwhb",
+      "lastmod": "2026-11-11T13:32:17.506Z",
+      "name": "MarmaSpeak TTS",
+      "slug": "marmaspeak-tts-93158f44"
+    },
+    {
+      "id": "cmwc5skdt002f07npcxd81y63",
+      "url": "https://mozilladatacollective.com/datasets/cmwc5skdt002f07npcxd81y63",
+      "lastmod": "2026-11-11T13:32:49.841Z",
+      "name": "Suroboyoan (Surabaya Javanese) prompted speech — Jaal047 (training subset used by UHM, Lost In Transcription IN-JV)",
+      "slug": "suroboyoan-surabaya-javanese-prompted-sp-320bffc5"
+    },
+    {
+      "id": "cmwcnachv003007o1frm0lclz",
+      "url": "https://mozilladatacollective.com/datasets/cmwcnachv003007o1frm0lclz",
+      "lastmod": "2026-11-11T21:42:32.899Z",
+      "name": "LibriVox-Indonesia read audiobooks, seven languages of Indonesia (training subset used by UHM, Lost In Transcription IN-JV)",
+      "slug": "librivox-indonesia-read-audiobooks-seven-04fcf196"
+    },
+    {
+      "id": "cmwcnal1l003e07mhthshq1if",
+      "url": "https://mozilladatacollective.com/datasets/cmwcnal1l003e07mhthshq1if",
+      "lastmod": "2026-11-11T21:42:43.977Z",
+      "name": "OpenSLR 41 — Large Javanese TTS speech corpus (training subset used by UHM, Lost In Transcription IN-JV)",
+      "slug": "openslr-41-large-javanese-tts-speech-cor-2ea80a39"
     }
   ]
 }
