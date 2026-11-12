@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-11-11T05:10:50.409889+00:00",
+  "generated_at": "2026-11-12T05:10:30.766313+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1239,
+    "listed_datasets": 1243,
     "with_schema": 419,
-    "without_schema": 820,
+    "without_schema": 824,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -13648,6 +13648,50 @@
       "slug": "cc-by-youtube-javanese-indonesian-speech-4906b1ac",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmwb89oct004907o4vw03i654",
       "lastmod": "2026-11-10T21:54:21.197Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmwc5rvfm002d07np4jfdmwhb",
+      "has_schema": false,
+      "listed": true,
+      "name": "MarmaSpeak TTS",
+      "slug": "marmaspeak-tts-93158f44",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmwc5rvfm002d07np4jfdmwhb",
+      "lastmod": "2026-11-11T13:32:17.506Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmwc5skdt002f07npcxd81y63",
+      "has_schema": false,
+      "listed": true,
+      "name": "Suroboyoan (Surabaya Javanese) prompted speech — Jaal047 (training subset used by UHM, Lost In Transcription IN-JV)",
+      "slug": "suroboyoan-surabaya-javanese-prompted-sp-320bffc5",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmwc5skdt002f07npcxd81y63",
+      "lastmod": "2026-11-11T13:32:49.841Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmwcnachv003007o1frm0lclz",
+      "has_schema": false,
+      "listed": true,
+      "name": "LibriVox-Indonesia read audiobooks, seven languages of Indonesia (training subset used by UHM, Lost In Transcription IN-JV)",
+      "slug": "librivox-indonesia-read-audiobooks-seven-04fcf196",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmwcnachv003007o1frm0lclz",
+      "lastmod": "2026-11-11T21:42:32.899Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmwcnal1l003e07mhthshq1if",
+      "has_schema": false,
+      "listed": true,
+      "name": "OpenSLR 41 — Large Javanese TTS speech corpus (training subset used by UHM, Lost In Transcription IN-JV)",
+      "slug": "openslr-41-large-javanese-tts-speech-cor-2ea80a39",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmwcnal1l003e07mhthshq1if",
+      "lastmod": "2026-11-11T21:42:43.977Z",
       "schema_path": null,
       "schema_url": null
     }
