@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-11  
-**Total datasets in sitemap:** 1239  
+**Last updated:** 2026-11-12  
+**Total datasets in sitemap:** 1243  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 820 ❌  
+**Schemas missing:** 824 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1258,6 +1258,10 @@ data programmatically.
 | `cmw9u45nj00ca07mj117ksdfx` | FLEURS Javanese + Indonesian read speech (training subset used by UHM, Lost In Transcription IN-JV) | `fleurs-javanese-indonesian-read-speech-t-68a9dc7e` | [link](https://mozilladatacollective.com/datasets/cmw9u45nj00ca07mj117ksdfx) | ❌ |
 | `cmwazp5gf000n07o4fdjnm7mq` | Urdu Multi-Speaker TTS Corpus: 7 Voices, 150 Hours | `urdu-multi-speaker-tts-corpus-7-voices-1-2f26c110` | [link](https://mozilladatacollective.com/datasets/cmwazp5gf000n07o4fdjnm7mq) | ❌ |
 | `cmwb89oct004907o4vw03i654` | CC-BY YouTube Javanese/Indonesian speech segments with pseudo-labels, agreement-filtered (tier80c; used by UHM, Lost In Transcription IN-JV) | `cc-by-youtube-javanese-indonesian-speech-4906b1ac` | [link](https://mozilladatacollective.com/datasets/cmwb89oct004907o4vw03i654) | ❌ |
+| `cmwc5rvfm002d07np4jfdmwhb` | MarmaSpeak TTS | `marmaspeak-tts-93158f44` | [link](https://mozilladatacollective.com/datasets/cmwc5rvfm002d07np4jfdmwhb) | ❌ |
+| `cmwc5skdt002f07npcxd81y63` | Suroboyoan (Surabaya Javanese) prompted speech — Jaal047 (training subset used by UHM, Lost In Transcription IN-JV) | `suroboyoan-surabaya-javanese-prompted-sp-320bffc5` | [link](https://mozilladatacollective.com/datasets/cmwc5skdt002f07npcxd81y63) | ❌ |
+| `cmwcnachv003007o1frm0lclz` | LibriVox-Indonesia read audiobooks, seven languages of Indonesia (training subset used by UHM, Lost In Transcription IN-JV) | `librivox-indonesia-read-audiobooks-seven-04fcf196` | [link](https://mozilladatacollective.com/datasets/cmwcnachv003007o1frm0lclz) | ❌ |
+| `cmwcnal1l003e07mhthshq1if` | OpenSLR 41 — Large Javanese TTS speech corpus (training subset used by UHM, Lost In Transcription IN-JV) | `openslr-41-large-javanese-tts-speech-cor-2ea80a39` | [link](https://mozilladatacollective.com/datasets/cmwcnal1l003e07mhthshq1if) | ❌ |
 
 ## Schemas without a platform dataset
 
