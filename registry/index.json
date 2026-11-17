@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-11-12T05:10:30.766313+00:00",
+  "generated_at": "2026-11-17T05:10:51.002420+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1243,
+    "listed_datasets": 1245,
     "with_schema": 419,
-    "without_schema": 824,
+    "without_schema": 826,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -13692,6 +13692,28 @@
       "slug": "openslr-41-large-javanese-tts-speech-cor-2ea80a39",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmwcnal1l003e07mhthshq1if",
       "lastmod": "2026-11-11T21:42:43.977Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmwjfpeca009f07ntumc5o2m5",
+      "has_schema": false,
+      "listed": true,
+      "name": "Errington \"Javanese conversations 1\" (PARADISEC JJE1): audio segments and time-aligned transcripts used by UHM, Lost In Transcription IN-JV",
+      "slug": "errington-javanese-conversations-1-parad-303ccbe9",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmwjfpeca009f07ntumc5o2m5",
+      "lastmod": "2026-11-16T15:44:41.434Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmwjngba400cu07ml5wd0kfwe",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Indonesian Accented Read Speech Corpus 🚧",
+      "slug": "indonesian-accented-read-speech-corpus-0a8f32cc",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmwjngba400cu07ml5wd0kfwe",
+      "lastmod": "2026-11-16T19:21:34.492Z",
       "schema_path": null,
       "schema_url": null
     }

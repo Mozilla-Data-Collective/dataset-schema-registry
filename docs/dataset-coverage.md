@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-12  
-**Total datasets in sitemap:** 1243  
+**Last updated:** 2026-11-17  
+**Total datasets in sitemap:** 1245  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 824 ❌  
+**Schemas missing:** 826 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1262,6 +1262,8 @@ data programmatically.
 | `cmwc5skdt002f07npcxd81y63` | Suroboyoan (Surabaya Javanese) prompted speech — Jaal047 (training subset used by UHM, Lost In Transcription IN-JV) | `suroboyoan-surabaya-javanese-prompted-sp-320bffc5` | [link](https://mozilladatacollective.com/datasets/cmwc5skdt002f07npcxd81y63) | ❌ |
 | `cmwcnachv003007o1frm0lclz` | LibriVox-Indonesia read audiobooks, seven languages of Indonesia (training subset used by UHM, Lost In Transcription IN-JV) | `librivox-indonesia-read-audiobooks-seven-04fcf196` | [link](https://mozilladatacollective.com/datasets/cmwcnachv003007o1frm0lclz) | ❌ |
 | `cmwcnal1l003e07mhthshq1if` | OpenSLR 41 — Large Javanese TTS speech corpus (training subset used by UHM, Lost In Transcription IN-JV) | `openslr-41-large-javanese-tts-speech-cor-2ea80a39` | [link](https://mozilladatacollective.com/datasets/cmwcnal1l003e07mhthshq1if) | ❌ |
+| `cmwjfpeca009f07ntumc5o2m5` | Errington "Javanese conversations 1" (PARADISEC JJE1): audio segments and time-aligned transcripts used by UHM, Lost In Transcription IN-JV | `errington-javanese-conversations-1-parad-303ccbe9` | [link](https://mozilladatacollective.com/datasets/cmwjfpeca009f07ntumc5o2m5) | ❌ |
+| `cmwjngba400cu07ml5wd0kfwe` | 🚧 Indonesian Accented Read Speech Corpus 🚧 | `indonesian-accented-read-speech-corpus-0a8f32cc` | [link](https://mozilladatacollective.com/datasets/cmwjngba400cu07ml5wd0kfwe) | ❌ |
 
 ## Schemas without a platform dataset
 
