@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T06:10:18.870739+00:00",
-  "total": 1243,
+  "updated_at": "2026-11-17T05:10:34.756452+00:00",
+  "total": 1245,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8702,6 +8702,20 @@
       "lastmod": "2026-11-11T21:42:43.977Z",
       "name": "OpenSLR 41 — Large Javanese TTS speech corpus (training subset used by UHM, Lost In Transcription IN-JV)",
       "slug": "openslr-41-large-javanese-tts-speech-cor-2ea80a39"
+    },
+    {
+      "id": "cmwjfpeca009f07ntumc5o2m5",
+      "url": "https://mozilladatacollective.com/datasets/cmwjfpeca009f07ntumc5o2m5",
+      "lastmod": "2026-11-16T15:44:41.434Z",
+      "name": "Errington \"Javanese conversations 1\" (PARADISEC JJE1): audio segments and time-aligned transcripts used by UHM, Lost In Transcription IN-JV",
+      "slug": "errington-javanese-conversations-1-parad-303ccbe9"
+    },
+    {
+      "id": "cmwjngba400cu07ml5wd0kfwe",
+      "url": "https://mozilladatacollective.com/datasets/cmwjngba400cu07ml5wd0kfwe",
+      "lastmod": "2026-11-16T19:21:34.492Z",
+      "name": "🚧 Indonesian Accented Read Speech Corpus 🚧",
+      "slug": "indonesian-accented-read-speech-corpus-0a8f32cc"
     }
   ]
 }
