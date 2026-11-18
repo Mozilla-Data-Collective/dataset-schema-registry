@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T06:06:59.940747+00:00",
+  "updated_at": "2026-11-18T05:10:57.111361+00:00",
   "total": 1245,
   "datasets": [
     {
@@ -4058,9 +4058,9 @@
     {
       "id": "cmrtehynr008qmm07wfw4q0ec",
       "url": "https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec",
-      "lastmod": "2026-08-20T19:00:29.910Z",
-      "name": "🚧 Hazargi Corpus for Speech Recognition 🚧",
-      "slug": "hazargi-corpus-for-speech-recognition-d74d6b1e"
+      "lastmod": "2026-11-17T13:51:42.226Z",
+      "name": "Hazargi Corpus for Speech Recognition",
+      "slug": "hazargi-corpus-for-speech-recognition-90e30873"
     },
     {
       "id": "cmrumhinj0001md07y3huuhs5",
