@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-11-17T05:10:51.002420+00:00",
+  "generated_at": "2026-11-18T05:11:10.941530+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -6395,10 +6395,10 @@
       "id": "cmrtehynr008qmm07wfw4q0ec",
       "has_schema": true,
       "listed": true,
-      "name": "🚧 Hazargi Corpus for Speech Recognition 🚧",
-      "slug": "hazargi-corpus-for-speech-recognition-d74d6b1e",
+      "name": "Hazargi Corpus for Speech Recognition",
+      "slug": "hazargi-corpus-for-speech-recognition-90e30873",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec",
-      "lastmod": "2026-08-20T19:00:29.910Z",
+      "lastmod": "2026-11-17T13:51:42.226Z",
       "schema_path": "registry/cmrtehynr008qmm07wfw4q0ec/schema.yaml",
       "schema_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry/cmrtehynr008qmm07wfw4q0ec/schema.yaml"
     },

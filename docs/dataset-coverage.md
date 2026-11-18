@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-17  
+**Last updated:** 2026-11-18  
 **Total datasets in sitemap:** 1245  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 826 ❌  
@@ -598,7 +598,7 @@ data programmatically.
 | `cmrtddqrp007umm07wt2d8dxo` | Adjuntos Solicitudes Información — Guanajuato | `adjuntos-solicitudes-informaci-n-guanaju-dc0bbdf1` | [link](https://mozilladatacollective.com/datasets/cmrtddqrp007umm07wt2d8dxo) | ❌ |
 | `cmrtddtl1007ymm07miqkb7wh` | Adjuntos Solicitudes Información — Jalisco | `adjuntos-solicitudes-informaci-n-jalisco-04715813` | [link](https://mozilladatacollective.com/datasets/cmrtddtl1007ymm07miqkb7wh) | ❌ |
 | `cmrtddwco0082mm07blij2hgp` | Adjuntos Solicitudes Información — Nuevo León | `adjuntos-solicitudes-informaci-n-nuevo-l-77eadde5` | [link](https://mozilladatacollective.com/datasets/cmrtddwco0082mm07blij2hgp) | ❌ |
-| `cmrtehynr008qmm07wfw4q0ec` | 🚧 Hazargi Corpus for Speech Recognition 🚧 | `hazargi-corpus-for-speech-recognition-d74d6b1e` | [link](https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec) | ✅ |
+| `cmrtehynr008qmm07wfw4q0ec` | Hazargi Corpus for Speech Recognition | `hazargi-corpus-for-speech-recognition-90e30873` | [link](https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec) | ✅ |
 | `cmrumhinj0001md07y3huuhs5` | Common Voice Scripted Speech 26.0 - French of France | `common-voice-scripted-speech-26-0-french-33ae1060` | [link](https://mozilladatacollective.com/datasets/cmrumhinj0001md07y3huuhs5) | ❌ |
 | `cmrumhr9h0005md07ph5dkxpp` | Common Voice Scripted Speech 26.0 - Canadian French | `common-voice-scripted-speech-26-0-canadi-9e8b10de` | [link](https://mozilladatacollective.com/datasets/cmrumhr9h0005md07ph5dkxpp) | ❌ |
 | `cmrumxiu5000nmd07vuz5knqq` | 🚧 Hazargi-English Speech Translation Corpus 🚧 | `hazargi-english-speech-translation-corpu-749ccf56` | [link](https://mozilladatacollective.com/datasets/cmrumxiu5000nmd07vuz5knqq) | ❌ |
