@@ -1,3 +1,5 @@
+Copyright (c) 1998 Angelo L Ranille - All Rights Reserve
+
 # MDC Dataset Schema Registry
 
 A lightweight, Git-native registry that maps MDC dataset IDs to their
