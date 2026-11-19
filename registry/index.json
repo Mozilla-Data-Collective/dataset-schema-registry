@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-11-18T05:11:10.941530+00:00",
+  "generated_at": "2026-11-19T05:10:59.117428+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -1974,9 +1974,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Malayalam Time-Aligned Speech Corpus",
-      "slug": "malayalam-time-aligned-speech-corpus-7e1aa43f",
+      "slug": "malayalam-time-aligned-speech-corpus-b7c6ceda",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmmno795h009hml07dh7uefvp",
-      "lastmod": "2026-03-12T16:16:32.789Z",
+      "lastmod": "2026-11-18T15:43:51.141Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -1996,9 +1996,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Urdu Multi-Speaker TTS Dataset",
-      "slug": "urdu-multi-speaker-tts-dataset-d0701b9b",
+      "slug": "urdu-multi-speaker-tts-dataset-8714a02b",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmmvykcrs0050ny07vkwww5gi",
-      "lastmod": "2026-03-18T11:28:49.576Z",
+      "lastmod": "2026-11-18T15:44:05.303Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -5483,9 +5483,9 @@
       "has_schema": false,
       "listed": true,
       "name": "RAPNIC - Catalan Impaired Speech (Example Set)",
-      "slug": "rapnic-catalan-impaired-speech-example-s-8b8ddf8b",
+      "slug": "rapnic-catalan-impaired-speech-example-s-803ae7cd",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmqt5v7bp0886mm07qd5mdxta",
-      "lastmod": "2026-06-25T07:08:43.862Z",
+      "lastmod": "2026-11-18T18:12:24.929Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -7154,10 +7154,10 @@
       "id": "cmt7e4pfp004nnz08j3shtpcx",
       "has_schema": false,
       "listed": true,
-      "name": "🚧  Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain 🚧 ",
-      "slug": "free-form-sheng-swahili-english-code-swi-4d2cf90e",
+      "name": "Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain",
+      "slug": "free-form-sheng-swahili-english-code-swi-eba8da71",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmt7e4pfp004nnz08j3shtpcx",
-      "lastmod": "2026-08-24T15:28:15.301Z",
+      "lastmod": "2026-11-18T21:59:57.988Z",
       "schema_path": null,
       "schema_url": null
     },
