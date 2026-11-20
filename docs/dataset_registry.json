@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T06:07:07.285352+00:00",
-  "total": 1245,
+  "updated_at": "2026-11-20T05:10:46.123935+00:00",
+  "total": 1247,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8716,6 +8716,20 @@
       "lastmod": "2026-11-16T19:21:34.492Z",
       "name": "🚧 Indonesian Accented Read Speech Corpus 🚧",
       "slug": "indonesian-accented-read-speech-corpus-0a8f32cc"
+    },
+    {
+      "id": "cmwnnj36s018y07mkgg76s92x",
+      "url": "https://mozilladatacollective.com/datasets/cmwnnj36s018y07mkgg76s92x",
+      "lastmod": "2026-11-19T14:34:48.676Z",
+      "name": "Rangpuri 10 Hours TTS (Male Speaker)",
+      "slug": "rangpuri-10-hours-tts-male-speaker-31fa2f27"
+    },
+    {
+      "id": "cmwnnjt57015p07kyegvh1ikb",
+      "url": "https://mozilladatacollective.com/datasets/cmwnnjt57015p07kyegvh1ikb",
+      "lastmod": "2026-11-19T14:35:22.315Z",
+      "name": "Sylheti 10 Hours TTS (Male Speaker)",
+      "slug": "sylheti-10-hours-tts-male-speaker-19a4139c"
     }
   ]
 }
