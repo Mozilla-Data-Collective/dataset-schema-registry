@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-19  
-**Total datasets in sitemap:** 1245  
+**Last updated:** 2026-11-20  
+**Total datasets in sitemap:** 1247  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 826 ❌  
+**Schemas missing:** 828 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1264,6 +1264,8 @@ data programmatically.
 | `cmwcnal1l003e07mhthshq1if` | OpenSLR 41 — Large Javanese TTS speech corpus (training subset used by UHM, Lost In Transcription IN-JV) | `openslr-41-large-javanese-tts-speech-cor-2ea80a39` | [link](https://mozilladatacollective.com/datasets/cmwcnal1l003e07mhthshq1if) | ❌ |
 | `cmwjfpeca009f07ntumc5o2m5` | Errington "Javanese conversations 1" (PARADISEC JJE1): audio segments and time-aligned transcripts used by UHM, Lost In Transcription IN-JV | `errington-javanese-conversations-1-parad-303ccbe9` | [link](https://mozilladatacollective.com/datasets/cmwjfpeca009f07ntumc5o2m5) | ❌ |
 | `cmwjngba400cu07ml5wd0kfwe` | 🚧 Indonesian Accented Read Speech Corpus 🚧 | `indonesian-accented-read-speech-corpus-0a8f32cc` | [link](https://mozilladatacollective.com/datasets/cmwjngba400cu07ml5wd0kfwe) | ❌ |
+| `cmwnnj36s018y07mkgg76s92x` | Rangpuri 10 Hours TTS (Male Speaker) | `rangpuri-10-hours-tts-male-speaker-31fa2f27` | [link](https://mozilladatacollective.com/datasets/cmwnnj36s018y07mkgg76s92x) | ❌ |
+| `cmwnnjt57015p07kyegvh1ikb` | Sylheti 10 Hours TTS (Male Speaker) | `sylheti-10-hours-tts-male-speaker-19a4139c` | [link](https://mozilladatacollective.com/datasets/cmwnnjt57015p07kyegvh1ikb) | ❌ |
 
 ## Schemas without a platform dataset
 

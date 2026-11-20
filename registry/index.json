@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-11-19T05:10:59.117428+00:00",
+  "generated_at": "2026-11-20T05:11:00.996858+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1245,
+    "listed_datasets": 1247,
     "with_schema": 419,
-    "without_schema": 826,
+    "without_schema": 828,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -13714,6 +13714,28 @@
       "slug": "indonesian-accented-read-speech-corpus-0a8f32cc",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmwjngba400cu07ml5wd0kfwe",
       "lastmod": "2026-11-16T19:21:34.492Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmwnnj36s018y07mkgg76s92x",
+      "has_schema": false,
+      "listed": true,
+      "name": "Rangpuri 10 Hours TTS (Male Speaker)",
+      "slug": "rangpuri-10-hours-tts-male-speaker-31fa2f27",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmwnnj36s018y07mkgg76s92x",
+      "lastmod": "2026-11-19T14:34:48.676Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmwnnjt57015p07kyegvh1ikb",
+      "has_schema": false,
+      "listed": true,
+      "name": "Sylheti 10 Hours TTS (Male Speaker)",
+      "slug": "sylheti-10-hours-tts-male-speaker-19a4139c",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmwnnjt57015p07kyegvh1ikb",
+      "lastmod": "2026-11-19T14:35:22.315Z",
       "schema_path": null,
       "schema_url": null
     }
