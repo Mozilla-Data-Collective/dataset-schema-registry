@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T06:07:00.750709+00:00",
-  "total": 1247,
+  "updated_at": "2026-11-21T05:09:45.268742+00:00",
+  "total": 1249,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -4541,9 +4541,9 @@
     {
       "id": "cmt7e4pfp004nnz08j3shtpcx",
       "url": "https://mozilladatacollective.com/datasets/cmt7e4pfp004nnz08j3shtpcx",
-      "lastmod": "2026-11-18T21:59:57.988Z",
+      "lastmod": "2026-11-20T22:11:43.181Z",
       "name": "Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain",
-      "slug": "free-form-sheng-swahili-english-code-swi-eba8da71"
+      "slug": "free-form-sheng-swahili-english-code-swi-1bdfd267"
     },
     {
       "id": "cmt7ly2jb002mns07yuplkfbk",
@@ -8730,6 +8730,20 @@
       "lastmod": "2026-11-19T14:35:22.315Z",
       "name": "Sylheti 10 Hours TTS (Male Speaker)",
       "slug": "sylheti-10-hours-tts-male-speaker-19a4139c"
+    },
+    {
+      "id": "cmwp6zxwy00t407mce4vzq0qf",
+      "url": "https://mozilladatacollective.com/datasets/cmwp6zxwy00t407mce4vzq0qf",
+      "lastmod": "2026-11-20T16:27:33.874Z",
+      "name": "🚧 Saraiki Corpus for Speech Recognition 🚧",
+      "slug": "saraiki-corpus-for-speech-recognition-8ea0b6dc"
+    },
+    {
+      "id": "cmwp90a8200ub07mcxdh4u7zy",
+      "url": "https://mozilladatacollective.com/datasets/cmwp90a8200ub07mcxdh4u7zy",
+      "lastmod": "2026-11-20T17:23:49.058Z",
+      "name": "🚧 Western Punjabi Corpus for Speech Recognition 🚧",
+      "slug": "western-punjabi-corpus-for-speech-recogn-68d564d8"
     }
   ]
 }
