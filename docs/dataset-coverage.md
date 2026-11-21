@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-20  
-**Total datasets in sitemap:** 1247  
+**Last updated:** 2026-11-21  
+**Total datasets in sitemap:** 1249  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 828 ❌  
+**Schemas missing:** 830 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -667,7 +667,7 @@ data programmatically.
 | `cmszkb3s901wvny07pkz816wx` | Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) | `single-speaker-urdu-tts-dataset-female-s-068a8da9` | [link](https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx) | ❌ |
 | `cmt09mjq0005xl107yuqi873h` | 🚧 Khowar Multimodal Dataset 🚧 | `khowar-multimodal-dataset-e5e3ecf7` | [link](https://mozilladatacollective.com/datasets/cmt09mjq0005xl107yuqi873h) | ❌ |
 | `cmt6ft8jp02vanz075sg7xm0m` | Indonesian-Spanish Learner Corpus | `indonesian-spanish-learner-corpus-bb47c605` | [link](https://mozilladatacollective.com/datasets/cmt6ft8jp02vanz075sg7xm0m) | ❌ |
-| `cmt7e4pfp004nnz08j3shtpcx` | Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain | `free-form-sheng-swahili-english-code-swi-eba8da71` | [link](https://mozilladatacollective.com/datasets/cmt7e4pfp004nnz08j3shtpcx) | ❌ |
+| `cmt7e4pfp004nnz08j3shtpcx` | Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain | `free-form-sheng-swahili-english-code-swi-1bdfd267` | [link](https://mozilladatacollective.com/datasets/cmt7e4pfp004nnz08j3shtpcx) | ❌ |
 | `cmt7ly2jb002mns07yuplkfbk` | 🚧 Southeast Asian Hokkien TTS dataset 🚧 | `southeast-asian-hokkien-tts-dataset-616f92bb` | [link](https://mozilladatacollective.com/datasets/cmt7ly2jb002mns07yuplkfbk) | ❌ |
 | `cmt7lzezp002qns07ya5txwrx` | 🚧 Moroccan Arabic ASR dataset (180h) 🚧 | `moroccan-arabic-asr-dataset-180h-4c950664` | [link](https://mozilladatacollective.com/datasets/cmt7lzezp002qns07ya5txwrx) | ❌ |
 | `cmt7lzpkp002uns07r684h2qa` | 🚧 Southeast Asian Malay TTS dataset 🚧 | `southeast-asian-malay-tts-dataset-f1f764b2` | [link](https://mozilladatacollective.com/datasets/cmt7lzpkp002uns07r684h2qa) | ❌ |
@@ -1266,6 +1266,8 @@ data programmatically.
 | `cmwjngba400cu07ml5wd0kfwe` | 🚧 Indonesian Accented Read Speech Corpus 🚧 | `indonesian-accented-read-speech-corpus-0a8f32cc` | [link](https://mozilladatacollective.com/datasets/cmwjngba400cu07ml5wd0kfwe) | ❌ |
 | `cmwnnj36s018y07mkgg76s92x` | Rangpuri 10 Hours TTS (Male Speaker) | `rangpuri-10-hours-tts-male-speaker-31fa2f27` | [link](https://mozilladatacollective.com/datasets/cmwnnj36s018y07mkgg76s92x) | ❌ |
 | `cmwnnjt57015p07kyegvh1ikb` | Sylheti 10 Hours TTS (Male Speaker) | `sylheti-10-hours-tts-male-speaker-19a4139c` | [link](https://mozilladatacollective.com/datasets/cmwnnjt57015p07kyegvh1ikb) | ❌ |
+| `cmwp6zxwy00t407mce4vzq0qf` | 🚧 Saraiki Corpus for Speech Recognition 🚧 | `saraiki-corpus-for-speech-recognition-8ea0b6dc` | [link](https://mozilladatacollective.com/datasets/cmwp6zxwy00t407mce4vzq0qf) | ❌ |
+| `cmwp90a8200ub07mcxdh4u7zy` | 🚧 Western Punjabi Corpus for Speech Recognition 🚧 | `western-punjabi-corpus-for-speech-recogn-68d564d8` | [link](https://mozilladatacollective.com/datasets/cmwp90a8200ub07mcxdh4u7zy) | ❌ |
 
 ## Schemas without a platform dataset
 

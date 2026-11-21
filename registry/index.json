@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-11-20T05:11:00.996858+00:00",
+  "generated_at": "2026-11-21T05:09:57.599032+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1247,
+    "listed_datasets": 1249,
     "with_schema": 419,
-    "without_schema": 828,
+    "without_schema": 830,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -7155,9 +7155,9 @@
       "has_schema": false,
       "listed": true,
       "name": "Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain",
-      "slug": "free-form-sheng-swahili-english-code-swi-eba8da71",
+      "slug": "free-form-sheng-swahili-english-code-swi-1bdfd267",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmt7e4pfp004nnz08j3shtpcx",
-      "lastmod": "2026-11-18T21:59:57.988Z",
+      "lastmod": "2026-11-20T22:11:43.181Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -13736,6 +13736,28 @@
       "slug": "sylheti-10-hours-tts-male-speaker-19a4139c",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmwnnjt57015p07kyegvh1ikb",
       "lastmod": "2026-11-19T14:35:22.315Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmwp6zxwy00t407mce4vzq0qf",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Saraiki Corpus for Speech Recognition 🚧",
+      "slug": "saraiki-corpus-for-speech-recognition-8ea0b6dc",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmwp6zxwy00t407mce4vzq0qf",
+      "lastmod": "2026-11-20T16:27:33.874Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmwp90a8200ub07mcxdh4u7zy",
+      "has_schema": false,
+      "listed": true,
+      "name": "🚧 Western Punjabi Corpus for Speech Recognition 🚧",
+      "slug": "western-punjabi-corpus-for-speech-recogn-68d564d8",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmwp90a8200ub07mcxdh4u7zy",
+      "lastmod": "2026-11-20T17:23:49.058Z",
       "schema_path": null,
       "schema_url": null
     }
