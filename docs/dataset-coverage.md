@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-12  
-**Total datasets in sitemap:** 1243  
+**Last updated:** 2026-11-24  
+**Total datasets in sitemap:** 1249  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 824 ❌  
+**Schemas missing:** 830 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -196,9 +196,9 @@ data programmatically.
 | `cmmng8btl000yl807k8qtx891` | DDD Somali ASR Speech Dataset (68 hours), Part 1 of 3, Research | `ddd-somali-asr-speech-dataset-68-hours-p-f680c21a` | [link](https://mozilladatacollective.com/datasets/cmmng8btl000yl807k8qtx891) | ❌ |
 | `cmmnixx2d0043ml07zbq1i7oi` | DDD Somali ASR Speech Dataset (68 hours), Part 2 of 3, Research | `ddd-somali-asr-speech-dataset-68-hours-p-7fbc2cc5` | [link](https://mozilladatacollective.com/datasets/cmmnixx2d0043ml07zbq1i7oi) | ❌ |
 | `cmmniydvi0047ml07nt6z5xud` | DDD Somali ASR Speech Dataset (68 hours), Part 3 of 3, Research | `ddd-somali-asr-speech-dataset-68-hours-p-02650907` | [link](https://mozilladatacollective.com/datasets/cmmniydvi0047ml07nt6z5xud) | ❌ |
-| `cmmno795h009hml07dh7uefvp` | Malayalam Time-Aligned Speech Corpus | `malayalam-time-aligned-speech-corpus-7e1aa43f` | [link](https://mozilladatacollective.com/datasets/cmmno795h009hml07dh7uefvp) | ❌ |
+| `cmmno795h009hml07dh7uefvp` | Malayalam Time-Aligned Speech Corpus | `malayalam-time-aligned-speech-corpus-b7c6ceda` | [link](https://mozilladatacollective.com/datasets/cmmno795h009hml07dh7uefvp) | ❌ |
 | `cmmus79780030ms07vyi4dsr5` | BECO Brahui Literature Corpus | `beco-brahui-literature-corpus-3f63fc56` | [link](https://mozilladatacollective.com/datasets/cmmus79780030ms07vyi4dsr5) | ❌ |
-| `cmmvykcrs0050ny07vkwww5gi` | Urdu Multi-Speaker TTS Dataset | `urdu-multi-speaker-tts-dataset-d0701b9b` | [link](https://mozilladatacollective.com/datasets/cmmvykcrs0050ny07vkwww5gi) | ❌ |
+| `cmmvykcrs0050ny07vkwww5gi` | Urdu Multi-Speaker TTS Dataset | `urdu-multi-speaker-tts-dataset-8714a02b` | [link](https://mozilladatacollective.com/datasets/cmmvykcrs0050ny07vkwww5gi) | ❌ |
 | `cmmxhw46c00tqnw07xyr94zjk` | UP - DSP - Philippine Languages Database (UP-DSP-PLD) | `up-dsp-philippine-languages-database-up-d2a7dbb0` | [link](https://mozilladatacollective.com/datasets/cmmxhw46c00tqnw07xyr94zjk) | ❌ |
 | `cmmxib8ic00v6nw07bjrci8vj` | Istorima | `istorima-e0506b6d` | [link](https://mozilladatacollective.com/datasets/cmmxib8ic00v6nw07bjrci8vj) | ❌ |
 | `cmmyyd6jq00k5mf07tjn4xh3j` | Mvele_ALCAM-MultimodalDataset | `mvele-alcam-multimodaldataset-bf6fcd7d` | [link](https://mozilladatacollective.com/datasets/cmmyyd6jq00k5mf07tjn4xh3j) | ❌ |
@@ -515,7 +515,7 @@ data programmatically.
 | `cmqqtbdf306irmm07ngpfy4pw` | StackOverflow Vector Database - assembly | `stackoverflow-vector-database-assembly-ff52b8cb` | [link](https://mozilladatacollective.com/datasets/cmqqtbdf306irmm07ngpfy4pw) | ❌ |
 | `cmqqtblr70657nr074im9aheh` | StackOverflow Vector Database - bash | `stackoverflow-vector-database-bash-6cf3cebd` | [link](https://mozilladatacollective.com/datasets/cmqqtblr70657nr074im9aheh) | ❌ |
 | `cmqs1irj8075snr07i69uvzo3` | Tequila Zongolica Nahuatl Transcriptions | `tequila-zongolica-nahuatl-transcriptions-153a9acf` | [link](https://mozilladatacollective.com/datasets/cmqs1irj8075snr07i69uvzo3) | ❌ |
-| `cmqt5v7bp0886mm07qd5mdxta` | RAPNIC - Catalan Impaired Speech (Example Set) | `rapnic-catalan-impaired-speech-example-s-8b8ddf8b` | [link](https://mozilladatacollective.com/datasets/cmqt5v7bp0886mm07qd5mdxta) | ❌ |
+| `cmqt5v7bp0886mm07qd5mdxta` | RAPNIC - Catalan Impaired Speech (Example Set) | `rapnic-catalan-impaired-speech-example-s-803ae7cd` | [link](https://mozilladatacollective.com/datasets/cmqt5v7bp0886mm07qd5mdxta) | ❌ |
 | `cmqt5xc4l07xwnr07l227et8j` | Corpus paralelo multimodal Lengua de Señas Mexicana – Español MX | `corpus-paralelo-multimodal-lengua-de-se-314fd89f` | [link](https://mozilladatacollective.com/datasets/cmqt5xc4l07xwnr07l227et8j) | ❌ |
 | `cmqtketrh08dqnr07c30po7zb` | Burushaski-English Speech Translation Corpus | `burushaski-english-speech-translation-co-831896e3` | [link](https://mozilladatacollective.com/datasets/cmqtketrh08dqnr07c30po7zb) | ❌ |
 | `cmqtkf6or08dunr07swj2r555` | AIRI AI4TALK Evenki ASR | `airi-ai4talk-evenki-asr-8b0aad52` | [link](https://mozilladatacollective.com/datasets/cmqtkf6or08dunr07swj2r555) | ❌ |
@@ -584,7 +584,7 @@ data programmatically.
 | `cmroyatmb00wko007rt1g1hr2` | SKAD Ladino Parallel Corpus | `skad-ladino-parallel-corpus-dafb16b2` | [link](https://mozilladatacollective.com/datasets/cmroyatmb00wko007rt1g1hr2) | ❌ |
 | `cmroyc7m900wqo007okjs2jp3` | 🚧 Multi-Subject Human Pose & Facial Expression Dataset (Studio, 4K) 🚧 | `multi-subject-human-pose-facial-expressi-a86a7482` | [link](https://mozilladatacollective.com/datasets/cmroyc7m900wqo007okjs2jp3) | ❌ |
 | `cmrp1sdsj00zemm0822j75968` | Singaporean Tamil Speech Collection | `singaporean-tamil-speech-collection-bcf228b3` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ✅ |
-| `cmrp30fdp0120o007a69s3nfc` | Burmese Speech Collection | `burmese-speech-collection-cbdda6bf` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ✅ |
+| `cmrp30fdp0120o007a69s3nfc` | Burmese Speech Collection | `burmese-speech-collection-e57f0256` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ✅ |
 | `cmrt6zbgx000vmm07hfuefigk` | Common Voice Scripted Speech 26.0 - American English (Male) | `common-voice-scripted-speech-26-0-americ-34c3c133` | [link](https://mozilladatacollective.com/datasets/cmrt6zbgx000vmm07hfuefigk) | ❌ |
 | `cmrt6zrob000zmm07yqwjlpwi` | Common Voice Scripted Speech 26.0 - British English | `common-voice-scripted-speech-26-0-britis-0fe481c3` | [link](https://mozilladatacollective.com/datasets/cmrt6zrob000zmm07yqwjlpwi) | ❌ |
 | `cmrt70j4z001qmm07nvfsmgmr` | Common Voice Scripted Speech 26.0 - American English (Female) | `common-voice-scripted-speech-26-0-americ-079c33be` | [link](https://mozilladatacollective.com/datasets/cmrt70j4z001qmm07nvfsmgmr) | ❌ |
@@ -598,7 +598,7 @@ data programmatically.
 | `cmrtddqrp007umm07wt2d8dxo` | Adjuntos Solicitudes Información — Guanajuato | `adjuntos-solicitudes-informaci-n-guanaju-dc0bbdf1` | [link](https://mozilladatacollective.com/datasets/cmrtddqrp007umm07wt2d8dxo) | ❌ |
 | `cmrtddtl1007ymm07miqkb7wh` | Adjuntos Solicitudes Información — Jalisco | `adjuntos-solicitudes-informaci-n-jalisco-04715813` | [link](https://mozilladatacollective.com/datasets/cmrtddtl1007ymm07miqkb7wh) | ❌ |
 | `cmrtddwco0082mm07blij2hgp` | Adjuntos Solicitudes Información — Nuevo León | `adjuntos-solicitudes-informaci-n-nuevo-l-77eadde5` | [link](https://mozilladatacollective.com/datasets/cmrtddwco0082mm07blij2hgp) | ❌ |
-| `cmrtehynr008qmm07wfw4q0ec` | 🚧 Hazargi Corpus for Speech Recognition 🚧 | `hazargi-corpus-for-speech-recognition-d74d6b1e` | [link](https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec) | ✅ |
+| `cmrtehynr008qmm07wfw4q0ec` | Hazargi Corpus for Speech Recognition | `hazargi-corpus-for-speech-recognition-90e30873` | [link](https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec) | ✅ |
 | `cmrumhinj0001md07y3huuhs5` | Common Voice Scripted Speech 26.0 - French of France | `common-voice-scripted-speech-26-0-french-33ae1060` | [link](https://mozilladatacollective.com/datasets/cmrumhinj0001md07y3huuhs5) | ❌ |
 | `cmrumhr9h0005md07ph5dkxpp` | Common Voice Scripted Speech 26.0 - Canadian French | `common-voice-scripted-speech-26-0-canadi-9e8b10de` | [link](https://mozilladatacollective.com/datasets/cmrumhr9h0005md07ph5dkxpp) | ❌ |
 | `cmrumxiu5000nmd07vuz5knqq` | 🚧 Hazargi-English Speech Translation Corpus 🚧 | `hazargi-english-speech-translation-corpu-749ccf56` | [link](https://mozilladatacollective.com/datasets/cmrumxiu5000nmd07vuz5knqq) | ❌ |
@@ -664,10 +664,10 @@ data programmatically.
 | `cmsnteixi00gfmf07til46ayk` | 🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧 | `noakhali-10-hours-tts-male-speaker-425bd8b6` | [link](https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk) | ❌ |
 | `cmssxpm5q02ylmf07ro4vzrls` | Nwāchā Munā | `nw-ch-mun-f001a03f` | [link](https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls) | ❌ |
 | `cmsxiwqdo000fny07e5fx0yi5` | Lost In Transcription Competition - Development Data (Javanese-Indonesian) | `lost-in-transcription-competition-develo-4628e8de` | [link](https://mozilladatacollective.com/datasets/cmsxiwqdo000fny07e5fx0yi5) | ❌ |
-| `cmszkb3s901wvny07pkz816wx` | Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) | `single-speaker-urdu-tts-dataset-female-s-068a8da9` | [link](https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx) | ❌ |
+| `cmszkb3s901wvny07pkz816wx` | Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) | `single-speaker-urdu-tts-dataset-female-s-1a2318e3` | [link](https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx) | ❌ |
 | `cmt09mjq0005xl107yuqi873h` | 🚧 Khowar Multimodal Dataset 🚧 | `khowar-multimodal-dataset-e5e3ecf7` | [link](https://mozilladatacollective.com/datasets/cmt09mjq0005xl107yuqi873h) | ❌ |
 | `cmt6ft8jp02vanz075sg7xm0m` | Indonesian-Spanish Learner Corpus | `indonesian-spanish-learner-corpus-bb47c605` | [link](https://mozilladatacollective.com/datasets/cmt6ft8jp02vanz075sg7xm0m) | ❌ |
-| `cmt7e4pfp004nnz08j3shtpcx` | 🚧  Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain 🚧  | `free-form-sheng-swahili-english-code-swi-4d2cf90e` | [link](https://mozilladatacollective.com/datasets/cmt7e4pfp004nnz08j3shtpcx) | ❌ |
+| `cmt7e4pfp004nnz08j3shtpcx` | Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain | `free-form-sheng-swahili-english-code-swi-1bdfd267` | [link](https://mozilladatacollective.com/datasets/cmt7e4pfp004nnz08j3shtpcx) | ❌ |
 | `cmt7ly2jb002mns07yuplkfbk` | 🚧 Southeast Asian Hokkien TTS dataset 🚧 | `southeast-asian-hokkien-tts-dataset-616f92bb` | [link](https://mozilladatacollective.com/datasets/cmt7ly2jb002mns07yuplkfbk) | ❌ |
 | `cmt7lzezp002qns07ya5txwrx` | 🚧 Moroccan Arabic ASR dataset (180h) 🚧 | `moroccan-arabic-asr-dataset-180h-4c950664` | [link](https://mozilladatacollective.com/datasets/cmt7lzezp002qns07ya5txwrx) | ❌ |
 | `cmt7lzpkp002uns07r684h2qa` | 🚧 Southeast Asian Malay TTS dataset 🚧 | `southeast-asian-malay-tts-dataset-f1f764b2` | [link](https://mozilladatacollective.com/datasets/cmt7lzpkp002uns07r684h2qa) | ❌ |
@@ -1190,15 +1190,15 @@ data programmatically.
 | `cmul9a3f008diny07cluf265u` | Common Voice Scripted Speech 27.0 - Pashto | `common-voice-scripted-speech-27-0-pashto-428b54b8` | [link](https://mozilladatacollective.com/datasets/cmul9a3f008diny07cluf265u) | ✅ |
 | `cmumoqyzh0a3knl07ktk87b36` | Rohingya Hanifi–Rohingyalish–English Lexicon | `rohingya-hanifi-rohingyalish-english-lex-9328f3cf` | [link](https://mozilladatacollective.com/datasets/cmumoqyzh0a3knl07ktk87b36) | ❌ |
 | `cmumq51mj0aacny078eindv36` | ASR Javanese-Lumajang Dialect | `asr-javanese-lumajang-dialect-ad3d9448` | [link](https://mozilladatacollective.com/datasets/cmumq51mj0aacny078eindv36) | ❌ |
-| `cmunh938900s8nv07978b0bpo` | FHIBE Downsampled | `fhibe-downsampled-48b1efaf` | [link](https://mozilladatacollective.com/datasets/cmunh938900s8nv07978b0bpo) | ❌ |
+| `cmunh938900s8nv07978b0bpo` | FHIBE Downsampled | `fhibe-downsampled-3bd50b4b` | [link](https://mozilladatacollective.com/datasets/cmunh938900s8nv07978b0bpo) | ❌ |
 | `cmuo1rfsj01runn073id66vg7` | Central Kanuri Speech Dataset | `central-kanuri-speech-dataset-6dbd71d4` | [link](https://mozilladatacollective.com/datasets/cmuo1rfsj01runn073id66vg7) | ❌ |
 | `cmuppz5bm01s5mg067qo2b8x3` | 🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧 | `hitch-hiker-mirror-suit-robotics-data-cacff88f` | [link](https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3) | ❌ |
 | `cmuqxko7s007cnu06hmyin16s` | Italian female voice reading Italian Penal Code | `italian-female-voice-reading-italian-pen-2920cbae` | [link](https://mozilladatacollective.com/datasets/cmuqxko7s007cnu06hmyin16s) | ❌ |
-| `cmur3t40n00d2nv07fy3cnbrg` | FHIBE Downsampled Overlays | `fhibe-downsampled-overlays-1561d0a8` | [link](https://mozilladatacollective.com/datasets/cmur3t40n00d2nv07fy3cnbrg) | ❌ |
-| `cmur493eo00cenu06cebwn39k` | FHIBE Face Crop Align | `fhibe-face-crop-align-43c4c7c7` | [link](https://mozilladatacollective.com/datasets/cmur493eo00cenu06cebwn39k) | ❌ |
-| `cmur4skp600d3nu06ap864rnr` | FHIBE Face Crop Only | `fhibe-face-crop-only-8a3b8800` | [link](https://mozilladatacollective.com/datasets/cmur4skp600d3nu06ap864rnr) | ❌ |
-| `cmur4xkmm00e3nv073rtjriqo` | FHIBE Full Resolution | `fhibe-full-resolution-674a7dcf` | [link](https://mozilladatacollective.com/datasets/cmur4xkmm00e3nv073rtjriqo) | ❌ |
-| `cmur52dfr00e9nv07dx0i19dh` | FHIBE Metadata | `fhibe-metadata-195baec4` | [link](https://mozilladatacollective.com/datasets/cmur52dfr00e9nv07dx0i19dh) | ❌ |
+| `cmur3t40n00d2nv07fy3cnbrg` | FHIBE Downsampled Overlays | `fhibe-downsampled-overlays-c9ddfad6` | [link](https://mozilladatacollective.com/datasets/cmur3t40n00d2nv07fy3cnbrg) | ❌ |
+| `cmur493eo00cenu06cebwn39k` | FHIBE Face Crop Align | `fhibe-face-crop-align-4b53e523` | [link](https://mozilladatacollective.com/datasets/cmur493eo00cenu06cebwn39k) | ❌ |
+| `cmur4skp600d3nu06ap864rnr` | FHIBE Face Crop Only | `fhibe-face-crop-only-76c50278` | [link](https://mozilladatacollective.com/datasets/cmur4skp600d3nu06ap864rnr) | ❌ |
+| `cmur4xkmm00e3nv073rtjriqo` | FHIBE Full Resolution | `fhibe-full-resolution-f28f53f7` | [link](https://mozilladatacollective.com/datasets/cmur4xkmm00e3nv073rtjriqo) | ❌ |
+| `cmur52dfr00e9nv07dx0i19dh` | FHIBE Metadata | `fhibe-metadata-3b8434e5` | [link](https://mozilladatacollective.com/datasets/cmur52dfr00e9nv07dx0i19dh) | ❌ |
 | `cmur9duso00hanu062i17f9j6` | Read Speech in Congolese Swahili (11h) | `read-speech-in-congolese-swahili-11h-4eeed9ee` | [link](https://mozilladatacollective.com/datasets/cmur9duso00hanu062i17f9j6) | ❌ |
 | `cmur9ejxo00henu06xdkexx23` | TICO-19 (Covid-domain) Speech – Congolese Swahili | `tico-19-covid-domain-speech-congolese-sw-d21ada76` | [link](https://mozilladatacollective.com/datasets/cmur9ejxo00henu06xdkexx23) | ❌ |
 | `cmur9gqs000henv07aonkl1sv` | MALOBA Lingala OCR transcriptions, harmonised text (v1.1) | `maloba-lingala-ocr-transcriptions-harmon-d9c28e09` | [link](https://mozilladatacollective.com/datasets/cmur9gqs000henv07aonkl1sv) | ❌ |
@@ -1262,6 +1262,12 @@ data programmatically.
 | `cmwc5skdt002f07npcxd81y63` | Suroboyoan (Surabaya Javanese) prompted speech — Jaal047 (training subset used by UHM, Lost In Transcription IN-JV) | `suroboyoan-surabaya-javanese-prompted-sp-320bffc5` | [link](https://mozilladatacollective.com/datasets/cmwc5skdt002f07npcxd81y63) | ❌ |
 | `cmwcnachv003007o1frm0lclz` | LibriVox-Indonesia read audiobooks, seven languages of Indonesia (training subset used by UHM, Lost In Transcription IN-JV) | `librivox-indonesia-read-audiobooks-seven-04fcf196` | [link](https://mozilladatacollective.com/datasets/cmwcnachv003007o1frm0lclz) | ❌ |
 | `cmwcnal1l003e07mhthshq1if` | OpenSLR 41 — Large Javanese TTS speech corpus (training subset used by UHM, Lost In Transcription IN-JV) | `openslr-41-large-javanese-tts-speech-cor-2ea80a39` | [link](https://mozilladatacollective.com/datasets/cmwcnal1l003e07mhthshq1if) | ❌ |
+| `cmwjfpeca009f07ntumc5o2m5` | Errington "Javanese conversations 1" (PARADISEC JJE1): audio segments and time-aligned transcripts used by UHM, Lost In Transcription IN-JV | `errington-javanese-conversations-1-parad-303ccbe9` | [link](https://mozilladatacollective.com/datasets/cmwjfpeca009f07ntumc5o2m5) | ❌ |
+| `cmwjngba400cu07ml5wd0kfwe` | 🚧 Indonesian Accented Read Speech Corpus 🚧 | `indonesian-accented-read-speech-corpus-0a8f32cc` | [link](https://mozilladatacollective.com/datasets/cmwjngba400cu07ml5wd0kfwe) | ❌ |
+| `cmwnnj36s018y07mkgg76s92x` | Rangpuri 10 Hours TTS (Male Speaker) | `rangpuri-10-hours-tts-male-speaker-31fa2f27` | [link](https://mozilladatacollective.com/datasets/cmwnnj36s018y07mkgg76s92x) | ❌ |
+| `cmwnnjt57015p07kyegvh1ikb` | Sylheti 10 Hours TTS (Male Speaker) | `sylheti-10-hours-tts-male-speaker-19a4139c` | [link](https://mozilladatacollective.com/datasets/cmwnnjt57015p07kyegvh1ikb) | ❌ |
+| `cmwp6zxwy00t407mce4vzq0qf` | 🚧 Saraiki Corpus for Speech Recognition 🚧 | `saraiki-corpus-for-speech-recognition-8ea0b6dc` | [link](https://mozilladatacollective.com/datasets/cmwp6zxwy00t407mce4vzq0qf) | ❌ |
+| `cmwp90a8200ub07mcxdh4u7zy` | 🚧 Western Punjabi Corpus for Speech Recognition 🚧 | `western-punjabi-corpus-for-speech-recogn-68d564d8` | [link](https://mozilladatacollective.com/datasets/cmwp90a8200ub07mcxdh4u7zy) | ❌ |
 
 ## Schemas without a platform dataset
 

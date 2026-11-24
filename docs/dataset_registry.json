@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T06:10:18.870739+00:00",
-  "total": 1243,
+  "updated_at": "2026-11-24T06:06:47.633697+00:00",
+  "total": 1249,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -1244,9 +1244,9 @@
     {
       "id": "cmmno795h009hml07dh7uefvp",
       "url": "https://mozilladatacollective.com/datasets/cmmno795h009hml07dh7uefvp",
-      "lastmod": "2026-03-12T16:16:32.789Z",
+      "lastmod": "2026-11-18T15:43:51.141Z",
       "name": "Malayalam Time-Aligned Speech Corpus",
-      "slug": "malayalam-time-aligned-speech-corpus-7e1aa43f"
+      "slug": "malayalam-time-aligned-speech-corpus-b7c6ceda"
     },
     {
       "id": "cmmus79780030ms07vyi4dsr5",
@@ -1258,9 +1258,9 @@
     {
       "id": "cmmvykcrs0050ny07vkwww5gi",
       "url": "https://mozilladatacollective.com/datasets/cmmvykcrs0050ny07vkwww5gi",
-      "lastmod": "2026-03-18T11:28:49.576Z",
+      "lastmod": "2026-11-18T15:44:05.303Z",
       "name": "Urdu Multi-Speaker TTS Dataset",
-      "slug": "urdu-multi-speaker-tts-dataset-d0701b9b"
+      "slug": "urdu-multi-speaker-tts-dataset-8714a02b"
     },
     {
       "id": "cmmxhw46c00tqnw07xyr94zjk",
@@ -3477,9 +3477,9 @@
     {
       "id": "cmqt5v7bp0886mm07qd5mdxta",
       "url": "https://mozilladatacollective.com/datasets/cmqt5v7bp0886mm07qd5mdxta",
-      "lastmod": "2026-06-25T07:08:43.862Z",
+      "lastmod": "2026-11-18T18:12:24.929Z",
       "name": "RAPNIC - Catalan Impaired Speech (Example Set)",
-      "slug": "rapnic-catalan-impaired-speech-example-s-8b8ddf8b"
+      "slug": "rapnic-catalan-impaired-speech-example-s-803ae7cd"
     },
     {
       "id": "cmqt5xc4l07xwnr07l227et8j",
@@ -3960,9 +3960,9 @@
     {
       "id": "cmrp30fdp0120o007a69s3nfc",
       "url": "https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc",
-      "lastmod": "2026-10-29T22:42:50.931Z",
+      "lastmod": "2026-11-23T12:13:13.150Z",
       "name": "Burmese Speech Collection",
-      "slug": "burmese-speech-collection-cbdda6bf"
+      "slug": "burmese-speech-collection-e57f0256"
     },
     {
       "id": "cmrt6zbgx000vmm07hfuefigk",
@@ -4058,9 +4058,9 @@
     {
       "id": "cmrtehynr008qmm07wfw4q0ec",
       "url": "https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec",
-      "lastmod": "2026-08-20T19:00:29.910Z",
-      "name": "🚧 Hazargi Corpus for Speech Recognition 🚧",
-      "slug": "hazargi-corpus-for-speech-recognition-d74d6b1e"
+      "lastmod": "2026-11-17T13:51:42.226Z",
+      "name": "Hazargi Corpus for Speech Recognition",
+      "slug": "hazargi-corpus-for-speech-recognition-90e30873"
     },
     {
       "id": "cmrumhinj0001md07y3huuhs5",
@@ -4520,9 +4520,9 @@
     {
       "id": "cmszkb3s901wvny07pkz816wx",
       "url": "https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx",
-      "lastmod": "2026-11-04T01:05:46.598Z",
+      "lastmod": "2026-11-23T12:13:28.544Z",
       "name": "Single Speaker Urdu TTS dataset (Female Speaker, South Punjab)",
-      "slug": "single-speaker-urdu-tts-dataset-female-s-068a8da9"
+      "slug": "single-speaker-urdu-tts-dataset-female-s-1a2318e3"
     },
     {
       "id": "cmt09mjq0005xl107yuqi873h",
@@ -4541,9 +4541,9 @@
     {
       "id": "cmt7e4pfp004nnz08j3shtpcx",
       "url": "https://mozilladatacollective.com/datasets/cmt7e4pfp004nnz08j3shtpcx",
-      "lastmod": "2026-08-24T15:28:15.301Z",
-      "name": "🚧  Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain 🚧 ",
-      "slug": "free-form-sheng-swahili-english-code-swi-4d2cf90e"
+      "lastmod": "2026-11-20T22:11:43.181Z",
+      "name": "Free Form Sheng (Swahili-English Code-Switching) Speech in the Mobile Money Domain",
+      "slug": "free-form-sheng-swahili-english-code-swi-1bdfd267"
     },
     {
       "id": "cmt7ly2jb002mns07yuplkfbk",
@@ -8202,9 +8202,9 @@
     {
       "id": "cmunh938900s8nv07978b0bpo",
       "url": "https://mozilladatacollective.com/datasets/cmunh938900s8nv07978b0bpo",
-      "lastmod": "2026-10-07T12:06:56.448Z",
+      "lastmod": "2026-11-23T12:16:18.916Z",
       "name": "FHIBE Downsampled",
-      "slug": "fhibe-downsampled-48b1efaf"
+      "slug": "fhibe-downsampled-3bd50b4b"
     },
     {
       "id": "cmuo1rfsj01runn073id66vg7",
@@ -8230,37 +8230,37 @@
     {
       "id": "cmur3t40n00d2nv07fy3cnbrg",
       "url": "https://mozilladatacollective.com/datasets/cmur3t40n00d2nv07fy3cnbrg",
-      "lastmod": "2026-10-07T12:06:49.669Z",
+      "lastmod": "2026-11-23T12:29:54.130Z",
       "name": "FHIBE Downsampled Overlays",
-      "slug": "fhibe-downsampled-overlays-1561d0a8"
+      "slug": "fhibe-downsampled-overlays-c9ddfad6"
     },
     {
       "id": "cmur493eo00cenu06cebwn39k",
       "url": "https://mozilladatacollective.com/datasets/cmur493eo00cenu06cebwn39k",
-      "lastmod": "2026-10-07T12:06:40.545Z",
+      "lastmod": "2026-11-23T12:31:52.708Z",
       "name": "FHIBE Face Crop Align",
-      "slug": "fhibe-face-crop-align-43c4c7c7"
+      "slug": "fhibe-face-crop-align-4b53e523"
     },
     {
       "id": "cmur4skp600d3nu06ap864rnr",
       "url": "https://mozilladatacollective.com/datasets/cmur4skp600d3nu06ap864rnr",
-      "lastmod": "2026-10-07T12:06:24.473Z",
+      "lastmod": "2026-11-23T12:31:09.766Z",
       "name": "FHIBE Face Crop Only",
-      "slug": "fhibe-face-crop-only-8a3b8800"
+      "slug": "fhibe-face-crop-only-76c50278"
     },
     {
       "id": "cmur4xkmm00e3nv073rtjriqo",
       "url": "https://mozilladatacollective.com/datasets/cmur4xkmm00e3nv073rtjriqo",
-      "lastmod": "2026-10-07T12:05:57.917Z",
+      "lastmod": "2026-11-23T12:33:35.098Z",
       "name": "FHIBE Full Resolution",
-      "slug": "fhibe-full-resolution-674a7dcf"
+      "slug": "fhibe-full-resolution-f28f53f7"
     },
     {
       "id": "cmur52dfr00e9nv07dx0i19dh",
       "url": "https://mozilladatacollective.com/datasets/cmur52dfr00e9nv07dx0i19dh",
-      "lastmod": "2026-10-07T12:06:08.585Z",
+      "lastmod": "2026-11-23T12:32:54.657Z",
       "name": "FHIBE Metadata",
-      "slug": "fhibe-metadata-195baec4"
+      "slug": "fhibe-metadata-3b8434e5"
     },
     {
       "id": "cmur9duso00hanu062i17f9j6",
@@ -8702,6 +8702,48 @@
       "lastmod": "2026-11-11T21:42:43.977Z",
       "name": "OpenSLR 41 — Large Javanese TTS speech corpus (training subset used by UHM, Lost In Transcription IN-JV)",
       "slug": "openslr-41-large-javanese-tts-speech-cor-2ea80a39"
+    },
+    {
+      "id": "cmwjfpeca009f07ntumc5o2m5",
+      "url": "https://mozilladatacollective.com/datasets/cmwjfpeca009f07ntumc5o2m5",
+      "lastmod": "2026-11-16T15:44:41.434Z",
+      "name": "Errington \"Javanese conversations 1\" (PARADISEC JJE1): audio segments and time-aligned transcripts used by UHM, Lost In Transcription IN-JV",
+      "slug": "errington-javanese-conversations-1-parad-303ccbe9"
+    },
+    {
+      "id": "cmwjngba400cu07ml5wd0kfwe",
+      "url": "https://mozilladatacollective.com/datasets/cmwjngba400cu07ml5wd0kfwe",
+      "lastmod": "2026-11-16T19:21:34.492Z",
+      "name": "🚧 Indonesian Accented Read Speech Corpus 🚧",
+      "slug": "indonesian-accented-read-speech-corpus-0a8f32cc"
+    },
+    {
+      "id": "cmwnnj36s018y07mkgg76s92x",
+      "url": "https://mozilladatacollective.com/datasets/cmwnnj36s018y07mkgg76s92x",
+      "lastmod": "2026-11-19T14:34:48.676Z",
+      "name": "Rangpuri 10 Hours TTS (Male Speaker)",
+      "slug": "rangpuri-10-hours-tts-male-speaker-31fa2f27"
+    },
+    {
+      "id": "cmwnnjt57015p07kyegvh1ikb",
+      "url": "https://mozilladatacollective.com/datasets/cmwnnjt57015p07kyegvh1ikb",
+      "lastmod": "2026-11-19T14:35:22.315Z",
+      "name": "Sylheti 10 Hours TTS (Male Speaker)",
+      "slug": "sylheti-10-hours-tts-male-speaker-19a4139c"
+    },
+    {
+      "id": "cmwp6zxwy00t407mce4vzq0qf",
+      "url": "https://mozilladatacollective.com/datasets/cmwp6zxwy00t407mce4vzq0qf",
+      "lastmod": "2026-11-20T16:27:33.874Z",
+      "name": "🚧 Saraiki Corpus for Speech Recognition 🚧",
+      "slug": "saraiki-corpus-for-speech-recognition-8ea0b6dc"
+    },
+    {
+      "id": "cmwp90a8200ub07mcxdh4u7zy",
+      "url": "https://mozilladatacollective.com/datasets/cmwp90a8200ub07mcxdh4u7zy",
+      "lastmod": "2026-11-20T17:23:49.058Z",
+      "name": "🚧 Western Punjabi Corpus for Speech Recognition 🚧",
+      "slug": "western-punjabi-corpus-for-speech-recogn-68d564d8"
     }
   ]
 }
