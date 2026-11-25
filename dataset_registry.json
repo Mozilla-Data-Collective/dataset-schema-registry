@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T06:06:47.633697+00:00",
-  "total": 1249,
+  "updated_at": "2026-11-25T05:11:16.698288+00:00",
+  "total": 1250,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -3680,9 +3680,9 @@
     {
       "id": "cmrftle0s01fsnv0755jw602i",
       "url": "https://mozilladatacollective.com/datasets/cmrftle0s01fsnv0755jw602i",
-      "lastmod": "2026-08-17T15:33:21.097Z",
+      "lastmod": "2026-11-24T13:29:32.798Z",
       "name": "Brazilian Sign Language (Libras) Healthcare Corpus",
-      "slug": "brazilian-sign-language-libras-healthcar-454a9bd4"
+      "slug": "brazilian-sign-language-libras-healthcar-57006fe4"
     },
     {
       "id": "cmrkqy18t006imm074waw5jbg",
@@ -3953,9 +3953,9 @@
     {
       "id": "cmrp1sdsj00zemm0822j75968",
       "url": "https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968",
-      "lastmod": "2026-10-27T20:19:39.301Z",
+      "lastmod": "2026-11-24T13:25:46.916Z",
       "name": "Singaporean Tamil Speech Collection",
-      "slug": "singaporean-tamil-speech-collection-bcf228b3"
+      "slug": "singaporean-tamil-speech-collection-a8557d56"
     },
     {
       "id": "cmrp30fdp0120o007a69s3nfc",
@@ -4058,9 +4058,9 @@
     {
       "id": "cmrtehynr008qmm07wfw4q0ec",
       "url": "https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec",
-      "lastmod": "2026-11-17T13:51:42.226Z",
+      "lastmod": "2026-11-24T13:26:01.529Z",
       "name": "Hazargi Corpus for Speech Recognition",
-      "slug": "hazargi-corpus-for-speech-recognition-90e30873"
+      "slug": "hazargi-corpus-for-speech-recognition-62461a7a"
     },
     {
       "id": "cmrumhinj0001md07y3huuhs5",
@@ -8230,9 +8230,9 @@
     {
       "id": "cmur3t40n00d2nv07fy3cnbrg",
       "url": "https://mozilladatacollective.com/datasets/cmur3t40n00d2nv07fy3cnbrg",
-      "lastmod": "2026-11-23T12:29:54.130Z",
+      "lastmod": "2026-11-24T14:35:14.124Z",
       "name": "FHIBE Downsampled Overlays",
-      "slug": "fhibe-downsampled-overlays-c9ddfad6"
+      "slug": "fhibe-downsampled-overlays-09724c0a"
     },
     {
       "id": "cmur493eo00cenu06cebwn39k",
@@ -8328,9 +8328,9 @@
     {
       "id": "cmuzpqhlt003h07o1lfzsoye0",
       "url": "https://mozilladatacollective.com/datasets/cmuzpqhlt003h07o1lfzsoye0",
-      "lastmod": "2026-10-08T15:50:22.625Z",
+      "lastmod": "2026-11-24T18:25:13.734Z",
       "name": "Yaayuwee Gbaya Medicinal Plants 18",
-      "slug": "yaayuwee-gbaya-medicinal-plants-18-d23643b4"
+      "slug": "yaayuwee-gbaya-medicinal-plants-18-11570b7d"
     },
     {
       "id": "cmuzrhfbd006l07nxoe3inrzq",
@@ -8744,6 +8744,13 @@
       "lastmod": "2026-11-20T17:23:49.058Z",
       "name": "🚧 Western Punjabi Corpus for Speech Recognition 🚧",
       "slug": "western-punjabi-corpus-for-speech-recogn-68d564d8"
+    },
+    {
+      "id": "cmwv1a3a000hj06nu7lmxjw13",
+      "url": "https://mozilladatacollective.com/datasets/cmwv1a3a000hj06nu7lmxjw13",
+      "lastmod": "2026-11-24T21:25:53.077Z",
+      "name": "🚧 Spanish Micro-learnings by International Experts (Audio Podcast) 🚧",
+      "slug": "spanish-micro-learnings-by-international-144dcfa6"
     }
   ]
 }
