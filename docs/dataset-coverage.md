@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-24  
-**Total datasets in sitemap:** 1249  
+**Last updated:** 2026-11-25  
+**Total datasets in sitemap:** 1250  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 830 ❌  
+**Schemas missing:** 831 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -544,7 +544,7 @@ data programmatically.
 | `cmrbad2ho00o5nz07t3vjmdnd` | Adjuntos Solicitudes Información — Aguascalientes | `adjuntos-solicitudes-informaci-n-aguasca-fa5dc9c0` | [link](https://mozilladatacollective.com/datasets/cmrbad2ho00o5nz07t3vjmdnd) | ❌ |
 | `cmrdfjave008uo307ett7d4km` | Medical Domain Mexican Spanish Speech Corpus (MEDMEX) | `medical-domain-mexican-spanish-speech-co-7727e3ee` | [link](https://mozilladatacollective.com/datasets/cmrdfjave008uo307ett7d4km) | ✅ |
 | `cmrdfk4ao007po1070z5f4kem` | Conversational Speech in Gujarati in the Medical Domain | `conversational-speech-in-gujarati-in-the-5f536a68` | [link](https://mozilladatacollective.com/datasets/cmrdfk4ao007po1070z5f4kem) | ✅ |
-| `cmrftle0s01fsnv0755jw602i` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-454a9bd4` | [link](https://mozilladatacollective.com/datasets/cmrftle0s01fsnv0755jw602i) | ❌ |
+| `cmrftle0s01fsnv0755jw602i` | Brazilian Sign Language (Libras) Healthcare Corpus | `brazilian-sign-language-libras-healthcar-57006fe4` | [link](https://mozilladatacollective.com/datasets/cmrftle0s01fsnv0755jw602i) | ❌ |
 | `cmrkqy18t006imm074waw5jbg` | Kannada Text Corpus | `kannada-text-corpus-b95eb8c6` | [link](https://mozilladatacollective.com/datasets/cmrkqy18t006imm074waw5jbg) | ❌ |
 | `cmrkuhnzh0001mp07xtyjzld0` | Adjuntos Solicitudes Información — Estado de México | `adjuntos-solicitudes-informaci-n-estado-197b55d6` | [link](https://mozilladatacollective.com/datasets/cmrkuhnzh0001mp07xtyjzld0) | ❌ |
 | `cmrl1mofx005qnu07sa7jeue5` | Adjuntos Solicitudes Información — Oaxaca | `adjuntos-solicitudes-informaci-n-oaxaca-11734e88` | [link](https://mozilladatacollective.com/datasets/cmrl1mofx005qnu07sa7jeue5) | ❌ |
@@ -583,7 +583,7 @@ data programmatically.
 | `cmrnmk9ux000hmc07llq1targ` | Adjuntos Solicitudes Información — Federación — VFQ | `adjuntos-solicitudes-informaci-n-federac-966df728` | [link](https://mozilladatacollective.com/datasets/cmrnmk9ux000hmc07llq1targ) | ❌ |
 | `cmroyatmb00wko007rt1g1hr2` | SKAD Ladino Parallel Corpus | `skad-ladino-parallel-corpus-dafb16b2` | [link](https://mozilladatacollective.com/datasets/cmroyatmb00wko007rt1g1hr2) | ❌ |
 | `cmroyc7m900wqo007okjs2jp3` | 🚧 Multi-Subject Human Pose & Facial Expression Dataset (Studio, 4K) 🚧 | `multi-subject-human-pose-facial-expressi-a86a7482` | [link](https://mozilladatacollective.com/datasets/cmroyc7m900wqo007okjs2jp3) | ❌ |
-| `cmrp1sdsj00zemm0822j75968` | Singaporean Tamil Speech Collection | `singaporean-tamil-speech-collection-bcf228b3` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ✅ |
+| `cmrp1sdsj00zemm0822j75968` | Singaporean Tamil Speech Collection | `singaporean-tamil-speech-collection-a8557d56` | [link](https://mozilladatacollective.com/datasets/cmrp1sdsj00zemm0822j75968) | ✅ |
 | `cmrp30fdp0120o007a69s3nfc` | Burmese Speech Collection | `burmese-speech-collection-e57f0256` | [link](https://mozilladatacollective.com/datasets/cmrp30fdp0120o007a69s3nfc) | ✅ |
 | `cmrt6zbgx000vmm07hfuefigk` | Common Voice Scripted Speech 26.0 - American English (Male) | `common-voice-scripted-speech-26-0-americ-34c3c133` | [link](https://mozilladatacollective.com/datasets/cmrt6zbgx000vmm07hfuefigk) | ❌ |
 | `cmrt6zrob000zmm07yqwjlpwi` | Common Voice Scripted Speech 26.0 - British English | `common-voice-scripted-speech-26-0-britis-0fe481c3` | [link](https://mozilladatacollective.com/datasets/cmrt6zrob000zmm07yqwjlpwi) | ❌ |
@@ -598,7 +598,7 @@ data programmatically.
 | `cmrtddqrp007umm07wt2d8dxo` | Adjuntos Solicitudes Información — Guanajuato | `adjuntos-solicitudes-informaci-n-guanaju-dc0bbdf1` | [link](https://mozilladatacollective.com/datasets/cmrtddqrp007umm07wt2d8dxo) | ❌ |
 | `cmrtddtl1007ymm07miqkb7wh` | Adjuntos Solicitudes Información — Jalisco | `adjuntos-solicitudes-informaci-n-jalisco-04715813` | [link](https://mozilladatacollective.com/datasets/cmrtddtl1007ymm07miqkb7wh) | ❌ |
 | `cmrtddwco0082mm07blij2hgp` | Adjuntos Solicitudes Información — Nuevo León | `adjuntos-solicitudes-informaci-n-nuevo-l-77eadde5` | [link](https://mozilladatacollective.com/datasets/cmrtddwco0082mm07blij2hgp) | ❌ |
-| `cmrtehynr008qmm07wfw4q0ec` | Hazargi Corpus for Speech Recognition | `hazargi-corpus-for-speech-recognition-90e30873` | [link](https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec) | ✅ |
+| `cmrtehynr008qmm07wfw4q0ec` | Hazargi Corpus for Speech Recognition | `hazargi-corpus-for-speech-recognition-62461a7a` | [link](https://mozilladatacollective.com/datasets/cmrtehynr008qmm07wfw4q0ec) | ✅ |
 | `cmrumhinj0001md07y3huuhs5` | Common Voice Scripted Speech 26.0 - French of France | `common-voice-scripted-speech-26-0-french-33ae1060` | [link](https://mozilladatacollective.com/datasets/cmrumhinj0001md07y3huuhs5) | ❌ |
 | `cmrumhr9h0005md07ph5dkxpp` | Common Voice Scripted Speech 26.0 - Canadian French | `common-voice-scripted-speech-26-0-canadi-9e8b10de` | [link](https://mozilladatacollective.com/datasets/cmrumhr9h0005md07ph5dkxpp) | ❌ |
 | `cmrumxiu5000nmd07vuz5knqq` | 🚧 Hazargi-English Speech Translation Corpus 🚧 | `hazargi-english-speech-translation-corpu-749ccf56` | [link](https://mozilladatacollective.com/datasets/cmrumxiu5000nmd07vuz5knqq) | ❌ |
@@ -1194,7 +1194,7 @@ data programmatically.
 | `cmuo1rfsj01runn073id66vg7` | Central Kanuri Speech Dataset | `central-kanuri-speech-dataset-6dbd71d4` | [link](https://mozilladatacollective.com/datasets/cmuo1rfsj01runn073id66vg7) | ❌ |
 | `cmuppz5bm01s5mg067qo2b8x3` | 🚧 Hitch Hiker 'Mirror Suit' Robotics Data 🚧 | `hitch-hiker-mirror-suit-robotics-data-cacff88f` | [link](https://mozilladatacollective.com/datasets/cmuppz5bm01s5mg067qo2b8x3) | ❌ |
 | `cmuqxko7s007cnu06hmyin16s` | Italian female voice reading Italian Penal Code | `italian-female-voice-reading-italian-pen-2920cbae` | [link](https://mozilladatacollective.com/datasets/cmuqxko7s007cnu06hmyin16s) | ❌ |
-| `cmur3t40n00d2nv07fy3cnbrg` | FHIBE Downsampled Overlays | `fhibe-downsampled-overlays-c9ddfad6` | [link](https://mozilladatacollective.com/datasets/cmur3t40n00d2nv07fy3cnbrg) | ❌ |
+| `cmur3t40n00d2nv07fy3cnbrg` | FHIBE Downsampled Overlays | `fhibe-downsampled-overlays-09724c0a` | [link](https://mozilladatacollective.com/datasets/cmur3t40n00d2nv07fy3cnbrg) | ❌ |
 | `cmur493eo00cenu06cebwn39k` | FHIBE Face Crop Align | `fhibe-face-crop-align-4b53e523` | [link](https://mozilladatacollective.com/datasets/cmur493eo00cenu06cebwn39k) | ❌ |
 | `cmur4skp600d3nu06ap864rnr` | FHIBE Face Crop Only | `fhibe-face-crop-only-76c50278` | [link](https://mozilladatacollective.com/datasets/cmur4skp600d3nu06ap864rnr) | ❌ |
 | `cmur4xkmm00e3nv073rtjriqo` | FHIBE Full Resolution | `fhibe-full-resolution-f28f53f7` | [link](https://mozilladatacollective.com/datasets/cmur4xkmm00e3nv073rtjriqo) | ❌ |
@@ -1208,7 +1208,7 @@ data programmatically.
 | `cmuwux5uv009b08o5bjtelh4s` | High quality TTS data for Javanese (OpenSLR 41) | `high-quality-tts-data-for-javanese-opens-dd9ac306` | [link](https://mozilladatacollective.com/datasets/cmuwux5uv009b08o5bjtelh4s) | ❌ |
 | `cmuwuxgta009d07mfzupkk4b0` | Large Javanese ASR training data set (OpenSLR 35), 8,000-utterance subset | `large-javanese-asr-training-data-set-ope-28458110` | [link](https://mozilladatacollective.com/datasets/cmuwuxgta009d07mfzupkk4b0) | ❌ |
 | `cmuylmkry00b807ny9w6h78x8` | Faculty Atlas: US Faculty Job Postings (2026-10-01) | `faculty-atlas-us-faculty-job-postings-20-b35f9b88` | [link](https://mozilladatacollective.com/datasets/cmuylmkry00b807ny9w6h78x8) | ❌ |
-| `cmuzpqhlt003h07o1lfzsoye0` | Yaayuwee Gbaya Medicinal Plants 18 | `yaayuwee-gbaya-medicinal-plants-18-d23643b4` | [link](https://mozilladatacollective.com/datasets/cmuzpqhlt003h07o1lfzsoye0) | ❌ |
+| `cmuzpqhlt003h07o1lfzsoye0` | Yaayuwee Gbaya Medicinal Plants 18 | `yaayuwee-gbaya-medicinal-plants-18-11570b7d` | [link](https://mozilladatacollective.com/datasets/cmuzpqhlt003h07o1lfzsoye0) | ❌ |
 | `cmuzrhfbd006l07nxoe3inrzq` | Pashto Audio-Visual Speech Corpus | `pashto-audio-visual-speech-corpus-647156b6` | [link](https://mozilladatacollective.com/datasets/cmuzrhfbd006l07nxoe3inrzq) | ❌ |
 | `cmuzsrkif007m07nxz97doh8l` | UyghurDF | `uyghurdf-c7c24b42` | [link](https://mozilladatacollective.com/datasets/cmuzsrkif007m07nxz97doh8l) | ❌ |
 | `cmuzv3veu00a207nxe6lb3gxd` | IDN - Spanish Corpus Learner | `idn-spanish-corpus-learner-27e2ada4` | [link](https://mozilladatacollective.com/datasets/cmuzv3veu00a207nxe6lb3gxd) | ❌ |
@@ -1268,6 +1268,7 @@ data programmatically.
 | `cmwnnjt57015p07kyegvh1ikb` | Sylheti 10 Hours TTS (Male Speaker) | `sylheti-10-hours-tts-male-speaker-19a4139c` | [link](https://mozilladatacollective.com/datasets/cmwnnjt57015p07kyegvh1ikb) | ❌ |
 | `cmwp6zxwy00t407mce4vzq0qf` | 🚧 Saraiki Corpus for Speech Recognition 🚧 | `saraiki-corpus-for-speech-recognition-8ea0b6dc` | [link](https://mozilladatacollective.com/datasets/cmwp6zxwy00t407mce4vzq0qf) | ❌ |
 | `cmwp90a8200ub07mcxdh4u7zy` | 🚧 Western Punjabi Corpus for Speech Recognition 🚧 | `western-punjabi-corpus-for-speech-recogn-68d564d8` | [link](https://mozilladatacollective.com/datasets/cmwp90a8200ub07mcxdh4u7zy) | ❌ |
+| `cmwv1a3a000hj06nu7lmxjw13` | 🚧 Spanish Micro-learnings by International Experts (Audio Podcast) 🚧 | `spanish-micro-learnings-by-international-144dcfa6` | [link](https://mozilladatacollective.com/datasets/cmwv1a3a000hj06nu7lmxjw13) | ❌ |
 
 ## Schemas without a platform dataset
 
