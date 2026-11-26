@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T06:07:16.718550+00:00",
-  "total": 1250,
+  "updated_at": "2026-11-26T05:10:58.316995+00:00",
+  "total": 1251,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -8751,6 +8751,13 @@
       "lastmod": "2026-11-24T21:25:53.077Z",
       "name": "🚧 Spanish Micro-learnings by International Experts (Audio Podcast) 🚧",
       "slug": "spanish-micro-learnings-by-international-144dcfa6"
+    },
+    {
+      "id": "cmww24e76004107nru03qzipw",
+      "url": "https://mozilladatacollective.com/datasets/cmww24e76004107nru03qzipw",
+      "lastmod": "2026-11-25T11:45:26.754Z",
+      "name": "CurateLM public code sample",
+      "slug": "curatelm-public-code-sample-3cb80285"
     }
   ]
 }
