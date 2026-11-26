@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-25  
-**Total datasets in sitemap:** 1250  
+**Last updated:** 2026-11-26  
+**Total datasets in sitemap:** 1251  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 831 ❌  
+**Schemas missing:** 832 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -1269,6 +1269,7 @@ data programmatically.
 | `cmwp6zxwy00t407mce4vzq0qf` | 🚧 Saraiki Corpus for Speech Recognition 🚧 | `saraiki-corpus-for-speech-recognition-8ea0b6dc` | [link](https://mozilladatacollective.com/datasets/cmwp6zxwy00t407mce4vzq0qf) | ❌ |
 | `cmwp90a8200ub07mcxdh4u7zy` | 🚧 Western Punjabi Corpus for Speech Recognition 🚧 | `western-punjabi-corpus-for-speech-recogn-68d564d8` | [link](https://mozilladatacollective.com/datasets/cmwp90a8200ub07mcxdh4u7zy) | ❌ |
 | `cmwv1a3a000hj06nu7lmxjw13` | 🚧 Spanish Micro-learnings by International Experts (Audio Podcast) 🚧 | `spanish-micro-learnings-by-international-144dcfa6` | [link](https://mozilladatacollective.com/datasets/cmwv1a3a000hj06nu7lmxjw13) | ❌ |
+| `cmww24e76004107nru03qzipw` | CurateLM public code sample | `curatelm-public-code-sample-3cb80285` | [link](https://mozilladatacollective.com/datasets/cmww24e76004107nru03qzipw) | ❌ |
 
 ## Schemas without a platform dataset
 

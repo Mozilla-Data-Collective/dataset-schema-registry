@@ -1,12 +1,12 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-11-25T05:11:31.747091+00:00",
+  "generated_at": "2026-11-26T05:11:12.486193+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
-    "listed_datasets": 1250,
+    "listed_datasets": 1251,
     "with_schema": 419,
-    "without_schema": 831,
+    "without_schema": 832,
     "schemas_total": 420,
     "unlisted_schemas": 1
   },
@@ -13769,6 +13769,17 @@
       "slug": "spanish-micro-learnings-by-international-144dcfa6",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmwv1a3a000hj06nu7lmxjw13",
       "lastmod": "2026-11-24T21:25:53.077Z",
+      "schema_path": null,
+      "schema_url": null
+    },
+    {
+      "id": "cmww24e76004107nru03qzipw",
+      "has_schema": false,
+      "listed": true,
+      "name": "CurateLM public code sample",
+      "slug": "curatelm-public-code-sample-3cb80285",
+      "dataset_url": "https://mozilladatacollective.com/datasets/cmww24e76004107nru03qzipw",
+      "lastmod": "2026-11-25T11:45:26.754Z",
       "schema_path": null,
       "schema_url": null
     }
