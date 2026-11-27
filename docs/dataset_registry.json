@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T06:07:10.294083+00:00",
+  "updated_at": "2026-11-27T05:10:41.741992+00:00",
   "total": 1251,
   "datasets": [
     {
@@ -4499,9 +4499,9 @@
     {
       "id": "cmsnteixi00gfmf07til46ayk",
       "url": "https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk",
-      "lastmod": "2026-08-31T14:11:41.658Z",
-      "name": "🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧",
-      "slug": "noakhali-10-hours-tts-male-speaker-425bd8b6"
+      "lastmod": "2026-11-26T15:45:36.714Z",
+      "name": "Noakhali 10 Hours TTS (Male Speaker)",
+      "slug": "noakhali-10-hours-tts-male-speaker-f1da0892"
     },
     {
       "id": "cmssxpm5q02ylmf07ro4vzrls",
@@ -8146,9 +8146,9 @@
     {
       "id": "cmuh4ozy804olny07mu2h0kjm",
       "url": "https://mozilladatacollective.com/datasets/cmuh4ozy804olny07mu2h0kjm",
-      "lastmod": "2026-09-25T15:41:29.984Z",
+      "lastmod": "2026-11-26T13:08:44.719Z",
       "name": "🚧 Tagalog Voice Notes ASR Dataset (45 hours) 🚧",
-      "slug": "tagalog-voice-notes-asr-dataset-45-hours-ccdb5cf8"
+      "slug": "tagalog-voice-notes-asr-dataset-45-hours-af5dbf62"
     },
     {
       "id": "cmuh4z6sw04opny07obm3ze3e",
