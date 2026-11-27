@@ -12,7 +12,7 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-26  
+**Last updated:** 2026-11-27  
 **Total datasets in sitemap:** 1251  
 **Schemas registered:** 419 ✅  
 **Schemas missing:** 832 ❌  
@@ -661,7 +661,7 @@ data programmatically.
 | `cmsn89f3u000tl3070jlokskm` | A Ngemba Sociocultural Dataset | `a-ngemba-sociocultural-dataset-1f3f9ce2` | [link](https://mozilladatacollective.com/datasets/cmsn89f3u000tl3070jlokskm) | ❌ |
 | `cmsn89yfd000xl307kucamt0m` | A Bulu Sociocultural Dataset | `a-bulu-sociocultural-dataset-a4cc6b32` | [link](https://mozilladatacollective.com/datasets/cmsn89yfd000xl307kucamt0m) | ❌ |
 | `cmsn8ao8t0011l307hquossmi` |  A Bamvele Sociocultural Dataset | `a-bamvele-sociocultural-dataset-48832038` | [link](https://mozilladatacollective.com/datasets/cmsn8ao8t0011l307hquossmi) | ❌ |
-| `cmsnteixi00gfmf07til46ayk` | 🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧 | `noakhali-10-hours-tts-male-speaker-425bd8b6` | [link](https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk) | ❌ |
+| `cmsnteixi00gfmf07til46ayk` | Noakhali 10 Hours TTS (Male Speaker) | `noakhali-10-hours-tts-male-speaker-f1da0892` | [link](https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk) | ❌ |
 | `cmssxpm5q02ylmf07ro4vzrls` | Nwāchā Munā | `nw-ch-mun-f001a03f` | [link](https://mozilladatacollective.com/datasets/cmssxpm5q02ylmf07ro4vzrls) | ❌ |
 | `cmsxiwqdo000fny07e5fx0yi5` | Lost In Transcription Competition - Development Data (Javanese-Indonesian) | `lost-in-transcription-competition-develo-4628e8de` | [link](https://mozilladatacollective.com/datasets/cmsxiwqdo000fny07e5fx0yi5) | ❌ |
 | `cmszkb3s901wvny07pkz816wx` | Single Speaker Urdu TTS dataset (Female Speaker, South Punjab) | `single-speaker-urdu-tts-dataset-female-s-1a2318e3` | [link](https://mozilladatacollective.com/datasets/cmszkb3s901wvny07pkz816wx) | ❌ |
@@ -1182,7 +1182,7 @@ data programmatically.
 | `cmucnw19m01lonx076thnz3gp` | 🚧 Tagalog Health Domain TTS 25 Hours Single Speaker (Male) 🚧 | `tagalog-health-domain-tts-25-hours-singl-1b167ec1` | [link](https://mozilladatacollective.com/datasets/cmucnw19m01lonx076thnz3gp) | ❌ |
 | `cmucznt9t0007kz08bq99zn2o` | 🚧 Tagalog Health Domain TTS 20 Hours Single Speaker (Female) 🚧 | `tagalog-health-domain-tts-20-hours-singl-94209e0b` | [link](https://mozilladatacollective.com/datasets/cmucznt9t0007kz08bq99zn2o) | ❌ |
 | `cmufi5stj02y7ny0727487cu2` | LRAC 2.0 Common Voice 26.0 Bundle | `lrac-2-0-common-voice-26-0-bundle-a628996b` | [link](https://mozilladatacollective.com/datasets/cmufi5stj02y7ny0727487cu2) | ❌ |
-| `cmuh4ozy804olny07mu2h0kjm` | 🚧 Tagalog Voice Notes ASR Dataset (45 hours) 🚧 | `tagalog-voice-notes-asr-dataset-45-hours-ccdb5cf8` | [link](https://mozilladatacollective.com/datasets/cmuh4ozy804olny07mu2h0kjm) | ❌ |
+| `cmuh4ozy804olny07mu2h0kjm` | 🚧 Tagalog Voice Notes ASR Dataset (45 hours) 🚧 | `tagalog-voice-notes-asr-dataset-45-hours-af5dbf62` | [link](https://mozilladatacollective.com/datasets/cmuh4ozy804olny07mu2h0kjm) | ❌ |
 | `cmuh4z6sw04opny07obm3ze3e` | English 10 Hours Medical Speech Evaluation Dataset  (Synthetic) | `english-10-hours-medical-speech-evaluati-d9997109` | [link](https://mozilladatacollective.com/datasets/cmuh4z6sw04opny07obm3ze3e) | ❌ |
 | `cmuh50dte04otny07ot80sg6n` | 🚧 Northern Pashto Corpus for Speech Recognition 🚧 | `northern-pashto-corpus-for-speech-recogn-4f7d8d52` | [link](https://mozilladatacollective.com/datasets/cmuh50dte04otny07ot80sg6n) | ❌ |
 | `cmuh552z504p4ny0793z6j6a7` | BAHANA: Parallel Corpus IND-ENG-ARB  | `bahana-parallel-corpus-ind-eng-arb-42cc2e7c` | [link](https://mozilladatacollective.com/datasets/cmuh552z504p4ny0793z6j6a7) | ❌ |

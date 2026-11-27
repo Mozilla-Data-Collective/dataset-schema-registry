@@ -1,6 +1,6 @@
 {
   "index_schema_version": 1,
-  "generated_at": "2026-11-26T05:11:12.486193+00:00",
+  "generated_at": "2026-11-27T05:10:54.497083+00:00",
   "repository": "Mozilla-Data-Collective/dataset-schema-registry",
   "raw_base_url": "https://raw.githubusercontent.com/Mozilla-Data-Collective/dataset-schema-registry/main/registry",
   "counts": {
@@ -7088,10 +7088,10 @@
       "id": "cmsnteixi00gfmf07til46ayk",
       "has_schema": false,
       "listed": true,
-      "name": "🚧 Noakhali 10 Hours TTS (Male Speaker) 🚧",
-      "slug": "noakhali-10-hours-tts-male-speaker-425bd8b6",
+      "name": "Noakhali 10 Hours TTS (Male Speaker)",
+      "slug": "noakhali-10-hours-tts-male-speaker-f1da0892",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmsnteixi00gfmf07til46ayk",
-      "lastmod": "2026-08-31T14:11:41.658Z",
+      "lastmod": "2026-11-26T15:45:36.714Z",
       "schema_path": null,
       "schema_url": null
     },
@@ -12820,9 +12820,9 @@
       "has_schema": false,
       "listed": true,
       "name": "🚧 Tagalog Voice Notes ASR Dataset (45 hours) 🚧",
-      "slug": "tagalog-voice-notes-asr-dataset-45-hours-ccdb5cf8",
+      "slug": "tagalog-voice-notes-asr-dataset-45-hours-af5dbf62",
       "dataset_url": "https://mozilladatacollective.com/datasets/cmuh4ozy804olny07mu2h0kjm",
-      "lastmod": "2026-09-25T15:41:29.984Z",
+      "lastmod": "2026-11-26T13:08:44.719Z",
       "schema_path": null,
       "schema_url": null
     },
