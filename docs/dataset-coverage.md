@@ -12,10 +12,10 @@ data programmatically.
     `registry/<dataset_id>/schema.yaml` file.  See the
     [Home](index.md) for details.
 
-**Last updated:** 2026-11-27  
-**Total datasets in sitemap:** 1251  
+**Last updated:** 2026-11-28  
+**Total datasets in sitemap:** 1266  
 **Schemas registered:** 419 ✅  
-**Schemas missing:** 832 ❌  
+**Schemas missing:** 847 ❌  
 
 | ID | Name | Slug | Dataset page | Schema registered |
 |----|------|------|-------------|:-----------------:|
@@ -114,7 +114,7 @@ data programmatically.
 | `cmkfm9fbl00nto0070sdcrak2` | Effect AI Scripted Speech 1.0 - English | `effect-ai-scripted-speech-1-0-english-6feecf00` | [link](https://mozilladatacollective.com/datasets/cmkfm9fbl00nto0070sdcrak2) | ✅ |
 | `cmkh2stj6004mmj0751rn8vq6` | DDD Luhya ASR Speech Dataset (70 hours), Research | `ddd-luhya-asr-speech-dataset-70-hours-re-0e24399b` | [link](https://mozilladatacollective.com/datasets/cmkh2stj6004mmj0751rn8vq6) | ❌ |
 | `cmkh3nwms0052nv07997y38zx` | RFE/RL Tatar-Bashkir News Text Corpus | `rfe-rl-tatar-bashkir-news-text-corpus-81671cd4` | [link](https://mozilladatacollective.com/datasets/cmkh3nwms0052nv07997y38zx) | ❌ |
-| `cmkh3vrob005pmj07vgm55iha` | HESEIA Sentence Bias Dataset | `heseia-sentence-bias-dataset-9caa8462` | [link](https://mozilladatacollective.com/datasets/cmkh3vrob005pmj07vgm55iha) | ❌ |
+| `cmkh3vrob005pmj07vgm55iha` | HESEIA Sentence Bias Dataset | `heseia-sentence-bias-dataset-f1b7fc08` | [link](https://mozilladatacollective.com/datasets/cmkh3vrob005pmj07vgm55iha) | ❌ |
 | `cmkh9rso90076nv076jwxgjv3` | English–Punjabi (Shahmukhi) Parallel Sentences Corpus (Mediamen Archives) | `english-punjabi-shahmukhi-parallel-sente-b370d74f` | [link](https://mozilladatacollective.com/datasets/cmkh9rso90076nv076jwxgjv3) | ❌ |
 | `cmklbq9qt006mnw077t9lqh89` | Compar:IA conversations | `compar-ia-conversations-3810993e` | [link](https://mozilladatacollective.com/datasets/cmklbq9qt006mnw077t9lqh89) | ❌ |
 | `cmkmn6o6e0165mg07s9h542vt` | Ficha de Documentación de Datos: Resoluciones InfoNL (Ponencia F. Guajardo) | `ficha-de-documentaci-n-de-datos-resoluci-ff4a3e4c` | [link](https://mozilladatacollective.com/datasets/cmkmn6o6e0165mg07s9h542vt) | ❌ |
@@ -1264,12 +1264,27 @@ data programmatically.
 | `cmwcnal1l003e07mhthshq1if` | OpenSLR 41 — Large Javanese TTS speech corpus (training subset used by UHM, Lost In Transcription IN-JV) | `openslr-41-large-javanese-tts-speech-cor-2ea80a39` | [link](https://mozilladatacollective.com/datasets/cmwcnal1l003e07mhthshq1if) | ❌ |
 | `cmwjfpeca009f07ntumc5o2m5` | Errington "Javanese conversations 1" (PARADISEC JJE1): audio segments and time-aligned transcripts used by UHM, Lost In Transcription IN-JV | `errington-javanese-conversations-1-parad-303ccbe9` | [link](https://mozilladatacollective.com/datasets/cmwjfpeca009f07ntumc5o2m5) | ❌ |
 | `cmwjngba400cu07ml5wd0kfwe` | 🚧 Indonesian Accented Read Speech Corpus 🚧 | `indonesian-accented-read-speech-corpus-0a8f32cc` | [link](https://mozilladatacollective.com/datasets/cmwjngba400cu07ml5wd0kfwe) | ❌ |
-| `cmwnnj36s018y07mkgg76s92x` | Rangpuri 10 Hours TTS (Male Speaker) | `rangpuri-10-hours-tts-male-speaker-31fa2f27` | [link](https://mozilladatacollective.com/datasets/cmwnnj36s018y07mkgg76s92x) | ❌ |
-| `cmwnnjt57015p07kyegvh1ikb` | Sylheti 10 Hours TTS (Male Speaker) | `sylheti-10-hours-tts-male-speaker-19a4139c` | [link](https://mozilladatacollective.com/datasets/cmwnnjt57015p07kyegvh1ikb) | ❌ |
+| `cmwnnj36s018y07mkgg76s92x` | 🚧 Rangpuri 10 Hours TTS (Male Speaker) 🚧 | `rangpuri-10-hours-tts-male-speaker-5620d339` | [link](https://mozilladatacollective.com/datasets/cmwnnj36s018y07mkgg76s92x) | ❌ |
+| `cmwnnjt57015p07kyegvh1ikb` | 🚧 Sylheti 10 Hours TTS (Male Speaker) 🚧 | `sylheti-10-hours-tts-male-speaker-c25b0a18` | [link](https://mozilladatacollective.com/datasets/cmwnnjt57015p07kyegvh1ikb) | ❌ |
 | `cmwp6zxwy00t407mce4vzq0qf` | 🚧 Saraiki Corpus for Speech Recognition 🚧 | `saraiki-corpus-for-speech-recognition-8ea0b6dc` | [link](https://mozilladatacollective.com/datasets/cmwp6zxwy00t407mce4vzq0qf) | ❌ |
 | `cmwp90a8200ub07mcxdh4u7zy` | 🚧 Western Punjabi Corpus for Speech Recognition 🚧 | `western-punjabi-corpus-for-speech-recogn-68d564d8` | [link](https://mozilladatacollective.com/datasets/cmwp90a8200ub07mcxdh4u7zy) | ❌ |
 | `cmwv1a3a000hj06nu7lmxjw13` | 🚧 Spanish Micro-learnings by International Experts (Audio Podcast) 🚧 | `spanish-micro-learnings-by-international-144dcfa6` | [link](https://mozilladatacollective.com/datasets/cmwv1a3a000hj06nu7lmxjw13) | ❌ |
 | `cmww24e76004107nru03qzipw` | CurateLM public code sample | `curatelm-public-code-sample-3cb80285` | [link](https://mozilladatacollective.com/datasets/cmww24e76004107nru03qzipw) | ❌ |
+| `cmwyyzif100ti07lbwkiz11xt` | 🚧 Saraiki Read-Speech TTS — Studio Clean single voice (Speaker-08) (9.2 h, 1 voice) 🚧 | `saraiki-read-speech-tts-studio-clean-sin-3866f0f9` | [link](https://mozilladatacollective.com/datasets/cmwyyzif100ti07lbwkiz11xt) | ❌ |
+| `cmwyz14um00tn07lb6oz2pkxg` | 🚧 Saraiki Read-Speech TTS — Studio Clean single voice (Speaker-06) (15.2 h, 1 voice) 🚧 | `saraiki-read-speech-tts-studio-clean-sin-87eafeaf` | [link](https://mozilladatacollective.com/datasets/cmwyz14um00tn07lb6oz2pkxg) | ❌ |
+| `cmwyz1qk000tp07lb99szt5te` | 🚧 Saraiki Read-Speech TTS — Full corpus (170.3 h, 8 voices) 🚧 | `saraiki-read-speech-tts-full-corpus-170-7ebd2d6c` | [link](https://mozilladatacollective.com/datasets/cmwyz1qk000tp07lb99szt5te) | ❌ |
+| `cmwyz27bc00sr07nxp46xd7ph` | 🚧 Saraiki Read-Speech TTS — Evaluation set (9.6 h, 8 voices) 🚧 | `saraiki-read-speech-tts-evaluation-set-9-353e6319` | [link](https://mozilladatacollective.com/datasets/cmwyz27bc00sr07nxp46xd7ph) | ❌ |
+| `cmwyz2un200tr07lb97ns8m3h` | 🚧 Saraiki Read-Speech TTS — Balanced voices (74.9 h, 5 voices) 🚧 | `saraiki-read-speech-tts-balanced-voices-7ed4d77d` | [link](https://mozilladatacollective.com/datasets/cmwyz2un200tr07lb97ns8m3h) | ❌ |
+| `cmwyz2z2m00st07nx212o0gwd` | 🚧 Saraiki Read-Speech TTS — Premium (50.0 h, 6 voices) 🚧 | `saraiki-read-speech-tts-premium-50-0-h-6-70091836` | [link](https://mozilladatacollective.com/datasets/cmwyz2z2m00st07nx212o0gwd) | ❌ |
+| `cmwyz33g000sv07nxr1x95ta6` | 🚧 Saraiki Read-Speech TTS — Narration (31.5 h, 6 voices) 🚧 | `saraiki-read-speech-tts-narration-31-5-h-06c04e0b` | [link](https://mozilladatacollective.com/datasets/cmwyz33g000sv07nxr1x95ta6) | ❌ |
+| `cmwyz38fs00tt07lbppx6igiy` | 🚧 Saraiki Read-Speech TTS — Studio Clean (31.0 h, 6 voices) 🚧 | `saraiki-read-speech-tts-studio-clean-31-f5536f2a` | [link](https://mozilladatacollective.com/datasets/cmwyz38fs00tt07lbppx6igiy) | ❌ |
+| `cmwyz3dc800tv07lbpvf38x4p` | 🚧 Saraiki Read-Speech TTS — Single voice (Speaker-07) (15.5 h, 1 voice) 🚧 | `saraiki-read-speech-tts-single-voice-spe-c163c5ec` | [link](https://mozilladatacollective.com/datasets/cmwyz3dc800tv07lbpvf38x4p) | ❌ |
+| `cmwyz3hy300tx07lb5hg5kv6t` | 🚧 Saraiki Read-Speech TTS — Single voice (Speaker-01) (16.9 h, 1 voice) 🚧 | `saraiki-read-speech-tts-single-voice-spe-c7420b67` | [link](https://mozilladatacollective.com/datasets/cmwyz3hy300tx07lb5hg5kv6t) | ❌ |
+| `cmwyz3lor00sx07nx6kyejm8a` | 🚧 Saraiki Read-Speech TTS — Single voice (Speaker-06) (18.5 h, 1 voice) 🚧 | `saraiki-read-speech-tts-single-voice-spe-cc4f5db9` | [link](https://mozilladatacollective.com/datasets/cmwyz3lor00sx07nx6kyejm8a) | ❌ |
+| `cmwyz3pok00tz07lbrz4vpwb4` | 🚧 Saraiki Read-Speech TTS — Single voice (Speaker-02) (19.2 h, 1 voice) 🚧 | `saraiki-read-speech-tts-single-voice-spe-5c49b31e` | [link](https://mozilladatacollective.com/datasets/cmwyz3pok00tz07lbrz4vpwb4) | ❌ |
+| `cmwyz3u5600sz07nxtoqfo7p2` | 🚧 Saraiki Read-Speech TTS — Single voice (Speaker-08) (23.1 h, 1 voice) 🚧 | `saraiki-read-speech-tts-single-voice-spe-7adb3612` | [link](https://mozilladatacollective.com/datasets/cmwyz3u5600sz07nxtoqfo7p2) | ❌ |
+| `cmwyz3y3d00u107lbz9xtctxv` | 🚧 Saraiki Read-Speech TTS — Starter (7.8 h, 2 voices) 🚧 | `saraiki-read-speech-tts-starter-7-8-h-2-9e1cd97e` | [link](https://mozilladatacollective.com/datasets/cmwyz3y3d00u107lbz9xtctxv) | ❌ |
+| `cmwyz42fz00t107nxvxmcjf35` | 🚧 Saraiki Read-Speech TTS — Dialect-balanced (29.9 h, 6 voices) 🚧 | `saraiki-read-speech-tts-dialect-balanced-f0aaacde` | [link](https://mozilladatacollective.com/datasets/cmwyz42fz00t107nxvxmcjf35) | ❌ |
 
 ## Schemas without a platform dataset
 
