@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T06:07:08.036815+00:00",
-  "total": 1251,
+  "updated_at": "2026-11-28T05:10:06.218860+00:00",
+  "total": 1266,
   "datasets": [
     {
       "id": "cmfzu8u8wa555eq8onrk334h4",
@@ -670,9 +670,9 @@
     {
       "id": "cmkh3vrob005pmj07vgm55iha",
       "url": "https://mozilladatacollective.com/datasets/cmkh3vrob005pmj07vgm55iha",
-      "lastmod": "2026-01-16T16:41:42.876Z",
+      "lastmod": "2026-11-27T15:25:58.444Z",
       "name": "HESEIA Sentence Bias Dataset",
-      "slug": "heseia-sentence-bias-dataset-9caa8462"
+      "slug": "heseia-sentence-bias-dataset-f1b7fc08"
     },
     {
       "id": "cmkh9rso90076nv076jwxgjv3",
@@ -8720,16 +8720,16 @@
     {
       "id": "cmwnnj36s018y07mkgg76s92x",
       "url": "https://mozilladatacollective.com/datasets/cmwnnj36s018y07mkgg76s92x",
-      "lastmod": "2026-11-19T14:34:48.676Z",
-      "name": "Rangpuri 10 Hours TTS (Male Speaker)",
-      "slug": "rangpuri-10-hours-tts-male-speaker-31fa2f27"
+      "lastmod": "2026-11-27T12:47:20.243Z",
+      "name": "🚧 Rangpuri 10 Hours TTS (Male Speaker) 🚧",
+      "slug": "rangpuri-10-hours-tts-male-speaker-5620d339"
     },
     {
       "id": "cmwnnjt57015p07kyegvh1ikb",
       "url": "https://mozilladatacollective.com/datasets/cmwnnjt57015p07kyegvh1ikb",
-      "lastmod": "2026-11-19T14:35:22.315Z",
-      "name": "Sylheti 10 Hours TTS (Male Speaker)",
-      "slug": "sylheti-10-hours-tts-male-speaker-19a4139c"
+      "lastmod": "2026-11-27T12:47:10.270Z",
+      "name": "🚧 Sylheti 10 Hours TTS (Male Speaker) 🚧",
+      "slug": "sylheti-10-hours-tts-male-speaker-c25b0a18"
     },
     {
       "id": "cmwp6zxwy00t407mce4vzq0qf",
@@ -8758,6 +8758,111 @@
       "lastmod": "2026-11-25T11:45:26.754Z",
       "name": "CurateLM public code sample",
       "slug": "curatelm-public-code-sample-3cb80285"
+    },
+    {
+      "id": "cmwyyzif100ti07lbwkiz11xt",
+      "url": "https://mozilladatacollective.com/datasets/cmwyyzif100ti07lbwkiz11xt",
+      "lastmod": "2026-11-27T12:46:59.271Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Studio Clean single voice (Speaker-08) (9.2 h, 1 voice) 🚧",
+      "slug": "saraiki-read-speech-tts-studio-clean-sin-3866f0f9"
+    },
+    {
+      "id": "cmwyz14um00tn07lb6oz2pkxg",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz14um00tn07lb6oz2pkxg",
+      "lastmod": "2026-11-27T12:46:48.338Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Studio Clean single voice (Speaker-06) (15.2 h, 1 voice) 🚧",
+      "slug": "saraiki-read-speech-tts-studio-clean-sin-87eafeaf"
+    },
+    {
+      "id": "cmwyz1qk000tp07lb99szt5te",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz1qk000tp07lb99szt5te",
+      "lastmod": "2026-11-27T12:46:38.038Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Full corpus (170.3 h, 8 voices) 🚧",
+      "slug": "saraiki-read-speech-tts-full-corpus-170-7ebd2d6c"
+    },
+    {
+      "id": "cmwyz27bc00sr07nxp46xd7ph",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz27bc00sr07nxp46xd7ph",
+      "lastmod": "2026-11-27T12:46:28.013Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Evaluation set (9.6 h, 8 voices) 🚧",
+      "slug": "saraiki-read-speech-tts-evaluation-set-9-353e6319"
+    },
+    {
+      "id": "cmwyz2un200tr07lb97ns8m3h",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz2un200tr07lb97ns8m3h",
+      "lastmod": "2026-11-27T12:46:17.157Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Balanced voices (74.9 h, 5 voices) 🚧",
+      "slug": "saraiki-read-speech-tts-balanced-voices-7ed4d77d"
+    },
+    {
+      "id": "cmwyz2z2m00st07nx212o0gwd",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz2z2m00st07nx212o0gwd",
+      "lastmod": "2026-11-27T12:46:06.983Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Premium (50.0 h, 6 voices) 🚧",
+      "slug": "saraiki-read-speech-tts-premium-50-0-h-6-70091836"
+    },
+    {
+      "id": "cmwyz33g000sv07nxr1x95ta6",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz33g000sv07nxr1x95ta6",
+      "lastmod": "2026-11-27T12:45:55.393Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Narration (31.5 h, 6 voices) 🚧",
+      "slug": "saraiki-read-speech-tts-narration-31-5-h-06c04e0b"
+    },
+    {
+      "id": "cmwyz38fs00tt07lbppx6igiy",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz38fs00tt07lbppx6igiy",
+      "lastmod": "2026-11-27T12:44:32.440Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Studio Clean (31.0 h, 6 voices) 🚧",
+      "slug": "saraiki-read-speech-tts-studio-clean-31-f5536f2a"
+    },
+    {
+      "id": "cmwyz3dc800tv07lbpvf38x4p",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz3dc800tv07lbpvf38x4p",
+      "lastmod": "2026-11-27T12:45:45.920Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Single voice (Speaker-07) (15.5 h, 1 voice) 🚧",
+      "slug": "saraiki-read-speech-tts-single-voice-spe-c163c5ec"
+    },
+    {
+      "id": "cmwyz3hy300tx07lb5hg5kv6t",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz3hy300tx07lb5hg5kv6t",
+      "lastmod": "2026-11-27T12:45:35.183Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Single voice (Speaker-01) (16.9 h, 1 voice) 🚧",
+      "slug": "saraiki-read-speech-tts-single-voice-spe-c7420b67"
+    },
+    {
+      "id": "cmwyz3lor00sx07nx6kyejm8a",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz3lor00sx07nx6kyejm8a",
+      "lastmod": "2026-11-27T12:45:25.353Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Single voice (Speaker-06) (18.5 h, 1 voice) 🚧",
+      "slug": "saraiki-read-speech-tts-single-voice-spe-cc4f5db9"
+    },
+    {
+      "id": "cmwyz3pok00tz07lbrz4vpwb4",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz3pok00tz07lbrz4vpwb4",
+      "lastmod": "2026-11-27T12:45:13.088Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Single voice (Speaker-02) (19.2 h, 1 voice) 🚧",
+      "slug": "saraiki-read-speech-tts-single-voice-spe-5c49b31e"
+    },
+    {
+      "id": "cmwyz3u5600sz07nxtoqfo7p2",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz3u5600sz07nxtoqfo7p2",
+      "lastmod": "2026-11-27T12:45:03.382Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Single voice (Speaker-08) (23.1 h, 1 voice) 🚧",
+      "slug": "saraiki-read-speech-tts-single-voice-spe-7adb3612"
+    },
+    {
+      "id": "cmwyz3y3d00u107lbz9xtctxv",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz3y3d00u107lbz9xtctxv",
+      "lastmod": "2026-11-27T12:44:53.424Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Starter (7.8 h, 2 voices) 🚧",
+      "slug": "saraiki-read-speech-tts-starter-7-8-h-2-9e1cd97e"
+    },
+    {
+      "id": "cmwyz42fz00t107nxvxmcjf35",
+      "url": "https://mozilladatacollective.com/datasets/cmwyz42fz00t107nxvxmcjf35",
+      "lastmod": "2026-11-27T12:44:43.446Z",
+      "name": "🚧 Saraiki Read-Speech TTS — Dialect-balanced (29.9 h, 6 voices) 🚧",
+      "slug": "saraiki-read-speech-tts-dialect-balanced-f0aaacde"
     }
   ]
 }
